@@ -108,7 +108,7 @@ This work is licensed under the [Creative Commons Attribution 4.0 International 
 
 If you use this material in your research, please cite:
 
-> Unity of Ultrametric Physics: A Self-Contained Development from First Principles. (2026). GitHub repository. https://github.com/unity-of-ultrametric-physics/unity-of-ultrametric-physics
+> Unity of Ultrametric Physics: A Self-Contained Development from First Principles. (2026). GitHub repository. https://github.com/rwnq8/unity-of-ultrametric-physics
 
 ---
 
