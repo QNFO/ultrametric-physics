@@ -1,115 +1,63 @@
-# Unity of Ultrametric Physics
+﻿# Ultrametricity
 
-> **A Unified Framework for Fundamental Physics Grounded in Hierarchical Geometry**
+**A Self-Contained Theory of p-Adic Physics, Quantum Computation, and Spacetime — Developed from First Principles**
 
----
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-live-brightgreen)](https://rwnq8.github.io/unity-of-ultrametric-physics/)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19929764.svg)](https://doi.org/10.5281/zenodo.19929764)
 
-**Status:** Active research program · **18 falsifiable predictions** · **5 experimental domains** · **Self-contained from first principles**
+## Overview
 
----
+This repository contains a complete, self-contained development of ultrametric physics — a unified framework grounded in p-adic geometry and Bruhat-Tits trees. It covers quantum computation, quantum gravity, the Standard Model, and measurement theory, and culminates in concrete computational architectures and 18 falsifiable experimental protocols.
 
-## What Is This?
-
-This repository contains a complete, self-contained development of a unified framework for fundamental physics. It proposes that the deepest structure of physical reality is not continuous and smooth — as centuries of physics have assumed — but **hierarchical and tree-like**. The geometry that describes this structure is called **ultrametric geometry**, and its mathematical language is the **p-adic numbers**.
-
-Every concept is defined in place. No prior knowledge of advanced mathematics or theoretical physics is assumed. The document builds from the bare notion of a set through to the field equations governing all known forces, and culminates in eighteen concrete, falsifiable experimental predictions.
-
----
-
-## Why Does This Exist?
-
-Modern physics faces several deep problems that have resisted resolution for decades:
-
-- **The hierarchy problem:** Why is gravity 10³² times weaker than the weak force? Standard quantum field theory has no natural explanation.
-- **The cosmological constant problem:** Why is the vacuum energy 10¹²³ times smaller than quantum field theory predicts?
-- **The non-renormalizability of gravity:** Why does quantum gravity produce infinite, meaningless answers?
-- **The strong CP problem:** Why is a particular CP-violating parameter in QCD zero to one part in ten billion?
-- **Dark matter and dark energy:** What are they? The Standard Model provides no candidates.
-
-This framework proposes that all of these problems share a common origin: **physics has been built on the wrong geometry**. By replacing continuous (Archimedean) geometry with hierarchical (ultrametric) geometry, each of these problems finds a natural resolution — not through fine-tuning or added assumptions, but through the basic combinatorial structure of trees.
-
----
-
-## What's Inside
-
-The repository is organized into seven parts:
-
-| Part | Contents | Description |
-|---|---|---|
-| **I** | Chapters 1–5 | Mathematical foundations: sets, numbers, metrics, ultrametric inequality, p-adic absolute value |
-| **II** | Chapters 6–8 | The p-adic universe: the field ℚ_p, analysis on ℚ_p, the adele ring |
-| **III** | Chapters 9–11c | Physics on ultrametric spaces: quantum mechanics, quantum field theory, adelic unification, string theory, inflation |
-| **IV** | Chapters 12–14d | The Unity architecture: spacetime as a tree, black holes, holography, quantum measurement, Standard Model, Higgs, strong CP, supersymmetry, Unity equations, quantum gravity, cosmological constant, grand unification |
-| **V** | Chapters 15–16 | Implementations: computational architecture, quantum error correction, physical architectures |
-| **VI** | Chapters 17–19b | Experimental protocols: high-energy physics, anomalies, dark matter, future colliders, cosmology, baryon asymmetry, reheating, tabletop experiments, global likelihood |
-| **VII** | Appendices A–G | Full proofs, reference tables, comparison with other programs, glossary, Langlands connection, objections, roadmap |
-
-### Supporting Files
-
-- **`src/`** — Ten working Python modules implementing the framework's computational predictions
-- **`appendices/`** — Detailed proofs, reference tables, glossary, and comparative analysis
-- **`assets/`** — Diagrams, infographics, and visual materials
-
----
-
-## How to Read This
-
-There are three paths through this material, depending on your goals:
-
-### 🚀 I Just Want to Understand the Big Idea
-
-Read the **Prologue** (`chapters/00-prologue.md`) and the **Epilogue**. These give you the core thesis, the evidence, and the bet in about 20 minutes.
-
-### 📚 I Want the Full Theory
-
-Read the chapters in order, starting from **Chapter 1** (`chapters/01-sets-relations-operations.md`). Each chapter builds on the previous ones. The mathematical machinery is constructed as needed — you will not encounter undefined concepts. Expect to spend several hours, but you will emerge with a complete understanding of ultrametric physics.
-
-### 🔬 I Want to Test This
-
-Jump to **Part VI** (`chapters/17-high-energy-physics.md` through `chapters/19b-global-likelihood.md`). These chapters contain eighteen specific experimental protocols with quantitative predictions, required facilities, and current status. The Python code in `src/` provides computational tools for analyzing data against these predictions.
-
----
+**Requires no prior mathematical knowledge.** Chapter 1 begins with the definition of a set. By the end, you will understand how to build an intrinsically fault-tolerant quantum computer.
 
 ## Quick Start
 
-```bash
-# Clone the repository
-git clone https://github.com/unity-of-ultrametric-physics/unity-of-ultrametric-physics.git
+- **Read online:** [rwnq8.github.io/unity-of-ultrametric-physics](https://rwnq8.github.io/unity-of-ultrametric-physics/)
+- **Start with the Prologue:** [Chapters → Prologue](chapters/00-prologue.md)
+- **Jump to Quantum Computation:** [Chapter 13](chapters/13-quantum-computation.md)
+- **Jump to Experiments:** [Chapter 16](chapters/16-experimental-protocols.md)
 
-# Start reading
-open chapters/00-prologue.md
+## Structure
 
-# Run the simulations
-cd src
-python muon_g_minus_2.py        # Calculate the muon g-2 prediction
-python collider_predictor.py     # Predict LHC cross-section steps
-python dark_matter.py            # Compute DM direct detection cross-sections
-```
+| Part | Chapters | Content |
+|---|---|---|
+| I: Mathematical Foundations | 1–5 | Sets, metrics, ultrametric inequality, p-adic numbers, Bruhat-Tits trees |
+| II: Ultrametric Physics | 6–8 | Ultrametric QM, QFT, Adelic Theory |
+| III: Unity Architecture | 9–12 | Spacetime as a tree, Standard Model, Unity equations, Quantum gravity |
+| IV: Implementations | 13–15 | Quantum computation, Computational architecture, Physical architectures |
+| V: Experimental Protocols | 16–18 | HEP, Cosmology, Tabletop experiments |
+| Appendices | A–G | Full proofs, Reference tables, Comparisons, Glossary, Langlands, Objections, Roadmap |
 
----
+## Key Results
 
-## The Ultrametric Wager
+- **Geometric fault tolerance:** Errors cannot accumulate in ultrametric spaces — passive protection replaces active correction
+- **Adelic unification:** All completions of ℚ unified in a single framework; the product formula enforces information conservation
+- **Natural UV finiteness:** Tree depth provides a geometric cutoff — no renormalization needed
+- **Hierarchy problem resolution:** The EW-Planck disparity is a combinatorial consequence of tree depth
+- **18 falsifiable predictions:** CMB log-periodic oscillations, muon g-2 correction, W-mass shift, lepton universality pattern, dark matter cross-sections, and more
 
-**Nature is hierarchical at its root. Continuous spacetime is emergent. The true geometry of the real is ultrametric.**
+## Author
 
-If this is correct, eighteen specific experimental signatures will appear in data from the LHC, CMB-S4, XENONnT, LISA, Hyper-Kamiokande, ADMX, and other experiments over the next two decades. If none appear, the framework is falsified.
-
-That is the bet. The experiments will decide.
-
----
-
-## License
-
-This work is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). You are free to share, adapt, and build upon this material for any purpose, provided you give appropriate credit.
-
----
+**Rowan Brad Quni-Gudzinas**  
+[ORCID: 0009-0002-4317-5604](https://orcid.org/0009-0002-4317-5604)  
+[ISNI: 0000000526456062](https://isni.org/isni/0000000526456062)  
+[rowan.quni@outlook.com](mailto:rowan.quni@outlook.com)
 
 ## Citation
 
-If you use this material in your research, please cite:
+```bibtex
+@misc{quni2026ultrametricity,
+  title={Ultrametricity: A Self-Contained Theory of p-Adic Physics, 
+         Quantum Computation, and Spacetime},
+  author={Quni-Gudzinas, Rowan Brad},
+  year={2026},
+  doi={10.5281/zenodo.19929764},
+  url={https://rwnq8.github.io/unity-of-ultrametric-physics/}
+}
+```
 
-> Unity of Ultrametric Physics: A Self-Contained Development from First Principles. (2026). GitHub repository. https://github.com/rwnq8/unity-of-ultrametric-physics
+## License
 
----
-
-*"The strongest inequality is the one that governs the deepest structure."*
+This work is licensed under [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/).
