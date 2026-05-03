@@ -280,7 +280,7 @@
     Object.keys(glossary).forEach(function(term){
       var lower=term.toLowerCase();
       document.querySelectorAll('#main-content p,#main-content li,#main-content td').forEach(function(el){
-        if(el.querySelector('.glossary-term'))return;
+        if(el.querySelector('.glossary-term, mjx-container'))return;
         var html=el.innerHTML;
         var idx=html.toLowerCase().indexOf(lower);
         if(idx!==-1&&!html.substring(Math.max(0,idx-1),idx).match(/[a-z]/i)){
