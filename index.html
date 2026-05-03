@@ -1,0 +1,312 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>The Ultrametric Paradigm — How the Choice of Geometry Determines Everything</title>
+  <meta name="description" content="A single choice — how we measure distance — determines the entire architecture of a physical theory. The ultrametric choice produces a hierarchical tree geometry unifying prime distribution, quantum measurement, fault tolerance, and the emergence of spacetime.">
+  <meta name="author" content="Rowan Brad Quni-Gudzinas">
+  <meta name="keywords" content="ultrametric, p-adic, Bruhat-Tits tree, Monna projection, adele ring, quantum mechanics, prime distribution, fault tolerance, holographic principle">
+
+  <!-- Open Graph -->
+  <meta property="og:title" content="The Ultrametric Paradigm">
+  <meta property="og:description" content="How the Choice of Geometry Determines Everything">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://rwnq8.github.io/ultrametric-paradigm">
+  <meta property="og:site_name" content="The Ultrametric Paradigm">
+
+  <!-- Styles -->
+  <link rel="stylesheet" href="assets/css/style.css">
+
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+
+  <!-- Favicon -->
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🌳</text></svg>">
+
+  <!-- Marked.js for Markdown rendering -->
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+
+  <!-- MathJax for LaTeX rendering -->
+  <script>
+    MathJax = {
+      tex: {
+        inlineMath: [['$', '$'], ['\\(', '\\)']],
+        displayMath: [['$$', '$$'], ['\\[', '\\]']],
+        processEscapes: true,
+        tags: 'none'
+      },
+      options: {
+        ignoreHtmlClass: 'no-mathjax',
+        processHtmlClass: 'mathjax-process'
+      }
+    };
+  </script>
+  <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+</head>
+<body>
+
+  <!-- Progress Bar -->
+  <div class="progress-bar" style="width: 0%"></div>
+
+  <!-- Top Bar (mobile) -->
+  <div class="top-bar">
+    <button class="menu-toggle" aria-label="Toggle menu">☰</button>
+    <span class="top-title">The Ultrametric Paradigm</span>
+    <button class="theme-toggle-mobile" aria-label="Toggle theme">🌙</button>
+  </div>
+
+  <!-- Sidebar Overlay (mobile) -->
+  <div class="sidebar-overlay"></div>
+
+  <!-- App Container -->
+  <div class="app-container">
+
+    <!-- Sidebar -->
+    <aside class="sidebar" id="sidebar">
+      <div class="sidebar-header">
+        <h2>🌳 Ultrametric<br>Paradigm</h2>
+        <span class="version-badge">v0.9</span>
+      </div>
+
+      <div class="sidebar-search">
+        <input type="text" placeholder="Search document... (Ctrl+K)" aria-label="Search document">
+      </div>
+
+      <nav class="sidebar-nav" id="sidebar-nav">
+        <div style="padding:1.25rem;color:rgba(255,255,255,0.4);font-size:0.85rem;">
+          Loading navigation…
+        </div>
+      </nav>
+
+      <div class="sidebar-footer">
+        <a href="https://github.com/rwnq8/ultrametric-paradigm" target="_blank" rel="noopener">GitHub ↗</a> &nbsp;·&nbsp;
+        <a href="mailto:rowan.quni@outlook.com">Contact</a>
+      </div>
+    </aside>
+
+    <!-- Main Content -->
+    <main class="main-content" id="main-content">
+
+      <!-- Hero (static) -->
+      <div class="hero" id="top">
+        <h1 class="hero-title" id="hero-title">The Ultrametric Paradigm</h1>
+        <p class="subtitle">How the Choice of Geometry Determines Everything</p>
+        <div class="hero-meta">
+          <span>✍️ Rowan Brad Quni-Gudzinas</span>
+          <span>📅 2026-05-03</span>
+          <span>📦 Version 0.9</span>
+        </div>
+        <div class="hero-cta">
+          <a href="#start-reading" class="btn-primary">📖 Start Reading</a>
+          <a href="#chapter-transition-network" class="btn-outline">🗺️ Chapter Map</a>
+          <a href="#quick-reference-card" class="btn-outline">⚡ Quick Reference</a>
+          <button class="btn-outline theme-toggle" aria-label="Toggle dark mode">🌙</button>
+        </div>
+      </div>
+
+      <!-- Content will be rendered here -->
+      <div id="content-area">
+        <div style="text-align:center;padding:3rem;color:var(--text-secondary);">
+          <p style="font-size:1.2rem;">🌳 Loading the Ultrametric Paradigm…</p>
+          <p style="font-size:0.9rem;margin-top:0.5rem;">Rendering document with MathJax…</p>
+        </div>
+      </div>
+
+      <!-- Footer -->
+      <footer class="site-footer">
+        <p>
+          <strong>The Ultrametric Paradigm</strong> — Version 0.9<br>
+          © 2026 Rowan Brad Quni-Gudzinas ·
+          <a href="https://orcid.org/0009-0002-4317-5604">ORCID</a> ·
+          <a href="https://github.com/rwnq8/ultrametric-paradigm">GitHub</a> ·
+          <a href="mailto:rowan.quni@outlook.com">Contact</a>
+        </p>
+        <p style="margin-top:0.5rem;opacity:0.6;">
+          "Reality is not built on the number line. It is built on a tree."
+        </p>
+      </footer>
+
+    </main>
+  </div>
+
+  <!-- Theme Toggle (fixed, desktop) -->
+  <button class="theme-toggle" aria-label="Toggle dark mode" style="position:fixed;bottom:1.5rem;right:1.5rem;">🌙</button>
+
+  <!-- Main JavaScript -->
+  <script src="assets/js/main.js"></script>
+
+  <!-- Content Loader: Fetch Markdown, strip frontmatter, render with marked.js -->
+  <script>
+  (function() {
+    const contentArea = document.getElementById('content-area');
+    const sidebarNav = document.getElementById('sidebar-nav');
+
+    // Configure marked.js
+    marked.setOptions({
+      gfm: true,
+      breaks: false,
+      headerIds: true,
+      mangle: false
+    });
+
+    // Custom renderer for better HTML output
+    const renderer = new marked.Renderer();
+
+    // Make chapter headings have IDs
+    renderer.heading = function(text, level, raw) {
+      const id = raw.toLowerCase()
+        .replace(/[^a-z0-9\s-]/g, '')
+        .replace(/\s+/g, '-')
+        .replace(/-+/g, '-')
+        .replace(/^-|-$/g, '');
+      return `<h${level} id="${id}">${text}</h${level}>`;
+    };
+
+    // Make blockquotes with bold first line into callout boxes
+    renderer.blockquote = function(quote) {
+      // Check if it starts with a strong tag (callout style)
+      if (quote.trim().startsWith('<strong>')) {
+        const match = quote.match(/<strong>(.*?)<\/strong>(.*)/s);
+        if (match) {
+          return `<div class="callout">
+            <div class="callout-title">${match[1]}</div>
+            <div>${match[2]}</div>
+          </div>`;
+        }
+      }
+      return `<blockquote>${quote}</blockquote>`;
+    };
+
+    // Render code blocks as diagrams when they look like ASCII art
+    renderer.code = function(code, language) {
+      // Check if this looks like a diagram (ASCII art with box-drawing chars)
+      const diagramChars = /[┌┐└┘├┤┬┴┼│─═╔╗╚╝║╠╣╦╩╬▶▼▲◀◆◇○●□■☆★↑↓→←↗↘↙↖]/;
+      if (!language && diagramChars.test(code) && code.split('\n').length > 3) {
+        return `<pre class="diagram"><code>${escapeHtmlPreserve(code)}</code></pre>`;
+      }
+      const langClass = language ? ` class="language-${language}"` : '';
+      return `<pre><code${langClass}>${escapeHtmlPreserve(code)}</code></pre>`;
+    };
+
+    // Process tables to add proper classes
+    renderer.table = function(header, body) {
+      return `<table><thead>${header}</thead><tbody>${body}</tbody></table>`;
+    };
+
+    marked.setOptions({ renderer });
+
+    // Fetch and render the content
+    fetch('0.9.md')
+      .then(response => {
+        if (!response.ok) throw new Error('Failed to load document');
+        return response.text();
+      })
+      .then(markdown => {
+        // Strip YAML frontmatter (between first two --- markers)
+        let content = markdown;
+        if (content.startsWith('---')) {
+          const secondDash = content.indexOf('---', 4);
+          if (secondDash !== -1) {
+            content = content.substring(secondDash + 4);
+          }
+        }
+
+        // Pre-process: wrap Key Takeaways in special divs
+        content = content.replace(
+          /> \*\*KEY TAKEAWAYS[—–-]+ (.*?)\*\*\s*\n([\s\S]*?)(?=\n\n---|\n\n#|\n\n##|\n*$)/gm,
+          function(match, part, items) {
+            return `<div class="key-takeaways"><h4>🔑 Key Takeaways — ${part.trim()}</h4>\n\n${items.trim()}\n</div>`;
+          }
+        );
+
+        // Pre-process: chapter abstracts (lines starting with "> **Abstract:**")
+        content = content.replace(
+          /> \*\*Abstract:\*\* (.*?)(\n|$)/gm,
+          '<div class="chapter-abstract">$1</div>'
+        );
+
+        // Convert markdown to HTML
+        let html = marked.parse(content);
+
+        // Post-process: handle the "start-reading" anchor
+        html = html.replace(
+          /<h2 id="part-i-the-measurement-choice">/,
+          '<span id="start-reading"></span><h2 id="part-i-the-measurement-choice">'
+        );
+
+        // Post-process: wrap each Part section for better structure
+        html = html.replace(
+          /<h2 id="part-(i[ivx]+)-/gi,
+          '<hr style="margin:3rem 0 1.5rem;border-color:var(--accent);opacity:0.3;"><h2 id="part-$1-'
+        );
+
+        // Insert into page
+        contentArea.innerHTML = html;
+
+        // Now that content is rendered, trigger MathJax
+        if (window.MathJax && MathJax.typesetPromise) {
+          MathJax.typesetPromise([contentArea]).then(() => {
+            console.log('✅ MathJax rendering complete');
+            // Rebuild navigation after MathJax finishes
+            if (typeof buildSidebar === 'function') {
+              setTimeout(buildSidebar, 200);
+            } else {
+              // Trigger the full init now that content is ready
+              document.dispatchEvent(new Event('content-ready'));
+            }
+          }).catch(err => console.warn('MathJax error:', err));
+        } else {
+          // MathJax not loaded yet, wait and retry
+          const checkMathJax = setInterval(() => {
+            if (window.MathJax && MathJax.typesetPromise) {
+              clearInterval(checkMathJax);
+              MathJax.typesetPromise([contentArea]).then(() => {
+                document.dispatchEvent(new Event('content-ready'));
+              });
+            }
+          }, 200);
+          // Timeout after 10 seconds
+          setTimeout(() => clearInterval(checkMathJax), 10000);
+        }
+
+        // Update URL hash if present
+        if (window.location.hash) {
+          setTimeout(() => {
+            const target = document.querySelector(window.location.hash);
+            if (target) {
+              target.scrollIntoView({ behavior: 'smooth' });
+            }
+          }, 500);
+        }
+
+        console.log('🌳 Ultrametric Paradigm document rendered successfully');
+      })
+      .catch(error => {
+        console.error('Failed to load document:', error);
+        contentArea.innerHTML = `
+          <div style="text-align:center;padding:3rem;color:var(--text-secondary);">
+            <p style="font-size:1.2rem;">⚠️ Unable to load the document</p>
+            <p style="font-size:0.9rem;margin-top:0.5rem;">Please try refreshing the page. If the problem persists, the document may be unavailable.</p>
+            <p style="margin-top:1rem;">
+              <a href="0.9.md" style="color:var(--accent);">View raw Markdown →</a>
+            </p>
+          </div>
+        `;
+      });
+
+    // Helper: escape HTML but preserve certain characters
+    function escapeHtmlPreserve(str) {
+      return str
+        .replace(/&/g, '&amp;')
+        .replace(/</g, '&lt;')
+        .replace(/>/g, '&gt;')
+        .replace(/"/g, '&quot;');
+    }
+  })();
+  </script>
+
+</body>
+</html>
