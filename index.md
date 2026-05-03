@@ -1,4 +1,11 @@
 ---
+layout: default
+math: true
+search: true
+clipboard: true
+toc: true
+sidebar: true
+js: true
 title: THE ULTRAMETRIC PARADIGM
 subtitle: "How the Choice of Geometry Determines Everything"
 author: Rowan Brad Quni-Gudzinas
