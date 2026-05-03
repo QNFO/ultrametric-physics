@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title | default: site.title }}</title>
+  <meta name="description" content="{{ page.description | default: site.description }}">
+  <meta name="author" content="Rowan Brad Quni-Gudzinas">
+  <meta property="og:title" content="The Ultrametric Paradigm">
+  <meta property="og:description" content="How the Choice of Geometry Determines Everything">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="{{ site.url }}{{ site.baseurl }}">
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🌳</text></svg>">
+  <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:opsz,wght@14..32,400..700&family=JetBrains+Mono:ital,wght@0,400;0,500;1,400&display=swap" rel="stylesheet">
+  <script async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+  <script>
+    MathJax={tex:{inlineMath:[['$','$'],['\\(','\\)']],displayMath:[['$$','$$'],['\\[','\\]']],processEscapes:true},options:{ignoreHtmlClass:'no-mathjax',processHtmlClass:'mathjax-process'}};
+    document.documentElement.setAttribute('data-theme',localStorage.getItem('theme')||(matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light'));
+  </script>
+</head>
+<body>
+  <div class="progress-bar"></div>
+  <div class="top-bar"><button class="menu-toggle" aria-label="Menu">☰</button><span class="top-title">Ultrametric Paradigm</span><button class="theme-toggle-mobile" aria-label="Theme">🌙</button></div>
+  <div class="sidebar-overlay"></div>
+  <div class="app-container">
+    <aside class="sidebar" id="sidebar">
+      <div class="sidebar-header"><h2>🌳 Ultrametric<br>Paradigm</h2><span class="version-badge">v0.9</span></div>
+      <div class="sidebar-search"><input type="text" placeholder="Search… (Ctrl+K)" aria-label="Search"></div>
+      <nav class="sidebar-nav" id="sidebar-nav"></nav>
+      <div class="sidebar-footer">
+        <a href="{{ site.baseurl }}/0.9.md">Raw markdown</a> ·
+        <a href="https://github.com/rwnq8/ultrametric-paradigm">GitHub</a>
+      </div>
+    </aside>
+    <main class="main-content" id="main-content">
+      <div class="hero" id="top"><h1>The Ultrametric Paradigm</h1><p class="subtitle">How the Choice of Geometry Determines Everything</p><div class="hero-meta"><span>Rowan Brad Quni-Gudzinas</span><span>2026-05-03</span><span>v0.9</span></div><div class="hero-cta"><a href="#start-reading" class="btn-primary">Start Reading</a><a href="#chapter-transition-network" class="btn-outline">Chapter Map</a><a href="#quick-reference-card" class="btn-outline">Quick Reference</a><button class="btn-outline theme-toggle" aria-label="Theme">🌙</button></div></div>
+      <div id="content-area"><span id="start-reading"></span>{{ content }}</div>
+      <footer class="site-footer"><p><strong>The Ultrametric Paradigm</strong> — v0.9<br>© 2026 Rowan Brad Quni-Gudzinas · <a href="https://orcid.org/0009-0002-4317-5604">ORCID</a> · <a href="https://github.com/rwnq8/ultrametric-paradigm">GitHub</a> · <a href="mailto:rowan.quni@outlook.com">Contact</a></p><p style="opacity:0.6">"Reality is not built on the number line. It is built on a tree."</p></footer>
+    </main>
+  </div>
+  <button class="theme-toggle" aria-label="Toggle theme">🌙</button>
+  <script src="{{ site.baseurl }}/assets/js/main.js"></script>
+  <!-- page-boot: re-apply dark mode immediately -->
+  <script>
+    (function(){var t=document.documentElement.getAttribute('data-theme');document.querySelectorAll('.theme-toggle,.theme-toggle-mobile').forEach(function(b){b.textContent=t==='dark'?'☀️':'🌙'});})();
+  </script>
+</body>
+</html>

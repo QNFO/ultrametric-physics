@@ -1,0 +1,8 @@
+title: The Ultrametric Paradigm
+description: How the Choice of Geometry Determines Everything
+baseurl: "/ultrametric-paradigm"
+url: "https://rwnq8.github.io"
+markdown: kramdown
+kramdown:
+  input: GFM
+  math_engine: mathjax
