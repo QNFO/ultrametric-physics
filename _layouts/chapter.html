@@ -2,10 +2,6 @@
 layout: default
 ---
 
-{% if page.toc %}
-{% include toc.html %}
-{% endif %}
-
 <article class="chapter-content">
   <header class="hero">
     {% if page.chapter-number %}
@@ -27,6 +23,10 @@ layout: default
       {% endif %}
     </div>
   </header>
+  
+  {% if page.toc %}
+  {% include toc.html %}
+  {% endif %}
   
   {% if page.prev or page.next %}
   {% include chapter-nav.html position="top" %}

@@ -1,6 +1,7 @@
 ---
-layout: default
+layout: chapter
 title: "Ultrametric Quantum Computation"
+subtitle: "An MVP Program for Passive Geometric Fault Tolerance"
 description: "An MVP Program for Passive Geometric Fault Tolerance — a comprehensive case for hierarchical tree-structured quantum hardware."
 math: true
 search: true
@@ -10,11 +11,9 @@ sidebar: true
 js: true
 no-tracking: true
 og-image: /assets/img/og-image.png
+author: "Rowan Brad Quni-Gudzinas"
+date: 2026-05-04
 ---
-
-# ULTRAMETRIC QUANTUM COMPUTATION
-
-## An MVP Program for Passive Geometric Fault Tolerance
 
 > **Purpose:** Ultrametric quantum computation MVP program — a comprehensive case for passive geometric fault tolerance as the highest-leverage bet in quantum computing hardware.
 >

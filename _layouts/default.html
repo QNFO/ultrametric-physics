@@ -12,13 +12,13 @@
   <meta property="og:description" content="{{ page.description | default: site.description | escape }}">
   <meta property="og:type" content="article">
   <meta property="og:url" content="{{ site.url }}{{ site.baseurl }}{{ page.url | replace:'index.html','' }}">
-  <meta property="og:image" content="{{ page.og-image | default: site.url | append: site.baseurl | append: '/assets/img/og-image.png' }}">
+  <meta property="og:image" content="{% if page.og-image %}{{ site.url }}{{ site.baseurl }}{{ page.og-image }}{% else %}{{ site.url }}{{ site.baseurl }}/assets/img/og-image.png{% endif %}">
   
   <!-- Twitter Card -->
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="{{ page.title | default: site.title | escape }}">
   <meta name="twitter:description" content="{{ page.description | default: site.description | escape }}">
-  <meta name="twitter:image" content="{{ page.og-image | default: site.url | append: site.baseurl | append: '/assets/img/og-image.png' }}">
+  <meta name="twitter:image" content="{% if page.og-image %}{{ site.url }}{{ site.baseurl }}{{ page.og-image }}{% else %}{{ site.url }}{{ site.baseurl }}/assets/img/og-image.png{% endif %}">
   
   <!-- Structured Data -->
   <script type="application/ld+json">
@@ -43,7 +43,7 @@
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap">
   
   <!-- Site Stylesheet -->
-  <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/style.scss?v={{ site.time | date: '%s' }}">
+  <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/style.css?v={{ site.time | date: '%s' }}">
   
   {% if page.math %}
   <!-- MathJax Configuration -->
