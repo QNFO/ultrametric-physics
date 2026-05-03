@@ -1,106 +1,139 @@
 // ─── Theme: CSS Custom Properties ────────────────
 :root {
-  // Backgrounds
-  --color-bg: #ffffff;
-  --color-bg-secondary: #f8f9fa;
-  --color-bg-tertiary: #f0f2f5;
-  --color-sidebar-bg: #1a1d23;
-  --color-sidebar-text: #c4c9d4;
-  --color-sidebar-text-muted: #7c8291;
-  --color-sidebar-active: #ffffff;
-  --color-sidebar-hover: #2a2d35;
+  // Backgrounds — warm cream palette
+  --color-bg: #faf8f5;
+  --color-bg-raised: #ffffff;
+  --color-bg-subtle: #f5f1eb;
   
-  // Text
-  --color-text: #2c2f36;
-  --color-text-strong: #1a1d23;
-  --color-text-secondary: #5f6570;
-  --color-text-muted: #8b909c;
-  --color-heading: #1a1d23;
+  // Text — warm charcoal
+  --color-text: #2d2a26;
+  --color-text-strong: #1a1714;
+  --color-text-secondary: #6b6560;
+  --color-text-muted: #9c9590;
   
-  // Accent
-  --color-accent: #2563eb;
-  --color-accent-hover: #1d4ed8;
-  --color-accent-light: rgba(37,99,235,0.08);
-  --color-accent-glow: rgba(37,99,235,0.15);
+  // Headings
+  --color-heading: #1a1714;
+  
+  // Accent — rich amber/gold
+  --color-accent: #b8730a;
+  --color-accent-hover: #965e08;
+  --color-accent-light: rgba(184,115,10,0.08);
+  --color-accent-glow: rgba(184,115,10,0.18);
+  --color-accent-soft: #fdf6ed;
+  
+  // Secondary accent — deep teal
+  --color-teal: #0d9488;
+  --color-teal-light: rgba(13,148,136,0.08);
   
   // Code
-  --color-code-bg: #f5f6f8;
-  --color-code-text: #2c2f36;
+  --color-code-bg: #f5f1eb;
+  --color-code-text: #2d2a26;
   
   // Blockquote
-  --color-blockquote-bg: #f8f9fb;
+  --color-blockquote-bg: #fdf6ed;
+  --color-blockquote-border: #b8730a;
   
   // Borders
-  --color-border: #e2e5ea;
-  --color-border-light: #eef0f3;
+  --color-border: #e8e3dc;
+  --color-border-light: #f0ece6;
   
   // Tables
-  --color-table-header: #f8f9fb;
-  --color-table-stripe: #fafbfc;
-  --color-table-hover: #f0f3f7;
+  --color-table-header: #f5f1eb;
+  --color-table-stripe: #faf8f5;
+  --color-table-hover: #fdf6ed;
   
   // Callouts
-  --color-callout-info-bg: #eff6ff;
-  --color-callout-info-border: #93c5fd;
-  --color-callout-warning-bg: #fffbeb;
-  --color-callout-warning-border: #fcd34d;
+  --color-callout-info-bg: #f0f9f8;
+  --color-callout-info-border: #0d9488;
+  --color-callout-warning-bg: #fef9f0;
+  --color-callout-warning-border: #b8730a;
   
   // Overlay
-  --color-overlay: rgba(0,0,0,0.5);
+  --color-overlay: rgba(0,0,0,0.55);
   
   // Shadows
-  --shadow-card: 0 1px 3px rgba(0,0,0,0.08), 0 1px 2px rgba(0,0,0,0.06);
-  --shadow-elevated: 0 4px 16px rgba(0,0,0,0.1);
+  --shadow-sm: 0 1px 2px rgba(0,0,0,0.04);
+  --shadow-md: 0 4px 12px rgba(0,0,0,0.06);
+  --shadow-lg: 0 8px 30px rgba(0,0,0,0.08);
+  --shadow-xl: 0 20px 60px rgba(0,0,0,0.12);
   
-  // Hero
-  --color-hero-bg: linear-gradient(135deg, #0f172a 0%, #1e293b 50%, #0f172a 100%);
-  --color-hero-text: #f1f5f9;
-  --color-hero-subtitle: #94a3b8;
+  // Hero — warm dark gradient
+  --color-hero-bg: linear-gradient(160deg, #1a1714 0%, #2d2820 40%, #3d3428 100%);
+  --color-hero-text: #faf8f5;
+  --color-hero-subtitle: #c4b8a8;
+  --color-hero-accent: #d4942b;
+  
+  // Sidebar — deep warm dark
+  --color-sidebar-bg: #1a1714;
+  --color-sidebar-text: #c4b8a8;
+  --color-sidebar-text-muted: #7a7268;
+  --color-sidebar-active: #faf8f5;
+  --color-sidebar-hover: #2d2820;
+  --color-sidebar-accent: #d4942b;
+  
+  // Sidebar search
+  --sidebar-search-bg: rgba(255,255,255,0.06);
+  --sidebar-search-border: rgba(255,255,255,0.08);
+  --sidebar-search-focus: rgba(212,148,43,0.3);
 }
 
 // Dark theme
 [data-theme="dark"] {
-  --color-bg: #0f1219;
-  --color-bg-secondary: #161b24;
-  --color-bg-tertiary: #1c2230;
-  --color-sidebar-bg: #0c0f15;
-  --color-sidebar-text: #a4adbd;
-  --color-sidebar-text-muted: #5c6373;
-  --color-sidebar-active: #e2e8f0;
-  --color-sidebar-hover: #1a1f2b;
+  --color-bg: #151310;
+  --color-bg-raised: #1d1a16;
+  --color-bg-subtle: #1a1714;
   
-  --color-text: #c9d1d9;
-  --color-text-strong: #e2e8f0;
-  --color-text-secondary: #8b949e;
-  --color-text-muted: #5c6373;
-  --color-heading: #e2e8f0;
+  --color-text: #d4cfc8;
+  --color-text-strong: #ede8e0;
+  --color-text-secondary: #9c9590;
+  --color-text-muted: #6b6560;
+  --color-heading: #ede8e0;
   
-  --color-accent: #58a6ff;
-  --color-accent-hover: #79b8ff;
-  --color-accent-light: rgba(88,166,255,0.1);
-  --color-accent-glow: rgba(88,166,255,0.2);
+  --color-accent: #d4942b;
+  --color-accent-hover: #e0a840;
+  --color-accent-light: rgba(212,148,43,0.12);
+  --color-accent-glow: rgba(212,148,43,0.2);
+  --color-accent-soft: #242018;
   
-  --color-code-bg: #161b24;
-  --color-code-text: #c9d1d9;
-  --color-blockquote-bg: #161b24;
-  --color-border: #30363d;
-  --color-border-light: #21262d;
+  --color-teal: #2dd4bf;
+  --color-teal-light: rgba(45,212,191,0.1);
   
-  --color-table-header: #161b24;
-  --color-table-stripe: #131820;
-  --color-table-hover: #1c2230;
+  --color-code-bg: #1d1a16;
+  --color-code-text: #d4cfc8;
+  --color-blockquote-bg: #201c16;
+  --color-blockquote-border: #d4942b;
+  --color-border: #2d2820;
+  --color-border-light: #242018;
   
-  --color-callout-info-bg: #0d1b33;
-  --color-callout-info-border: #1f4482;
-  --color-callout-warning-bg: #2d1f0d;
-  --color-callout-warning-border: #664d1a;
+  --color-table-header: #1d1a16;
+  --color-table-stripe: #181512;
+  --color-table-hover: #242018;
   
-  --color-overlay: rgba(0,0,0,0.7);
+  --color-callout-info-bg: #0d2623;
+  --color-callout-info-border: #2dd4bf;
+  --color-callout-warning-bg: #241e14;
+  --color-callout-warning-border: #d4942b;
   
-  --shadow-card: 0 1px 3px rgba(0,0,0,0.3);
-  --shadow-elevated: 0 4px 16px rgba(0,0,0,0.4);
+  --color-overlay: rgba(0,0,0,0.75);
   
-  --color-hero-bg: linear-gradient(135deg, #060810 0%, #0f172a 50%, #060810 100%);
-  --color-hero-text: #e2e8f0;
-  --color-hero-subtitle: #64748b;
+  --shadow-sm: 0 1px 2px rgba(0,0,0,0.2);
+  --shadow-md: 0 4px 12px rgba(0,0,0,0.3);
+  --shadow-lg: 0 8px 30px rgba(0,0,0,0.4);
+  --shadow-xl: 0 20px 60px rgba(0,0,0,0.5);
+  
+  --color-hero-bg: linear-gradient(160deg, #0c0a08 0%, #151310 40%, #1d1a16 100%);
+  --color-hero-text: #ede8e0;
+  --color-hero-subtitle: #9c9590;
+  --color-hero-accent: #d4942b;
+  
+  --color-sidebar-bg: #0f0d0b;
+  --color-sidebar-text: #9c9590;
+  --color-sidebar-text-muted: #5c554c;
+  --color-sidebar-active: #ede8e0;
+  --color-sidebar-hover: #1a1714;
+  --color-sidebar-accent: #d4942b;
+  
+  --sidebar-search-bg: rgba(255,255,255,0.04);
+  --sidebar-search-border: rgba(255,255,255,0.06);
+  --sidebar-search-focus: rgba(212,148,43,0.2);
 }

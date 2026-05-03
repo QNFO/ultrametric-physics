@@ -1,38 +1,19 @@
 // ─── Layout ─────────────────────────────────────
-.app-container {
-  display: flex;
-  min-height: 100vh;
-}
+.app-container { display: flex; min-height: 100vh; }
 
 .main-content {
   flex: 1;
   margin-left: $sidebar-width;
   width: calc(100% - #{$sidebar-width});
-  max-width: $content-max-width;
-  padding: $sp-2xl $sp-xl $sp-3xl;
-  margin-right: auto;
-  
-  > *:first-child {
-    margin-top: 0;
-  }
+  max-width: $content-max;
+  padding: 0 $sp-xl $sp-4xl;
 }
 
-// Skeleton loading for sidebar
-.sidebar-skeleton {
-  padding: $sp-md;
-}
-
+// Skeleton loading
+.sidebar-skeleton { padding: $sp-md; }
 .skeleton-line {
-  height: 14px;
-  background: var(--color-sidebar-hover);
-  border-radius: 4px;
-  margin-bottom: $sp-sm;
-  animation: skeleton-pulse 1.5s ease-in-out infinite;
-  
-  &.short { width: 65%; }
+  height: 12px; background: var(--color-sidebar-hover); border-radius: 4px;
+  margin-bottom: $sp-sm; animation: skeleton-pulse 1.5s ease-in-out infinite;
+  &.short { width: 60%; }
 }
-
-@keyframes skeleton-pulse {
-  0%, 100% { opacity: 0.4; }
-  50% { opacity: 0.7; }
-}
+@keyframes skeleton-pulse { 0%,100%{opacity:0.3} 50%{opacity:0.6} }
