@@ -1,0 +1,71 @@
+// ─── Responsive ──────────────────────────────────
+@media (max-width: $bp-tablet) {
+  .sidebar {
+    transform: translateX(-100%);
+    
+    &.open { transform: translateX(0); }
+  }
+  
+  .main-content {
+    margin-left: 0;
+    width: 100%;
+    max-width: 100%;
+    padding: $sp-md $sp-md $sp-xl;
+    margin-top: $topbar-height;
+  }
+  
+  .mobile-top-bar { display: flex; }
+  
+  .hero {
+    margin: -#{$sp-md} -#{$sp-md} $sp-lg;
+    padding: $sp-xl $sp-md;
+    border-radius: 0;
+    
+    h1 { font-size: 1.5rem; }
+    .subtitle { font-size: 1rem; }
+  }
+  
+  .chapter-nav-inner {
+    flex-direction: column;
+    gap: $sp-sm;
+  }
+  
+  .chapter-nav-btn {
+    width: 100%;
+    justify-content: center;
+  }
+  
+  .fab {
+    bottom: $sp-md;
+    right: $sp-md;
+  }
+  
+  .footer-content {
+    flex-direction: column;
+  }
+}
+
+@media (max-width: $bp-phone) {
+  .main-content {
+    padding: $sp-sm $sp-sm $sp-lg;
+  }
+  
+  .hero {
+    margin: -#{$sp-sm} -#{$sp-sm} $sp-md;
+    padding: $sp-lg $sp-sm;
+    
+    h1 { font-size: 1.35rem; }
+    .subtitle { font-size: 0.9rem; }
+  }
+  
+  h2 { font-size: 1.2rem; }
+  h3 { font-size: 1.05rem; }
+  
+  table {
+    font-size: 0.8rem;
+    
+    th, td { padding: $sp-xs $sp-sm; }
+  }
+  
+  pre code { font-size: 0.78rem; }
+}

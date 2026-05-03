@@ -1,0 +1,100 @@
+// ─── Hero / Header ──────────────────────────────
+.hero {
+  background: var(--color-hero-bg);
+  color: var(--color-hero-text);
+  padding: $sp-3xl $sp-xl;
+  margin: -#{$sp-2xl} -#{$sp-xl} $sp-2xl;
+  border-radius: 0 0 16px 16px;
+  position: relative;
+  overflow: hidden;
+  
+  &::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background: radial-gradient(ellipse at 20% 50%, rgba(37,99,235,0.15), transparent 60%);
+  }
+  
+  h1 {
+    color: var(--color-hero-text);
+    position: relative;
+    margin-bottom: $sp-sm;
+  }
+  
+  .subtitle {
+    color: var(--color-hero-subtitle);
+    font-size: 1.1rem;
+    position: relative;
+    max-width: 65ch;
+    line-height: 1.6;
+  }
+  
+  .hero-meta {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: $sp-sm;
+    margin-top: $sp-lg;
+    font-size: 0.9rem;
+    color: var(--color-hero-subtitle);
+    position: relative;
+  }
+  
+  .meta-sep {
+    opacity: 0.5;
+  }
+  
+  .hero-cta {
+    display: flex;
+    flex-wrap: wrap;
+    gap: $sp-sm;
+    margin-top: $sp-lg;
+    position: relative;
+  }
+  
+  .hero-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: $sp-xs;
+    padding: $sp-sm $sp-lg;
+    border-radius: 8px;
+    font-weight: 500;
+    font-size: 0.95rem;
+    transition: all $transition-fast;
+    cursor: pointer;
+    border: none;
+    
+    &.primary {
+      background: var(--color-accent);
+      color: #fff;
+      
+      &:hover {
+        background: var(--color-accent-hover);
+        text-decoration: none;
+      }
+    }
+    
+    &.secondary {
+      background: rgba(255,255,255,0.1);
+      color: var(--color-hero-text);
+      
+      &:hover {
+        background: rgba(255,255,255,0.2);
+        text-decoration: none;
+      }
+    }
+  }
+}
+
+.chapter-badge {
+  display: inline-block;
+  background: rgba(37,99,235,0.2);
+  color: #93c5fd;
+  padding: 0.2em 0.7em;
+  border-radius: 20px;
+  font-size: 0.8rem;
+  font-weight: 600;
+  letter-spacing: 0.05em;
+  margin-bottom: $sp-sm;
+  position: relative;
+}

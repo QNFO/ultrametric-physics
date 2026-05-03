@@ -1,0 +1,67 @@
+// ─── Syntax Highlighting (Rouge) ────────────────
+.highlight {
+  background: var(--color-code-bg);
+  border-radius: 8px;
+  overflow-x: auto;
+  
+  pre { margin: 0; }
+  
+  // Comments
+  .c, .c1, .cm, .cs { color: #6a737d; font-style: italic; }
+  
+  // Keywords
+  .k, .kd, .kn, .kp, .kr, .kt { color: #d73a49; font-weight: 600; }
+  
+  // Strings
+  .s, .s1, .s2, .sb, .sc, .sd, .se, .sh, .si, .sx { color: #032f62; }
+  
+  // Names
+  .n, .na, .nb, .nc, .no, .nd, .ni, .ne, .nf, .nl, .nn, .nx, .py { color: #24292e; }
+  
+  // Numbers
+  .m, .mf, .mh, .mi, .mo { color: #005cc5; }
+  
+  // Operators
+  .o, .ow { color: #d73a49; }
+  
+  // Builtins
+  .nb { color: #005cc5; }
+  
+  // Punctuation
+  .p { color: #24292e; }
+  
+  // Variables
+  .nv, .vc, .vg, .vi { color: #e36209; }
+  
+  // Errors
+  .err { color: #b31d28; background: #ffeef0; }
+  
+  // Generic
+  .gd { color: #b31d28; background: #ffeef0; }
+  .ge { font-style: italic; }
+  .gr { color: #b31d28; }
+  .gh { color: #005cc5; font-weight: 600; }
+  .gi { color: #22863a; background: #f0fff4; }
+  .go { color: #6a737d; }
+  .gp { color: #6a737d; }
+  .gs { font-weight: 600; }
+  .gu { color: #6a737d; }
+  .gt { color: #b31d28; }
+}
+
+// Dark theme syntax
+[data-theme="dark"] .highlight {
+  .c, .c1, .cm, .cs { color: #8b949e; }
+  .k, .kd, .kn, .kp, .kr, .kt { color: #ff7b72; }
+  .s, .s1, .s2, .sb, .sc, .sd, .se, .sh, .si, .sx { color: #a5d6ff; }
+  .n, .na, .nb, .nc, .no, .nd, .ni, .ne, .nf, .nl, .nn, .nx, .py { color: #c9d1d9; }
+  .m, .mf, .mh, .mi, .mo { color: #79c0ff; }
+  .o, .ow { color: #ff7b72; }
+  .nb { color: #79c0ff; }
+  .p { color: #c9d1d9; }
+  .nv, .vc, .vg, .vi { color: #ffa657; }
+  .err { color: #f85149; background: #490202; }
+  .gd { color: #f85149; background: #490202; }
+  .gi { color: #56d364; background: #033a16; }
+  .go { color: #8b949e; }
+}
