@@ -31,7 +31,8 @@ def loglog_slope(values):
     vals = sorted([v for v in values if v > 0])
     if len(vals) < 3: return 0
     n = len(vals)
-    log_v = [math.log10(max(v, 1e-300)) for v in vals]
+    # Standardize to avoid zero-variance issues
+    log_v = [math.log10(v) if v > 0 else -300 for v in vals]
     log_r = [math.log10((i+1)/n) for i in range(n)]
     sx = sum(log_v); sy = sum(log_r)
     sxy = sum(log_v[i]*log_r[i] for i in range(n))
