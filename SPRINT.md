@@ -21,7 +21,7 @@
 - **Status:** COMPLETE (salvaged as 0.28.md)
 - **Result:** 0.28.md provides complete salvage analysis with evidence-based framework, testable predictions, and abandoned claims. 0.1.md remains as historical artifact.
 
-## Completed Tasks
+- **Task 6: Investigate Monna Map Cross-Ratio Behavior** — COMPLETE. Computational investigation (0.30.md) tested Prediction 6.2 from salvage. Simple cross-ratio preservation FALSIFIED (ratio varies 0.96-1.96 across 20 random quadruples). Group action intertwining hypothesis identified as next investigation target.
 
 - Four independent projects developed
 - Convergence synthesis drafted (0.1.md)
