@@ -13,9 +13,9 @@
 - **Result:** First formalization complete. Projection = metric mismatch (tree metric vs Euclidean metric) on same underlying set. Cross-ratios NOT preserved (confirmed 0.30.md). PGL(2,Z)-invariants survive. Monna map as groupoid isomorphism. Conjectures identified for further development.
 
 ### Task 3: Bruhat-Tits Unification
-- **Status:** NOT STARTED
+- **Status:** COMPLETE (0.34.md)
 - **Goal:** Explore the Bruhat-Tits building as the unified geometric object behind all 4 source projects
-- **Success Criteria:** Self-contained mathematical exposition
+- **Result:** Building bridges Archimedean (symmetric space) and non-Archimedean (tree) geometry. Boundary supports cross-ratios over any field. Adelic picture proposed: one α_p per prime. Connects all four source projects via tree/PGL(2)/A-nA structures.
 
 ### Task 4: Revise Convergence Synthesis (0.1.md)
 - **Status:** COMPLETE (salvaged as 0.28.md)
