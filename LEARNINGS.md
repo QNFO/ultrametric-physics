@@ -1,4 +1,4 @@
-# LEARNINGS: Cross-Ratio Convergence
+# LEARNINGS: Arithmetic Gauge
 
 ---
 

@@ -1,4 +1,4 @@
-# Cross-Ratio Convergence
+# Arithmetic Gauge
 
 **Identity:** A unified framework exploring the cross-ratio as the fundamental projective invariant across physics, mathematics, and computation. The investigation demonstrates that projective invariants — with the cross-ratio as their canonical example — survive the choice between Archimedean ($\mathbb{C}$) and non-Archimedean ($\mathbb{Q}_p$) fields, that tree-to-line projection produces apparent disorder through metric mismatch (quantified by a kurtosis spectrum), and that the Bruhat-Tits building serves as the unified geometric object for invariants across arithmetic gauges.
 

@@ -1,4 +1,4 @@
-# SPRINT: Cross-Ratio Convergence
+# SPRINT: Arithmetic Gauge
 
 **Current Sprint:** Consolidation & Validation
 **Start Date:** 2026-05-12

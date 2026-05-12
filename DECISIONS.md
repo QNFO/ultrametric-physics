@@ -1,4 +1,4 @@
-# DECISIONS: Cross-Ratio Convergence
+# DECISIONS: Arithmetic Gauge
 
 ---
 

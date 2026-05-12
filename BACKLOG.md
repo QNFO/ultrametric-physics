@@ -1,4 +1,4 @@
-# BACKLOG: Cross-Ratio Convergence
+# BACKLOG: Arithmetic Gauge
 
 **Prioritized future work queue.**
 

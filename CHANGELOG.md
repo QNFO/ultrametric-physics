@@ -1,4 +1,4 @@
-# CHANGELOG: Cross-Ratio Convergence
+# CHANGELOG: Arithmetic Gauge
 
 ---
 
