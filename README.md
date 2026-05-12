@@ -1,17 +1,14 @@
 # Cross-Ratio Convergence
 
-**Project Identity:** A unified synthesis demonstrating that four independent lines of inquiry across physics, mathematics, and computation converge on a single mathematical structure: the cross-ratio — a projective invariant that encodes relationship independently of coordinate choice.
+**Identity:** A unified framework exploring the cross-ratio as the fundamental projective invariant across physics, mathematics, and computation. The investigation demonstrates that projective invariants — with the cross-ratio as their canonical example — survive the choice between Archimedean ($\mathbb{C}$) and non-Archimedean ($\mathbb{Q}_p$) fields, that tree-to-line projection produces apparent disorder through metric mismatch (quantified by a kurtosis spectrum), and that the Bruhat-Tits building serves as the unified geometric object for invariants across arithmetic gauges.
 
-**Core Thesis:** The universe is not built of substances but of invariants. The cross-ratio is the fundamental invariant across all domains of structured information — the alphabet of reality.
+**Core Thesis:** The choice of field is a "gauge choice" for projective invariants. Cross-ratios are the canonical PGL(2)-invariants. The Minkowski $?(x)$ is a groupoid isomorphism between $\text{PGL}(2,\mathbb{Z})$ and the Thompson group $F$. Tree geometry, when projected onto the Euclidean line, produces a power-law distance distribution with infinite kurtosis — a precise mechanism for the apparent randomness of number-theoretic sequences.
 
-**Converged Disciplines:**
-- **Quantum Electrodynamics** — alpha = r_e / lambda-bar_C as process cross-ratio (Braids as Correlations)
-- **Geometric Langlands** — S-duality in N=4 SYM as cross-ratio correspondence (Kapustin-Witten Duality)
-- **Non-Archimedean Geometry** — Hidden Archimedean assumption in quantum mechanics (Ultrametric Synthesis)
-- **Computation Theory** — Primes and halting as projection artifacts (Undecidability)
+**Key Documents:**
+- **0.39.md** — Final synthesis: "The Arithmetic Gauge"
+- **0.28.md** — Systematic investigation of genuine convergence signals
+- **0.31.md** — Formalization of the Projection Principle
+- **0.34.md** — Bruhat-Tits building as unified geometric object
+- **0.38.md** — Complete PGL(2,Z) → Thompson group conjugation table
 
-**Key Insight:** Projection from a higher-dimensional invariant structure onto a lower-dimensional coordinate system creates the appearance of complexity, randomness, or undecidability. What appears irregular is the shadow of invariants cast onto a foreign screen.
-
-**Status:** Active synthesis. Convergence document complete. Supporting source material preserved in subdirectories.
-
-**Capstone Document:** 0.1.md — Convergence and Consilience: Cross-Ratios as the Universal Invariant
+**Status:** Active investigation. Mathematical framework established. Testable predictions proposed and computationally investigated.
