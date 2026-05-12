@@ -8,7 +8,7 @@
 ## Active Tasks
 
 ### Task 1: Reader Testing
-- **Status:** NOT STARTED
+- **Status:** IN PROGRESS
 - **Goal:** Test 0.1.md (convergence synthesis) with a fresh LLM instance
 - **Success Criteria:** Blind validation identifies no major gaps or ambiguities
 

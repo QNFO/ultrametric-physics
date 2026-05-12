@@ -43,3 +43,10 @@
 - **Solution:** Excise the project. Stronger with 4 genuine convergences than 5 with an equivocation.
 - **Prevention:** Audit terminology before claiming mathematical identity. Shared name != shared structure.
 - **Cross-Project:** YES
+
+### L7: Verify repo root on session start to catch isolation violations
+- **Category:** GIT
+- **Issue:** The `.git/` directory lived at the parent `projects/` level, meaning all sibling projects shared one git history. This violates project isolation — a branch switch for one project would affect all others.
+- **Solution:** `git init` inside the project directory, committed all files on feature branch, and `git rm --cached` from parent. Now each project can have its own independent git history.
+- **Prevention:** Always run `git rev-parse --show-toplevel` at session start. If it returns a parent directory, fix isolation before any file operations.
+- **Cross-Project:** YES — all projects under `G:\My Drive\projects\` should have independent repos.

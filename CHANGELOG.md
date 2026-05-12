@@ -2,6 +2,16 @@
 
 ---
 
+## 2026-05-12 — Repo Isolation Fix
+
+**What Changed:** Initialized independent `.git/` inside Cross-Ratio Convergence/. Project now has its own git repo (root = project directory), not shared with sibling projects. Parent repo untracked all 34 Cross-Ratio files. Inner `.git/` confirmed as repo root.
+
+**Files Changed:** `.git/` (new, inside project), parent repo (34 files `git rm --cached`)
+
+**Git:** feat/consolidate-cross-ratio-convergence (child: `f916c1b`), parent: `7674c86`
+
+---
+
 ## 2026-05-12 — Directory Flattened
 
 **What Changed:** Removed subdirectories from Cross-Ratio Convergence. All 25 source files renamed with sequential versioned filenames (0.2–0.26). Created SOURCES.md provenance mapping. Updated PROJECT STATE.md and SPRINT.md to reflect flat structure.
