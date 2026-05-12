@@ -8,9 +8,9 @@
 ## Active Tasks
 
 ### Task 2: Formalize Projection Principle
-- **Status:** NOT STARTED
+- **Status:** COMPLETE (0.31.md)
 - **Goal:** Develop mathematical treatment of tree-to-line invariant scrambling
-- **Success Criteria:** Rigorous proof of when projection creates apparent disorder
+- **Result:** First formalization complete. Projection = metric mismatch (tree metric vs Euclidean metric) on same underlying set. Cross-ratios NOT preserved (confirmed 0.30.md). PGL(2,Z)-invariants survive. Monna map as groupoid isomorphism. Conjectures identified for further development.
 
 ### Task 3: Bruhat-Tits Unification
 - **Status:** NOT STARTED
