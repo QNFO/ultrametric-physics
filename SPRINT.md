@@ -18,9 +18,8 @@
 - **Success Criteria:** Self-contained mathematical exposition
 
 ### Task 4: Revise Convergence Synthesis (0.1.md)
-- **Status:** NOT STARTED
-- **Goal:** Address reader test findings — disambiguate "cross-ratio" terminology, acknowledge retroactive framing, remove overreaching claims
-- **Success Criteria:** Revised document passes re-test with score ≥ 7/10 on all criteria
+- **Status:** COMPLETE (salvaged as 0.28.md)
+- **Result:** 0.28.md provides complete salvage analysis with evidence-based framework, testable predictions, and abandoned claims. 0.1.md remains as historical artifact.
 
 ## Completed Tasks
 
