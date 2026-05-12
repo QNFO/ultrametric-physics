@@ -2,13 +2,13 @@
 
 ---
 
-## 2026-05-12 — Reader Test Complete: Critical Finding
+## 2026-05-12 — Salvage Analysis & First-Principles Rebuild
 
-**What Changed:** Completed blind reader testing of convergence synthesis (0.1.md). Three-lens evaluation (logical coherence 4/10, mathematical soundness 5/10, reader experience 5/10). Critical finding: 3 of 4 source projects (Kapustin-Witten, Ultrametric Synthesis, Undecidability) contain ZERO occurrences of "cross-ratio" — the convergence was retroactively imposed by the capstone, not independently discovered. Recommendations for revision documented.
+**What Changed:** Wrote 0.28.md — complete salvage analysis responding to reader test findings. Vocabulary audit of 47 terms across 17 source documents reveals genuine convergence around projective geometry, tree structures, and Archimedean/non-Archimedean tension (not cross-ratios specifically). Cross-ratio reframed as hypothesis to be tested, not discovered convergence. Three testable predictions proposed. Abandoned claims (consilience, alphabet of reality, consciousness/halting/G\"odel) explicitly retired.
 
-**Files Changed:** 0.27.md (new), SPRINT.md (edit)
+**Files Changed:** 0.28.md (new), SPRINT.md (edit), CHANGELOG.md (edit)
 
-**Git:** feature/consolidate-cross-ratio-convergence, commit `98923cd`
+**Git:** feature/consolidate-cross-ratio-convergence, commit `aaf80fc`
 
 ---
 

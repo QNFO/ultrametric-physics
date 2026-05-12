@@ -2,24 +2,26 @@
 
 **Last Updated:** 2026-05-12
 **Current Branch:** feature/consolidate-cross-ratio-convergence
-**Active Phase:** Revision & Refinement
+**Active Phase:** Research Program (salvaged)
 
 ---
 
 ## What This Project Is
 
-A synthesis of four research projects spanning physics, mathematics, and computation. The convergence synthesis (0.1.md) proposes the cross-ratio as a unifying invariant. Reader testing (0.27.md) identified that the convergence was retroactively framed rather than independently discovered — the document is strongest as a **research program proposal** rather than a report of demonstrated consilience.
+A synthesis of four research projects spanning physics, mathematics, and computation. Originally framed as a demonstrated convergence on the cross-ratio, reader testing (0.27.md) identified that the convergence was retroactively imposed. The salvage analysis (0.28.md) rebuilt the project from first principles, revealing genuine convergence around projective geometry, tree structures, and the Archimedean/non-Archimedean tension. The cross-ratio is reframed as a hypothesis to be investigated, not a discovery to be reported.
 
 ## Current Status
 
-**Reader testing complete (0.27.md).** Critical finding: the convergence synthesis over-claimed. Three of four source projects (Kapustin-Witten, Ultrametric Synthesis, Undecidability) never used the term "cross-ratio" — the framing was retroactively imposed. The document has value as a research program proposal but fails its claim of demonstrated consilience. Recommendations for revision documented in 0.27.md.
-
-## Next Steps
-
-1. Revise 0.1.md per reader test recommendations (disambiguate terminology, acknowledge framing, remove overreaching claims)
-2. Or proceed to Task 2: Formalize the Projection Principle mathematically
-3. Or proceed to Task 3: Bruhat-Tits building as unified geometric object
+**Salvage complete (0.28.md).** The project has been rebuilt as a methodologically sound research program with testable predictions. The original synthesis (0.1.md) is retained as a historical artifact; 0.28.md is the active framework. Three testable predictions proposed: p-adic analog of α, cross-ratio behavior under Monna map, topological origin of α.
 
 ## Architecture
 
-Flat directory, sequential versioned naming (0.1–0.27). Source provenance in SOURCES.md. All 7 standard documentation files present.
+Flat directory, sequential versioned naming (0.1–0.28). Source provenance in SOURCES.md. All 7 standard documentation files present.
+
+## Next Steps
+
+1. Formalize the Projection Principle mathematically (SPRINT Task 2)
+2. Investigate cross-ratio hypothesis in Kapustin-Witten domain (SPRINT Task 5)
+3. Compute p-adic analog of α (SPRINT Task 6)
+4. Develop ultrametric quantum formalism (future)
+5. Seek experimental signatures (future)
