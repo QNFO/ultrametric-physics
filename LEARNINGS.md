@@ -44,12 +44,6 @@
 - **Prevention:** Audit terminology before claiming mathematical identity. Shared name != shared structure.
 - **Cross-Project:** YES
 
-### L8: Retroactive framing can create the illusion of consilience
-- **Category:** METHODOLOGY
-- **Issue:** The convergence synthesis (0.1.md) claimed four projects independently converged on the cross-ratio. A source-document audit revealed that 3 of 4 projects (Kapustin-Witten, Ultrametric Synthesis, Undecidability) never used the term "cross-ratio." The convergence was retroactively imposed by the capstone author, not independently discovered.
-- **Solution:** Before claiming consilience, audit the source documents for the claimed common vocabulary. If the unifying concept appears only in the synthesis document and not in the source projects, the convergence is a framing choice, not a discovery.
-- **Prevention:** When synthesizing multiple projects into a unified framework, distinguish between (a) concepts that appear natively in the source documents and (b) concepts imposed by the synthesis. The former supports consilience claims; the latter supports only that the framework can be applied as an interpretive lens.
-- **Cross-Project:** YES — any multi-project synthesis should include a source-document vocabulary audit before claiming convergence.
 
 ### L7: Verify repo root on session start to catch isolation violations
 - **Category:** GIT
@@ -57,3 +51,18 @@
 - **Solution:** `git init` inside the project directory, committed all files on feature branch, and `git rm --cached` from parent. Now each project can have its own independent git history.
 - **Prevention:** Always run `git rev-parse --show-toplevel` at session start. If it returns a parent directory, fix isolation before any file operations.
 - **Cross-Project:** YES — all projects under `G:\My Drive\projects\` should have independent repos.
+
+### L8: Retroactive framing can create the illusion of consilience
+- **Category:** METHODOLOGY
+- **Issue:** The convergence synthesis (0.1.md) claimed four projects independently converged on the cross-ratio. A source-document audit revealed that 3 of 4 projects (Kapustin-Witten, Ultrametric Synthesis, Undecidability) never used the term "cross-ratio." The convergence was retroactively imposed by the capstone author, not independently discovered.
+- **Solution:** Before claiming consilience, audit the source documents for the claimed common vocabulary. If the unifying concept appears only in the synthesis document and not in the source projects, the convergence is a framing choice, not a discovery.
+- **Prevention:** When synthesizing multiple projects into a unified framework, distinguish between (a) concepts that appear natively in the source documents and (b) concepts imposed by the synthesis. The former supports consilience claims; the latter supports only that the framework can be applied as an interpretive lens.
+- **Cross-Project:** YES — any multi-project synthesis should include a source-document vocabulary audit before claiming convergence.
+
+### L9: Salvage requires trading the grand claim for the honest signal
+- **Category:** METHODOLOGY
+- **Issue:** The reader test showed the convergence synthesis was a retroactive framing, not a genuine discovery. The project could have been abandoned entirely, but a systematic vocabulary audit revealed a different convergence signal (projective geometry, tree structures, Archimedean/non-Archimedean tension) that was genuinely present across source documents.
+- **Solution:** Rather than defending the over-claim, rebuild from the data. The vocabulary audit provided an objective basis for identifying what actually converges vs. what was imposed. The salvage document (0.28.md) trades the grand consilience narrative for a smaller, sharper, testable research program.
+- **Prevention:** When a project's central claim is undermined by evidence, don't abandon the project -- audit the source materials for what genuinely overlaps and rebuild from there. The signal may be different from what was claimed, but it may still be interesting.
+- **Cross-Project:** YES -- any multi-project synthesis that fails reader testing should undergo vocabulary audit before being abandoned.
+
