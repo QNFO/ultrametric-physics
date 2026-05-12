@@ -7,11 +7,6 @@
 
 ## Active Tasks
 
-### Task 1: Reader Testing
-- **Status:** IN PROGRESS
-- **Goal:** Test 0.1.md (convergence synthesis) with a fresh LLM instance
-- **Success Criteria:** Blind validation identifies no major gaps or ambiguities
-
 ### Task 2: Formalize Projection Principle
 - **Status:** NOT STARTED
 - **Goal:** Develop mathematical treatment of tree-to-line invariant scrambling
@@ -22,6 +17,11 @@
 - **Goal:** Explore the Bruhat-Tits building as the unified geometric object behind all 4 source projects
 - **Success Criteria:** Self-contained mathematical exposition
 
+### Task 4: Revise Convergence Synthesis (0.1.md)
+- **Status:** NOT STARTED
+- **Goal:** Address reader test findings — disambiguate "cross-ratio" terminology, acknowledge retroactive framing, remove overreaching claims
+- **Success Criteria:** Revised document passes re-test with score ≥ 7/10 on all criteria
+
 ## Completed Tasks
 
 - Four independent projects developed
@@ -30,7 +30,9 @@
 - Project consolidation: 4 directories merged into unified structure
 - Unified documentation created (all 7 standard files)
 - **Flattened directory** — subdirectories removed, files renamed 0.2–0.26, SOURCES.md provenance mapping
+- **Task 1: Reader Testing** — Complete. 0.27.md documents findings: overall score 4–5/10. Critical finding: 3 of 4 source projects never used term "cross-ratio." Convergence was retroactively imposed, not independently discovered. Recommendations for revision documented.
 
 ## Blockers
 
 - None currently
+

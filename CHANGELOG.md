@@ -2,6 +2,16 @@
 
 ---
 
+## 2026-05-12 — Reader Test Complete: Critical Finding
+
+**What Changed:** Completed blind reader testing of convergence synthesis (0.1.md). Three-lens evaluation (logical coherence 4/10, mathematical soundness 5/10, reader experience 5/10). Critical finding: 3 of 4 source projects (Kapustin-Witten, Ultrametric Synthesis, Undecidability) contain ZERO occurrences of "cross-ratio" — the convergence was retroactively imposed by the capstone, not independently discovered. Recommendations for revision documented.
+
+**Files Changed:** 0.27.md (new), SPRINT.md (edit)
+
+**Git:** feature/consolidate-cross-ratio-convergence, commit `98923cd`
+
+---
+
 ## 2026-05-12 — Repo Isolation Fix
 
 **What Changed:** Initialized independent `.git/` inside Cross-Ratio Convergence/. Project now has its own git repo (root = project directory), not shared with sibling projects. Parent repo untracked all 34 Cross-Ratio files. Inner `.git/` confirmed as repo root.

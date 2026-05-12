@@ -44,6 +44,13 @@
 - **Prevention:** Audit terminology before claiming mathematical identity. Shared name != shared structure.
 - **Cross-Project:** YES
 
+### L8: Retroactive framing can create the illusion of consilience
+- **Category:** METHODOLOGY
+- **Issue:** The convergence synthesis (0.1.md) claimed four projects independently converged on the cross-ratio. A source-document audit revealed that 3 of 4 projects (Kapustin-Witten, Ultrametric Synthesis, Undecidability) never used the term "cross-ratio." The convergence was retroactively imposed by the capstone author, not independently discovered.
+- **Solution:** Before claiming consilience, audit the source documents for the claimed common vocabulary. If the unifying concept appears only in the synthesis document and not in the source projects, the convergence is a framing choice, not a discovery.
+- **Prevention:** When synthesizing multiple projects into a unified framework, distinguish between (a) concepts that appear natively in the source documents and (b) concepts imposed by the synthesis. The former supports consilience claims; the latter supports only that the framework can be applied as an interpretive lens.
+- **Cross-Project:** YES — any multi-project synthesis should include a source-document vocabulary audit before claiming convergence.
+
 ### L7: Verify repo root on session start to catch isolation violations
 - **Category:** GIT
 - **Issue:** The `.git/` directory lived at the parent `projects/` level, meaning all sibling projects shared one git history. This violates project isolation — a branch switch for one project would affect all others.
