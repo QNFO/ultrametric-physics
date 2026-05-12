@@ -21,7 +21,7 @@
 - **Status:** COMPLETE (salvaged as 0.28.md)
 - **Result:** 0.28.md provides complete salvage analysis with evidence-based framework, testable predictions, and abandoned claims. 0.1.md remains as historical artifact.
 
-- **Task 7: Probabilistic Gap Distribution** — COMPLETE (0.32.md). Confirmed: Stern-Brocot tree-adjacent points have heavy-tailed Euclidean distances (excess kurtosis 951.5 vs -0.59 random). Strongly supports Projection Principle — apparent randomness follows from metric mismatch alone.
+- **Task 8: Group Intertwining Investigation** — COMPLETE (0.33.md). Confirmed: ?(x/(x+1)) = ?(x)/2 for all 50 random test points. First computational evidence that Minkowski ?(x) conjugates PGL(2,Z) generator to Thompson group element (dyadic shift y -> y/2). Other generators pending.
 
 - Four independent projects developed
 - Convergence synthesis drafted (0.1.md)
