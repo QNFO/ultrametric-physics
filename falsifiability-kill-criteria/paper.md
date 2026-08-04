@@ -7,7 +7,7 @@ doi: "10.5281/zenodo.21790869"
 status: "published"
 wbs: "QNFO.UMP.004"
 genre: "A"
-version: "v0.6-consilience"
+version: "v0.7-null-equivalence"
 ---
 
 # Killing the Framework: Seven Criteria for the Falsification of Adelic Physics
@@ -242,7 +242,7 @@ The operational paradigm is not the bare equations. It is GR + dark matter + dar
 
 The formal kill criteria listed above (GW speed, Kerr metric, equivalence principle) are genuine. But they test the *bare* theory, not the operational paradigm. No experiment has ever confronted GR + dark matter + dark energy + inflation as a single unified structure — because the four components can be adjusted independently to accommodate any observation. This is the same structural flexibility that the present paper criticizes in the adelic framework. `[debated — GR's bare form is falsifiable; the operational composite is not]`
 
-**Verdict:** The bare theory possesses genuine operational kill criteria (GW speed, Kerr metric, equivalence principle), and those criteria are real. But no single one of them is clean: each has been tested by instruments and teams whose methods carry their own systematic uncertainties, and none individually would have been decisive without the others. Bare GR therefore earns **B+** — not A — because its confidence rests on independent consilience rather than on any single unbiased observation. The operational composite (GR + DM + DE + inflation) earns **C** — de-facto unfalsifiable in practice. `[established — the 1919 data limitations and Eddington's role are documented in the history of science literature (Dyson, Eddington, Davidson 1920; Kennefick 2019)]` [^21][^22]
+**Verdict:** The bare theory possesses genuine operational kill criteria (GW speed, Kerr metric, equivalence principle), and those criteria are real. But no single one of them is clean: each has been tested by instruments and teams whose methods carry their own systematic uncertainties, and none individually would have been decisive without the others. Bare GR therefore earns **B** — not A and not B+ — because its confidence rests not on independent consilience (the subsequent tests were confirmation-seeking parameter measurements inside the PPN family; §5.4) but on three genuine theory discriminations (perihelion, 1919, LIGO) plus a century of constrained parameter measurements. The operational composite (GR + DM + DE + inflation) earns **C** — de-facto unfalsifiable in practice. `[established — the 1919 data limitations and Eddington's role are documented in the history of science literature (Dyson, Eddington, Davidson 1920; Kennefick 2019)]` [^21][^22]
 
 #### 5.2.2 The Standard Model of Particle Physics
 
@@ -285,7 +285,7 @@ They are not alone. The multiverse, many-worlds quantum mechanics (in its strong
 
 | Framework | Operational Kill Criteria | Escape Hatches | Grade |
 |:----------|:--------------------------|:---------------|:------|
-| General Relativity (bare) | 4/4 (none individually clean) | Single-test confounds: biased observer (1919), plate methodology, discarded data, competing theories — established by consilience, not one clean test | **B+** |
+| General Relativity (bare) | 3 genuine discriminations; rest parameter measurements | Confirmation-seeking within the GR program; PPN parameter space; look-elsewhere; alternatives constrained, not falsified (§5.4) | **B** |
 | GR composite (GR+DM+DE+inflation) | 0/4 | Auxiliary-absorption: DM/DE/inflation tuned to absorb anomalies | **C** |
 | Standard Model | 3/4 formal | Free-parameter re-fit; energy-scale deferral (particle-hunting history) | **C** |
 | ΛCDM | 1/4 bare; 3/4 if tensions count | Baryonic feedback (shrinking, not closed) | **B** |
@@ -299,7 +299,7 @@ The adelic framework is not uniquely unfalsifiable — it occupies a grade share
 
 The symmetric audit yields two conclusions:
 
-1. **The asymmetry is narrower than first appears — and it is not flattering to the incumbents.** The adelic framework is unfalsifiable (Grade D). The operational GR composite (GR + dark matter + dark energy + inflation) is Grade C. The Standard Model is Grade C. ΛCDM is Grade B. And the *bare* Einstein equations — the strongest theory in the set — earn B+, not A, because even their canonical 1919 confirmation was compromised by observer bias, subjective plate analysis, and discarded discordant data; their standing is consilience-earned, not clean-test-earned. The claim "contemporary physics has become unfalsifiable" is not true of *some* programs — it is true of *most* ambitious programs, and the incumbents survive not because they are more falsifiable but because their escape hatches are older, better institutionalized, and therefore less visible.
+1. **The asymmetry is narrower than first appears — and it is not flattering to the incumbents.** The adelic framework is unfalsifiable (Grade D). The operational GR composite (GR + dark matter + dark energy + inflation) is Grade C. The Standard Model is Grade C. ΛCDM is Grade B. And the *bare* Einstein equations — the strongest theory in the set — earn B, not A: their canonical 1919 confirmation was compromised by observer bias and discarded discordant data, and their subsequent confirmations were parameter measurements inside the PPN family rather than falsifications of alternatives (§5.4). The claim "contemporary physics has become unfalsifiable" is not true of *some* programs — it is true of *most* ambitious programs, and the incumbents survive not because they are more falsifiable but because their escape hatches are older, better institutionalized, and therefore less visible.
 
 2. **Escape hatches are a spectrum, not a binary.** Every framework has them. The question is: are the escape hatches (a) shrinking under theoretical progress, (b) stable but acknowledged, or (c) expanding to absorb any criticism? The adelic framework's hatches are in category (b): stable and acknowledged, with a plan to close them. String theory's are in category (c): the landscape expands with every constraint. ΛCDM's baryonic feedback hatch was in category (c) for decades but is moving toward (a) with improved simulations.
 
@@ -323,7 +323,28 @@ The Eddington case generalizes into a methodological principle that this audit m
 
 **The corollary for null results.** The same requirement applies to falsification. A single null result (the GWTC-1 echo search, GRB 090510 Lorentz bound) cannot kill a framework with an unbounded amplitude or threshold, and cannot confirm one either. Only a *consilient* null — multiple independent searches with independent templates and error structures all excluding the prediction above a derived bound — is fatal. The adelic framework's KC4 is not merely missing an amplitude bound; it is missing the entire consilience apparatus that would make either detection or exclusion meaningful. `[my conjecture]`
 
-**The grading consequence.** Grades based on "operational kill criteria" alone are insufficient. They must be weighted by (a) whether any confirming observation was independent, and (b) how many independent lines converge. Under this weighting: bare GR drops from A to B+ (no single clean test; consilience is real but earned over a century); the adelic framework stays at D (zero independent confirmations); ΛCDM's H₀ tension becomes *more* significant, because it is consilient — multiple independent late-universe methods (Cepheids, TRGB, masers, lensing) agree on the high value, and multiple early-universe methods agree on the low value, which is precisely why the discrepancy is credible rather than an artifact. `[speculative]`
+**The grading consequence.** Grades based on "operational kill criteria" alone are insufficient. They must be weighted by (a) whether any confirming observation was independent, and (b) how many independent lines converge. Under this weighting: bare GR drops from A to B (no single clean test; the confirmations are parameter measurements within the PPN family, with only three genuine theory discriminations — §5.4); the adelic framework stays at D (zero independent confirmations); ΛCDM's H₀ tension becomes *more* significant, because it is consilient — multiple independent late-universe methods (Cepheids, TRGB, masers, lensing) agree on the high value, and multiple early-universe methods agree on the low value, which is precisely why the discrepancy is credible rather than an artifact. `[speculative]`
+
+
+
+### 5.4 The GR Testing Program Under the Same Rigor
+
+The Independence Requirement (§5.3) awarded bare GR a B+ for "consilience" — five independent confirmations converging. That grading is itself too generous, and for the same reason the v0.6 audit applied to the 1919 eclipse: the *subsequent* confirmatory tests were not independent consilience in the adversarial sense. They were confirmation-seeking within a research program that had already accepted the theory.
+
+**The tests were designed inside the GR program, by GR proponents, to confirm GR's predictions.** Pound–Rebka measured the gravitational redshift — a quantity whose magnitude was set by the theory under test, using an apparatus (Mössbauer effect) chosen because it could resolve that magnitude. Shapiro measured the radar-echo delay — again a GR-derived prediction, with the experiment designed after the prediction was made. Hulse–Taylor monitored a binary pulsar whose orbital decay rate was computed from GR's quadrupole formula. In each case, the test was constructed *from* the theory's own formalism, by researchers who accepted the theory, to measure a predicted effect. This is the structure of confirmation, not the structure of adversarial falsification: the researcher does not try to kill the theory; they try to measure how right it is. `[established — the PPN program (see below) was developed in large part *after* these tests, as a framework for interpreting them, which is itself evidence that the tests were not designed to discriminate among rival frameworks from the start]`
+
+**What alternative hypothesis would each test have falsified?** This is the question the audit must ask — and the honest answer is: for most of the canon, no serious alternative was at stake.
+
+- *Pound–Rebka (1960):* would have falsified a theory predicting *no* gravitational redshift. But no viable alternative predicted zero — Newtonian gravity with special relativity had already failed on other grounds, and every metric theory of gravity predicts *some* redshift. The test measured the GR value with high precision but did not discriminate GR from any live competitor.
+- *Shapiro delay (1964):* would have falsified a theory predicting no time delay. Every metric theory predicts a delay; only the coefficient differs. Within the parameterized post-Newtonian (PPN) framework [^28][^29], the measurement constrains the PPN parameter γ to near unity — but γ is a parameter *inside* the family of metric theories. Tuning the theory's free parameters (e.g., the Brans–Dicke coupling ω) reproduces GR's result to within measurement precision. The test tightened a parameter bound; it did not test GR against a falsifiable alternative with a different prediction space.
+- *Hulse–Taylor (1974):* would have falsified a theory predicting no gravitational-wave orbital decay. Newtonian gravity predicts no decay, so the discovery was a genuine blow against Newtonian treatments of binary pulsars. But among metric theories, scalar-tensor gravity also predicts orbital decay — at a slightly different rate. The measurement agreed with GR to ~0.1%, tightening the Brans–Dicke bound; it did not falsify the scalar-tensor alternative outright.
+- *LIGO (2015–):* gravitational-wave detection is a genuine discovery — a waveform was observed where Newtonian physics predicts none. But the waveform-matching that followed is parameter estimation within GR's template bank: LIGO detects a signal and fits it to a GR waveform. The templates themselves presuppose GR; the analysis pipeline was not constructed to discriminate GR from a rival metric theory.
+
+**The look-elsewhere structure.** Each test was published as confirming GR's prediction to ever-higher precision. The look-elsewhere problem is that with a *family* of parameters (PPN has ten) and a century of experiments, some subset of measurements will agree with GR by chance, and the program does not pre-register which measurement would count as falsification, at what precision, against which alternative. When a measurement *did* deviate (early Mercury perihelion anomalies, the Flyby Anomaly, the Pioneer anomaly), the deviations were absorbed as systematics or new auxiliary physics — the same absorption mechanism the audit criticizes in the adelic framework and ΛCDM.
+
+**The PPN insight.** The parameterized post-Newtonian framework [^28][^29][^30] is the formal statement of this problem. GR fixes all PPN parameters (γ = β = 1, others 0). The testing program measures these parameters. A measurement consistent with the GR values is not a test of "GR vs. not-GR" — it is a measurement within a parameterized *family* of metric theories, one point of which is GR. The alternative hypotheses (Brans–Dicke with ω ≠ ∞, vector-tensor theories, massive graviton variants) are *not* falsified by the parameter measurements; they are *constrained*. This is the distinction between parameter-space narrowing and theory falsification. `[established — PPN formalism (Will 1971; Nordtvedt 1968; Will 2014): all metric gravity theories are parameterized by 10 PPN parameters; tests measure parameters, they do not decide among the family]`
+
+**What genuine falsifications did the GR program produce?** Three, and all three preceded the theory's confident institutionalization: the anomalous Mercury perihelion precession (Le Verrier 1859, [^23]) was an anomaly *before* GR existed, and GR's prediction (43″/century) is a true pre-registered success against the Newtonian baseline; the 1919 eclipse (for all its flaws) did discriminate GR's 1.75″ against Newton's 0.87″ at the level of a 2–3σ separation; and gravitational-wave detection (2015) observed a phenomenon Newtonian physics forbids. These are real. But they are a thinner list than "five independent consilient confirmations," and the other tests in the canon are parameter measurements, not theory discriminations. `[speculative — the three genuine falsifications are real; the characterization of the remaining tests as parameter measurements rather than theory discriminations is this audit's reading of the PPN structure]`
 
 ## 6. Path Forward
 
@@ -429,8 +450,45 @@ The data-driven audit produces a result that is uncomfortable for both sides.
 
 **For the null hypotheses:** the incumbent frameworks are not cleanly falsifiable either. ΛCDM faces a live, growing 5σ Hubble tension that currently survives only through auxiliary escape hatches — the very mechanism the paper criticizes. The Standard Model faces a 4.2σ muon anomaly whose null is contested by theory, not resolved. The operational GR composite has never been tested as a whole. The claim that the incumbents are "falsifiable science" while the adelic framework is "unfalsifiable speculation" does not survive contact with the scorecard. The difference is one of degree — and of institutionalization, not of epistemic virtue. `[my conjecture]`
 
-**The honest conclusion:** all frameworks under review occupy positions on a falsifiability spectrum, and none has been cleanly falsified by existing data. Under the Independence Requirement (§5.3), the adelic framework's position is worse than the scorecard alone shows: its null results are *unconsilient* — each is a single search, single template, single error structure — so they neither confirm nor decisively constrain, while its positive predictions have never received a single independent confirmation. The incumbents' tensions, by contrast, are consilient where they bite: the H₀ discrepancy is credible precisely because independent late-universe methods agree with each other and independent early-universe methods agree with each other. What the existing data *does* establish is which frameworks are genuinely at risk: ΛCDM (consilient Hubble tension), the SM (muon anomaly), and — if its operationalized criteria ever produce amplitude bounds — the adelic framework (echo searches ready and waiting, but needing multiple independent searches to be meaningful). The next observation is more likely to falsify an incumbent than to confirm the adelic framework. That is not a vindication of the framework; it is the current balance of empirical risk.
+**The honest conclusion:** all frameworks under review occupy positions on a falsifiability spectrum, and none has been cleanly falsified by existing data. Under the Independence Requirement (§5.3), the adelic framework's position is worse than the scorecard alone shows: its null results are *unconsilient* — each is a single search, single template, single error structure — so they neither confirm nor decisively constrain, while its positive predictions have never received a single independent confirmation. The incumbents' tensions, by contrast, are OPERATIONAL under the Null-Equivalence Protocol (§7.6): the H₀ discrepancy is credible precisely because O_T (late-universe measurements) ≠ O_N (ΛCDM early-universe prediction) at measurable precision, and independent late-universe methods agree with each other. What the existing data *does* establish is which frameworks are genuinely at risk: ΛCDM (consilient Hubble tension), the SM (muon anomaly), and — if its operationalized criteria ever produce amplitude bounds — the adelic framework (echo searches ready and waiting, but needing multiple independent searches to be meaningful). The next observation is more likely to falsify an incumbent than to confirm the adelic framework. That is not a vindication of the framework; it is the current balance of empirical risk.
 
+
+
+
+### 7.6 The Null-Equivalence Protocol: When the Test Predicts What the Null Predicts
+
+The deepest form of unfalsifiability is not a theory that can absorb any observation. It is a theory whose predictions are *identical* to the null hypothesis at every feasible observation — so that no experiment can separate them, regardless of what is observed. This is the adelic framework's real-vs-rational-completions problem, and it is also the structure of much of the GR testing program (§5.4).
+
+**The protocol.** For every proposed criterion, define two prediction sets:
+
+- **O_N** — the observation the null hypothesis (Standard Model / ΛCDM / GR composite) predicts at the feasible scale.
+- **O_T** — the observation the test theory (adelic framework) predicts at the feasible scale.
+
+Then classify:
+
+| Condition | Classification | Meaning |
+|:----------|:---------------|:--------|
+| O_T = O_N for all feasible observations | **VACUOUS** | No experiment can ever distinguish; criterion carries zero empirical content |
+| O_T ≠ O_N, but difference below measurement precision | **NON-OPERATIONAL** | In principle testable, not at current or foreseeable technology |
+| O_T ≠ O_N, difference measurable | **OPERATIONAL** | A genuine kill criterion exists |
+
+**Application to the seven adelic criteria:**
+
+| Criterion | O_N (null predicts) | O_T (adelic predicts) | Classification |
+|:----------|:--------------------|:----------------------|:---------------|
+| KC1 product formula | No α variation; conservation | No α variation; conservation | **VACUOUS** — both predict the same observation; the "test" only differs in the theory's internal interpretation, not in the observable |
+| KC2 three generations | 3 generations (LEP: N_ν = 2.984 ± 0.008) [^11] | 3 generations (cubic idele structure) | **VACUOUS** — identical predicted observation; a shared prediction, not a test |
+| KC3 continuum / LV | Lorentz invariance at all tested scales | Lorentz invariance at all tested scales (discreteness below Planck) | **NON-OPERATIONAL** — the difference is below any feasible probe; no experiment can reach it |
+| KC4 echoes | No echoes (GR membrane) | Prime-delay echoes with unspecified amplitude | **NON-OPERATIONAL** — O_T ≠ O_N in principle, but without a derived amplitude bound, any null result is consistent with both |
+| KC5 DM structure | Smooth ΛCDM profiles | Log-periodic structure, template unspecified | **NON-OPERATIONAL** — O_T ≠ O_N in principle, but no template and no subdominance bound make the prediction unfalsifiable |
+| KC6 dimensionality | 3+1 | 3+1 (attractor) | **VACUOUS** — identical predicted observation; a post-diction, not a test |
+| KC7 gauge group | SU(3)×SU(2)×U(1) | SU(3)×SU(2)×U(1) (derived) | **VACUOUS** — identical predicted observation; the derivation would change the theory's confidence, not the observation |
+
+**Result: four of seven criteria are VACUOUS** (KC1, KC2, KC6, KC7) — the adelic framework predicts, at every feasible observation, exactly what the null predicts. Three are NON-OPERATIONAL (KC3, KC4, KC5) — the predictions differ in principle but at scales or with amplitudes no current experiment can reach, and with the relevant bounds (echo amplitude, DM template, discretization scale) never derived. **Zero of seven are OPERATIONAL.** This is the formal, protocol-based statement of the framework's current empirical emptiness: it is not merely unfalsified and unconfirmed — it is observationally equivalent to the null at every feasible test. `[my conjecture — the protocol classifications follow from the framework's own stated postulates and the absence of derived bounds]`
+
+**Application to the GR testing program.** The same protocol explains why the GR tests are confirmation rather than discrimination. For Pound–Rebka: O_N (any metric theory) = "some redshift"; O_T (GR) = "redshift of magnitude ν·Δφ/c²" — the two differ only in the *magnitude of a shared phenomenon*, and the measurement is a parameter determination within the shared family. For Shapiro: O_N (Brans–Dicke with ω) ≈ O_T (GR) at current precision — the predicted observations are identical to within the measurement error, so the test is NON-OPERATIONAL as a theory discriminator even though it is OPERATIONAL as a parameter measurement. The GR program's genuine theory-discriminating tests are the three identified in §5.4 — perihelion (pre-registered, Newton-baseline), 1919 (GR vs Newton), LIGO (waveform where Newton predicts none). The rest constrain parameters inside the metric-gravity family.
+
+**The completed argument.** The audit now holds all frameworks to the same standard: a criterion is evidence-bearing only if O_T ≠ O_N at a measurable scale. Under that standard, the adelic framework has zero operational criteria; the GR testing program's "consilience" reduces to three genuine discriminations plus a century of parameter measurements within a presupposed framework; the SM's anomalies (H₀ tension, muon g−2) are OPERATIONAL because O_T ≠ O_N at measurable precision — which is why they are the most consequential results in the audit. The frameworks are not equally unfalsifiable; they are differently unfalsifiable, and the protocol makes the difference explicit. `[speculative]`
 
 ## Declarations
 
@@ -510,6 +568,11 @@ QNFO Unified License Agreement (QNFO-ULA).
 [^26]: Hulse, R.A., and Taylor, J.H. "Discovery of a pulsar in a binary system." *The Astrophysical Journal*, vol. 195, 1975, pp. L51–L53. [verified via Crossref — 10.1086/181708]
 
 [^27]: Abbott, B.P., et al. (LIGO/Virgo Collaboration). "GW170817: Observation of Gravitational Waves from a Binary Neutron Star Inspiral." *Physical Review Letters*, vol. 119, 2017, 161101. [verified via Crossref — 10.1103/PhysRevLett.119.161101]
+[^28]: Nordtvedt, K. "Equivalence Principle for Massive Bodies. II. Theory." *Physical Review*, vol. 169, 1968, pp. 1017–1025. [verified via Crossref — 10.1103/PhysRev.169.1017; parameterized post-Newtonian framework]
+
+[^29]: Will, C.M. "The Confrontation between General Relativity and Experiment." *Living Reviews in Relativity*, vol. 17, 2014, 4. [verified via Crossref — 10.12942/lrr-2014-4; canonical review of the PPN parameter space and experimental constraints]
+
+[^30]: Brans, C., and Dicke, R.H. "Mach's Principle and a Relativistic Theory of Gravitation." *Physical Review*, vol. 124, 1961, pp. 925–935. [verified via Crossref — 10.1103/PhysRev.124.925; the scalar-tensor alternative constrained by Hulse–Taylor and Shapiro measurements]
 
 [^7]: Quni-Gudzinas, R.B. "P-adic Dark Matter: Discrete Scale Invariance in Halo Profiles." QNFO Technical Memo, 2026. [unpublished]
 
