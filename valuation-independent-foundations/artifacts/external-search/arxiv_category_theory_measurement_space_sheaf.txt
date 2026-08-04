@@ -1,0 +1,10 @@
+ARXIV: 'category theory measurement space sheaf' => 9 results
+  https://arxiv.org/api/RbH1UYXqJ9g/sKZhcMrYf8O4ZTQ: arXiv Query: search_query=all:category OR all:theory OR all:measurement OR all:space OR all:sheaf&amp;id_list=&amp;start=0&amp;max_results=8
+  1912.10642v7: Notes on Category Theory with examples from basic mathematics
+  1802.09555v2: Involutive categories, colored $\ast$-operads and quantum field theory
+  2510.10504v2: Oriented Category Theory
+  2402.18226v3: Drazin Inverses in Categories
+  2205.08646v2: Higher geometric sheaf theories
+  hep-th/9707234v2: Variational Approach to Quantum Field Theory: Gaussian Approximation and the Perturbative Expansion around It
+  0804.4433v1: SPACE: the SPectroscopic All-sky Cosmic Explorer
+  1302.6946v3: Category theory for scientists (Old version)

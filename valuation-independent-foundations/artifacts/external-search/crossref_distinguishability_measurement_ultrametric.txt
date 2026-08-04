@@ -1,0 +1,9 @@
+CROSSREF: 'distinguishability measurement ultrametric' => 886728 results
+  [0] Temporal Distinguishability and Measurement-Induced Order in Driven-Dissipative Qubit Networks (10.21203/rs.3.rs-9391701/v1)
+  [1983] A Measure of the Distinguishability of Quantum States (10.1007/978-1-4613-3712-6_8)
+  [0] Quantification of the Impact of Photon Distinguishability on Measurement-Device- Independent Quantum Key Distribution (10.20944/preprints201803.0228.v1)
+  [0] State distinguishability under weak measurement and postselection: A unified system and device perspective (10.1103/physreva.102.062206)
+  [2013] Observability and Distinguishability Properties and Stability of Arbitrarily Fast Switched Systems (10.1115/1.4024363)
+  [2003] Ultrametric Absolute Values (10.1142/9789812775603_0003)
+  [2021] Measurement-dependent erasure of distinguishability for the observation of interference in an unbalanced SU(1,1) interferometer (10.1364/qim.2021.tu2a.2)
+  [2011] Distinguishability of Hyper-Entangled Bell States by Linear Evolution and Local Measurement (10.1364/icqi.2011.qmi25)

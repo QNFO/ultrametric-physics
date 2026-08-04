@@ -1,0 +1,11 @@
+OPENALEX: 'sheaf cohomology dimension emergence' => 261 results
+  [2019] Machine learning line bundle cohomologies of hypersurfaces in toric varieties (https://doi.org/10.1016/j.physletb.2019.01.002)
+  [2015] Holomorphic Poisson Cohomology (https://doi.org/10.1515/coma-2015-0005)
+  [1998] The Dolbeault complex in infinite dimensions I (https://doi.org/10.1090/s0894-0347-98-00266-5)
+  [2016] Cohomology with Causally Restricted Supports (https://doi.org/10.1007/s00023-016-0481-x)
+  [2001] Quantization of Singular Symplectic Quotients (https://doi.org/10.1007/978-3-0348-8364-1)
+  [2014] T-branes and geometry (https://doi.org/10.1007/jhep05(2014)080)
+  [2008] Topological strings, two-dimensional Yang-Mills theory and Chern-Simons theory on torus bundles (https://doi.org/10.4310/atmp.2008.v12.n5.a2)
+  [2018] F-theory (https://doi.org/10.22323/1.305.0016)
+  [2025] The character map in twisted equivariant nonabelian cohomology (https://doi.org/10.4310/bpam.250908174706)
+  [2024] Flux quantization on 11-dimensional superspace (https://doi.org/10.1007/jhep07(2024)082)

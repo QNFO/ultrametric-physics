@@ -1,0 +1,9 @@
+CROSSREF: 'valuation theory finite measurement independent real numbers' => 4314631 results
+  [2017] The Real Numbers (10.1201/9781315139432-2)
+  [0] Fuzzy Numbers for the Real Estate Valuation (10.15396/eres2002_211)
+  [0] Rethinking Number Theory, Prime Numbers as Finite Entities and the Topological Constraints on Division in a Real Number Line (10.36227/techrxiv.24210441.v1)
+  [0] Rethinking Number Theory, Prime Numbers as Finite Entities and the Topological Constraints on Division in a Real Number Line (10.36227/techrxiv.24210441)
+  [2002] Valuation theory on finite dimensional division algebras (10.1090/fic/032/21)
+  [2010] Real numbers and classical measurements (10.1017/cbo9780511674761.011)
+  [1975] Chapter II Valuation Theory (10.1016/s0924-6509(08)70617-2)
+  [2016] Neoclassical Economic Theory and Automated Valuation Models (10.1007/978-3-662-49164-5_4)

@@ -1,0 +1,11 @@
+OPENALEX: 'category theory foundations of measurement' => 247033 results
+  [2015] Making sense of implementation theories, models and frameworks (https://doi.org/10.1186/s13012-015-0242-0)
+  [2015] Moral Identity and Developmental Theory (https://doi.org/10.1159/000435926)
+  [2009] Salience and Taxation: Theory and Evidence (https://doi.org/10.1257/aer.99.4.1145)
+  [2005] Ontological foundations for structural conceptual models (None)
+  [2017] Foundations of Quantum Theory (https://doi.org/10.1007/978-3-319-51777-3)
+  [2006] Implicit Bias: Scientific Foundations (https://doi.org/10.2307/20439056)
+  [1997] Foundations of meaning : primary metaphors and primary scenes (None)
+  [2014] Testing Theories of American Politics: Elites, Interest Groups, and Average Citizens (https://doi.org/10.1017/s1537592714001595)
+  [2004] Finance and Growth: Theory and Evidence (https://doi.org/10.3386/w10766)
+  [2022] Revisiting the theoretical and methodological foundations of depression measurement (https://doi.org/10.1038/s44159-022-00050-2)

@@ -1,0 +1,8 @@
+ARXIV: 'topos quantum theory measurement Doering Isham' => 7 results
+  https://arxiv.org/api/0bL6/WXqUd1zGmXSdDRpLfSEliM: arXiv Query: search_query=all:topos OR all:quantum OR all:theory OR all:measurement OR all:Doering OR all:Isham&amp;id_list=&amp;start=0&amp;max_results=6
+  0712.4003v1: Topos theory and `neo-realist' quantum theory
+  quant-ph/0703062v1: A Topos Foundation for Theories of Physics: II. Daseinisation and the Liberation of Quantum Theory
+  0803.0417v1: `What is a Thing?': Topos Theory in the Foundations of Physics
+  quant-ph/0703060v1: A Topos Foundation for Theories of Physics: I. Formal Languages for Physics
+  1004.3561v1: Topos Quantum Logic and Mixed States
+  quant-ph/0703064v1: A Topos Foundation for Theories of Physics: III. The Representation of Physical Quantities With Arrows

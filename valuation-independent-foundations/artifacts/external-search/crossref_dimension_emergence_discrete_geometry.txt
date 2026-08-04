@@ -1,0 +1,9 @@
+CROSSREF: 'dimension emergence discrete geometry' => 684151 results
+  [0] Neutrino Mass Emergence from Discrete Vacuum Geometry (10.2139/ssrn.6550838)
+  [2004] Bounded VC-Dimension Implies a Fractional Helly Theorem (10.1007/s00454-003-2859-z)
+  [1992] The dimension of projective geometry codes (10.1016/0012-365x(92)90538-q)
+  [2004] The Alexandroff Dimension of Quotients of R 2 (10.1007/s00454-004-0822-2)
+  [1995] Almost optimal set covers in finite VC-dimension (10.1007/bf02570718)
+  [2003] Shape Dimension and Approximation from Samples (10.1007/s00454-002-2838-9)
+  [2009] Regular Apeirotopes of Dimension and Rank 4 (10.1007/s00454-009-9186-y)
+  [1999] Degenerate Convex Hulls On-Line in Any Fixed Dimension (10.1007/pl00009477)

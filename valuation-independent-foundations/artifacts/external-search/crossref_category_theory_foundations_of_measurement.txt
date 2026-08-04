@@ -1,0 +1,9 @@
+CROSSREF: 'category theory foundations of measurement' => 3125120 results
+  [2018] Category Theory and Foundations (10.1093/oso/9780198748991.003.0005)
+  [1977] Categorical Foundations and Foundations of Category Theory (10.1007/978-94-010-1138-9_9)
+  [2018] Category Theory and the Foundations of Classical Space–Time Theories (10.1093/oso/9780198748991.003.0013)
+  [2020] Sequential Spectra and the Stable Homotopy Category (10.1017/9781108636575.003)
+  [0] Category theory, applications to the foundations of mathematics (10.4324/9780415249126-y071-1)
+  [0] Where Do Adjunctions Come From? Chimera Morphisms and Adjoint Functors in Category Theory (10.3390/foundations5010010)
+  [1975] Appendix IV Basic Notions in Category Theory (10.1016/s0076-5392(08)62240-7)
+  [0] FOUNDATIONS OF S-MATRIX THEORY. I. THEORY AND MEASUREMENT. (10.2172/4646311)

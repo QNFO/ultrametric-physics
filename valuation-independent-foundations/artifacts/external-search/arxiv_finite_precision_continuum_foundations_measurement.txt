@@ -1,0 +1,10 @@
+ARXIV: 'finite precision continuum foundations measurement' => 9 results
+  https://arxiv.org/api/fn6JjIz1FKrYKixQ2cvaRgDILUE: arXiv Query: search_query=all:finite OR all:precision OR all:continuum OR all:foundations OR all:measurement&amp;id_list=&amp;start=0&amp;max_results=8
+  1308.0729v1: Homotopy Type Theory: Univalent Foundations of Mathematics
+  1506.02689v1: Identification of Error Sources in High Precision Weight Measurements of Gyroscopes
+  cond-mat/0703235v1: Information Loss as a Foundational Principle for the Second Law of Thermodynamics
+  hep-ph/0202001v1: Present and Future Electroweak Precision Measurements and the Indirect Determination of the Mass of the Higgs Boson
+  1601.00059v2: Controversies in the foundations of analysis: Comments on Schubring's Conflicts
+  2410.12614v1: Mixed-precision finite element kernels and assembly: Rounding error analysis and hardware acceleration
+  2101.07005v2: Optical Flow Method for Measuring Deformation of Soil Specimen Subjected to Torsional Shearing
+  2504.03704v1: OPC UA for IO-Link Wireless in a Cyber Physical Finite Element Sensor Network for Shape Measurement

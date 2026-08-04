@@ -1,0 +1,9 @@
+ZENODO: 'Bruhat-Tits distinguishability' => 2172 results
+  Physical Resource Bounds on Operationally Recoverable Decoherent Histories: Energy, Thermal Records, and Observer Constraints (10.5281/zenodo.21776944)
+  Consumer-Relative Quantum Distinguishability on Causal Boundaries (10.5281/zenodo.21789929)
+  PAPER-FBT05A: Effective Berry Geometry on the Relative-Phase Fibre (10.5281/zenodo.21775873)
+  PAPER-Π: Generative Comparability and the Origin of Geometry (10.5281/zenodo.21735323)
+  Simultaneous identities of the golden ratio and Euler's identity, formally verified in Lean 4 over the known Mersenne prime exponents (10.5281/zenodo.21731878)
+  The Hilbert-Pólya Operator and the Primitive Structure of the Complex Plane: Between 𝔽₁, String Theory, and Ancient Geometry (10.5281/zenodo.21712308)
+  Phase B reproducibility package: count records, job manifest, and analysis code for the postselected CHSH entanglement witness on the Quandela Belenos processor (10.5281/zenodo.21708457)
+  Visibility-vs-Delay Signatures in a Dynamically Reconfigured Double-Slit Apparatus (10.5281/zenodo.21655693)

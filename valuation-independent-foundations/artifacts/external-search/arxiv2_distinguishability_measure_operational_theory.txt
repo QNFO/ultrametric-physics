@@ -1,0 +1,8 @@
+ARXIV: 'distinguishability measure operational theory' => 7 results
+  https://arxiv.org/api/3Xl9hsCmhYpKKOI/gDPD1FNJzUo: arXiv Query: search_query=all:distinguishability OR all:measure OR all:operational OR all:theory&amp;id_list=&amp;start=0&amp;max_results=6
+  hep-th/9707234v2: Variational Approach to Quantum Field Theory: Gaussian Approximation and the Perturbative Expansion around It
+  quant-ph/0102064v2: Statistical distinguishability between unitary operations
+  chao-dyn/9311011v2: The Great Inequality In A Hamiltonian Planetary Theory
+  2107.03979v1: On the Selection of Loss Severity Distributions to Model Operational Risk
+  2602.24280v2: From State-Space Transport to Measurement-Aware Distinguishability in Quantum Sensing
+  hep-th/9201009v1: Large-Small Equivalence in String Theory

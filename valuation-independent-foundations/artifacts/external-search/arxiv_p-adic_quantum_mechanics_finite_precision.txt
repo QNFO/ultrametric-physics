@@ -1,0 +1,10 @@
+ARXIV: 'p-adic quantum mechanics finite precision' => 9 results
+  https://arxiv.org/api/+p/ocDJ23RoqmzxambeY4hpXhA0: arXiv Query: search_query=all:p-adic OR all:quantum OR all:mechanics OR all:finite OR all:precision&amp;id_list=&amp;start=0&amp;max_results=8
+  hep-th/0312046v1: p-Adic and Adelic Quantum Mechanics
+  math-ph/0512018v2: On Phase Transitions for $P$-Adic Potts Model with Competing Interactions on a Cayley Tree
+  hep-th/0602044v1: p-Adic and Adelic Cosmology: p-Adic Origin of Dark Energy and Dark Matter
+  hep-th/9410058v3: p-Adic description of Higgs mechanism I: p-Adic square root and p-adic light cone
+  2408.00810v3: p-adic Equiangular Lines and p-adic van Lint-Seidel Relative Bound
+  math-ph/0406024v1: p-Adic wavelet transform and quantum physics
+  hep-th/9506097v2: p-Adic TGD: Mathematical Ideas
+  2601.13808v1: Composing $p$-adic qubits: from representations of SO(3)$_p$ to entanglement and universal quantum logic gates

@@ -1,0 +1,11 @@
+OPENALEX: 'p-adic physics finite precision' => 598 results
+  [2016] Scattering amplitudes over finite fields and multivariate functional reconstruction (https://doi.org/10.1007/jhep12(2016)030)
+  [2019] FiniteFlow: multivariate functional reconstruction using finite fields and dataflow graphs (https://doi.org/10.1007/jhep07(2019)031)
+  [2015] Towards LHC physics with nonlocal Standard Model (https://doi.org/10.1016/j.nuclphysb.2015.06.023)
+  [2023] Les Houches 2021—physics at TeV colliders: report on the standard model precision wishlist (https://doi.org/10.1088/1361-6471/acbaec)
+  [2015] Automatic differentiation in machine learning: a survey (None)
+  [2011] Relaxed algorithms for <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML"> <mml:mi>p</mml:mi> </mml:math> -adic numbers (https://doi.org/10.5802/jtnb.777)
+  [2023] Free Choice in Quantum Theory: A p-adic View (https://doi.org/10.3390/e25050830)
+  [2016] $p$-adic Distance, Finite Precision and Emergent Superdeterminism: A Number-Theoretic Consistent-Histories Approach to Local Quantum Realism (https://doi.org/10.48550/arxiv.1609.08148)
+  [2023] Lips: p-adic and singular phase space (https://doi.org/10.48550/arxiv.2305.14075)
+  [2004] From Physics to Number Theory via Noncommutative Geometry, Part II: Renormalization, the Riemann-Hilbert correspondence, and motivic Galois theory (https://doi.org/10.48550/arxiv.hep-th/0411114)

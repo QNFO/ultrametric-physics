@@ -1,0 +1,9 @@
+CROSSREF: 'p-adic physics finite precision' => 3967662 results
+  [2001] Compact Perturbations of p-adic Operators With Finite Codimensional Range (10.1201/9780203908143.ch25)
+  [2001] Some Dynamical Systems in Finite Field Extensions of the p-adic Numbers (10.1201/9780203908143.ch20)
+  [2015] On finite-temperature string field theory and p-adic string (10.1134/s207004661502003x)
+  [0] The Langlands quotient theorem for finite central extensions of p-adic groups (10.3336/gm.48.2.07)
+  [0] PERIOD DOMAINS OVER p-ADIC FIELDS (10.1017/cbo9780511762482.010)
+  [1988] The integral p–adic logarithm (10.1017/cbo9780511600654.008)
+  [2000] Finite Extensions of the Field of p-adic Numbers (10.1007/978-1-4757-3254-2_2)
+  [1988] The p–adic quotient of SK<sub>1</sub>(ℤ[G]): finite groups (10.1017/cbo9780511600654.016)

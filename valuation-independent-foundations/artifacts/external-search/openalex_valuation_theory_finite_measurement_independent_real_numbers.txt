@@ -1,0 +1,11 @@
+OPENALEX: 'valuation theory finite measurement independent real numbers' => 7395 results
+  [1987] The theory of the firm (None)
+  [2008] Design efficiency for non‐market valuation with choice modelling: how to measure it, what to report and why* (https://doi.org/10.1111/j.1467-8489.2007.00436.x)
+  [2013] What Happens When Evaluation Goes Online? Exploring Apparatuses of Valuation in the Travel Sector (https://doi.org/10.1287/orsc.2013.0877)
+  [2008] Valuations and Plurisubharmonic Singularities (https://doi.org/10.2977/prims/1210167334)
+  [2020] Environmental Valuation with Discrete Choice Experiments (https://doi.org/10.1007/978-3-030-62669-3)
+  [1990] Theory and applications of the multiquadric-biharmonic method 20 years of discovery 1968–1988 (https://doi.org/10.1016/0898-1221(90)90272-l)
+  [2020] Modeling Imprecision in Perception, Valuation, and Choice (https://doi.org/10.1146/annurev-economics-102819-040518)
+  [2006] THE MEASUREMENT OF SOCIAL EXCLUSION (https://doi.org/10.1111/j.1475-4991.2006.00195.x)
+  [1990] Perspectives on the theory and practice of belief functions (https://doi.org/10.1016/0888-613x(90)90012-q)
+  [1989] Understanding Real Business Cycles (https://doi.org/10.1257/jep.3.3.51)

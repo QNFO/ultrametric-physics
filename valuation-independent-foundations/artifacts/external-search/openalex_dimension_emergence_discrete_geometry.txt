@@ -1,0 +1,11 @@
+OPENALEX: 'dimension emergence discrete geometry' => 57637 results
+  [2014] Science and technology roadmap for graphene, related two-dimensional crystals, and hybrid systems (https://doi.org/10.1039/c4nr01600a)
+  [1999] On the gauge theory/geometry correspondence (https://doi.org/10.4310/atmp.1999.v3.n5.a5)
+  [1999] Finite-deformation irreversible cohesive elements for three-dimensional crack-propagation analysis (https://doi.org/10.1002/(sici)1097-0207(19990330)44:9<1267::aid-nme486>3.0.co;2-7)
+  [2008] The Emergence of Distinctive Features (https://doi.org/10.1093/oso/9780199207916.001.0001)
+  [2017] Three-dimensional nanomagnetism (https://doi.org/10.1038/ncomms15756)
+  [2016] Magnetism in curved geometries (https://doi.org/10.1088/0022-3727/49/36/363001)
+  [2015] Dimensional flow in discrete quantum geometries (https://doi.org/10.1103/physrevd.91.084047)
+  [2008] Dimensionality and Dynamics in the Behavior of C. elegans (https://doi.org/10.1371/journal.pcbi.1000028)
+  [2015] Entwinement and the emergence of spacetime (https://doi.org/10.1007/jhep01(2015)048)
+  [2022] Towards higher-dimensional structured light (https://doi.org/10.1038/s41377-022-00897-3)

@@ -1,0 +1,10 @@
+ARXIV: 'ultrametric state discrimination' => 9 results
+  https://arxiv.org/api/LWs2I9gBZmJb9+LsjkQ1yvdVRxo: arXiv Query: search_query=all:ultrametric OR all:state OR all:discrimination&amp;id_list=&amp;start=0&amp;max_results=8
+  1707.09430v1: Human in the Loop: Interactive Passive Automata Learning via Evidence-Driven State-Merging Algorithms
+  2008.10209v2: An embedding, an extension, and an interpolation of ultrametrics
+  1401.0899v3: Assisted optimal state discrimination without entanglement
+  0809.0492v1: From Data to the p-Adic or Ultrametric Model
+  1002.3951v4: Ultrametric Cantor Sets and Growth of Measure
+  1201.2711v3: Ultrametric Model of Mind, I: Review
+  1311.5094v4: On stochastic generation of ultrametrics in high-dimension Euclidean spaces
+  2005.08761v3: Toward ultrametric modeling of the epidemic spread

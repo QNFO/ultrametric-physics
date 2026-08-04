@@ -1,0 +1,8 @@
+ARXIV: 'p-adic mathematical physics Vladimirov Volovich' => 7 results
+  https://arxiv.org/api/hr1xBBXtQiKjHO3CMcpR3RfdZxs: arXiv Query: search_query=all:p-adic OR all:mathematical OR all:physics OR all:Vladimirov OR all:Volovich&amp;id_list=&amp;start=0&amp;max_results=6
+  1705.04758v1: $p$-Adic Mathematical Physics: The First 30 Years
+  1110.4864v2: Mathematical Physics : Problems and Solutions of The Students Training Contest Olympiad in Mathematical and Theoretical Physics (May 21st - 24th, 2010)
+  math-ph/0512018v2: On Phase Transitions for $P$-Adic Potts Model with Competing Interactions on a Cayley Tree
+  0904.4205v1: p-Adic Mathematical Physics
+  1206.3106v1: On Measurements, Numbers and p-Adic Mathematical Physics
+  hep-th/9506097v2: p-Adic TGD: Mathematical Ideas

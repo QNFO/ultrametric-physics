@@ -1,0 +1,8 @@
+ARXIV: 'ontic structural realism measurement' => 7 results
+  https://arxiv.org/api/XCYmW42BYGEkgEeHY9TpCl64fIA: arXiv Query: search_query=all:ontic OR all:structural OR all:realism OR all:measurement&amp;id_list=&amp;start=0&amp;max_results=6
+  1306.2726v1: No categorial support for radical ontic structural realism
+  1606.04071v1: Scientific Realism and Primordial Cosmology
+  2210.04165v2: Neural Extended Kalman Filters for Learning and Predicting Dynamics of Structural Systems
+  1408.6808v1: How to account for quantum non-locality: ontic structural realism and the primitive ontology of quantum physics
+  2101.07005v2: Optical Flow Method for Measuring Deformation of Soil Specimen Subjected to Torsional Shearing
+  2303.08710v1: Two-Scale Optimization of Graded Lattice Structures respecting Buckling on Micro- and Macroscale

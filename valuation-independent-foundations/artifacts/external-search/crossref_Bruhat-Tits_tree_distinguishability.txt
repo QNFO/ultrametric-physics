@@ -1,0 +1,9 @@
+CROSSREF: 'Bruhat-Tits tree distinguishability' => 239725 results
+  [2021] Bending the Bruhat-Tits tree. Part II. The p-adic BTZ black hole and local diffeomorphism on the Bruhat-Tits tree (10.1007/jhep09(2021)097)
+  [2023] Bruhat–Tits Theory (10.1017/9781108933049.005)
+  [0] Formalising the Bruhat-Tits Tree (10.46298/afm.15738)
+  [2023] Overview and Summary of Bruhat–Tits Theory (10.1017/9781108933049.007)
+  [2023] The Bruhat–Tits Building for a Valuation of the Root Datum (10.1017/9781108933049.010)
+  [2017] The Other Bruhat-Tits Buildings (10.23943/princeton/9780691166902.003.0018)
+  [1995] Scattering on the Bruhat-Tits tree. I (10.1016/0375-9601(94)00997-4)
+  [2023] Bruhat, Cartan, and Iwasawa Decompositions (10.1017/9781108933049.008)

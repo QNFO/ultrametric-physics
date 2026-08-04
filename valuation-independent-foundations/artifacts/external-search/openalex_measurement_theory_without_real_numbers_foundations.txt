@@ -1,0 +1,11 @@
+OPENALEX: 'measurement theory without real numbers foundations' => 130492 results
+  [2001] On the mathematical foundations of learning (https://doi.org/10.1090/s0273-0979-01-00923-5)
+  [2011] Foundations of Perturbative QCD (https://doi.org/10.1017/cbo9780511975592)
+  [2013] Foundations of Black Hole Accretion Disk Theory (https://doi.org/10.12942/lrr-2013-1)
+  [2009] Modern theory of nuclear forces (https://doi.org/10.1103/revmodphys.81.1773)
+  [1995] Support-Vector Networks (https://doi.org/10.1023/a:1022627411411)
+  [2002] Ethnicity without groups (https://doi.org/10.1017/s0003975602001066)
+  [2013] Trade Theory with Numbers: Quantifying the Consequences of Globalization (https://doi.org/10.3386/w18896)
+  [1996] Reinforcement Learning: A Survey (https://doi.org/10.1613/jair.301)
+  [1998] Foundations of Modern Probability (https://doi.org/10.2307/2669881)
+  [1952] The nature and measurement of meaning. (https://doi.org/10.1037/h0055737)

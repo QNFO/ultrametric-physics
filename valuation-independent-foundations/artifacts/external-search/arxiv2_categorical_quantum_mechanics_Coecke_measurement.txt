@@ -1,0 +1,8 @@
+ARXIV: 'categorical quantum mechanics Coecke measurement' => 7 results
+  https://arxiv.org/api/EFtT/HTcTrfxa1qr5tyJIDhcHbs: arXiv Query: search_query=all:categorical OR all:quantum OR all:mechanics OR all:Coecke OR all:measurement&amp;id_list=&amp;start=0&amp;max_results=6
+  0808.1023v1: Categorical quantum mechanics
+  quant-ph/0608035v2: Quantum measurements without sums
+  1502.00831v2: Open System Categorical Quantum Semantics in Natural Language Processing
+  quant-ph/0107090v1: Quantum Measurement, Information, and Completely Positive Maps
+  1301.3626v2: Quantum continuous measurements: The stochastic Schroedinger equations and the spectrum of the output
+  0910.2401v2: No-Cloning In Categorical Quantum Mechanics

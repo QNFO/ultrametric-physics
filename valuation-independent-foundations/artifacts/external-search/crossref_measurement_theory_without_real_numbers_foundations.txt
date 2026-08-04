@@ -1,0 +1,9 @@
+CROSSREF: 'measurement theory without real numbers foundations' => 4341008 results
+  [1993] Elementary Theory of Real Numbers (10.1007/978-3-642-78052-3_3)
+  [2020] Real Numbers (10.1142/9789811201936_0007)
+  [2025] Real Numbers (10.1142/9789811297847_0007)
+  [1984] Nontransitive Indifference, Probabilistic Consistency, and Measurement without Numbers (10.1017/cbo9780511759871.011)
+  [2010] Real numbers and classical measurements (10.1017/cbo9780511674761.011)
+  [2016] - Series of Numbers (10.1201/b15061-8)
+  [1973] Chapter 11 Cardinal Numbers in Set Theory without Choice (10.1016/s0049-237x(08)71764-6)
+  [2022] Real and Complex Numbers (10.1201/9781003222682-2)

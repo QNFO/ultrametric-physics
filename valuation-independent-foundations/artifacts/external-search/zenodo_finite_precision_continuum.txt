@@ -1,0 +1,9 @@
+ZENODO: 'finite precision continuum' => 90829 results
+  Dataset: Sensitivity Analysis of a Pedestrian Footbridge Dynamic Response to a Running Load (10.5281/zenodo.21794862)
+  Data and code for: Unequal precision can generate apparent stasis and extreme change in biodiversity trends (10.5281/zenodo.21794500)
+  DCAM-EX v5.9.0: Preregistered Confirmatory Hold-Out Simulation Results (10.5281/zenodo.21794383)
+  Guivve-A/Paper: MangroveShield — IEEE ETCM 2026 camera-ready artefacts (10.5281/zenodo.21794283)
+  Postmodern Physics of Hamzah Information.(81) (10.5281/zenodo.21793789)
+  One-sided subquadratic scalar energies on radial domains: reproducibility package (10.5281/zenodo.21784526)
+  Reciprocal-Margin Topology Oversampling: A Local Graph Model for Boundary-Screened Learning from Imbalanced Tabular Data (10.58257/IJPREMS54511)
+  Frontiers in Agriculture and Environmental Sustainability (10.5281/zenodo.21793388)

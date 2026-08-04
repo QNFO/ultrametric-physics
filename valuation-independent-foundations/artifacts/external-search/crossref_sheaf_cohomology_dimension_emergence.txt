@@ -1,0 +1,9 @@
+CROSSREF: 'sheaf cohomology dimension emergence' => 226585 results
+  [2022] Cellular Sheaf Cohomology through Examples (10.7551/mitpress/12581.003.0012)
+  [2003] Sheaf cohomology and the dimension of uniform spaces (10.1070/rm2003v058n04abeh000653)
+  [2012] Links with sheaf cohomology (10.1017/cbo9781139044059.023)
+  [1975] Cohomology (10.1017/cbo9780511661761.007)
+  [1997] Sheaf Cohomology (10.1007/978-1-4612-0647-7_2)
+  [1998] Links with sheaf cohomology (10.1017/cbo9780511629204.023)
+  [1969] Analytic sheaf cohomology groups of dimension $n$ of $n-dimensional$ $complex$ $spaces.$ (10.1090/s0002-9947-1969-0252684-6)
+  [2008] Sheaf cohomology (10.1007/978-1-84800-056-8_7)

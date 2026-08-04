@@ -1,0 +1,10 @@
+ARXIV: 'operational probabilistic theories measurement distinguishability' => 9 results
+  https://arxiv.org/api/Xyl20U+oQdKX95nh95tqEm/HjrQ: arXiv Query: search_query=all:operational OR all:probabilistic OR all:theories OR all:measurement OR all:distinguishability&amp;id_list=&amp;start=0&amp;max_results=8
+  2602.24280v2: From State-Space Transport to Measurement-Aware Distinguishability in Quantum Sensing
+  0910.0994v3: Distinguishability Measures and Entropies for General Probabilistic Theories
+  quant-ph/0102064v2: Statistical distinguishability between unitary operations
+  1806.07966v2: An Application of Computable Distributions to the Semantics of Probabilistic Programs
+  1605.02876v1: Nonequilibrium physics aspects of probabilistic cellular automata
+  2107.03979v1: On the Selection of Loss Severity Distributions to Model Operational Risk
+  2101.07005v2: Optical Flow Method for Measuring Deformation of Soil Specimen Subjected to Torsional Shearing
+  0908.1583v5: Probabilistic theories with purification

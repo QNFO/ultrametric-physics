@@ -1,0 +1,9 @@
+ZENODO: 'ultrametric physics' => 111666 results
+  Predicting scale deposition in oil reservoirs using machine learning optimization algorithms (10.1016/j.rineng.2024.102263)
+  T1DUJxUoM: Forecasting Accuracy Is Not Enough — Safety-Oriented Evaluation of Neural Digital Twins Before In-Silico Insulin and Carbohydrate Intervention in Type 1 Diabetes (10.5281/zenodo.21794825)
+  Postmodern Physics of Hamzah Information.(83) (10.5281/zenodo.21793890)
+  Postmodern Physics of Hamzah Information.(82) (10.5281/zenodo.21793834)
+  Postmodern Physics of Hamzah Information.(81) (10.5281/zenodo.21793789)
+  Explainable AI for Space Weather Forecasting: From Global Feature Mapping to Physics-Guided and Spectral Counterfactual Explanations for Multivariate Time Series (10.5281/zenodo.21763893)
+  From Particle Physics Concepts to Medical Innovation (10.5281/zenodo.21793757)
+  Quantum Chromodynamics (10.5281/zenodo.21793651)

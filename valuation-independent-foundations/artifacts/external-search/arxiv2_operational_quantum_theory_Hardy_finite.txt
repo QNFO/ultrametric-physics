@@ -1,0 +1,8 @@
+ARXIV: 'operational quantum theory Hardy finite' => 7 results
+  https://arxiv.org/api/O9kWn9dPc+ypILa9/RQx3J6PmfM: arXiv Query: search_query=all:operational OR all:quantum OR all:theory OR all:Hardy OR all:finite&amp;id_list=&amp;start=0&amp;max_results=6
+  1303.1538v1: Reconstructing quantum theory
+  hep-th/9707234v2: Variational Approach to Quantum Field Theory: Gaussian Approximation and the Perturbative Expansion around It
+  quant-ph/0008019v2: Operational quantum logic: An overview
+  1710.01271v2: Mass and Extremals Associated with the Hardy-Schrödinger Operator on Hyperbolic Space
+  0804.0054v1: Formalism Locality in Quantum Theory and Quantum Gravity
+  2512.10504v2: Tianyan: Cloud services with quantum advantage

@@ -1,0 +1,11 @@
+OPENALEX: 'distinguishability measurement ultrametric' => 194 results
+  [2024] Parsimonious ultrametric Gaussian mixture models (https://doi.org/10.1007/s11222-024-10405-9)
+  [2020] Perovskite neural trees (https://doi.org/10.1038/s41467-020-16105-y)
+  [2007] Model-Based Clustering for Social Networks (https://doi.org/10.1111/j.1467-985x.2007.00471.x)
+  [2007] Scaling of insect metabolic rate is inconsistent with the nutrient supply network model (https://doi.org/10.1111/j.1365-2435.2007.01245.x)
+  [2016] Fifteen species in one: deciphering the Brachionus plicatilis species complex (Rotifera, Monogononta) through DNA taxonomy (https://doi.org/10.1007/s10750-016-2725-7)
+  [2013] <scp>SURFACE</scp>: detecting convergent evolution from comparative data by fitting Ornstein‐Uhlenbeck models with stepwise Akaike Information Criterion (https://doi.org/10.1111/2041-210x.12034)
+  [2011] Abundant Occurrence of Basal Radial Glia in the Subventricular Zone of Embryonic Neocortex of a Lissencephalic Primate, the Common Marmoset Callithrix jacchus (https://doi.org/10.1093/cercor/bhr301)
+  [2020] Multiscale structural complexity of natural patterns (https://doi.org/10.1073/pnas.2004976117)
+  [2017] <i>TreeSim<scp>GM</scp></i>: Simulating phylogenetic trees under general Bellman–Harris models with lineage‐specific shifts of speciation and extinction in R (https://doi.org/10.1111/2041-210x.12917)
+  [2015] Detecting Adaptive Evolution in Phylogenetic Comparative Analysis Using the Ornstein–Uhlenbeck Model (https://doi.org/10.1093/sysbio/syv043)

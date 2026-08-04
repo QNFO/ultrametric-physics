@@ -1,0 +1,9 @@
+ZENODO: 'valuation theory measurement p-adic' => 965038 results
+  Disponibilidad y Caracterización Petrográfica de materias primas cerámicas en el noroeste de Mendoza (10.5281/zenodo.20544797)
+  On the distant Pampa Toward the West: Evidencias Históricas y Materiales en Torno a una Ruta Remesera Olvidada entre San Pedro de Atacama y Caracoles (Antofagasta, Chile, Siglos XIX-XX) (10.5281/zenodo.20544750)
+  A Ficção da Periculosidade: Risco, Prognóstico de Reincidência e Indeterminação Temporal nas Medidas de Segurança (10.5281/zenodo.21778698)
+  Falun Gong in Britain (10.5281/zenodo.21795273)
+  Water-energy-food security nexus based selection of energy recovery from wastewater treatment technologies: An extended decision making framework under intuitionistic fuzzy environment (10.1016/j.seta.2020.100937)
+  Instrumentos para la evaluación de la comunicación escrita en chino como lengua extranjera (A1-A2 MCER) (10.5281/zenodo.21795111)
+  When Bigger Is Better: Household Size, Abuse Injuries, Neglect, and Family Response in Novosibirsk, Russia (10.1177/0886260517692333)
+  Identidades Lingüísticas en Contexto Migratorio: El Caso de los Aveyroneses de Pigüé (Argentina) (10.5281/zenodo.20544722)

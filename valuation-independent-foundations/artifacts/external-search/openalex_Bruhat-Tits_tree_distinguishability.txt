@@ -1,0 +1,4 @@
+OPENALEX: 'Bruhat-Tits tree distinguishability' => 3 results
+  [2019] Probing holography in $p$-adic CFT (https://doi.org/10.48550/arxiv.1911.06313)
+  [2023] Probing holography in <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" display="inline"><mml:mi>p</mml:mi></mml:math>-adic CFT (https://doi.org/10.1103/physrevd.107.126011)
+  [2024] Representation theory of the group of automorphisms of a finite rooted tree (https://doi.org/10.48550/arxiv.2405.15391)
