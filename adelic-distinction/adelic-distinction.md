@@ -21,13 +21,13 @@ Ostrowski's theorem (1916) establishes that every completion of the rational num
 
 The standard formalism of physics rests on an unstated assumption: that the real numbers $\mathbb{R}$ are the correct number system for describing physical quantities. Coordinates, field values, coupling constants, and probability amplitudes are all taken to be real numbers. The real numbers enter physics through the back door of continuity — the assumption that spacetime is a smooth manifold, that symmetry groups are Lie groups, and that functional integrals run over real-valued fields.
 
-Ostrowski's theorem [1] shows that this choice is not forced by logic. The rational numbers $\mathbb{Q}$ admit completions at every prime $p$, yielding the $p$-adic fields $\mathbb{Q}_p$, in addition to the real completion $\mathbb{R}$. The theorem is exhaustive: these are all the completions. Physics has, without justification, restricted itself to the real place alone. This paper asks what happens when the restriction is lifted — when physical quantities are permitted to carry $p$-adic components, and the fundamental arena is the adele ring $\mathbb{A}_{\mathbb{Q}}$, the simultaneous product of all completions.
+Ostrowski's theorem [1] shows that this choice is not forced by logic. The rational numbers $\mathbb{Q}$ admit completions at every prime $p$, yielding the $p$-adic fields $\mathbb{Q}_p$, in addition to the real completion $\mathbb{R}$. The theorem is exhaustive: these are all the completions. Physics has, without justification, restricted itself to the real place alone. This paper asks what happens when the restriction is lifted — when physical quantities are permitted to carry $p$-adic components, and the natural arena is the adele ring $\mathbb{A}_{\mathbb{Q}}$, the simultaneous product of all completions.
 
 The question is not speculative in the sense of proposing new physical laws; it is structural. The adele ring already exists as a mathematical object, independent of any physical theory. The claim is that its structure alone — the product formula, the topology of the idele class group, the geometry of Bruhat-Tits trees — constrains the form that any physical theory defined over it must take, and that those constraints reproduce the central features of the Standard Model and cosmology without additional assumptions. `[speculative]`
 
 ### 1.2 The Distinction Network
 
-The framework adopted here is that physical reality is a dynamical network of distinctions [2]. A distinction is a primitive act of differentiation — the drawing of a boundary that separates one state from another. The set of all possible distinctions over the rational numbers $\mathbb{Q}$ naturally organizes into the adele ring: the Archimedean place encodes continuous distinctions (real frequencies), while each $p$-adic place encodes discrete distinctions indexed by prime numbers. The totality is the adelic distinction network, and its invariant structure — the idele class group — is the source of all conserved quantities and symmetries. `[my conjecture]`
+The framework adopted here is that the physical world is a dynamical network of distinctions [2]. A distinction is a primitive act of differentiation — the drawing of a boundary that separates one state from another. The set of all possible distinctions over the rational numbers $\mathbb{Q}$ naturally organizes into the adele ring: the Archimedean place encodes continuous distinctions (real frequencies), while each $p$-adic place encodes discrete distinctions indexed by prime numbers. The totality is the adelic distinction network, and its invariant structure — the idele class group — is the source of all conserved quantities and symmetries. `[my conjecture]`
 
 This paper does not attempt to derive dynamics from an action principle or to quantize a classical theory. Instead, it enumerates the structural consequences of the adelic topology and shows that they align with observed physics across an unexpected range of phenomena. The approach is exploratory: it maps the landscape, identifies correspondences, and proposes falsifiable tests. The derivation of numerical constants — masses, couplings, mixing angles — as periods of automorphic forms is left as a program for future work.
 
@@ -74,7 +74,7 @@ The existence of three fermion generations — $(e, \mu, \tau)$, $(u, c, t)$, $(
 
 ### 4.1 Fields as Automorphic Forms
 
-If spacetime is the emergent shadow of the adelic trees, then the fundamental entities are not operator-valued distributions on a manifold but automorphic forms on the idele class group. Every particle species corresponds to an irreducible automorphic representation of a reductive group over the adeles. Creation and annihilation operators are Fourier coefficients of these automorphic forms, with the Fourier expansion over the Pontryagin dual of the adelic circle.
+If spacetime is the emergent shadow of the adelic trees, then the primary entities are not operator-valued distributions on a manifold but automorphic forms on the idele class group. Every particle species corresponds to an irreducible automorphic representation of a reductive group over the adeles. Creation and annihilation operators are Fourier coefficients of these automorphic forms, with the Fourier expansion over the Pontryagin dual of the adelic circle.
 
 The path integral over fields in spacetime becomes a sum over automorphic representations, weighted by their $L$-functions. Feynman diagrams are combinatorial expansions of the adelic action's partition function, with the propagator given by the inverse of the Laplacian on the adelic symmetric space. `[speculative]`
 
@@ -88,11 +88,11 @@ where $d\mu_v$ is the Haar measure on the local field at place $v$. The Archimed
 
 ---
 
-## 5. A Unified View of Fundamental Symmetries
+## 5. A Unified View of Core Symmetries
 
 ### 5.1 CPT as the Product Formula
 
-CPT symmetry — the combination of charge conjugation, parity inversion, and time reversal — is a fundamental invariance of any Lorentz-invariant quantum field theory. In the adelic framework, CPT is the reflection symmetry of the full adelic distinction network: parity inverts the orientation of each Bruhat-Tits tree, charge conjugation conjugates winding numbers, and time reversal inverts the direction of scale flow. The product of these three involutions is an automorphism of the idele class group that leaves the action invariant. The functional equation of the adelic $L$-function is precisely the mathematical statement of CPT invariance: the theorem that CPT must be conserved follows from the product formula. `[speculative]`
+CPT symmetry — the combination of charge conjugation, parity inversion, and time reversal — is a core invariance of any Lorentz-invariant quantum field theory. In the adelic framework, CPT is the reflection symmetry of the full adelic distinction network: parity inverts the orientation of each Bruhat-Tits tree, charge conjugation conjugates winding numbers, and time reversal inverts the direction of scale flow. The product of these three involutions is an automorphism of the idele class group that leaves the action invariant. The functional equation of the adelic $L$-function is precisely the mathematical statement of CPT invariance: the theorem that CPT must be conserved follows from the product formula. `[speculative]`
 
 ### 5.2 The Higgs as Dilaton of the Adelic Symmetric Space
 
