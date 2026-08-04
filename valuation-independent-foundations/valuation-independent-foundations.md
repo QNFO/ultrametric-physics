@@ -150,9 +150,9 @@ measure on the equivalence classes of the valuation (see §4).
 
 A **valuation** on a distinguishability poset (𝒮, ≺_d) is a function
 
-\[
+$$
 v: \mathcal{S} \times \mathcal{S} \to \mathbb{N} \cup \{\infty\}
-\]
+$$
 
 where v(a, b) is the **coarsest measurement resolution at which a and b become
 distinguishable.** Higher values of v mean MORE similar (harder to distinguish);
@@ -163,33 +163,33 @@ identical.
 The valuation satisfies three axioms:
 
 **(V1) Identity of Indiscernibles:**
-\[
+$$
 v(a, b) = \infty \iff a \equiv b \text{ (indistinguishable at all finite resolutions)}
-\]
+$$
 
 **(V2) Symmetry:**
-\[
+$$
 v(a, b) = v(b, a) \quad \text{for all } a, b \in \mathcal{S}
-\]
+$$
 
 **(V3) Ultrametric Inequality (strong triangle):**
-\[
+$$
 v(a, c) \geq \min(v(a, b), v(b, c)) \quad \text{for all } a, b, c \in \mathcal{S}
-\]
+$$
 
 The pair (𝒮, v) satisfying V1–V3 is a **valuation space**.
 
 ### 3.2 Why the Ultrametric Inequality?
 
 The standard triangle inequality of metric spaces is:
-\[
+$$
 d(a, c) \leq d(a, b) + d(b, c)
-\]
+$$
 This is Archimedean — it allows distances to accumulate additively. In contrast,
 the ultrametric inequality:
-\[
+$$
 v(a, c) \geq \min(v(a, b), v(b, c))
-\]
+$$
 is **non-Archimedean.** It says: the resolution needed to tell a from c is
 bounded below by the coarser of the two pairwise resolutions. If you can tell
 a from b at resolution r, and b from c at resolution r, you can tell a from c
@@ -210,9 +210,9 @@ additively.
 
 The valuation v induces an ultrametric distance on the states:
 
-\[
+$$
 d_v(a, b) = q^{-v(a, b)}
-\]
+$$
 
 for some base q > 1. When q is prime, d_v is precisely the p-adic metric on ℚ_p.
 The valuation space (𝒮, v) is equivalent to the ultrametric space (𝒮, d_v) — the
@@ -231,9 +231,9 @@ kT ln 2 per bit), d_v(a, b) = 2^{-v(a, b)}.
 The category **Val** has:
 - **Objects:** Valuation spaces (𝒮, v) satisfying V1–V3.
 - **Morphisms:** Non-expansive maps f: (𝒮, v) → (𝒮', v') satisfying
-  \[
+  $$
   v'(f(a), f(b)) \geq v(a, b) \quad \text{for all } a, b \in \mathcal{S}
-  \]
+  $$
   A non-expansive map does not INCREASE distinguishability — the image of two
   states under f is at least as hard to distinguish (at least as similar) as
   the originals. Equivalently: f is a **1-Lipschitz map** in the ultrametric
@@ -245,9 +245,9 @@ The category **Val** has:
 trivially to *.
 
 **Products:** The product of (𝒮₁, v₁) and (𝒮₂, v₂) is
-\[
+$$
 (\mathcal{S}_1 \times \mathcal{S}_2, \quad v((a_1,a_2), (b_1,b_2)) = \min(v_1(a_1,b_1), v_2(a_2,b_2)))
-\]
+$$
 The coproduct (disjoint union) is the maximum: v(a, b) = v_i(a, b) if both are
 in component i, ∞ otherwise.
 
@@ -284,17 +284,17 @@ choosing a topos first.
 An act of measurement at resolution r does not produce a real number — it produces
 a **coarse-graining** of the state space:
 
-\[
+$$
 \mathcal{S} \mapsto \mathcal{S}_r = \mathcal{S} / \sim_r
-\]
+$$
 
 where a ∼_r b ⇔ v(a, b) ≥ r (i.e., indistinguishable at resolution r). The
 quotient 𝒮_r is the set of equivalence classes at resolution r.
 
 The refinement operator satisfies:
-\[
+$$
 \mathcal{S}_{r+1} \xrightarrow{\pi_{r+1}} \mathcal{S}_r
-\]
+$$
 where π_{r+1} maps each finer equivalence class to the coarser class containing
 it. This is a natural transformation in Val.
 
@@ -302,9 +302,9 @@ it. This is a natural transformation in Val.
 
 The refinement maps form a **sheaf** over the poset ℕ (reverse-ordered: r+1 → r
 because finer resolution maps TO coarser). The assignment
-\[
+$$
 r \mapsto \mathcal{S}_r
-\]
+$$
 with restriction maps π_{r+1}: 𝒮_{r+1} → 𝒮_r is a presheaf on ℕ^op.
 
 **Sheaf condition:** For any cover of resolution r by finer resolutions
@@ -318,9 +318,9 @@ cover is just the singleton {r+1} (ℕ is a linear order).
 At resolution r, the measurement partitions the state space into |𝒮_r| equivalence
 classes. The information content of the measurement is:
 
-\[
+$$
 I(r) = \log_2 |\mathcal{S}_r| \quad \text{bits}
-\]
+$$
 
 By the Landauer bound `[Landauer, 1961]`, each bit of distinguishable information
 costs kT ln 2 in dissipated energy. The measurement at resolution r is a
@@ -328,13 +328,13 @@ costs kT ln 2 in dissipated energy. The measurement at resolution r is a
 
 If the valuation space has a constant branching factor q (each refinement step
 splits each equivalence class into q subclasses), then:
-\[
+$$
 |\mathcal{S}_r| = q^{d \cdot r}
-\]
+$$
 where d is the effective dimension (see §7). The information content is:
-\[
+$$
 I(r) = d \cdot r \cdot \log_2 q
-\]
+$$
 For binary distinguishability (q = 2): I(r) = d · r bits.
 
 ---
@@ -344,9 +344,9 @@ For binary distinguishability (q = 2): I(r) = d · r bits.
 ### 6.1 p-Adic Valuation
 
 The p-adic valuation v_p on ℚ is the canonical example of an ultrametric valuation:
-\[
+$$
 v_p\left(\frac{a}{b}\right) = \operatorname{ord}_p(a) - \operatorname{ord}_p(b)
-\]
+$$
 where ord_p(n) is the exponent of p in the prime factorization of n.
 
 The valuation space (ℚ, v_p) satisfies V1–V3 exactly. The p-adic numbers ℚ_p are
@@ -394,19 +394,19 @@ Shannon's channel capacity theorem `[Shannon, 1948]` bounds distinguishability b
 the logarithm of the number of equiprobable messages. In the valuation-space
 framework, the "messages" are the equivalence classes 𝒮_r, and the channel is
 the measurement apparatus. The bound:
-\[
+$$
 I(r) = \log_2 |\mathcal{S}_r| \leq \text{channel capacity}
-\]
+$$
 is the natural information-theoretic embedding of distinguishability.
 
 The Landauer bound `[Landauer, 1961]` imposes the thermodynamic cost:
-\[
+$$
 E_{\text{meas}}(r) \geq kT \ln 2 \cdot \log_2 |\mathcal{S}_r| = kT \cdot d \cdot r \cdot \ln q
-\]
+$$
 In dimensionless Planck units (ℏ = c = G = k_B = 1):
-\[
+$$
 E_{\text{meas}}(r) \geq d \cdot r \cdot \ln q
-\]
+$$
 
 ---
 
@@ -416,13 +416,13 @@ E_{\text{meas}}(r) \geq d \cdot r \cdot \ln q
 
 For a valuation space with constant branching factor q, the number of distinguishable
 states at resolution r is:
-\[
+$$
 N(r) = |\mathcal{S}_r| = q^{d \cdot r}
-\]
+$$
 where d is the effective dimension. Equivalently:
-\[
+$$
 d = \frac{\log_q N(r)}{r} \quad \text{(asymptotically as } r \to \infty\text{)}
-\]
+$$
 
 This is fundamentally different from the Euclidean scaling N(r) ∼ r^d (continuous
 power-law). The valuation-space scaling is **discrete exponential** — each
@@ -434,9 +434,9 @@ states by q at each resolution step.
 The refinement maps π_{r+1}: 𝒮_{r+1} → 𝒮_r form a sheaf over ℕ^op. The consistency
 condition for this sheaf is that the refinement from resolution r+2 to r must
 factor through r+1:
-\[
+$$
 \pi_{r+2} \circ \pi_{r+1} = \pi_{r+2}^{(r)}: \mathcal{S}_{r+2} \to \mathcal{S}_r
-\]
+$$
 
 The **global sections** of this sheaf are states that are defined consistently
 at ALL resolutions (a global state). The dimension d constrains which refinement
@@ -444,9 +444,9 @@ patterns are globally consistent.
 
 **Conjecture (P9 — Frontier Question):** The dimension d is the rank of the
 first sheaf cohomology group H^1 of the refinement sheaf:
-\[
+$$
 d = \operatorname{rank} H^1(\mathcal{F}_{\text{ref}})
-\]
+$$
 where ℱ_ref is the refinement sheaf over ℕ^op. For d = 3 (spatial dimensions),
 the cohomological obstruction restricts the branching pattern to a 3-dimensional
 tree. For d = 3+1 (spacetime), a distinguished "causal" direction with different
