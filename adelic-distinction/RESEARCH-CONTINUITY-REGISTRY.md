@@ -54,9 +54,9 @@
 
 | Priority | Action | Dependency | Target |
 |:---------|:-------|:-----------|:-------|
-| **P0** | D1/KG seeding for DOI 10.5281/zenodo.21786603 | Zenodo live | 2026-08-04 |
-| **P0** | Buffer social media post | D1/KG seeded | 2026-08-04 |
-| **P0** | papers.qnfo.org deployment | D1 body_md + R2 sync | 2026-08-04 |
+| **P0** | D1/KG seeding for DOI 10.5281/zenodo.21786603 | Zenodo live | ✅ DONE 2026-08-04 |
+| **P0** | Buffer social media post | D1/KG seeded | ✅ DONE 2026-08-04 (X + Mastodon scheduled) |
+| **P0** | papers.qnfo.org deployment | D1 body_md + R2 sync | ✅ DONE 2026-08-04 (HTTP 200) |
 | **P1** | Quantitative GW echo amplitude estimate relative to LIGO noise floor | P1 registered | Next session |
 | **P1** | Bruhat-Tits tree diagram (p=2) for paper v0.2 | Design resource | Next session |
 | **P2** | FQ1 computational attempt: one mass ratio as automorphic period | Numerical methods scoped | 2026-Q4 |
@@ -69,6 +69,7 @@
 | Date | Session | Action |
 |:-----|:--------|:-------|
 | 2026-08-04 | 7gJ25ecLca3VNUeaFCZKB | Created registry; extracted FQ1 + P1-P2 + 5 calibration predictions from paper v0.1; committed to ump/paper/adelic-distinction |
+| 2026-08-04 | 7gJ25ecLca3VNUeaFCZKB | Distribution complete: D1 INSERT (body_len 25390), R2 archive (md 25742B + PDF 304667B), KG node+edge seeded (direct D1 fallback — /sync X-Sync-Token not in keyring), papers.qnfo.org HTTP 200, Buffer X+Mastodon posts scheduled (6a71b77de5efaf9f437c7984, 6a71b77db3e9f043478c04d6) |
 
 ---
 
