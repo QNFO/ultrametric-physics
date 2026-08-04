@@ -7,6 +7,7 @@ doi: "10.5281/zenodo.21790172"
 status: "published"
 wbs: "QNFO.UMP.004"
 genre: "A"
+version: "v0.4-grades-revised"
 ---
 
 # Killing the Framework: Seven Criteria for the Falsification of Adelic Physics
@@ -218,7 +219,7 @@ This section applies the same kill-criteria framework to the dominant paradigms 
 
 #### 5.2.1 General Relativity
 
-General relativity passes the falsifiability test better than any other fundamental theory. Eddington's 1919 eclipse observation was a pre-registered kill criterion: if starlight deflection deviated from the GR prediction, the theory was dead. Modern tests continue this tradition.
+General relativity passes the falsifiability test in its *bare* form — the Einstein field equations make specific, falsifiable predictions that have survived every test to date. But the operational paradigm is not the bare equations. It is GR + dark matter + dark energy + inflation, and this composite has become de-facto unfalsifiable in practice.
 
 **Operational kill criteria:**
 - Gravitational wave speed deviating from *c* by more than ~10⁻¹⁵ (tested by GW170817, passed)
@@ -226,13 +227,15 @@ General relativity passes the falsifiability test better than any other fundamen
 - Violation of the equivalence principle at any level (tested by MICROSCOPE to ~10⁻¹⁵, passed)
 - Detection of graviton mass above experimental bounds (constrained to m_g < 10⁻³⁰ eV)
 
-**Escape hatches:** Modified gravity theories (f(R), TeVeS, MOND) exist as alternatives, but they are *competing* frameworks, not escape hatches for GR itself. GR's auxiliary hypotheses — dark matter, dark energy, inflation — are independently testable and have their own kill criteria. GR itself is falsifiable and has survived every test so far. `[established]`
+**Escape hatches — the auxiliary-absorption problem.** The claim that "GR's auxiliary hypotheses are independently testable" is formally true but operationally false. Every galactic-scale anomaly is absorbed by adjusting the dark matter halo. Every cosmic-acceleration anomaly is absorbed by tuning the dark energy equation of state. Every early-universe anomaly is absorbed by choosing a different inflaton potential. These are not independently testable in practice — they function as absorbent escape hatches that have protected the GR-based paradigm from falsification for nearly a century.
 
-**Verdict:** 4/4 operational kill criteria. GRADE: A (falsifiable).
+The formal kill criteria listed above (GW speed, Kerr metric, equivalence principle) are genuine. But they test the *bare* theory, not the operational paradigm. No experiment has ever confronted GR + dark matter + dark energy + inflation as a single unified structure — because the four components can be adjusted independently to accommodate any observation. This is the same structural flexibility that the present paper criticizes in the adelic framework. `[debated — GR's bare form is falsifiable; the operational composite is not]`
+
+**Verdict:** 4/4 operational kill criteria for the bare theory, but zero for the operational composite (GR + DM + DE + inflation). GRADE: C — falsifiable in principle, de-facto unfalsifiable in practice.
 
 #### 5.2.2 The Standard Model of Particle Physics
 
-The Standard Model is highly falsifiable within its domain and has been tested to extraordinary precision.
+The Standard Model is precise within its domain, but its falsifiability is structurally compromised by its parameter count and by a century of particle-hunting history.
 
 **Operational kill criteria:**
 - Proton decay below the predicted GUT scale (~10³⁴ years for minimal SU(5), already excluded; ~10³⁶ years for SUSY GUTs, still viable)
@@ -240,9 +243,11 @@ The Standard Model is highly falsifiable within its domain and has been tested t
 - Non-unitarity of the CKM matrix at >5σ (would break the SM's core consistency condition)
 - Fifth force with coupling strength above current bounds (~10⁻³ of gravity at micron scales)
 
-**Escape hatches:** The SM's primary escape is dimensional: new physics can always be pushed to higher energy scales. But this is bounded — the SM becomes non-perturbative at the Landau pole for U(1) (~10³⁴ GeV), and unitarity violations in WW scattering appear at ~1 TeV without a Higgs. The Higgs was a pre-registered kill criterion: if excluded above ~1 TeV, the SM was dead. It was found. `[established]`
+**Escape hatches — the free-parameter problem.** The SM has 19 free parameters that are *measured, not predicted*: six quark masses, three charged-lepton masses, three CKM mixing angles, one CP-violating phase, the Higgs mass and vacuum expectation value, the three gauge couplings, and the strong CP angle. A framework that fits its constants to the data can never be killed by a wrong value of those constants — it simply re-fits.
 
-**Verdict:** 3/4 operational kill criteria (proton decay awaits). GRADE: A (falsifiable).
+**The particle-hunting history.** The SM extension program has a track record of moving the goalposts. SUSY partners were predicted at the TeV scale in the 1980s; not found; scale raised to 10 TeV; not found; scale raised again. WIMPs were predicted as dark matter; direct detection searches have excluded cross-sections down to zeptobarns; the predicted mass range keeps shifting. Proton decay was predicted by GUTs; the lifetime bound has been pushed past 10³⁴ years; the predicted rate keeps falling. Every null result is absorbed as "the energy scale is higher than we thought" — the same *auxiliary adjustment* escape the present paper criticizes in the adelic framework. When an anomaly appears (muon g−2, B-meson anomalies), it is either absorbed as a "hint of new physics" (a new free parameter) or resolved as a "systematic" — never as a falsification of the framework itself. `[established — 19 SM parameters are measured, not predicted (PDG); the history of SUSY/WIMP/proton-decay null results is documented in the experimental literature]`
+
+**Verdict:** 3/4 formal kill criteria (proton decay awaits), but none of them can kill the framework as long as new free parameters can be added or energy scales raised. GRADE: C — precise where constrained, de-facto unfalsifiable at the boundary.
 
 #### 5.2.3 ΛCDM Cosmology
 
@@ -269,8 +274,9 @@ They are not alone. The multiverse, many-worlds quantum mechanics (in its strong
 
 | Framework | Operational Kill Criteria | Escape Hatches | Grade |
 |:----------|:--------------------------|:---------------|:------|
-| General Relativity | 4/4 | None — competing theories, not escape hatches | **A** |
-| Standard Model | 3/4 | Energy-scale deferral (bounded by Landau pole) | **A** |
+| General Relativity (bare) | 4/4 | None — competing theories, not escape hatches | **A** |
+| GR composite (GR+DM+DE+inflation) | 0/4 | Auxiliary-absorption: DM/DE/inflation tuned to absorb anomalies | **C** |
+| Standard Model | 3/4 formal | Free-parameter re-fit; energy-scale deferral (particle-hunting history) | **C** |
 | ΛCDM | 1/4 bare; 3/4 if tensions count | Baryonic feedback (shrinking, not closed) | **B** |
 | Adelic Framework | 0/7 | 17 documented across 7 criteria + meta-escape | **D** |
 | String Theory | 0/N (landscape absorbs all) | Platonic form / landscape | **D** |
@@ -282,7 +288,7 @@ The adelic framework is not uniquely unfalsifiable — it occupies a grade share
 
 The symmetric audit yields two conclusions:
 
-1. **The asymmetry is real but narrow.** The adelic framework is unfalsifiable (Grade D) while GR and the SM are highly falsifiable (Grade A). But ΛCDM occupies an intermediate grade (B), and string theory/inflation share the adelic framework's grade (D). The claim "contemporary physics has become unfalsifiable" is true of *some* programs, not all.
+1. **The asymmetry is narrower than first appears — and it is not flattering to the incumbents.** The adelic framework is unfalsifiable (Grade D). But the operational GR composite (GR + dark matter + dark energy + inflation) is Grade C, the Standard Model is Grade C, and ΛCDM is Grade B. Only the *bare* Einstein equations earn Grade A. The claim "contemporary physics has become unfalsifiable" is not true of *some* programs — it is true of *most* ambitious programs, and the incumbents survive not because they are more falsifiable but because their escape hatches are older, better institutionalized, and therefore less visible.
 
 2. **Escape hatches are a spectrum, not a binary.** Every framework has them. The question is: are the escape hatches (a) shrinking under theoretical progress, (b) stable but acknowledged, or (c) expanding to absorb any criticism? The adelic framework's hatches are in category (b): stable and acknowledged, with a plan to close them. String theory's are in category (c): the landscape expands with every constraint. ΛCDM's baryonic feedback hatch was in category (c) for decades but is moving toward (a) with improved simulations.
 
