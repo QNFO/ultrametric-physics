@@ -198,8 +198,6 @@ The framework has not yet generated a single prediction that is:
 
 Until it produces at least one such prediction, it is not a scientific theory in the Popperian sense. It is a mathematical research program with physical aspirations. This is not a dismissal; it is a description of where the program currently stands and what it must do to advance. `[speculative]`
 
-### 5.1 Meta-Escape: The Platonic Framework Problem
-
 There is a structural escape hatch that applies to *all six* kill criteria simultaneously. The adelic framework can be understood at two levels: the Platonic form (the mathematical claim that completions of ℚ at all places are physically relevant) and specific instantiations (this particular mass relation, this particular echo template). If a specific instantiation is falsified, the framework can always retreat to its Platonic form and claim "the mathematics is correct; our *particular* instantiation was wrong."
 
 This is the framework's immune system. When KC4's echo template fails, the echo template was a "toy model." When KC1's p-adic charges aren't conserved, the charge definition was "preliminary." The Platonic form survives every specific failure.
@@ -209,6 +207,87 @@ Blocking this meta-escape requires an additional commitment: for each criterion,
 This is not unique to the adelic framework. String theory's landscape, inflationary cosmology's eternal inflation, and the multiverse all face the same structural problem. The difference is one of degree: a framework with no binding specific predictions is Platonic by default. The path forward (§6) is the attempt to produce binding specific predictions whose failure would cascade to the Platonic form.
 
 [speculative]
+
+
+
+### 5.2 Symmetric Audit: Falsifiability of the Incumbent Hypotheses
+
+The audit above applies a standard — "name the observation that would kill your theory" — to the adelic framework exclusively. But the same standard applies with equal force to the incumbent hypotheses the framework seeks to augment or replace. A falsifiability critique that exempts the Standard Model, ΛCDM, and general relativity is not a methodological contribution; it is an asymmetric polemic.
+
+This section applies the same kill-criteria framework to the dominant paradigms in fundamental physics. The question is not whether these theories are *wrong* — they are extraordinarily successful — but whether they meet the Popperian standard of specifying, in advance, observations that would kill them.
+
+#### 5.2.1 General Relativity
+
+General relativity passes the falsifiability test better than any other fundamental theory. Eddington's 1919 eclipse observation was a pre-registered kill criterion: if starlight deflection deviated from the GR prediction, the theory was dead. Modern tests continue this tradition.
+
+**Operational kill criteria:**
+- Gravitational wave speed deviating from *c* by more than ~10⁻¹⁵ (tested by GW170817, passed)
+- Strong-field deviations from the Kerr metric in binary pulsar timing (tested, passed to high precision)
+- Violation of the equivalence principle at any level (tested by MICROSCOPE to ~10⁻¹⁵, passed)
+- Detection of graviton mass above experimental bounds (constrained to m_g < 10⁻³⁰ eV)
+
+**Escape hatches:** Modified gravity theories (f(R), TeVeS, MOND) exist as alternatives, but they are *competing* frameworks, not escape hatches for GR itself. GR's auxiliary hypotheses — dark matter, dark energy, inflation — are independently testable and have their own kill criteria. GR itself is falsifiable and has survived every test so far. `[established]`
+
+**Verdict:** 4/4 operational kill criteria. GRADE: A (falsifiable).
+
+#### 5.2.2 The Standard Model of Particle Physics
+
+The Standard Model is highly falsifiable within its domain and has been tested to extraordinary precision.
+
+**Operational kill criteria:**
+- Proton decay below the predicted GUT scale (~10³⁴ years for minimal SU(5), already excluded; ~10³⁶ years for SUSY GUTs, still viable)
+- Neutrinoless double beta decay (would confirm Majorana neutrinos; if excluded below the inverted-hierarchy threshold, the Majorana hypothesis is dead)
+- Non-unitarity of the CKM matrix at >5σ (would break the SM's core consistency condition)
+- Fifth force with coupling strength above current bounds (~10⁻³ of gravity at micron scales)
+
+**Escape hatches:** The SM's primary escape is dimensional: new physics can always be pushed to higher energy scales. But this is bounded — the SM becomes non-perturbative at the Landau pole for U(1) (~10³⁴ GeV), and unitarity violations in WW scattering appear at ~1 TeV without a Higgs. The Higgs was a pre-registered kill criterion: if excluded above ~1 TeV, the SM was dead. It was found. `[established]`
+
+**Verdict:** 3/4 operational kill criteria (proton decay awaits). GRADE: A (falsifiable).
+
+#### 5.2.3 ΛCDM Cosmology
+
+ΛCDM occupies a middle ground. Its large-scale predictions are precise and falsifiable; its small-scale predictions are less so.
+
+**Operational kill criteria:**
+- Hubble constant H₀ disagreeing between early-universe (CMB) and late-universe (distance ladder) measurements at >5σ — currently at ~5σ tension. This is a *live* kill criterion: if the tension persists and is not resolved by systematics, ΛCDM as a complete model is falsified.
+- σ₈ (matter clustering amplitude) tension between CMB and weak lensing at >5σ — currently at ~2-3σ.
+- Primordial B-mode polarization detected at r > 0.01 without foreground contamination (would require a new inflationary or sourcing mechanism beyond simplest ΛCDM).
+
+**Escape hatches at small scales:** ΛCDM faces the cusp-core problem, missing satellites, and too-big-to-fail — all tensions between simulations and observations at galactic scales. The dominant escape hatch is baryonic feedback: "the simulations don't include enough baryonic physics." This is analogous to the adelic framework's "auxiliary adjustments." The difference is testability: baryonic feedback can be simulated with increasing fidelity, and the parameter space is shrinking. But the escape hatch is real and operational. `[speculative — baryonic feedback is a legitimate uncertainty, but its unboundedness at current resolution is a falsifiability gap]`
+
+**Escape hatches at large scales:** The cosmological constant's value is not predicted; it is measured. This is a post-diction, not a prediction. Dark energy's equation of state w is constrained to −1.0 ± 0.05, but w ≠ −1 would not kill ΛCDM — it would modify the dark energy sector while preserving the rest.
+
+**Verdict:** 1/4 operational kill criteria (H₀ tension is live). Two are partially operational (σ₈, r). One (cusp-core) has active escape hatches. GRADE: B (partially falsifiable with acknowledged escape hatches).
+
+#### 5.2.4 String Theory and Inflationary Cosmology
+
+**String theory** and **eternal inflation** share the adelic framework's structural problem: the Platonic form (the mathematical framework) is insulated from specific instantiations (the landscape, the inflaton potential). No observation can kill string theory because any observation can be accommodated by moving to a different point in the landscape. No observation can kill eternal inflation because any universe is a bubble in the multiverse. These frameworks are GRADE: D (structurally unfalsifiable, same class as the adelic framework). `[not yet falsifiable]`
+
+They are not alone. The multiverse, many-worlds quantum mechanics (in its strongest form), and the simulation hypothesis all share this grade. The adelic framework is in distinguished company — which should be cold comfort.
+
+#### 5.2.5 Comparative Table
+
+| Framework | Operational Kill Criteria | Escape Hatches | Grade |
+|:----------|:--------------------------|:---------------|:------|
+| General Relativity | 4/4 | None — competing theories, not escape hatches | **A** |
+| Standard Model | 3/4 | Energy-scale deferral (bounded by Landau pole) | **A** |
+| ΛCDM | 1/4 bare; 3/4 if tensions count | Baryonic feedback (shrinking, not closed) | **B** |
+| Adelic Framework | 0/7 | 17 documented across 7 criteria + meta-escape | **D** |
+| String Theory | 0/N (landscape absorbs all) | Platonic form / landscape | **D** |
+| Eternal Inflation | 0/N (multiverse absorbs all) | Any observation = one bubble | **D** |
+
+The adelic framework is not uniquely unfalsifiable — it occupies a grade shared by other ambitious theoretical programs. What distinguishes it is the *honesty* of its self-assessment: the present paper identifies its own escape hatches and proposes concrete operationalization steps. String theory landscape papers rarely do the same. `[speculative — self-assessment honesty is not the same as falsifiability]`
+
+#### 5.2.6 Implications for the Present Audit
+
+The symmetric audit yields two conclusions:
+
+1. **The asymmetry is real but narrow.** The adelic framework is unfalsifiable (Grade D) while GR and the SM are highly falsifiable (Grade A). But ΛCDM occupies an intermediate grade (B), and string theory/inflation share the adelic framework's grade (D). The claim "contemporary physics has become unfalsifiable" is true of *some* programs, not all.
+
+2. **Escape hatches are a spectrum, not a binary.** Every framework has them. The question is: are the escape hatches (a) shrinking under theoretical progress, (b) stable but acknowledged, or (c) expanding to absorb any criticism? The adelic framework's hatches are in category (b): stable and acknowledged, with a plan to close them. String theory's are in category (c): the landscape expands with every constraint. ΛCDM's baryonic feedback hatch was in category (c) for decades but is moving toward (a) with improved simulations.
+
+This does not excuse the adelic framework's unfalsifiability. It contextualizes it. The framework's Grade D is a problem that must be fixed — and the path forward (§6) is the commitment to do so. But the problem is not unique, and the framework's willingness to name it is, in its way, more scientific than programs that maintain Grade D while claiming Grade A. `[speculative]`
+
 
 ## 6. Path Forward
 
