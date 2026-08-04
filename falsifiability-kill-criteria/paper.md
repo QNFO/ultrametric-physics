@@ -3,7 +3,7 @@ title: "Killing the Framework: Seven Criteria for the Falsification of Adelic Ph
 author: "Rowan Brad Quni-Gudzinas"
 date: "2026-08-04"
 license: "QNFO Unified License Agreement (QNFO-ULA)"
-doi: "10.5281/zenodo.21790692"
+doi: "10.5281/zenodo.21790805"
 status: "published"
 wbs: "QNFO.UMP.004"
 genre: "A"
