@@ -1,0 +1,54 @@
+{
+  "Palmer 2016": [
+    {
+      "title": "$p$-adic Distance, Finite Precision and Emergent Superdeterminism: A Number-Theoretic Consistent-Histories Approach to Local Quantum Realism",
+      "abstract": "Although the notion of superdeterminism can, in principle, account for the violation of the Bell inequalities, this potential explanation has been roundly rejected by the quantum foundations community. The arguments for rejection, one of the most substantive coming from Bell himself, are critically reviewed. In particular, analysis of Bell's argument reveals an implicit unwarranted assumption: that the Euclidean metric is the appropriate yardstick for measuring distances in state space. Bell's a",
+      "id": "1609.08148v1"
+    }
+  ],
+  "Dragovich 2009": [
+    {
+      "title": "p-Adic Mathematical Physics",
+      "abstract": "A brief review of some selected topics in p-adic mathematical physics is presented.",
+      "id": "0904.4205v1"
+    }
+  ],
+  "Hardy 2001": [
+    {
+      "title": "Quantum Theory From Five Reasonable Axioms",
+      "abstract": "The usual formulation of quantum theory is based on rather obscure axioms (employing complex Hilbert spaces, Hermitean operators, and the trace rule for calculating probabilities). In this paper it is shown that quantum theory can be derived from five very reasonable axioms. The first four of these are obviously consistent with both quantum theory and classical probability theory. Axiom 5 (which requires that there exists continuous reversible transformations between pure states) rules out class",
+      "id": "quant-ph/0101012v4"
+    }
+  ],
+  "Doering Isham topos": [
+    {
+      "title": "A Topos Foundation for Theories of Physics: II. Daseinisation and the Liberation of Quantum Theory",
+      "abstract": "This paper is the second in a series whose goal is to develop a fundamentally new way of constructing theories of physics. The motivation comes from a desire to address certain deep issues that arise when contemplating quantum theories of space and time. Our basic contention is that constructing a theory of physics is equivalent to finding a representation in a topos of a certain formal language that is attached to the system. Classical physics arises when the topos is the category of sets. Othe",
+      "id": "quant-ph/0703062v1"
+    }
+  ],
+  "Abramsky Coecke 2004": [
+    {
+      "title": "Categorical quantum mechanics",
+      "abstract": "This invited chapter in the Handbook of Quantum Logic and Quantum Structures consists of two parts: 1. A substantially updated version of quant-ph/0402130 by the same authors, which initiated the area of categorical quantum mechanics, but had not yet been published in full length; 2. An overview of the progress which has been made since then in this area.",
+      "id": "0808.1023v1"
+    },
+    {
+      "title": "A categorical semantics of quantum protocols",
+      "abstract": "We study quantum information and computation from a novel point of view. Our approach is based on recasting the standard axiomatic presentation of quantum mechanics, due to von Neumann, at a more abstract level, of compact closed categories with biproducts. We show how the essential structures found in key quantum information protocols such as teleportation, logic-gate teleportation, and entanglement-swapping can be captured at this abstract level. Moreover, from the combination of the --apparen",
+      "id": "quant-ph/0402130v5"
+    },
+    {
+      "title": "Physical Traces: Quantum vs. Classical Information Processing",
+      "abstract": "Within the Geometry of Interaction (GoI) paradigm, we present a setting that enables qualitative differences between classical and quantum processes to be explored. The key construction is the physical interpretation/realization of the traced monoidal categories of finite-dimensional vector spaces with tensor product as monoidal structure and of finite sets and relations with Cartesian product as monoidal structure, both of them providing a so-called wave-style GoI. The developments in this pape",
+      "id": "cs/0207057v2"
+    }
+  ],
+  "Connes 2004 motivic": [
+    {
+      "title": "From Physics to Number Theory via Noncommutative Geometry, Part II: Renormalization, the Riemann-Hilbert correspondence, and motivic Galois theory",
+      "abstract": "We establish a precise relation between Galois theory in its motivic form with the mathematical theory of perturbative renormalization (in the minimal subtraction scheme with dimensional regularization). We identify, through a Riemann-Hilbert correspondence based on the Birkhoff decomposition and the t'Hooft relations, a universal symmetry group (the \"cosmic Galois group\" suggested by Cartier), which contains the renormalization group and acts on the set of physical theories. This group is close",
+      "id": "hep-th/0411114v1"
+    }
+  ]
+}
