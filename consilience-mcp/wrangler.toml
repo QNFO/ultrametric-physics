@@ -1,0 +1,44 @@
+# Consilience MCP — Cloudflare Worker Deployment Manifest (DRAFT)
+#
+# WBS: QNFO.CON.002.P6.T1
+# Status: DRAFT — deployment requires Cloudflare MCP tools (workers_list, cloudflare main)
+#         which are NOT available in the authoring session (2026-08-04).
+#         This manifest is prepared per cloudflare skill §Worker Consolidation Pattern
+#         + §Agents SDK McpAgent pattern + §Workers.dev Route Enablement (KIF-61).
+#
+# NOTE: The Python FastMCP server (server.py) runs via stdio on the host.
+# For edge deployment, the tool suite must be ported to the Agents SDK McpAgent
+# pattern (TypeScript). See DEPLOYMENT.md for the port outline + decision matrix.
+
+name = "qnfo-consilience-mcp"
+main = "src/index.ts"
+compatibility_date = "2026-08-01"
+workers_dev = true
+
+# Observability (workers-best-practices: enable structured JSON logging)
+observability = { enabled = true, head_sampling_rate = 1 }
+
+# ─── D1: pipeline session state (replaces in-memory _sessions dict) ─────────
+# Database must be created first: npx wrangler d1 create qnfo-consilience
+# [[d1_databases]]
+# binding = "CONSILIENCE_DB"
+# database_name = "qnfo-consilience"
+# database_id = "<created-database-id>"
+
+# ─── Vectorize: Core_Dynamic semantic search for Phase C pattern matching ────
+# Index must be created first: npx wrangler vectorize create consilience-dynamics \
+#   --dimensions=768 --metric=cosine
+# [[vectorize]]
+# binding = "CONSILIENCE_VZ"
+# index_name = "consilience-dynamics"
+
+# ─── Workers AI: embeddings for Phase B/C semantic operations ───────────────
+# [[ai]]
+# binding = "AI"
+
+# ─── KV: cross-request state (phase cursor for long pipelines) ───────────────
+# [[kv_namespaces]]
+# binding = "CONSILIENCE_KV"
+# id = "<created-kv-id>"
+
+# ─── Cron: none (MCP is request-driven; pipeline phases are explicit tools) ──

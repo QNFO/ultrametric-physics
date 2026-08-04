@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "title": "The Consilience Framework: From Valuation Theory to the Void — A Cross-Domain Synthesis",
+    "description": "Synthesis of two deep-dive research conversations (2026-08-04) on valuation theory and foundational mathematics. Traces the complete hierarchy from the void (unmarked state) through the calculus of distinctions (Laws of Form), ZFC set theory, and Ostrowski's theorem, arriving at a cross-domain consilience: Archimedean (continuous, additive) and non-Archimedean (ultrametric, hierarchical) measurement geometries represent the two fundamental modes of structure generation. Provides a Universal Consilience Prompt template for automated cross-domain translation of mathematical theorems, an autonomous four-phase LLM research workflow, and explicit mappings onto the QNFO WBS pillars.",
+    "creators": [
+      {
+        "name": "Quni-Gudzinas, Rowan",
+        "affiliation": "QNFO/QWAV",
+        "orcid": ""
+      }
+    ],
+    "keywords": [
+      "valuation theory", "Ostrowski's theorem", "p-adic numbers", "consilience",
+      "Laws of Form", "ultrametric geometry", "cross-domain translation",
+      "autonomous LLM research", "foundational mathematics", "adele ring",
+      "distinction calculus"
+    ],
+    "license": "QNFO Unified License Agreement (QNFO-ULA)",
+    "upload_type": "publication",
+    "publication_type": "preprint",
+    "access_right": "open",
+    "version": "0.1.0",
+    "language": "eng",
+    "notes": "WBS: QNFO.CON.002.P4.T1. Companion to QNFO.CON.002.P4.T2 (foundational-chain.md), QNFO.CON.002.P4.T5 (bridge-adelic-qft.md), QNFO.CON.002.P4.T6 (bridge-hensel-code.md), QNFO.CON.002.P5.T1 (consilience-mcp server), and QNFO.CON.002.P5.T2 (this PDF). Preprint memo — not yet peer-reviewed.",
+    "related_identifiers": [
+      {"identifier": "10.5281/zenodo.21046993", "relation": "isSupplementTo", "resource_type": "publication-preprint"},
+      {"identifier": "10.5281/zenodo.21547793", "relation": "references", "resource_type": "publication-preprint"}
+    ],
+    "communities": [{"identifier": "qnfo"}],
+    "subjects": [
+      {"term": "Mathematics", "identifier": "math", "scheme": "url"},
+      {"term": "Physics", "identifier": "physics", "scheme": "url"},
+      {"term": "Computer Science", "identifier": "cs", "scheme": "url"}
+    ]
+  },
+  "files": [
+    {"path": "consilience-framework/paper.md", "description": "Main synthesis paper (10 sections, ~8,500 words)"},
+    {"path": "consilience-framework/foundational-chain.md", "description": "Three-path extension: void → distinction → valuation"},
+    {"path": "consilience-framework/bridge-adelic-qft.md", "description": "Integration bridge: Consilience Framework ↔ Adelic QFT"},
+    {"path": "consilience-framework/bridge-hensel-code.md", "description": "Integration bridge: Consilience Framework ↔ Hensel Code System"},
+    {"path": "consilience-framework/consilience_framework.pdf", "description": "Built PDF of the synthesis paper (pandoc --mathml + Edge headless)"}
+  ],
+  "_zenodo": {
+    "target_doi": "pending",
+    "deposition_date": "2026-08-04",
+    "prerequisites": [
+      "Register QNFO.CON.002 in D1 program_registry",
+      "Create KG node proj-qnfo-con-002",
+      "Upload via zenodo-cli or web API",
+      "PDF verified: %PDF-1.4, 514,079 bytes, 0 corruption markers"
+    ]
+  }
+}
