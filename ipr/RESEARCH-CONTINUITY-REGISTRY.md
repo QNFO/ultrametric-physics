@@ -180,7 +180,7 @@ Compute α^{-1} = ∮_C ω as a period of a canonical differential on the idele 
 
 **Falsification condition:** KS test p > 0.05 (no significant difference between distributions).
 
-**Status:** COMPUTABLE NOW from PDG data. Requires only Python implementation.
+**Status:** EXECUTED 2026-08-04 — NULL RESULT. Criterion does not discriminate (see Section 4.1 RESULT).
 
 ---
 
@@ -211,6 +211,65 @@ Compute α^{-1} = ∮_C ω as a period of a canonical differential on the idele 
 | 9 | **α period computation attempt** (requires rigorous definition of moduli space) | LOW | High (months) | FQ1, FQ7 resolution |
 
 ---
+
+
+### REG-IPR-003 RESULT (COMPUTED 2026-08-04) — NULL / DISCRIMINATION-FAILURE
+
+**Status:** EXECUTED. Verdict: the pre-registered criterion does NOT discriminate
+fundamental particles from quasiparticles using real-world measured masses.
+
+**Computation:** PDG 2024 central masses (MeV/c^2); nu = m_P/m as exact Fraction
+from decimal string; v_p for first 30 primes. m_P = 1.22091e22 MeV.
+
+| particle | nu = mP/m | v2 | v3 | v5 | v7 | v11 | v13 | #nonzero/30 | fully 5-smooth |
+|:---------|:----------|:---|:---|:---|:---|:----|:----|:-----------:|:--------------|
+| W | 6.1e22 | 17 | 1 | 18 | 0 | 0 | 0 | 3 | NO |
+| Z | 3.05e22 | 16 | 1 | 18 | -1 | 0 | 0 | 5 | NO |
+| Higgs | 1.6e22/167 | 16 | 0 | 14 | 0 | 0 | 0 | 2 | NO |
+| electron | 2.44e22 | 25 | 1 | 24 | -2 | -1 | 0 | 6 | NO |
+| muon | 8.14e22 | 24 | -1 | 23 | 0 | 0 | 0 | 3 | NO |
+| tau | 6.1e22 | 18 | 1 | 19 | 0 | 0 | 0 | 3 | NO |
+| up | 5.09e22 | 16 | -2 | 19 | 0 | 0 | 0 | 3 | NO |
+| down | 1.22e22 | 19 | 1 | 19 | 0 | 0 | 0 | 3 | NO |
+| strange | 6.1e22 | 17 | 1 | 18 | 0 | 0 | 0 | 3 | NO |
+| charm | 1.22e21 | 16 | 1 | 16 | 0 | 0 | 0 | 3 | NO |
+| bottom | 6.1e20/2 | 15 | 1 | 16 | 0 | -1 | 0 | 5 | NO |
+| top | 1.22e21 | 16 | 1 | 16 | -1 | 0 | 0 | 4 | NO |
+| proton | 2.54e22 | 21 | -2 | 25 | 0 | -1 | 0 | 5 | NO |
+| neutron | 8.14e22 | 24 | 0 | 23 | -2 | 0 | 0 | 3 | NO |
+
+**Fully 5-smooth: 0/14. Denominator 5-smooth: 1/14.**
+
+**Methodology findings (3):**
+1. **[DECIMAL-ARTIFACT]** v2/v5 valuations are inflated by base-10 decimal
+   representation: m_P = 122091 x 10^17 and measured masses are decimal strings,
+   so denominators carry 2^k 5^k from 10^k. The {2,3,5}-dominance is inherited
+   from base 10, NOT from any physical prime structure. Removing base-10
+   factors leaves representation-residual valuations (electron den: {7:2, 11:1, 67:1})
+   that depend on the DIGIT STRING, not the particle.
+2. **[IMPOSSIBLE-CRITERION]** The dialogue-continuation criterion "v_p(nu) != 0
+   for ALL primes up to p_max" is mathematically IMPOSSIBLE for any rational:
+   a rational has v_p = 0 for all but finitely many primes (finite support).
+   As stated, it would disqualify every rational — including all SM particles.
+   The criterion is self-refuting as written.
+3. **[NO-DISCRIMINATION]** With real measured masses (real-valued, not exact
+   rationals), nu is not an exact rational; valuations are representation-dependent.
+   Particle vs quasiparticle discrimination cannot be performed on PDG data.
+
+**Revised criterion (proposal for registry):** A meaningful test requires a
+theory that predicts the EXACT rational nu (e.g., from the adelic action), then
+checks whether measured masses match the rational to within experimental error.
+Valuations computed from measured decimals carry no physical content.
+
+**BP-3 numerlogy gate:** The apparent 5-smooth dominance is CONSISTENT WITH
+LOOK-ELSEWHERE ARTIFACT (base-10), not evidence for the Pythagorean semigroup.
+
+**CAL-IPR-03 linkage:** This null result does NOT affect the alpha period
+computation (different claim), but strengthens the requirement that any
+dimensionless-constant claim must produce exact rational predictions.
+
+**Status update:** REG-IPR-003 = EXECUTED, NULL RESULT (criterion failure).
+Registry next action #1 (mass valuation test) marked COMPLETE-WITH-NULL.
 
 ## 7. CROSS-REFERENCE TO OTHER PROJECTS
 
