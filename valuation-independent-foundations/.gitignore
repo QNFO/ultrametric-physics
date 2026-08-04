@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.tmp
+*.log
+.env
+keys.json
+.zenodo_versions.json
+notebooks/*.ipynb_checkpoints/
