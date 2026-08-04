@@ -7,7 +7,7 @@ doi: "10.5281/zenodo.21790805"
 status: "published"
 wbs: "QNFO.UMP.004"
 genre: "A"
-version: "v0.5-data-audit"
+version: "v0.6-consilience"
 ---
 
 # Killing the Framework: Seven Criteria for the Falsification of Adelic Physics
@@ -218,7 +218,19 @@ This section applies the same kill-criteria framework to the dominant paradigms 
 
 #### 5.2.1 General Relativity
 
-General relativity passes the falsifiability test in its *bare* form — the Einstein field equations make specific, falsifiable predictions that have survived every test to date. But the operational paradigm is not the bare equations. It is GR + dark matter + dark energy + inflation, and this composite has become de-facto unfalsifiable in practice.
+The canonical narrative — that GR was decisively confirmed by a clean, unbiased observation in 1919 and has earned the top falsifiability grade ever since — does not survive historical scrutiny. The 1919 Eddington expedition, still cited as the archetype of a pre-registered kill criterion, fails on every dimension of the independence requirement that this audit applies to other frameworks.
+
+**The observer was a partisan.** Arthur Eddington was not a neutral arbiter. He was among the first and most vocal champions of Einstein's theory in the English-speaking world, an advocate working against a wartime anti-German scientific establishment. He organized both expeditions (Sobral, Brazil, and Príncipe, West Africa), took the Príncipe observations himself, and supervised the analysis of both sets of plates. A supporter of the theory under test designed, executed, and interpreted the decisive experiment.
+
+**The methodology had large, subjectively-assessed errors.** The measurement was of star positions on photographic plates — a technique whose systematic errors (plate distortion, emulsion shifts, astrometric calibration, atmospheric dispersion) were poorly characterized in 1919 and required subjective judgment in selecting which star images were measurable and how the reference field was fitted. The Príncipe result was based on only a handful of usable star images (the eclipse was partially obscured by cloud); the quoted uncertainty (±0.30″) did not account for the full set of plate-selection and fitting choices.
+
+**A competing result was discarded by judgment, not by protocol.** The Sobral astrographic plates gave ~1.98″ (near GR's 1.75″), but the Sobral 4-inch telescope plates gave ~0.86″ — close to Newtonian prediction (0.87″) and far from GR. The 4-inch plates were excluded as "unreliable" on the grounds of suspected focus problems. That exclusion may have been correct, but it was a subjective judgment call made by the interested party — exactly the kind of decision that must be pre-registered, not made after seeing the data.
+
+**Alternative hypotheses existed and were not eliminated.** Nordström's scalar gravity predicted no light deflection at all; Einstein's own 1911 calculation predicted half the GR value (0.87″); several ether- and emission-based theories made yet other predictions. The 1919 result did not adjudicate GR against all competitors — it was read as supporting GR against Newtonian expectation, with the alternative space largely unconstrained by the data.
+
+**What established GR in fact is independent consilience.** The theory's standing rests on multiple methodologically independent confirmations: the anomalous Mercury perihelion precession (known since Le Verrier, 1859 [^23] — before GR existed, hence a genuine pre-registered prediction), gravitational redshift (Pound–Rebka, 1960 [^24]), Shapiro time delay (1964–1971 [^25]), binary pulsar orbital decay matching gravitational-wave damping (Hulse–Taylor, 1974–1993 [^26]), and direct gravitational-wave detection (LIGO/Virgo, 2015– [^27]). Each line has its own systematic uncertainties and alternative-theory competitors; none alone is decisive. Their *convergence* — five independent lines, different instruments, different physics, different teams — is the strong evidence.
+
+The operational paradigm is not the bare equations. It is GR + dark matter + dark energy + inflation, and this composite has become de-facto unfalsifiable in practice — as established in v0.4.
 
 **Operational kill criteria:**
 - Gravitational wave speed deviating from *c* by more than ~10⁻¹⁵ (tested by GW170817, passed)
@@ -230,7 +242,7 @@ General relativity passes the falsifiability test in its *bare* form — the Ein
 
 The formal kill criteria listed above (GW speed, Kerr metric, equivalence principle) are genuine. But they test the *bare* theory, not the operational paradigm. No experiment has ever confronted GR + dark matter + dark energy + inflation as a single unified structure — because the four components can be adjusted independently to accommodate any observation. This is the same structural flexibility that the present paper criticizes in the adelic framework. `[debated — GR's bare form is falsifiable; the operational composite is not]`
 
-**Verdict:** 4/4 operational kill criteria for the bare theory, but zero for the operational composite (GR + DM + DE + inflation). GRADE: C — falsifiable in principle, de-facto unfalsifiable in practice.
+**Verdict:** The bare theory possesses genuine operational kill criteria (GW speed, Kerr metric, equivalence principle), and those criteria are real. But no single one of them is clean: each has been tested by instruments and teams whose methods carry their own systematic uncertainties, and none individually would have been decisive without the others. Bare GR therefore earns **B+** — not A — because its confidence rests on independent consilience rather than on any single unbiased observation. The operational composite (GR + DM + DE + inflation) earns **C** — de-facto unfalsifiable in practice. `[established — the 1919 data limitations and Eddington's role are documented in the history of science literature (Dyson, Eddington, Davidson 1920; Kennefick 2019)]` [^21][^22]
 
 #### 5.2.2 The Standard Model of Particle Physics
 
@@ -273,7 +285,7 @@ They are not alone. The multiverse, many-worlds quantum mechanics (in its strong
 
 | Framework | Operational Kill Criteria | Escape Hatches | Grade |
 |:----------|:--------------------------|:---------------|:------|
-| General Relativity (bare) | 4/4 | None — competing theories, not escape hatches | **A** |
+| General Relativity (bare) | 4/4 (none individually clean) | Single-test confounds: biased observer (1919), plate methodology, discarded data, competing theories — established by consilience, not one clean test | **B+** |
 | GR composite (GR+DM+DE+inflation) | 0/4 | Auxiliary-absorption: DM/DE/inflation tuned to absorb anomalies | **C** |
 | Standard Model | 3/4 formal | Free-parameter re-fit; energy-scale deferral (particle-hunting history) | **C** |
 | ΛCDM | 1/4 bare; 3/4 if tensions count | Baryonic feedback (shrinking, not closed) | **B** |
@@ -287,12 +299,31 @@ The adelic framework is not uniquely unfalsifiable — it occupies a grade share
 
 The symmetric audit yields two conclusions:
 
-1. **The asymmetry is narrower than first appears — and it is not flattering to the incumbents.** The adelic framework is unfalsifiable (Grade D). But the operational GR composite (GR + dark matter + dark energy + inflation) is Grade C, the Standard Model is Grade C, and ΛCDM is Grade B. Only the *bare* Einstein equations earn Grade A. The claim "contemporary physics has become unfalsifiable" is not true of *some* programs — it is true of *most* ambitious programs, and the incumbents survive not because they are more falsifiable but because their escape hatches are older, better institutionalized, and therefore less visible.
+1. **The asymmetry is narrower than first appears — and it is not flattering to the incumbents.** The adelic framework is unfalsifiable (Grade D). The operational GR composite (GR + dark matter + dark energy + inflation) is Grade C. The Standard Model is Grade C. ΛCDM is Grade B. And the *bare* Einstein equations — the strongest theory in the set — earn B+, not A, because even their canonical 1919 confirmation was compromised by observer bias, subjective plate analysis, and discarded discordant data; their standing is consilience-earned, not clean-test-earned. The claim "contemporary physics has become unfalsifiable" is not true of *some* programs — it is true of *most* ambitious programs, and the incumbents survive not because they are more falsifiable but because their escape hatches are older, better institutionalized, and therefore less visible.
 
 2. **Escape hatches are a spectrum, not a binary.** Every framework has them. The question is: are the escape hatches (a) shrinking under theoretical progress, (b) stable but acknowledged, or (c) expanding to absorb any criticism? The adelic framework's hatches are in category (b): stable and acknowledged, with a plan to close them. String theory's are in category (c): the landscape expands with every constraint. ΛCDM's baryonic feedback hatch was in category (c) for decades but is moving toward (a) with improved simulations.
 
 This does not excuse the adelic framework's unfalsifiability. It contextualizes it. The framework's Grade D is a problem that must be fixed — and the path forward (§6) is the commitment to do so. But the problem is not unique, and the framework's willingness to name it is, in its way, more scientific than programs that maintain Grade D while claiming Grade A. `[speculative]`
 
+
+
+
+### 5.3 The Independence Requirement: Consilience as the Only Unbiased Evidence Standard
+
+The Eddington case generalizes into a methodological principle that this audit must adopt for *all* frameworks, including the adelic framework's own null results.
+
+**The single-test fallacy.** A lone observation — no matter how precisely measured — cannot provide unbiased strong evidence, because it is vulnerable to at least four confounds:
+
+1. **Experimenter bias.** The observers may want the theory to be true (Eddington) or false (a skeptical rival). The 1919 case shows this is not a hypothetical failure mode; it is the canonical example.
+2. **Methodological blind spots.** Any single instrument or technique has unknown systematic errors — photographic plate distortion in 1919, detector energy-scale calibration in modern particle physics. A result cannot be assessed against errors that are unknown by construction.
+3. **Subjective analysis choices.** Which data points are retained, which are discarded, which fitting model is used — these decisions, made after seeing the data, can steer a noisy result toward the desired conclusion (the discarded Sobral 4-inch plates).
+4. **Competing-theory underdetermination.** A single observation rarely discriminates between the tested theory and all viable alternatives. The 1919 plates did not kill Nordström's theory; they were simply read as supporting GR over Newton.
+
+**The consilience requirement.** Strong, unbiased evidence requires *multiple methodologically independent lines of evidence converging on the same conclusion* — different instruments, different physics, different analysis teams, different systematic-error structures. This is the standard GR meets in practice (perihelion, redshift, Shapiro, pulsar, LIGO), the standard the Standard Model meets at the precision frontier (Z-pole, Higgs couplings, CKM unitarity), and the standard the adelic framework has *never once met*: zero independent positive confirmations across all seven criteria.
+
+**The corollary for null results.** The same requirement applies to falsification. A single null result (the GWTC-1 echo search, GRB 090510 Lorentz bound) cannot kill a framework with an unbounded amplitude or threshold, and cannot confirm one either. Only a *consilient* null — multiple independent searches with independent templates and error structures all excluding the prediction above a derived bound — is fatal. The adelic framework's KC4 is not merely missing an amplitude bound; it is missing the entire consilience apparatus that would make either detection or exclusion meaningful. `[my conjecture]`
+
+**The grading consequence.** Grades based on "operational kill criteria" alone are insufficient. They must be weighted by (a) whether any confirming observation was independent, and (b) how many independent lines converge. Under this weighting: bare GR drops from A to B+ (no single clean test; consilience is real but earned over a century); the adelic framework stays at D (zero independent confirmations); ΛCDM's H₀ tension becomes *more* significant, because it is consilient — multiple independent late-universe methods (Cepheids, TRGB, masers, lensing) agree on the high value, and multiple early-universe methods agree on the low value, which is precisely why the discrepancy is credible rather than an artifact. `[speculative]`
 
 ## 6. Path Forward
 
@@ -398,7 +429,7 @@ The data-driven audit produces a result that is uncomfortable for both sides.
 
 **For the null hypotheses:** the incumbent frameworks are not cleanly falsifiable either. ΛCDM faces a live, growing 5σ Hubble tension that currently survives only through auxiliary escape hatches — the very mechanism the paper criticizes. The Standard Model faces a 4.2σ muon anomaly whose null is contested by theory, not resolved. The operational GR composite has never been tested as a whole. The claim that the incumbents are "falsifiable science" while the adelic framework is "unfalsifiable speculation" does not survive contact with the scorecard. The difference is one of degree — and of institutionalization, not of epistemic virtue. `[my conjecture]`
 
-**The honest conclusion:** all frameworks under review occupy positions on a falsifiability spectrum, and none has been cleanly falsified by existing data. The adelic framework's null results do not confirm it; the incumbents' tensions do not yet kill them. What the existing data *does* establish is which frameworks are genuinely at risk: ΛCDM (Hubble tension), the SM (muon anomaly), and — if its operationalized criteria ever produce amplitude bounds — the adelic framework (echo searches ready and waiting). The next observation is more likely to falsify an incumbent than to confirm the adelic framework. That is not a vindication of the framework; it is the current balance of empirical risk.
+**The honest conclusion:** all frameworks under review occupy positions on a falsifiability spectrum, and none has been cleanly falsified by existing data. Under the Independence Requirement (§5.3), the adelic framework's position is worse than the scorecard alone shows: its null results are *unconsilient* — each is a single search, single template, single error structure — so they neither confirm nor decisively constrain, while its positive predictions have never received a single independent confirmation. The incumbents' tensions, by contrast, are consilient where they bite: the H₀ discrepancy is credible precisely because independent late-universe methods agree with each other and independent early-universe methods agree with each other. What the existing data *does* establish is which frameworks are genuinely at risk: ΛCDM (consilient Hubble tension), the SM (muon anomaly), and — if its operationalized criteria ever produce amplitude bounds — the adelic framework (echo searches ready and waiting, but needing multiple independent searches to be meaningful). The next observation is more likely to falsify an incumbent than to confirm the adelic framework. That is not a vindication of the framework; it is the current balance of empirical risk.
 
 
 ## Declarations
@@ -466,6 +497,19 @@ QNFO Unified License Agreement (QNFO-ULA).
 [^19]: Aoyama, T., et al. "The anomalous magnetic moment of the muon in the Standard Model." *Physics Reports*, vol. 887, 2020, pp. 1–166. [established — dispersive vs lattice QCD theory disagreement documented]
 
 [^20]: LHCb Collaboration. "Test of lepton universality in b→sℓ⁺ℓ⁻ decays." *Physical Review Letters*, vol. 131, 2023, 051803. [established — R_K reverted to Standard Model agreement with full Run 1+2 data]
+[^21]: Dyson, F.W., Eddington, A.S., and Davidson, C. "A determination of the deflection of light by the sun's gravitational field, from observations made at the total eclipse of May 29, 1919." *Philosophical Transactions of the Royal Society A*, vol. 220, 1920, pp. 291–333. [verified via Crossref — 10.1098/rsta.1920.0009]
+
+[^22]: Kennefick, D. *No Shadow of a Doubt: The 1919 Eclipse That Confirmed Einstein's Theory of Relativity*. Princeton University Press, 2019. [verified via OpenAlex — 10.1515/9780691190051]
+
+[^23]: Le Verrier, U.J. "Lettre de M. Le Verrier à M. Faye sur la théorie de Mercure." *Comptes Rendus*, vol. 49, 1859, pp. 379–383. [historical — no DOI; the pre-GR anomaly record that became the first GR confirmation]
+
+[^24]: Pound, R.V., and Rebka, G.A. "Apparent Weight of Photons." *Physical Review Letters*, vol. 4, 1960, pp. 337–341. [verified via Crossref — 10.1103/PhysRevLett.4.337]
+
+[^25]: Shapiro, I.I. "Fourth Test of General Relativity." *Physical Review Letters*, vol. 13, 1964, pp. 789–791. [verified via Crossref — 10.1103/PhysRevLett.13.789]
+
+[^26]: Hulse, R.A., and Taylor, J.H. "Discovery of a pulsar in a binary system." *The Astrophysical Journal*, vol. 195, 1975, pp. L51–L53. [verified via Crossref — 10.1086/181708]
+
+[^27]: Abbott, B.P., et al. (LIGO/Virgo Collaboration). "GW170817: Observation of Gravitational Waves from a Binary Neutron Star Inspiral." *Physical Review Letters*, vol. 119, 2017, 161101. [verified via Crossref — 10.1103/PhysRevLett.119.161101]
 
 [^7]: Quni-Gudzinas, R.B. "P-adic Dark Matter: Discrete Scale Invariance in Halo Profiles." QNFO Technical Memo, 2026. [unpublished]
 
