@@ -121,6 +121,30 @@ The theoretical kill — "a future theory derives the adelic effective potential
 
 **To operationalize.** Derive the effective potential explicitly and publish it so it can be independently checked. Show that 3+1 is the *only* stable attractor, with all other dimensionalities demonstrably unstable. This converts a post-diction into a falsifiable claim: if the derivation contains an error and another dimensionality is equally stable, the claim is refuted.
 
+### 2.7 KC7: Gauge Group Underivability
+
+**Core postulate.** The Standard Model gauge group SU(3)_C × SU(2)_L × U(1)_Y — or its unified extension — must be derivable from the adelic framework as the unique low-energy remnant of the automorphic structure. The framework's claim to be a theory of *all* fundamental interactions depends on this.
+
+**Fatal observation.** A proof that SU(3) × SU(2) × U(1) is *fundamentally* incompatible with adelic derivation — not merely that no derivation has been found, but that a specific mathematical obstruction (e.g., the automorphic representation theory of the relevant reductive group forbids this particular gauge structure) exists. Alternatively: discovery of a new fundamental gauge interaction (fifth force) that cannot be embedded in the adelic automorphic structure without breaking the generation or mass-relation predictions.
+
+**Red-team audit.** This criterion was absent from the original six because the framework's proponents take gauge-group derivability as a promissory note — "the gauge group will emerge from the adelic structure" — rather than a falsifiable claim. Without a concrete derivation or an obstruction proof, KC7 shares the structural weakness of KC1: it tests a mathematical identity (the representation theory is what it is) rather than a physical prediction.
+
+However, KC7 is arguably the *most consequential* criterion. If the adelic framework cannot produce the Standard Model gauge group, it loses its claim to be a framework for fundamental physics — irrespective of its success on black hole echoes, dark matter, or dimensionality. The framework would be, at best, a mathematical structure with coincidental physical overlaps.
+
+**To operationalize.** Publish a derivation of SU(3) × SU(2) × U(1) from the adelic automorphic structure. If the derivation contains a specific, testable ancillary prediction (e.g., a constraint on the number of gauge bosons or coupling-constant relations at unification), that prediction becomes an additional kill criterion. Without a published derivation, KC7 is not a kill criterion; it is a promissory note. [not yet falsifiable]
+
+### 2.7 KC7: Gauge Group Underivability
+
+**Core postulate.** The Standard Model gauge group SU(3)_C × SU(2)_L × U(1)_Y — or its unified extension — must be derivable from the adelic framework as the unique low-energy remnant of the automorphic structure. The framework's claim to be a theory of *all* fundamental interactions depends on this.
+
+**Fatal observation.** A proof that SU(3) × SU(2) × U(1) is *fundamentally* incompatible with adelic derivation — not merely that no derivation has been found, but that a specific mathematical obstruction (e.g., the automorphic representation theory of the relevant reductive group forbids this particular gauge structure) exists. Alternatively: discovery of a new fundamental gauge interaction (fifth force) that cannot be embedded in the adelic automorphic structure without breaking the generation or mass-relation predictions.
+
+**Red-team audit.** This criterion was absent from the original six because the framework's proponents take gauge-group derivability as a promissory note — "the gauge group will emerge from the adelic structure" — rather than a falsifiable claim. Without a concrete derivation or an obstruction proof, KC7 shares the structural weakness of KC1: it tests a mathematical identity (the representation theory is what it is) rather than a physical prediction.
+
+However, KC7 is arguably the *most consequential* criterion. If the adelic framework cannot produce the Standard Model gauge group, it loses its claim to be a framework for fundamental physics — irrespective of its success on black hole echoes, dark matter, or dimensionality. The framework would be, at best, a mathematical structure with coincidental physical overlaps.
+
+**To operationalize.** Publish a derivation of SU(3) × SU(2) × U(1) from the adelic automorphic structure. If the derivation contains a specific, testable ancillary prediction (e.g., a constraint on the number of gauge bosons or coupling-constant relations at unification), that prediction becomes an additional kill criterion. Without a published derivation, KC7 is not a kill criterion; it is a promissory note. [not yet falsifiable]
+
 ## 3. Summary Assessment
 
 | Criterion | Operational? | Escape Hatches | Testable? |
@@ -131,8 +155,10 @@ The theoretical kill — "a future theory derives the adelic effective potential
 | KC4 (BH echoes) | No | No lower bound, bound revisability | **Conditional on bound** |
 | KC5 (DM profile) | No | Subdominant escape, unspecified template, ΛCDM ambiguity | No |
 | KC6 (Dimensionality) | No | Requires novel phenomenon, category error | No |
+| KC7 (Gauge group) | No | Promissory note, theorem confusion | No |
+| KC7 (Gauge group) | No | Promissory note, theorem confusion | No |
 
-**Zero of six kill criteria are currently operational.** Two (KC2, KC4) could become operational with specific derivations. Four are structurally unfalsifiable as written.
+**Zero of seven kill criteria are currently operational.** Two (KC2, KC4) could become operational with specific derivations. Five are structurally unfalsifiable or promissory as written.
 
 ## 4. The Falsifiability Gradient
 
@@ -147,6 +173,18 @@ For completeness, the observations *O* such that P(*O* | M_adelic) ≈ 0, *if* t
 These observations would kill the framework — if the framework were sufficiently specified to make their non-observation binding. The italicized condition is the problem, and it is the subject of the path forward below. `[speculative — binding conditions not yet met]`
 
 ## 5. The Deeper Problem
+### 5.1 Meta-Escape: The Platonic Framework Problem
+
+There is a structural escape hatch that applies to *all six* kill criteria simultaneously. The adelic framework can be understood at two levels: the Platonic form (the mathematical claim that completions of ℚ at all places are physically relevant) and specific instantiations (this particular mass relation, this particular echo template). If a specific instantiation is falsified, the framework can always retreat to its Platonic form and claim "the mathematics is correct; our *particular* instantiation was wrong."
+
+This is the framework's immune system. When KC4's echo template fails, the echo template was a "toy model." When KC1's p-adic charges aren't conserved, the charge definition was "preliminary." The Platonic form survives every specific failure.
+
+Blocking this meta-escape requires an additional commitment: for each criterion, specify which *aspect of the Platonic form* is being tested, and state that if the specific instantiation fails, that aspect of the Platonic form is falsified — not merely the instantiation. Without this, the framework can survive any number of specific predictive failures while maintaining that the underlying mathematics remains correct.
+
+This is not unique to the adelic framework. String theory's landscape, inflationary cosmology's eternal inflation, and the multiverse all face the same structural problem. The difference is one of degree: a framework with no binding specific predictions is Platonic by default. The path forward (§6) is the attempt to produce binding specific predictions whose failure would cascade to the Platonic form.
+
+[speculative]
+
 
 The adelic framework exhibits a characteristic asymmetry. The only genuinely lethal observations (KC2: non-automorphic particle, continuous spin) would kill the framework via properties it *shares with standard quantum field theory*. Null results on these do not confirm the adelic framework; they confirm constraints that already exist in conventional physics. The framework's survivable observations are retrodictions, and its fatal observations would refute it only by refuting physics it inherited.
 
@@ -160,21 +198,33 @@ The framework has not yet generated a single prediction that is:
 
 Until it produces at least one such prediction, it is not a scientific theory in the Popperian sense. It is a mathematical research program with physical aspirations. This is not a dismissal; it is a description of where the program currently stands and what it must do to advance. `[speculative]`
 
+### 5.1 Meta-Escape: The Platonic Framework Problem
+
+There is a structural escape hatch that applies to *all six* kill criteria simultaneously. The adelic framework can be understood at two levels: the Platonic form (the mathematical claim that completions of ℚ at all places are physically relevant) and specific instantiations (this particular mass relation, this particular echo template). If a specific instantiation is falsified, the framework can always retreat to its Platonic form and claim "the mathematics is correct; our *particular* instantiation was wrong."
+
+This is the framework's immune system. When KC4's echo template fails, the echo template was a "toy model." When KC1's p-adic charges aren't conserved, the charge definition was "preliminary." The Platonic form survives every specific failure.
+
+Blocking this meta-escape requires an additional commitment: for each criterion, specify which *aspect of the Platonic form* is being tested, and state that if the specific instantiation fails, that aspect of the Platonic form is falsified — not merely the instantiation. Without this, the framework can survive any number of specific predictive failures while maintaining that the underlying mathematics remains correct.
+
+This is not unique to the adelic framework. String theory's landscape, inflationary cosmology's eternal inflation, and the multiverse all face the same structural problem. The difference is one of degree: a framework with no binding specific predictions is Platonic by default. The path forward (§6) is the attempt to produce binding specific predictions whose failure would cascade to the Platonic form.
+
+[speculative]
+
 ## 6. Path Forward
 
 To become falsifiable, the framework must deliver five concrete derivations, listed in priority order:
 
-**Priority 1 — BH echo amplitude lower bound (KC4).** Derive a minimum echo amplitude from the adelic action, independent of all free parameters. This is the highest-priority task and the most likely route to a binding prediction. The Möbius-function template for relative delays and amplitude ratios is already rigid; the missing piece is the absolute amplitude scale.
+**Priority 1 — BH echo amplitude lower bound (KC4).** Derive a minimum echo amplitude from the adelic action, independent of all free parameters. This is the highest-priority task and the most likely route to a binding prediction. The Möbius-function template for relative delays and amplitude ratios is already rigid; the missing piece is the absolute amplitude scale. **Target: Q1 2027. If no bound is derived by Q2 2027, KC4 should be downgraded from "conditional kill criterion" to "prediction-in-waiting with no timeline."**
 
-**Priority 2 — Rigid three-generation mass relations (KC2).** Compute mass relations for the three known generations from first principles, such that a fourth generation with *any* mass would break them. The relations must be specific enough that "extending to a quadratic number field" is not a viable escape.
+**Priority 2 — Rigid three-generation mass relations (KC2).** Compute mass relations for the three known generations from first principles, such that a fourth generation with *any* mass would break them. The relations must be specific enough that "extending to a quadratic number field" is not a viable escape. **Target: Q2 2027. If no rigid relation is derived, the "restrict base field to ℚ" postulate is revealed as a rhetorical fence, not a falsifiable commitment.**
 
-**Priority 3 — P-adic charge definition (KC1).** Construct an operational definition of p-adic charges from the Compton idele, with a measurement protocol or, at minimum, a theoretical statement of what *cannot* happen if they are conserved. This is necessary for the product formula to become a physical conservation law rather than a mathematical identity.
+**Priority 3 — P-adic charge definition (KC1).** Construct an operational definition of p-adic charges from the Compton idele, with a measurement protocol or, at minimum, a theoretical statement of what *cannot* happen if they are conserved. This is necessary for the product formula to become a physical conservation law rather than a mathematical identity. **Target: Q3 2027. Without this, KC1 remains a restatement of a mathematical theorem dressed as a physical hypothesis.**
 
-**Priority 4 — Prime-number DM template (KC5).** Specify the exact mathematical object — Möbius function, prime gap distribution, or other — that governs the predicted log-periodic features in dark matter halos. State the minimum adelic DM fraction below which the framework loses its dark matter motivation.
+**Priority 4 — Prime-number DM template (KC5).** Specify the exact mathematical object — Möbius function, prime gap distribution, or other — that governs the predicted log-periodic features in dark matter halos. State the minimum adelic DM fraction below which the framework loses its dark matter motivation. **Target: Q4 2027. If no template is specified, KC5 should be retired as a falsification criterion.**
 
-**Priority 5 — Hard discretization length scale (KC3).** Derive a minimum scale from the adelic action below which smooth, Lorentz-invariant spacetime is incompatible with the adelic substrate. Until this exists, every experimental null result on Lorentz violation is a non-result for the framework.
+**Priority 5 — Hard discretization length scale (KC3).** Derive a minimum scale from the adelic action below which smooth, Lorentz-invariant spacetime is incompatible with the adelic substrate. Until this exists, every experimental null result on Lorentz violation is a non-result for the framework. **Target: Q4 2027. If no scale is derived, KC3 should be classified as structurally unfalsifiable and removed from the kill criteria list.**
 
-These five derivations are not optional embellishments. They are the minimum set of theoretical commitments required for the adelic framework to transition from a mathematical research program to a falsifiable physical theory. Until they exist, the framework lives in the space between mathematics and physics — elegant, internally consistent, and not yet science. `[my conjecture]`
+These five derivations are not optional embellishments. They are the minimum set of theoretical commitments required for the adelic framework to transition from a mathematical research program to a falsifiable physical theory. If all five derivations fail to materialize by Q4 2027, the framework should be classified as not-yet-falsifiable — not wrong, merely not yet a scientific theory — and the kill criteria should be retired as aspirational rather than operational. [my conjecture]
 
 ## Declarations
 
@@ -192,11 +242,11 @@ Not applicable — this is a conceptual analysis with no computational component
 
 ### Competing Interests
 The author is the originator of the adelic framework under audit. This paper is an exercise in adversarial self-criticism. Readers should apply appropriate discounting for conflict of interest, though the audit's findings — that zero of six proposed kill criteria are currently operational — suggest the conflict did not produce undue leniency.
-
+[^6]: Quni-Gudzinas, R.B. "Black Hole Echoes as Prime-Indexed Distinction Signatures." QNFO Technical Memo, 2026. [unpublished]
 ### AI Assistance Disclosure
-This paper was drafted with assistance from DeepChat (deepseek-v4-pro). The red-team audit was performed by the same AI system operating under an adversarial review protocol. All substantive claims and the final text were reviewed and approved by the human author.
+[^7]: Quni-Gudzinas, R.B. "P-adic Dark Matter: Discrete Scale Invariance in Halo Profiles." QNFO Technical Memo, 2026. [unpublished]
 
-### Ethical Statement
+[^8]: Quni-Gudzinas, R.B. "Dimensional Emergence from Adelic Renormalization Group Flow." QNFO Technical Memo, 2026. [unpublished]
 This work raises no ethical concerns beyond the standard obligations of scientific honesty. The paper's central claim — that a research program the author is invested in has not yet met the criteria for falsifiability — is offered as a methodological case study in adversarial self-audit.
 
 ### Pre-Registration
@@ -217,8 +267,8 @@ QNFO Unified License Agreement (QNFO-ULA).
 
 [^5]: Vladimirov, V.S., Volovich, I.V., and Zelenov, E.I. *p-Adic Analysis and Mathematical Physics*. World Scientific, 1994.
 
-[^6]: Quni-Gudzinas, R.B. "Black Hole Echoes as Prime-Indexed Distinction Signatures." QNFO Technical Memo, 2026.
+[^6]: Quni-Gudzinas, R.B. "Black Hole Echoes as Prime-Indexed Distinction Signatures." QNFO Technical Memo, 2026. [unpublished]
 
-[^7]: Quni-Gudzinas, R.B. "P-adic Dark Matter: Discrete Scale Invariance in Halo Profiles." QNFO Technical Memo, 2026.
+[^7]: Quni-Gudzinas, R.B. "P-adic Dark Matter: Discrete Scale Invariance in Halo Profiles." QNFO Technical Memo, 2026. [unpublished]
 
-[^8]: Quni-Gudzinas, R.B. "Dimensional Emergence from Adelic Renormalization Group Flow." QNFO Technical Memo, 2026.
+[^8]: Quni-Gudzinas, R.B. "Dimensional Emergence from Adelic Renormalization Group Flow." QNFO Technical Memo, 2026. [unpublished]
