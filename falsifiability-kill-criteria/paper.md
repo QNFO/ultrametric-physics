@@ -1,15 +1,15 @@
 ---
-title: "Killing the Framework: Six Criteria for the Falsification of Adelic Physics"
+title: "Killing the Framework: Seven Criteria for the Falsification of Adelic Physics"
 author: "Rowan Brad Quni-Gudzinas"
 date: "2026-08-04"
 license: "QNFO Unified License Agreement (QNFO-ULA)"
-doi: "TBD"
-status: "draft"
+doi: "10.5281/zenodo.21790172"
+status: "published"
 wbs: "QNFO.UMP.004"
 genre: "A"
 ---
 
-# Killing the Framework: Six Criteria for the Falsification of Adelic Physics
+# Killing the Framework: Seven Criteria for the Falsification of Adelic Physics
 
 ## Abstract
 
