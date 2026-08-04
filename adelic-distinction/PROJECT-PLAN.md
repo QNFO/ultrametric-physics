@@ -1,4 +1,4 @@
-# WBS: QNFO.UMP.003
+# WBS: QNFO.UMP.004
 
 ## Charter
 Formalize the adelic distinction framework — the universe as a dynamical distinction network over the adeles — into a publishable research paper. The seed material (Obsidian note `_26216083410.md`, 2026-08-04) spans 4 iterations of dialogue synthesis connecting valuation theory, idele class groups, Bruhat-Tits trees, automorphic representations, and all of particle physics/cosmology.
@@ -9,12 +9,12 @@ The universe is a dynamical distinction network over the adeles. Its fundamental
 ## Phases (WBS)
 | Phase | WBS Code | Description |
 |:------|:---------|:------------|
-| P0 | QNFO.UMP.003.P0 | Init: repository, branch, PROJECT-PLAN, seed note |
-| P1 | QNFO.UMP.003.P1 | Due Diligence: KG cross-ref, D1, Vectorize, external search |
-| P1b | QNFO.UMP.003.P1 | Consilience Gate (KIF-29 HARD): silo-cost, cross-domain lexicon |
-| P4 | QNFO.UMP.003.P4 | Deep Research: formalize note into paper.md with Forecast Protocol |
-| P5 | QNFO.UMP.003.P5 | Publication: PDF build, Zenodo DOI, D1/KG seeding |
-| P3.5 | QNFO.UMP.003.P3.5 | Red-team: reviewer subagent audit |
+| P0 | QNFO.UMP.004.P0 | Init: repository, branch, PROJECT-PLAN, seed note |
+| P1 | QNFO.UMP.004.P1 | Due Diligence: KG cross-ref, D1, Vectorize, external search |
+| P1b | QNFO.UMP.004.P1 | Consilience Gate (KIF-29 HARD): silo-cost, cross-domain lexicon |
+| P4 | QNFO.UMP.004.P4 | Deep Research: formalize note into paper.md with Forecast Protocol |
+| P5 | QNFO.UMP.004.P5 | Publication: PDF build, Zenodo DOI, D1/KG seeding |
+| P3.5 | QNFO.UMP.004.P3.5 | Red-team: reviewer subagent audit |
 
 ## Milestones
 | Milestone | Gate Criteria |
