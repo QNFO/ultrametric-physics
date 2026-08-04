@@ -3,8 +3,8 @@ title: "The Adelic Distinction: Physics as Automorphic Representation Theory on 
 author: "Rowan Brad Quni-Gudzinas"
 date: "2026-08-04"
 license: "QNFO Unified License Agreement (QNFO-ULA)"
-doi: ""
-status: "draft"
+doi: "10.5281/zenodo.21786603"
+status: "published"
 ---
 
 ## Abstract
