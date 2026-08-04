@@ -3,8 +3,8 @@ title: "Invariant Patterns and the Adelic Refactoring of Fundamental Physics"
 author: "Rowan Brad Quni-Gudzinas"
 date: "2026-08-04"
 license: "QNFO Unified License Agreement (QNFO-ULA)"
-doi: ""
-status: "draft"
+doi: "10.5281/zenodo.21785878"
+status: "published"
 ---
 
 **Abstract**
