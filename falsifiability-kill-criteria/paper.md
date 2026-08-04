@@ -7,7 +7,7 @@ doi: "10.5281/zenodo.21790692"
 status: "published"
 wbs: "QNFO.UMP.004"
 genre: "A"
-version: "v0.4-grades-revised"
+version: "v0.5-data-audit"
 ---
 
 # Killing the Framework: Seven Criteria for the Falsification of Adelic Physics
@@ -28,7 +28,7 @@ The adelic framework for fundamental physics [^1] proposes that the structure of
 
 This paper attempts to close that gap. It proposes six kill criteria and then, crucially, audits each one for escape hatches. The audit is not an afterthought; it is the primary contribution. A kill criterion that can be evaded is not a kill criterion. It is a restatement of the framework dressed as a test.
 
-## 2. Six Kill Criteria
+## 2. Seven Kill Criteria
 
 ### 2.1 KC1: Violation of the Global Product Formula
 
@@ -134,7 +134,6 @@ However, KC7 is arguably the *most consequential* criterion. If the adelic frame
 
 **To operationalize.** Publish a derivation of SU(3) × SU(2) × U(1) from the adelic automorphic structure. If the derivation contains a specific, testable ancillary prediction (e.g., a constraint on the number of gauge bosons or coupling-constant relations at unification), that prediction becomes an additional kill criterion. Without a published derivation, KC7 is not a kill criterion; it is a promissory note. [not yet falsifiable]
 
-### 2.7 KC7: Gauge Group Underivability
 
 **Core postulate.** The Standard Model gauge group SU(3)_C × SU(2)_L × U(1)_Y — or its unified extension — must be derivable from the adelic framework as the unique low-energy remnant of the automorphic structure. The framework's claim to be a theory of *all* fundamental interactions depends on this.
 
@@ -311,6 +310,97 @@ To become falsifiable, the framework must deliver five concrete derivations, lis
 
 These five derivations are not optional embellishments. They are the minimum set of theoretical commitments required for the adelic framework to transition from a mathematical research program to a falsifiable physical theory. If all five derivations fail to materialize by Q4 2027, the framework should be classified as not-yet-falsifiable — not wrong, merely not yet a scientific theory — and the kill criteria should be retired as aspirational rather than operational. [my conjecture]
 
+
+
+## 7. Data-Driven Falsification Audit: What Existing Observations Already Say
+
+The preceding sections defined kill criteria and graded frameworks. This section asks the harder question: **have existing observations already triggered any kill criterion?** For each criterion, the relevant experimental or observational dataset is identified, its current status is assessed, and a verdict is rendered. The audit is applied symmetrically — to the adelic framework's seven criteria and to the null hypotheses (ΛCDM, the Standard Model, and the operational GR composite).
+
+### 7.1 Method
+
+For each kill criterion, four questions are asked:
+
+1. **Does the dataset exist?** Is there an experiment or observation capable of testing the criterion?
+2. **What does it show?** The quantitative result, with reference.
+3. **Is it binding?** Does the result fall inside the criterion's specified falsification boundary — or is the boundary undefined?
+4. **Verdict:** [FALSIFIED] / [CONSTRAINED, NOT FATAL] / [NULL — no signal, no falsification] / [UNTESTABLE — no dataset exists].
+
+### 7.2 The Adelic Framework Under Existing Data
+
+**KC4 (Black hole echoes) — tested, null result, not fatal.**
+
+The LIGO-Virgo GWTC-1 catalog has been searched for echo signals from nine binary black hole mergers using a Kerr-membrane echo template [^9]. No statistically significant echo signals were found. The search placed upper limits on echo amplitude in each event.
+
+This is the adelic framework's most directly testable prediction — and it has been tested. The result is null. But it is *not* fatal, for exactly the reason identified in §2.4: no minimum echo amplitude was ever derived from the adelic action. The framework predicted a pattern (Möbius-weighted prime delays) without predicting its absolute strength. A null search constrains the amplitude to below the current detector sensitivity, and the framework survives by claiming the amplitude is below that sensitivity. **Verdict: [NULL — no signal, not falsified, no confirmatory evidence].** The framework's single most testable claim has produced zero positive evidence after being searched.
+
+**KC3 (Exact continuum / Lorentz violation) — constrained, not fatal.**
+
+The Fermi-LAT observation of GRB 090510 set the strongest constraint on linear Lorentz-invariance violation to date: the arrival-time dispersion of the 31 GeV photon relative to lower-energy photons limits the linear LV scale to well above the Planck scale [^10]. No energy-dependent photon delay was observed.
+
+This constrains any framework predicting observable LV at accessible scales — but the adelic framework placed its discretization at or below the Planck length without specifying a threshold (§2.3). The constraint is therefore not binding: the framework survives by placing its structure below the probed scale. **Verdict: [CONSTRAINED, NOT FATAL].** The constraint tightens the allowed parameter space without touching the framework's core.
+
+**KC2 (Three generations) — the one criterion with a positive existing dataset, and it is consistent.**
+
+The LEP measurement of the Z-boson invisible width determines the number of light neutrino species: N_ν = 2.984 ± 0.008 [^11]. There are exactly three light generations. Direct searches at the LHC exclude fourth-generation quarks up to ~1 TeV.
+
+If the adelic framework predicts exactly three generations (via the cubic structure of the rational idele class group), this dataset is *consistent* with it — but consistent is not confirmatory, because the framework never specified rigid mass relations that a fourth generation would break (§2.2). The observation rules out a light fourth generation, which the framework also rules out. **Verdict: [CONSISTENT — but this is a shared prediction with the Standard Model, not adelic evidence].** The framework takes credit for a constraint that is independently established by LEP.
+
+**KC5 (DM small-scale structure) — no log-periodic features observed.**
+
+No dark matter halo has shown confirmed log-periodic features or prime-indexed substructure. The small-scale problems of ΛCDM (cusp-core, missing satellites) are real, but no prime-related pattern has been detected in any of them [^12]. **Verdict: [NULL — no signal].** The adelic prediction for DM structure is not a predicted signature with a specified template, so the absence of the pattern is not a falsification — it is an unconfirmed prediction.
+
+**KC1 (Product formula) — no violation observed, but the criterion is unfalsifiable as specified.**
+
+Searches for fine-structure constant variation find no confirmed spacetime variation: quasar absorption-line studies report a possible spatial dipole at the ~10⁻⁵ level [^13], while laboratory atomic-clock constraints bound |Δα/α| to ~10⁻¹⁸ per year [^14]. No confirmed variation exists.
+
+But per §2.1, KC1 is unfalsifiable as specified: any variation can be absorbed as a modulus change. The dataset therefore cannot trigger the criterion even if a variation were confirmed. **Verdict: [UNTESTABLE — the criterion's escape hatch (modulus redefinition) precedes the data].**
+
+**KC7 (Gauge group) — untested by construction.**
+
+No derivation of SU(3) × SU(2) × U(1) from the adelic framework has been published, and no obstruction proof exists. There is no dataset that could falsify this criterion because the criterion was never operationalized. **Verdict: [UNTESTABLE — promissory note].**
+
+### 7.3 Null Hypotheses Under Existing Data — Attempted Falsification
+
+**ΛCDM — the Hubble tension is a live, growing falsification signal.**
+
+The SH0ES program measures the local expansion rate with 1 km/s/Mpc uncertainty: H₀ = 73.04 ± 1.04 km/s/Mpc [^15]. Planck 2018 measures the early-universe value from the CMB: H₀ = 67.4 ± 0.5 km/s/Mpc [^16]. The discrepancy is ~5σ and has persisted across multiple independent methodologies and a decade of data.
+
+This is precisely the form of a Popperian kill criterion: a specific parameter whose early-universe and late-universe determinations disagree beyond the combined uncertainty. ΛCDM survives today only through auxiliary mechanisms (early dark energy, modified recombination, interacting dark energy — see [^17] for the EDE proposal). Those are auxiliary hypotheses in exactly the sense the present paper criticizes. **Verdict: [CONSTRAINED — the tension is real and growing; ΛCDM's survival currently depends on auxiliary escape hatches].** If the tension reaches >5σ with systematics fully excluded, ΛCDM is falsified by this dataset.
+
+**Standard Model — muon g−2 shows a persistent 4.2σ anomaly, but the theory side is contested.**
+
+The Fermilab Muon g−2 experiment measures a_μ = 116592040(54) × 10⁻¹¹, a 4.2σ deviation from the SM prediction [^18]. This is a genuine anomaly. However, the SM prediction itself is split between the dispersive and lattice-QCD approaches, which disagree by more than their quoted uncertainties [^19]. The "standard model value" is therefore not uniquely defined, and the anomaly cannot yet be classified as a falsification. It is an anomaly with a contested null. **Verdict: [CONSTRAINED — real anomaly, contested null, not yet a falsification].** The B-meson anomalies (R_K, R_K*) that once pointed beyond the SM have since reverted to SM agreement with more data [^20].
+
+**Operational GR composite — no direct test exists.**
+
+No experiment confronts GR + dark matter + dark energy + inflation as a single unified structure. Each component is tested in isolation, and each can be adjusted independently to absorb anomalies (§5.2.1). **Verdict: [UNTESTABLE AS A WHOLE] — this is the structural point of the grade revision: the operational composite is de-facto unfalsifiable, not because it is strong but because it is flexible.**
+
+### 7.4 The Falsification Scorecard
+
+| Framework | Criterion | Dataset Exists? | Result | Binding? | Verdict |
+|:----------|:----------|:----------------|:-------|:---------|:--------|
+| Adelic | KC4 echoes | Yes (GWTC-1) | Null | No (no amplitude bound) | [NULL] |
+| Adelic | KC3 continuum | Yes (GRB 090510) | Constraint | No (no threshold) | [CONSTRAINED] |
+| Adelic | KC2 generations | Yes (LEP) | 3 species | Consistent but shared | [CONSISTENT] |
+| Adelic | KC5 DM structure | Partial | No pattern | No (no template) | [NULL] |
+| Adelic | KC1 product formula | Yes (α searches) | No variation | No (escape hatch) | [UNTESTABLE] |
+| Adelic | KC7 gauge group | No | — | No (unoperationalized) | [UNTESTABLE] |
+| ΛCDM | H₀ | Yes | 5σ tension | **Bordering** | [CONSTRAINED — live] |
+| SM | g−2 | Yes | 4.2σ | Contested null | [CONSTRAINED] |
+| SM | B anomalies | Yes | Reverted | No | [RESOLVED — null] |
+| GR composite | Whole-structure | No | — | — | [UNTESTABLE] |
+
+### 7.5 Reading of the Scorecard
+
+The data-driven audit produces a result that is uncomfortable for both sides.
+
+**For the adelic framework:** every criterion with an existing dataset shows either a null result (echoes, DM structure), a non-binding constraint (LV), or consistency with a prediction the framework shares with the Standard Model (three generations). The framework's most testable prediction — KC4 echoes — has been searched and produced zero positive evidence. No adelic-specific signature has ever been observed in any dataset. The framework has not been falsified, but it has also never once been *confirmed* by an independent observation. `[speculative — null results are consistent with an amplitude below sensitivity, but the framework's zero positive observations across all testable criteria is a fact]`
+
+**For the null hypotheses:** the incumbent frameworks are not cleanly falsifiable either. ΛCDM faces a live, growing 5σ Hubble tension that currently survives only through auxiliary escape hatches — the very mechanism the paper criticizes. The Standard Model faces a 4.2σ muon anomaly whose null is contested by theory, not resolved. The operational GR composite has never been tested as a whole. The claim that the incumbents are "falsifiable science" while the adelic framework is "unfalsifiable speculation" does not survive contact with the scorecard. The difference is one of degree — and of institutionalization, not of epistemic virtue. `[my conjecture]`
+
+**The honest conclusion:** all frameworks under review occupy positions on a falsifiability spectrum, and none has been cleanly falsified by existing data. The adelic framework's null results do not confirm it; the incumbents' tensions do not yet kill them. What the existing data *does* establish is which frameworks are genuinely at risk: ΛCDM (Hubble tension), the SM (muon anomaly), and — if its operationalized criteria ever produce amplitude bounds — the adelic framework (echo searches ready and waiting). The next observation is more likely to falsify an incumbent than to confirm the adelic framework. That is not a vindication of the framework; it is the current balance of empirical risk.
+
+
 ## Declarations
 
 ### Author Contributions
@@ -326,16 +416,16 @@ No experimental data were generated or analyzed in this study. All claims about 
 Not applicable — this is a conceptual analysis with no computational component.
 
 ### Competing Interests
-The author is the originator of the adelic framework under audit. This paper is an exercise in adversarial self-criticism. Readers should apply appropriate discounting for conflict of interest, though the audit's findings — that zero of six proposed kill criteria are currently operational — suggest the conflict did not produce undue leniency.
-[^6]: Quni-Gudzinas, R.B. "Black Hole Echoes as Prime-Indexed Distinction Signatures." QNFO Technical Memo, 2026. [unpublished]
-### AI Assistance Disclosure
-[^7]: Quni-Gudzinas, R.B. "P-adic Dark Matter: Discrete Scale Invariance in Halo Profiles." QNFO Technical Memo, 2026. [unpublished]
+The author is the originator of the adelic framework under audit. This paper is an exercise in adversarial self-criticism. Readers should apply appropriate discounting for conflict of interest, though the audit's findings — that zero of seven proposed kill criteria are currently operational — suggest the conflict did not produce undue leniency.
 
-[^8]: Quni-Gudzinas, R.B. "Dimensional Emergence from Adelic Renormalization Group Flow." QNFO Technical Memo, 2026. [unpublished]
-This work raises no ethical concerns beyond the standard obligations of scientific honesty. The paper's central claim — that a research program the author is invested in has not yet met the criteria for falsifiability — is offered as a methodological case study in adversarial self-audit.
+### AI Assistance Disclosure
+This paper was drafted with assistance from DeepChat (deepseek-v4-flash). The red-team audit was performed by the same AI system operating under an adversarial review protocol. All substantive claims and the final text were reviewed and approved by the human author.
+
+### Ethical Statement
+This work raises no ethical concerns beyond the standard obligations of scientific honesty. The paper's central claim — that research programs the author is invested in and the incumbent paradigms he critiques have not uniformly met the criteria for falsifiability — is offered as a methodological case study in symmetric adversarial self-audit.
 
 ### Pre-Registration
-Not applicable to this conceptual analysis. However, the kill criteria defined herein (KC1–KC6) constitute a pre-registration scaffold: if future experimental or theoretical developments trigger any criterion after the operationalization steps in §6 are completed, the framework should be considered falsified under the conditions specified.
+Not applicable to this conceptual analysis. However, the kill criteria defined herein (KC1–KC7) constitute a pre-registration scaffold: if future experimental or theoretical developments trigger any criterion after the operationalization steps in §6 are completed, the framework should be considered falsified under the conditions specified.
 
 ### License
 QNFO Unified License Agreement (QNFO-ULA).
@@ -353,6 +443,29 @@ QNFO Unified License Agreement (QNFO-ULA).
 [^5]: Vladimirov, V.S., Volovich, I.V., and Zelenov, E.I. *p-Adic Analysis and Mathematical Physics*. World Scientific, 1994.
 
 [^6]: Quni-Gudzinas, R.B. "Black Hole Echoes as Prime-Indexed Distinction Signatures." QNFO Technical Memo, 2026. [unpublished]
+
+[^9]: Uchikata, N., et al. "Searching for black hole echoes from the LIGO-Virgo Catalog GWTC-1." arXiv:1906.00838, 2019. [verified via arXiv abstract — null result for echoes in nine BBH mergers]
+
+[^10]: Abdo, A.A., et al. "Fermi and Swift observations of the bright short GRB 090510." *Astrophysical Journal*, 2010. arXiv:1002.2863. [verified via arXiv abstract — strongest linear-LV constraint]
+
+[^11]: The ALEPH, DELPHI, L3, OPAL, SLD Collaborations, the LEP Electroweak Working Group, the SLD Electroweak and Heavy Flavour Groups. "Precision electroweak measurements on the Z resonance." *Physics Reports*, 2006. [established — N_ν = 2.984 ± 0.008 from Z invisible width]
+
+[^12]: Bullock, J.S., and Boylan-Kolchin, M. "Small-Scale Challenges to the ΛCDM Paradigm." *Annual Review of Astronomy and Astrophysics*, 2017. [established — cusp-core and missing-satellites tensions documented]
+[^13]: Webb, J.K., et al. "Indications of a Spatial Variation of the Fine Structure Constant." *Physical Review Letters*, vol. 107, 2011, 191101. [established — quasar absorption-line study reports Δα/α ~ 10⁻⁵ spatial dipole claim]
+
+[^14]: Lange, R., et al. "Improved limits for violations of local position invariance from atomic clock comparisons." *Physical Review Letters*, vol. 126, 2021, 011102. [established — laboratory bound |Δα/α| ~ 10⁻¹⁸ per year]
+
+[^15]: Riess, A.G., et al. "A Comprehensive Measurement of the Local Value of the Hubble Constant with 1 km/s/Mpc Uncertainty from the Hubble Space Telescope and the SH0ES Team." *Astrophysical Journal Letters*, 2022. arXiv:2112.04510. [verified via arXiv abstract — H₀ = 73.04 ± 1.04 km/s/Mpc]
+
+[^16]: Planck Collaboration. "Planck 2018 results. VI. Cosmological parameters." *Astronomy & Astrophysics*, vol. 641, 2020, A6. arXiv:1807.06209. [verified via arXiv abstract — H₀ = 67.4 ± 0.5 km/s/Mpc]
+
+[^17]: Poulin, V., Smith, T.L., Karwal, T., and Kamionkowski, M. "Early Dark Energy Can Resolve the Hubble Tension." *Physical Review Letters*, vol. 122, 2019, 221301. [established — EDE proposal as auxiliary resolution]
+
+[^18]: Abi, B., et al. (Muon g−2 Collaboration). "Measurement of the Positive Muon Anomalous Magnetic Moment to 0.46 ppm." *Physical Review Letters*, vol. 126, 2021, 141801. arXiv:2104.03281. [verified via arXiv abstract — a_μ = 116592040(54) × 10⁻¹¹, 4.2σ from SM]
+
+[^19]: Aoyama, T., et al. "The anomalous magnetic moment of the muon in the Standard Model." *Physics Reports*, vol. 887, 2020, pp. 1–166. [established — dispersive vs lattice QCD theory disagreement documented]
+
+[^20]: LHCb Collaboration. "Test of lepton universality in b→sℓ⁺ℓ⁻ decays." *Physical Review Letters*, vol. 131, 2023, 051803. [established — R_K reverted to Standard Model agreement with full Run 1+2 data]
 
 [^7]: Quni-Gudzinas, R.B. "P-adic Dark Matter: Discrete Scale Invariance in Halo Profiles." QNFO Technical Memo, 2026. [unpublished]
 
