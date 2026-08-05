@@ -3,7 +3,7 @@
 **Paper:** Valuation Without ℝ: A Category-Theoretic Foundation for Finite Measurement
 **WBS:** QNFO.UMP.004
 **Repo:** QNFO/ultrametric-physics, branch `ump/paper/valuation-independent-foundations`
-**DOI:** 10.5281/zenodo.21795779 (v0.6 — latest published version)
+**DOI:** 10.5281/zenodo.21803677 (v0.8.1 — latest published version, 2026-08-05)
 **Registry created:** 2026-08-04 | **Status:** LIVING DOCUMENT
 
 ---
@@ -89,6 +89,7 @@ Strength: [WEAK] | Status: [PENDING]
 | Date | Session | Event |
 |------|---------|-------|
 | 2026-08-04 | dtiz7cz | Registry created (v0.6 pipeline complete: $$ delimiters, CDP PDF, 46 math elements) |
+| 2026-08-05 | dtiz7cz | v0.8.1 published to Zenodo 10.5281/zenodo.21803677 (3 files: pdf+html+md). Root cause of earlier 403 = minimal UA bot-detection (NOT IP block). Full browser headers fix. |
 | 2026-08-04 | dtiz7cz | v0.6-pipeline-ump004 tagged; D1 body_md updated; R2 archived |
 
 **Maintenance Protocol:** This registry is a LIVING DOCUMENT. Update on every phase change, every new frontier question, every prediction test window event, and every pre-registration scaffold activity. Version-bump the registry with each paper version.
