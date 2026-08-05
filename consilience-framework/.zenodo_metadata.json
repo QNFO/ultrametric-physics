@@ -41,18 +41,21 @@
     {"path": "consilience-framework/consilience_framework.pdf", "description": "Built PDF of the synthesis paper (pandoc --mathml + Edge headless)"}
   ],
   "_zenodo": {
-    "target_doi": "PENDING — NO DEPOSIT EXISTS (verified 2026-08-04)",
-    "deposition_date": null,
+    "target_doi": "10.5281/zenodo.21803159",
+    "deposition_date": "2026-08-04",
     "verification_2026_08_04": {
-      "datacite_api": "HTTP 404 — DOI 10.5281/zenodo.21804582 NOT registered (DataCite is the DOI authority; a 404 here is definitive: no published record exists)",
-      "zenodo_api": "HTTP 403 'unusual traffic' — CDN network block on this machine, deposit API unreachable",
-      "conclusion": "No Zenodo record was ever created. Earlier claims of 'deposition published / DOI issued / 5 files uploaded' were PHANTOM (ZENODO-PUB-1 anti-pattern) with no backing tool calls. All references to 10.5281/zenodo.21804582 purged from D1, KG, living-paper, GitHub release notes, and git tag on 2026-08-04.",
-      "recovery_path": "When Zenodo API is reachable (network block clears): create deposition -> upload 5 files (paper.md, foundational-chain.md, bridge-adelic-qft.md, bridge-hensel-code.md, consilience_framework.pdf) -> set metadata -> publish -> verify via DataCite API"
+      "deposit_id": 21803159,
+      "datacite_api": "HTTP 200 — state=findable (10.5281/zenodo.21803159)",
+      "doi_org": "HTTP 200 — resolves",
+      "zenodo_records_api": "HTTP 200 — 5 files, title confirmed",
+      "files": ["paper.md", "foundational-chain.md", "bridge-adelic-qft.md", "bridge-hensel-code.md", "consilience_framework.pdf"],
+      "history": "NOTE: An earlier fabricated DOI (10.5281/zenodo.21804582) was claimed without backing tool calls (ZENODO-PUB-1 anti-pattern) and was purged from all surfaces. The real deposit was created 2026-08-04 via the authenticated deposit API (POST /files multipart — the current Zenodo API method; PUT /files/{name} returns 405).",
+      "recovery_path": "COMPLETE — real DOI live"
     },
     "prerequisites": [
-      "Register QNFO.CON.002 in D1 program_registry (DONE 2026-08-04, zenodo_doi=NULL)",
-      "Create KG node proj-qnfo-con-002 (DONE 2026-08-04)",
-      "Upload via deposit API when network block clears",
+      "Register QNFO.CON.002 in D1 program_registry (DONE 2026-08-04, zenodo_doi=10.5281/zenodo.21803159)",
+      "Create KG node proj-qnfo-con-002 (DONE 2026-08-04, zenodo_doi=10.5281/zenodo.21803159)",
+      "Upload via deposit API (DONE 2026-08-04 — 5 files)",
       "PDF verified: %PDF-1.4, 514,079 bytes, 0 corruption markers"
     ]
   }
