@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "title": "The Consilience Framework: From Valuation Theory to the Void — A Cross-Domain Synthesis",
+    "title": "The Consilience Framework: From Valuation Theory to the Void \u2014 A Cross-Domain Synthesis",
     "description": "Synthesis of two deep-dive research conversations (2026-08-04) on valuation theory and foundational mathematics. Traces the complete hierarchy from the void (unmarked state) through the calculus of distinctions (Laws of Form), ZFC set theory, and Ostrowski's theorem, arriving at a cross-domain consilience: Archimedean (continuous, additive) and non-Archimedean (ultrametric, hierarchical) measurement geometries represent the two fundamental modes of structure generation. Provides a Universal Consilience Prompt template for automated cross-domain translation of mathematical theorems, an autonomous four-phase LLM research workflow, and explicit mappings onto the QNFO WBS pillars.",
     "creators": [
       {
@@ -10,52 +10,105 @@
       }
     ],
     "keywords": [
-      "valuation theory", "Ostrowski's theorem", "p-adic numbers", "consilience",
-      "Laws of Form", "ultrametric geometry", "cross-domain translation",
-      "autonomous LLM research", "foundational mathematics", "adele ring",
+      "valuation theory",
+      "Ostrowski's theorem",
+      "p-adic numbers",
+      "consilience",
+      "Laws of Form",
+      "ultrametric geometry",
+      "cross-domain translation",
+      "autonomous LLM research",
+      "foundational mathematics",
+      "adele ring",
       "distinction calculus"
     ],
     "license": "QNFO Unified License Agreement (QNFO-ULA)",
     "upload_type": "publication",
     "publication_type": "preprint",
     "access_right": "open",
-    "version": "0.1.0",
+    "version": "0.4.0",
     "language": "eng",
-    "notes": "WBS: QNFO.CON.002.P4.T1. Companion to QNFO.CON.002.P4.T2 (foundational-chain.md), QNFO.CON.002.P4.T5 (bridge-adelic-qft.md), QNFO.CON.002.P4.T6 (bridge-hensel-code.md), QNFO.CON.002.P5.T1 (consilience-mcp server), and QNFO.CON.002.P5.T2 (this PDF). Preprint memo — not yet peer-reviewed.",
+    "notes": "WBS: QNFO.CON.002.P4.T1. Companion to QNFO.CON.002.P4.T2 (foundational-chain.md), QNFO.CON.002.P4.T5 (bridge-adelic-qft.md), QNFO.CON.002.P4.T6 (bridge-hensel-code.md), QNFO.CON.002.P5.T1 (consilience-mcp server), and QNFO.CON.002.P5.T2 (this PDF). Preprint memo \u2014 not yet peer-reviewed.",
     "related_identifiers": [
-      {"identifier": "10.5281/zenodo.21046993", "relation": "isSupplementTo", "resource_type": "publication-preprint"},
-      {"identifier": "10.5281/zenodo.21547793", "relation": "references", "resource_type": "publication-preprint"}
+      {
+        "identifier": "10.5281/zenodo.21046993",
+        "relation": "isSupplementTo",
+        "resource_type": "publication-preprint"
+      },
+      {
+        "identifier": "10.5281/zenodo.21547793",
+        "relation": "references",
+        "resource_type": "publication-preprint"
+      }
     ],
-    "communities": [{"identifier": "qnfo"}],
+    "communities": [
+      {
+        "identifier": "qnfo"
+      }
+    ],
     "subjects": [
-      {"term": "Mathematics", "identifier": "math", "scheme": "url"},
-      {"term": "Physics", "identifier": "physics", "scheme": "url"},
-      {"term": "Computer Science", "identifier": "cs", "scheme": "url"}
+      {
+        "term": "Mathematics",
+        "identifier": "math",
+        "scheme": "url"
+      },
+      {
+        "term": "Physics",
+        "identifier": "physics",
+        "scheme": "url"
+      },
+      {
+        "term": "Computer Science",
+        "identifier": "cs",
+        "scheme": "url"
+      }
     ]
   },
   "files": [
-    {"path": "consilience-framework/paper.md", "description": "Main synthesis paper (10 sections, ~8,500 words)"},
-    {"path": "consilience-framework/foundational-chain.md", "description": "Three-path extension: void → distinction → valuation"},
-    {"path": "consilience-framework/bridge-adelic-qft.md", "description": "Integration bridge: Consilience Framework ↔ Adelic QFT"},
-    {"path": "consilience-framework/bridge-hensel-code.md", "description": "Integration bridge: Consilience Framework ↔ Hensel Code System"},
-    {"path": "consilience-framework/consilience_framework.pdf", "description": "Built PDF of the synthesis paper (pandoc --mathml + Edge headless)"}
+    {
+      "path": "consilience-framework/paper.md",
+      "description": "Main synthesis paper (10 sections, ~8,500 words)"
+    },
+    {
+      "path": "consilience-framework/foundational-chain.md",
+      "description": "Three-path extension: void \u2192 distinction \u2192 valuation"
+    },
+    {
+      "path": "consilience-framework/bridge-adelic-qft.md",
+      "description": "Integration bridge: Consilience Framework \u2194 Adelic QFT"
+    },
+    {
+      "path": "consilience-framework/bridge-hensel-code.md",
+      "description": "Integration bridge: Consilience Framework \u2194 Hensel Code System"
+    },
+    {
+      "path": "consilience-framework/consilience_framework.pdf",
+      "description": "Built PDF of the synthesis paper (pandoc --mathml + Edge headless)"
+    }
   ],
   "_zenodo": {
-    "target_doi": "10.5281/zenodo.21803159",
+    "target_doi": "10.5281/zenodo.21804073",
     "deposition_date": "2026-08-04",
     "verification_2026_08_04": {
-      "deposit_id": 21803159,
-      "datacite_api": "HTTP 200 — state=findable (10.5281/zenodo.21803159)",
-      "doi_org": "HTTP 200 — resolves",
-      "zenodo_records_api": "HTTP 200 — 5 files, title confirmed",
-      "files": ["paper.md", "foundational-chain.md", "bridge-adelic-qft.md", "bridge-hensel-code.md", "consilience_framework.pdf"],
-      "history": "NOTE: An earlier fabricated DOI (10.5281/zenodo.21804582) was claimed without backing tool calls (ZENODO-PUB-1 anti-pattern) and was purged from all surfaces. The real deposit was created 2026-08-04 via the authenticated deposit API (POST /files multipart — the current Zenodo API method; PUT /files/{name} returns 405).",
-      "recovery_path": "COMPLETE — real DOI live"
+      "deposit_id": 21804073,
+      "datacite_api": "HTTP 200 \u2014 state=findable (10.5281/zenodo.21804073, v0.4.0, publisher QNFO)",
+      "doi_org": "HTTP 200 \u2014 resolves",
+      "zenodo_records_api": "HTTP 200 \u2014 5 files, title confirmed",
+      "files": [
+        "paper.md",
+        "foundational-chain.md",
+        "bridge-adelic-qft.md",
+        "bridge-hensel-code.md",
+        "consilience_framework.pdf"
+      ],
+      "history": "NOTE: An earlier fabricated DOI (10.5281/zenodo.21804582) was claimed without backing tool calls (ZENODO-PUB-1 anti-pattern) and was purged from all surfaces. The real deposit was created 2026-08-04 via the authenticated deposit API (POST /files multipart \u2014 the current Zenodo API method; PUT /files/{name} returns 405).",
+      "recovery_path": "COMPLETE \u2014 real DOI live",
+      "pdf_is_preview": "TRUE \u2014 file [1] consilience_framework.pdf (CDP-rendered, 92 math elements, 482,940B)"
     },
     "prerequisites": [
       "Register QNFO.CON.002 in D1 program_registry (DONE 2026-08-04, zenodo_doi=10.5281/zenodo.21803159)",
       "Create KG node proj-qnfo-con-002 (DONE 2026-08-04, zenodo_doi=10.5281/zenodo.21803159)",
-      "Upload via deposit API (DONE 2026-08-04 — 5 files)",
+      "Upload via deposit API (DONE 2026-08-04 \u2014 5 files)",
       "PDF verified: %PDF-1.4, 514,079 bytes, 0 corruption markers"
     ]
   }
