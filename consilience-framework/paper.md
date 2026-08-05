@@ -4,6 +4,8 @@ author: "Rowan Quni-Gudzinas (QNFO/QWAV)"
 date: "2026-08-04"
 version: "0.1.0"
 license: "QNFO Unified License Agreement (QNFO-ULA)"
+doi: "10.5281/zenodo.21803159"
+zenodo_url: "https://zenodo.org/records/21803159"
 wbs_codes:
   - QNFO.CON.002.P4.T1  # Cross-Pillar Consilience — Synthesis Paper
   - QNFO.CON.002.P4.T2  # Cross-Pillar Consilience — Foundational Chain Memo
