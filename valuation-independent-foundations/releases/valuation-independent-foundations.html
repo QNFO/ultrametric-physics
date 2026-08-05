@@ -236,13 +236,14 @@ the ultrametric inequality, with no dependence on <span
 class="math inline">\(\mathbb{R}\)</span> or set-theoretic foundations.
 The category Val of valuation spaces with non-expansive maps is
 self-contained — <span class="math inline">\(\mathbb{R}\)</span> appears
-only as a limit idealization. The effective spatial dimension d emerges
-as the exponent in the asymptotic growth <span
-class="math inline">\(N(r) \sim q^{d \cdot r}\)</span> of the
-distinguishability graph at resolution r, constrained by the
-cohomological consistency of the refinement sheaf across resolutions.
-Falsifiable predictions are pre-registered at Planck-scale resolution:
-ultrametric clustering in the distinguishability graph <span
+only as a limit idealization. The effective spatial dimension <span
+class="math inline">\(d\)</span> emerges as the exponent in the
+asymptotic growth <span class="math inline">\(N(r) \sim q^{d \cdot
+r}\)</span> of the distinguishability graph at resolution <span
+class="math inline">\(r\)</span>, constrained by the cohomological
+consistency of the refinement sheaf across resolutions. Falsifiable
+predictions are pre-registered at Planck-scale resolution: ultrametric
+clustering in the distinguishability graph <span
 class="math inline">\(G_r\)</span> supersedes Euclidean nearest-neighbor
 structure at <span class="math inline">\(r &gt; r_c\)</span>.</p>
 </div>
@@ -251,21 +252,21 @@ structure at <span class="math inline">\(r &gt; r_c\)</span>.</p>
 class="math inline">\(\mathbb{R}\)</span></h1>
 <h2 id="a-category-theoretic-foundation-for-finite-measurement">A
 Category-Theoretic Foundation for Finite Measurement</h2>
-<p><strong>WBS: QNFO.UMP.004</strong> | <strong>Status: Phase 4
-draft</strong></p>
+<p><strong>WBS: QNFO.UMP.004</strong> | <strong>Status:
+published</strong></p>
 <hr />
 <h2 id="introduction">1. Introduction</h2>
 <p>Every physical measurement produces a finite output: a detector
-click, a pointer reading, a register of N bits. Yet the mathematical
-foundations of physics embed this finite act in the Archimedean
-continuum — the real numbers — a structure carrying uncountably many
-non-computable elements, power-set overhang, and a topology that is
-Archimedean (and therefore ONE completion among all completions of the
-rationals per Ostrowski’s theorem). Simultaneously, the background
-universe of discourse is set theory (ZFC or equivalent), whose
-cumulative hierarchy, axiom of choice, and power-set axiom are accepted
-without examination as the stage on which physical theories are
-erected.</p>
+click, a pointer reading, a register of <span
+class="math inline">\(N\)</span> bits. Yet the mathematical foundations
+of physics embed this finite act in the Archimedean continuum — the real
+numbers — a structure carrying uncountably many non-computable elements,
+power-set overhang, and a topology that is Archimedean (and therefore
+ONE completion among all completions of the rationals per Ostrowski’s
+theorem). Simultaneously, the background universe of discourse is set
+theory (ZFC or equivalent), whose cumulative hierarchy, axiom of choice,
+and power-set axiom are accepted without examination as the stage on
+which physical theories are erected.</p>
 <p>This paper inverts both dependencies. Rather than treating
 measurement as “<span class="math inline">\(\mathbb{R}\)</span>-valued
 with error bars,” we ask: <strong>what is the minimal structure required
@@ -286,12 +287,14 @@ class="math inline">\(\mathbb{R}\)</span>).</strong> The Archimedean
 completion of <span class="math inline">\(\mathbb{Q}\)</span> is ONE
 completion among ALL completions — per Ostrowski’s theorem, the
 valuations of <span class="math inline">\(\mathbb{Q}\)</span> are the
-trivial valuation, the Archimedean absolute value, and the p-adic
-absolute values for every prime p
+trivial valuation, the Archimedean absolute value, and the <span
+class="math inline">\(p\)</span>-adic absolute values for every prime
+<span class="math inline">\(p\)</span>
 <code>[established — Ostrowski, 1916]</code>. Choosing <span
 class="math inline">\(\mathbb{R}\)</span> without justification is the
 <strong>Archimedean bias</strong> — an unexamined default that conceals
-viable p-adic completions and discrete fundamental structures
+viable <span class="math inline">\(p\)</span>-adic completions and
+discrete structures
 <code>[speculative — this paper's motivating claim]</code>.</p>
 <p>Moreover, the power-set overhang of <span
 class="math inline">\(\mathbb{R}\)</span> — the non-computable reals —
@@ -317,16 +320,17 @@ question of removing BOTH has not been addressed.</p>
 <h3 id="the-thesis">1.2 The Thesis</h3>
 <blockquote>
 <p>Measurement can be formalized as a valuation space: a set of states
-equipped with a graded distinguishability map v: <span
-class="math inline">\(\mathcal{S}^2 \to \mathbb{N} \cup
-\{\infty\}\)</span> satisfying (1) identity of indiscernibles, (2)
-symmetry, and (3) the ultrametric inequality — with no dependence on
-<span class="math inline">\(\mathbb{R}\)</span> or set-theoretic
-foundations. The category Val of such spaces is self-contained; <span
-class="math inline">\(\mathbb{R}\)</span> appears only as a limit
-idealization. The effective spatial dimension d emerges as the
-asymptotic growth exponent of the distinguishability graph, constrained
-by the cohomological consistency of the refinement sheaf.</p>
+<span class="math inline">\(\mathcal{S}\)</span> equipped with a graded
+distinguishability map <span class="math inline">\(v: \mathcal{S}^2 \to
+\mathbb{N} \cup \{\infty\}\)</span> satisfying (1) identity of
+indiscernibles, (2) symmetry, and (3) the ultrametric inequality — with
+no dependence on <span class="math inline">\(\mathbb{R}\)</span> or
+set-theoretic foundations. The category Val of such spaces is
+self-contained; <span class="math inline">\(\mathbb{R}\)</span> appears
+only as a limit idealization. The effective spatial dimension <span
+class="math inline">\(d\)</span> emerges as the asymptotic growth
+exponent of the distinguishability graph, constrained by the
+cohomological consistency of the refinement sheaf.</p>
 </blockquote>
 <hr />
 <h2 id="the-distinguishability-poset">2. The Distinguishability
@@ -334,17 +338,19 @@ Poset</h2>
 <h3 id="primitive-notions">2.1 Primitive Notions</h3>
 <p>We begin with two primitives:</p>
 <ol type="1">
-<li><p><strong>A set of states.</strong> “State” is deliberately
-unspecific — it could be a physical configuration, an experimental
-outcome, a logical proposition, or a quantum density matrix. The only
-property that matters is that two states can be compared for
-distinguishability.</p></li>
+<li><p><strong>A set <span class="math inline">\(\mathcal{S}\)</span> of
+states.</strong> “State” is deliberately unspecific — it could be a
+physical configuration, an experimental outcome, a logical proposition,
+or a quantum density matrix. The only property that matters is that two
+states can be compared for distinguishability.</p></li>
 <li><p><strong>A distinguishability ordering <span
 class="math inline">\(\prec_d\)</span>.</strong> The relation <span
 class="math inline">\(a \prec_d b\)</span> means: “the measurement
-apparatus that distinguishes a from its complement also distinguishes b
-from its complement.” That is, b is AT LEAST as distinguishable from its
-complement as a is from its complement.</p></li>
+apparatus that distinguishes <span class="math inline">\(a\)</span> from
+its complement also distinguishes <span class="math inline">\(b\)</span>
+from its complement.” That is, <span class="math inline">\(b\)</span> is
+AT LEAST as distinguishable from its complement as <span
+class="math inline">\(a\)</span> is from its complement.</p></li>
 </ol>
 <h3 id="axioms-of-the-distinguishability-poset">2.2 Axioms of the
 Distinguishability Poset</h3>
@@ -354,9 +360,10 @@ complement as itself (trivially).</p>
 <p><strong>(D2) Transitivity:</strong> If <span class="math inline">\(a
 \prec_d b\)</span> and <span class="math inline">\(b \prec_d c\)</span>,
 then <span class="math inline">\(a \prec_d c\)</span> —
-distinguishability is transitively ordered. If apparatus A can tell b
-from its complement and apparatus B can tell c from its complement, then
-the discrimination power stacks.</p>
+distinguishability is transitively ordered. If apparatus A can tell
+<span class="math inline">\(b\)</span> from its complement and apparatus
+B can tell <span class="math inline">\(c\)</span> from its complement,
+then the discrimination power stacks.</p>
 <p><strong>(D3) Partial — not total:</strong> Two states may be
 incomparable under <span class="math inline">\(\prec_d\)</span>. This
 captures the empirical fact that no single measurement protocol
@@ -371,11 +378,16 @@ and composition is transitivity.</p>
 Theories</h3>
 <p>In the operational probabilistic theories (OPTs) framework
 <code>[Hardy, 2001]</code>, a measurement is an effect-valued map from
-states to [0, 1]. The distinguishability poset generalizes this to a
-purely ordinal setting: instead of “state a produces outcome x with
-probability p,” we have “states a and b are distinguishable at level r.”
-The probability structure is recovered as the normalized counting
-measure on the equivalence classes of the valuation (see §4).</p>
+states to <span class="math inline">\([0, 1]\)</span>. The
+distinguishability poset generalizes this to a purely ordinal setting:
+instead of “state <span class="math inline">\(a\)</span> produces
+outcome <span class="math inline">\(x\)</span> with probability <span
+class="math inline">\(p\)</span>,” we have “states <span
+class="math inline">\(a\)</span> and <span
+class="math inline">\(b\)</span> are distinguishable at level <span
+class="math inline">\(r\)</span>.” The probability structure is
+recovered as the normalized counting measure on the equivalence classes
+of the valuation (see §4).</p>
 <hr />
 <h2 id="the-valuation-space">3. The Valuation Space</h2>
 <h3 id="definition">3.1 Definition</h3>
@@ -384,24 +396,28 @@ class="math inline">\((\mathcal{S}, \prec_d)\)</span> is a function</p>
 <p><span class="math display">\[
 v: \mathcal{S} \times \mathcal{S} \to \mathbb{N} \cup \{\infty\}
 \]</span></p>
-<p>where v(a, b) is the <strong>coarsest measurement resolution at which
-a and b become distinguishable.</strong> Higher values of v mean MORE
-similar (harder to distinguish); lower values mean MORE different
-(easier to distinguish). v(a, b) = <span
-class="math inline">\(\infty\)</span> means a and b are
-indistinguishable at ALL finite resolutions — they are operationally
-identical.</p>
+<p>where <span class="math inline">\(v(a, b)\)</span> is the
+<strong>coarsest measurement resolution at which <span
+class="math inline">\(a\)</span> and <span
+class="math inline">\(b\)</span> become distinguishable.</strong> Higher
+values of <span class="math inline">\(v\)</span> mean MORE similar
+(harder to distinguish); lower values mean MORE different (easier to
+distinguish). <span class="math inline">\(v(a, b) = \infty\)</span>
+means <span class="math inline">\(a\)</span> and <span
+class="math inline">\(b\)</span> are indistinguishable at ALL finite
+resolutions — they are operationally identical.</p>
 <p>The valuation satisfies three axioms:</p>
-<p><strong>(V1) Identity of Indiscernibles:</strong> <span
-class="math display">\[
+<p><strong>(V1) Identity of Indiscernibles:</strong></p>
+<p><span class="math display">\[
 v(a, b) = \infty \iff a \equiv b \text{ (indistinguishable at all finite
 resolutions)}
 \]</span></p>
-<p><strong>(V2) Symmetry:</strong> <span class="math display">\[
+<p><strong>(V2) Symmetry:</strong></p>
+<p><span class="math display">\[
 v(a, b) = v(b, a) \quad \text{for all } a, b \in \mathcal{S}
 \]</span></p>
-<p><strong>(V3) Ultrametric Inequality (strong triangle):</strong> <span
-class="math display">\[
+<p><strong>(V3) Ultrametric Inequality (strong triangle):</strong></p>
+<p><span class="math display">\[
 v(a, c) \geq \min(v(a, b), v(b, c)) \quad \text{for all } a, b, c \in
 \mathcal{S}
 \]</span></p>
@@ -409,75 +425,103 @@ v(a, c) \geq \min(v(a, b), v(b, c)) \quad \text{for all } a, b, c \in
 satisfying V1–V3 is a <strong>valuation space</strong>.</p>
 <h3 id="why-the-ultrametric-inequality">3.2 Why the Ultrametric
 Inequality?</h3>
-<p>The standard triangle inequality of metric spaces is: <span
-class="math display">\[
+<p>The standard triangle inequality of metric spaces is:</p>
+<p><span class="math display">\[
 d(a, c) \leq d(a, b) + d(b, c)
-\]</span> This is Archimedean — it allows distances to accumulate
-additively. In contrast, the ultrametric inequality: <span
-class="math display">\[
+\]</span></p>
+<p>This is Archimedean — it allows distances to accumulate additively.
+In contrast, the ultrametric inequality:</p>
+<p><span class="math display">\[
 v(a, c) \geq \min(v(a, b), v(b, c))
-\]</span> is <strong>non-Archimedean.</strong> It says: the resolution
-needed to tell a from c is bounded below by the coarser of the two
-pairwise resolutions. If you can tell a from b at resolution r, and b
-from c at resolution r, you can tell a from c at resolution r (or
-coarser).</p>
+\]</span></p>
+<p>is <strong>non-Archimedean.</strong> It says: the resolution needed
+to tell <span class="math inline">\(a\)</span> from <span
+class="math inline">\(c\)</span> is bounded below by the coarser of the
+two pairwise resolutions. If you can tell <span
+class="math inline">\(a\)</span> from <span
+class="math inline">\(b\)</span> at resolution <span
+class="math inline">\(r\)</span>, and <span
+class="math inline">\(b\)</span> from <span
+class="math inline">\(c\)</span> at resolution <span
+class="math inline">\(r\)</span>, you can tell <span
+class="math inline">\(a\)</span> from <span
+class="math inline">\(c\)</span> at resolution <span
+class="math inline">\(r\)</span> (or coarser).</p>
 <p>This is the natural structure when distinguishability is
 <strong>hierarchical and tree-structured</strong> rather than continuous
 and incremental. Every measurement apparatus partitions the state space
 into finitely many equivalence classes; the refinement of one
 measurement by another produces a tree, not a continuum.</p>
-<p><strong>Operationally:</strong> If you need 10 bits to distinguish a
-from b, and 15 bits to distinguish b from c, you need at most 15 bits to
-distinguish a from c — because the 15-bit measurement of (b, c) already
-distinguishes (a, c) transitively through b. You do NOT need 10 + 15 =
-25 bits — the distinguishability does not accumulate additively.</p>
+<p><strong>Operationally:</strong> If you need 10 bits to distinguish
+<span class="math inline">\(a\)</span> from <span
+class="math inline">\(b\)</span>, and 15 bits to distinguish <span
+class="math inline">\(b\)</span> from <span
+class="math inline">\(c\)</span>, you need at most 15 bits to
+distinguish <span class="math inline">\(a\)</span> from <span
+class="math inline">\(c\)</span> — because the 15-bit measurement of
+<span class="math inline">\((b, c)\)</span> already distinguishes <span
+class="math inline">\((a, c)\)</span> transitively through <span
+class="math inline">\(b\)</span>. You do NOT need <span
+class="math inline">\(10 + 15 = 25\)</span> bits — the
+distinguishability does not accumulate additively.</p>
 <h3 id="the-induced-ultrametric">3.3 The Induced Ultrametric</h3>
-<p>The valuation v induces an ultrametric distance on the states:</p>
+<p>The valuation <span class="math inline">\(v\)</span> induces an
+ultrametric distance on the states:</p>
 <p><span class="math display">\[
 d_v(a, b) = q^{-v(a, b)}
 \]</span></p>
 <p>for some base <span class="math inline">\(q &gt; 1\)</span>. When
 <span class="math inline">\(q\)</span> is prime, <span
-class="math inline">\(d_v\)</span> is precisely the p-adic metric on
-<span class="math inline">\(\mathbb{Q}_p\)</span>. The valuation space
-<span class="math inline">\((\mathcal{S}, v)\)</span> is equivalent to
-the ultrametric space <span class="math inline">\((\mathcal{S},
+class="math inline">\(d_v\)</span> is precisely the <span
+class="math inline">\(p\)</span>-adic metric on <span
+class="math inline">\(\mathbb{Q}_p\)</span>. The valuation space <span
+class="math inline">\((\mathcal{S}, v)\)</span> is equivalent to the
+ultrametric space <span class="math inline">\((\mathcal{S},
 d_v)\)</span> — the choice of <span class="math inline">\(v\)</span>
 over <span class="math inline">\(d_v\)</span> is a matter of convenience
 (<span class="math inline">\(v\)</span> takes integer values; <span
-class="math inline">\(d_v\)</span> takes values in (0, 1]).</p>
+class="math inline">\(d_v\)</span> takes values in <span
+class="math inline">\((0, 1]\)</span>).</p>
 <p>For <span class="math inline">\(q = 2\)</span> (binary
-distinguishability, the natural choice per the Landauer bound: kT ln 2
-per bit), <span class="math inline">\(d_v(a, b) = 2^{-v(a,
-b)}\)</span></p>
+distinguishability, the natural choice per the Landauer bound: <span
+class="math inline">\(kT \ln 2\)</span> per bit), <span
+class="math inline">\(d_v(a, b) = 2^{-v(a, b)}\)</span>.</p>
 <hr />
 <h2 id="category-val">4. Category Val</h2>
 <h3 id="definition-1">4.1 Definition</h3>
-<p>The category <strong>Val</strong> has: - <strong>Objects:</strong>
-Valuation spaces <span class="math inline">\((\mathcal{S}, v)\)</span>
-satisfying V1–V3. - <strong>Morphisms:</strong> Non-expansive maps f:
-<span class="math inline">\((\mathcal{S}, v) \to (\mathcal{S}&#39;,
-v&#39;)\)</span> satisfying <span class="math display">\[
-  v&#39;(f(a), f(b)) \geq v(a, b) \quad \text{for all } a, b \in
+<p>The category <strong>Val</strong> has:</p>
+<ul>
+<li><strong>Objects:</strong> Valuation spaces <span
+class="math inline">\((\mathcal{S}, v)\)</span> satisfying V1–V3.</li>
+<li><strong>Morphisms:</strong> Non-expansive maps <span
+class="math inline">\(f: (\mathcal{S}, v) \to (\mathcal{S}&#39;,
+v&#39;)\)</span> satisfying</li>
+</ul>
+<p><span class="math display">\[
+v&#39;(f(a), f(b)) \geq v(a, b) \quad \text{for all } a, b \in
 \mathcal{S}
-  \]</span> A non-expansive map does not INCREASE distinguishability —
-the image of two states under f is at least as hard to distinguish (at
-least as similar) as the originals. Equivalently: f is a
+\]</span></p>
+<p>A non-expansive map does not INCREASE distinguishability — the image
+of two states under <span class="math inline">\(f\)</span> is at least
+as hard to distinguish (at least as similar) as the originals.
+Equivalently: <span class="math inline">\(f\)</span> is a
 <strong>1-Lipschitz map</strong> in the ultrametric <span
-class="math inline">\(d_v\)</span></p>
+class="math inline">\(d_v\)</span>.</p>
 <h3 id="categorical-structure">4.2 Categorical Structure</h3>
-<p><strong>Terminal object:</strong> The one-point space ({<em>},
-v(</em>, <em>) = <span class="math inline">\(\infty\)</span>). Every
-state maps trivially to </em>.</p>
+<p><strong>Terminal object:</strong> The one-point space <span
+class="math inline">\((\{*\}, v(*, *) = \infty)\)</span>. Every state
+maps trivially to <span class="math inline">\(*\)</span>.</p>
 <p><strong>Products:</strong> The product of <span
 class="math inline">\((\mathcal{S}_1, v_1)\)</span> and <span
-class="math inline">\((\mathcal{S}_2, v_2)\)</span> is <span
-class="math display">\[
+class="math inline">\((\mathcal{S}_2, v_2)\)</span> is</p>
+<p><span class="math display">\[
 (\mathcal{S}_1 \times \mathcal{S}_2, \quad v((a_1,a_2), (b_1,b_2)) =
 \min(v_1(a_1,b_1), v_2(a_2,b_2)))
-\]</span> The coproduct (disjoint union) is the maximum: <span
+\]</span></p>
+<p>The coproduct (disjoint union) is the maximum: <span
 class="math inline">\(v(a, b) = v_i(a, b)\)</span> if both are in
-component i, <span class="math inline">\(\infty\)</span> otherwise.</p>
+component <span class="math inline">\(i\)</span>, <span
+class="math inline">\(\infty\)</span> otherwise.</p>
 <p><strong>No dependence on <span
 class="math inline">\(\mathbb{R}\)</span>, <span
 class="math inline">\(\mathbb{C}\)</span>, or Set:</strong> The category
@@ -509,141 +553,189 @@ not require choosing a topos first.</p>
 <hr />
 <h2 id="measurement-as-refinement">5. Measurement as Refinement</h2>
 <h3 id="the-refinement-operator">5.1 The Refinement Operator</h3>
-<p>An act of measurement at resolution r does not produce a real number
-— it produces a <strong>coarse-graining</strong> of the state space:</p>
+<p>An act of measurement at resolution <span
+class="math inline">\(r\)</span> does not produce a real number — it
+produces a <strong>coarse-graining</strong> of the state space:</p>
 <p><span class="math display">\[
 \mathcal{S} \mapsto \mathcal{S}_r = \mathcal{S} / \sim_r
 \]</span></p>
 <p>where <span class="math inline">\(a \sim_r b \Leftrightarrow v(a, b)
-\geq r\)</span> (i.e., indistinguishable at resolution r). The quotient
-_r is the set of equivalence classes at resolution r.</p>
-<p>The refinement operator satisfies: <span class="math display">\[
+\geq r\)</span> (i.e., indistinguishable at resolution <span
+class="math inline">\(r\)</span>). The quotient <span
+class="math inline">\(\mathcal{S}_r\)</span> is the set of equivalence
+classes at resolution <span class="math inline">\(r\)</span>.</p>
+<p>The refinement operator satisfies:</p>
+<p><span class="math display">\[
 \mathcal{S}_{r+1} \xrightarrow{\pi_{r+1}} \mathcal{S}_r
-\]</span> where π_{r+1} maps each finer equivalence class to the coarser
-class containing it. This is a natural transformation in Val.</p>
+\]</span></p>
+<p>where <span class="math inline">\(\pi_{r+1}\)</span> maps each finer
+equivalence class to the coarser class containing it. This is a natural
+transformation in Val.</p>
 <h3 id="the-refinement-sheaf">5.2 The Refinement Sheaf</h3>
 <p>The refinement maps form a <strong>sheaf</strong> over the poset
 <span class="math inline">\(\mathbb{N}\)</span> (reverse-ordered: <span
 class="math inline">\(r+1 \to r\)</span> because finer resolution maps
-TO coarser). The assignment <span class="math display">\[
+TO coarser). The assignment</p>
+<p><span class="math display">\[
 r \mapsto \mathcal{S}_r
-\]</span> with restriction maps <span class="math inline">\(\pi_{r+1}:
+\]</span></p>
+<p>with restriction maps <span class="math inline">\(\pi_{r+1}:
 \mathcal{S}_{r+1} \to \mathcal{S}_r\)</span> is a presheaf on <span
 class="math inline">\(\mathbb{N}^{op}\)</span>.</p>
-<p><strong>Sheaf condition:</strong> For any cover of resolution r by
-finer resolutions {r+1, r+2, …}, the states in _r are determined by
-their refinements: if <span class="math inline">\(a, b \in
+<p><strong>Sheaf condition:</strong> For any cover of resolution <span
+class="math inline">\(r\)</span> by finer resolutions <span
+class="math inline">\(\{r+1, r+2, \ldots\}\)</span>, the states in <span
+class="math inline">\(\mathcal{S}_r\)</span> are determined by their
+refinements: if <span class="math inline">\(a, b \in
 \mathcal{S}_r\)</span> have the same refinement at all finer
-resolutions, they are the same state at resolution r. This is
-automatically satisfied because the cover is just the singleton {r+1}
-(<span class="math inline">\(\mathbb{N}\)</span> is a linear order).</p>
+resolutions, they are the same state at resolution <span
+class="math inline">\(r\)</span>. This is automatically satisfied
+because the cover is just the singleton <span
+class="math inline">\(\{r+1\}\)</span> (<span
+class="math inline">\(\mathbb{N}\)</span> is a linear order).</p>
 <h3 id="information-theoretic-interpretation">5.3 Information-Theoretic
 Interpretation</h3>
-<p>At resolution r, the measurement partitions the state space into
-<span class="math inline">\(\lvert\mathcal{S}_r\rvert\)</span>
-equivalence classes. The information content of the measurement is:</p>
+<p>At resolution <span class="math inline">\(r\)</span>, the measurement
+partitions the state space into <span
+class="math inline">\(\lvert\mathcal{S}_r\rvert\)</span> equivalence
+classes. The information content of the measurement is:</p>
 <p><span class="math display">\[
-$I(r) = \log_2 \lvert\mathcal{S}_r\rvert \ \text{bits}$
+I(r) = \log_2 \lvert\mathcal{S}_r\rvert \quad \text{bits}
 \]</span></p>
 <p>By the Landauer bound <code>[Landauer, 1961]</code>, each bit of
-distinguishable information costs kT ln 2 in dissipated energy. The
-measurement at resolution r is a <strong>channel</strong> from to _r
-with capacity I(r).</p>
-<p>If the valuation space has a constant branching factor q (each
-refinement step splits each equivalence class into q subclasses), then:
-<span class="math display">\[
-$\lvert\mathcal{S}_r\rvert = q^{d \cdot r}$
-\]</span> where d is the effective dimension (see §7). The information
-content is: <span class="math display">\[
+distinguishable information costs <span class="math inline">\(kT \ln
+2\)</span> in dissipated energy. The measurement at resolution <span
+class="math inline">\(r\)</span> is a <strong>channel</strong> from
+<span class="math inline">\(\mathcal{S}\)</span> to <span
+class="math inline">\(\mathcal{S}_r\)</span> with capacity <span
+class="math inline">\(I(r)\)</span>.</p>
+<p>If the valuation space has a constant branching factor <span
+class="math inline">\(q\)</span> (each refinement step splits each
+equivalence class into <span class="math inline">\(q\)</span>
+subclasses), then:</p>
+<p><span class="math display">\[
+\lvert\mathcal{S}_r\rvert = q^{d \cdot r}
+\]</span></p>
+<p>where <span class="math inline">\(d\)</span> is the effective
+dimension (see §7). The information content is:</p>
+<p><span class="math display">\[
 I(r) = d \cdot r \cdot \log_2 q
-\]</span> For binary distinguishability (<span class="math inline">\(q =
+\]</span></p>
+<p>For binary distinguishability (<span class="math inline">\(q =
 2\)</span>): <span class="math inline">\(I(r) = d \cdot r\)</span>
 bits.</p>
 <hr />
 <h2 id="relation-to-known-structures">6. Relation to Known
 Structures</h2>
-<h3 id="p-adic-valuation">6.1 p-Adic Valuation</h3>
-<p>The p-adic valuation <span class="math inline">\(v_p\)</span> on
-<span class="math inline">\(\mathbb{Q}\)</span> is the canonical example
-of an ultrametric valuation: <span class="math display">\[
+<h3 id="p-adic-valuation">6.1 <span
+class="math inline">\(p\)</span>-Adic Valuation</h3>
+<p>The <span class="math inline">\(p\)</span>-adic valuation <span
+class="math inline">\(v_p\)</span> on <span
+class="math inline">\(\mathbb{Q}\)</span> is the canonical example of an
+ultrametric valuation:</p>
+<p><span class="math display">\[
 v_p\left(\frac{a}{b}\right) = \operatorname{ord}_p(a) -
 \operatorname{ord}_p(b)
-\]</span> where <span
-class="math inline">\(\operatorname{ord}_p(n)\)</span> is the exponent
-of <span class="math inline">\(p\)</span> in the prime factorization of
-n.</p>
+\]</span></p>
+<p>where <span class="math inline">\(\operatorname{ord}_p(n)\)</span> is
+the exponent of <span class="math inline">\(p\)</span> in the prime
+factorization of <span class="math inline">\(n\)</span>.</p>
 <p>The valuation space <span class="math inline">\((\mathbb{Q},
-v_p)\)</span> satisfies V1–V3 exactly. The p-adic numbers <span
+v_p)\)</span> satisfies V1–V3 exactly. The <span
+class="math inline">\(p\)</span>-adic numbers <span
 class="math inline">\(\mathbb{Q}_p\)</span> are the Cauchy completion of
 <span class="math inline">\(\mathbb{Q}\)</span> under the metric <span
 class="math inline">\(d_p(x, y) = p^{-v_p(x, y)}\)</span>. The
 distinguishability graph <span class="math inline">\(G_r\)</span> of
 <span class="math inline">\((\mathbb{Q}, v_p)\)</span> is the projection
-of the Bruhat–Tits tree at depth r.</p>
-<p><strong>Key difference:</strong> p-adic physics
+of the Bruhat–Tits tree at depth <span
+class="math inline">\(r\)</span>.</p>
+<p><strong>Key difference:</strong> <span
+class="math inline">\(p\)</span>-adic physics
 <code>[Vladimirov &amp; Volovich, 1994]</code> starts from <span
 class="math inline">\(\mathbb{Q}_p\)</span> as a pre-existing number
-system. The valuation-first approach starts from v and DERIVES <span
+system. The valuation-first approach starts from <span
+class="math inline">\(v\)</span> and DERIVES <span
 class="math inline">\(\mathbb{Q}_p\)</span> as a completion — making the
 valuation the primitive and the continuum the derived structure.</p>
 <h3 id="bruhattits-tree">6.2 Bruhat–Tits Tree</h3>
 <p>The Bruhat–Tits tree <span class="math inline">\(T_p\)</span> is the
 infinite <span class="math inline">\((p+1)\)</span>-regular tree
-associated with PGL(2, <span
-class="math inline">\(\mathbb{Q}_p\)</span>). Its vertices at depth r
-classify p-adic disks of radius <span
-class="math inline">\(p^{-r}\)</span> The boundary at infinity is
-ℙ^1(<span class="math inline">\(\mathbb{Q}_p\)</span>).</p>
+associated with <span class="math inline">\(\mathrm{PGL}(2,
+\mathbb{Q}_p)\)</span>. Its vertices at depth <span
+class="math inline">\(r\)</span> classify <span
+class="math inline">\(p\)</span>-adic disks of radius <span
+class="math inline">\(p^{-r}\)</span>. The boundary at infinity is <span
+class="math inline">\(\mathbb{P}^1(\mathbb{Q}_p)\)</span>.</p>
 <p>In the valuation-space framework, the BT-tree is the
-<strong>distinguishability hierarchy</strong> of the p-adic valuation.
-Vertices at depth r are equivalence classes in _r; edges connect classes
-that share a boundary at finer resolution. The cross-ratio on the
-boundary (the p-adic absolute value) is the valuation <span
-class="math inline">\(v_p\)</span> itself.</p>
+<strong>distinguishability hierarchy</strong> of the <span
+class="math inline">\(p\)</span>-adic valuation. Vertices at depth <span
+class="math inline">\(r\)</span> are equivalence classes in <span
+class="math inline">\(\mathcal{S}_r\)</span>; edges connect classes that
+share a boundary at finer resolution. The cross-ratio on the boundary
+(the <span class="math inline">\(p\)</span>-adic absolute value) is the
+valuation <span class="math inline">\(v_p\)</span> itself.</p>
 <p><strong>Operational interpretation:</strong> Moving down the BT-tree
-(increasing r) corresponds to finer measurement. The branching factor
-p+1 counts the number of sub-classes per refinement step — the
-“measurement alphabet” at each resolution.</p>
+(increasing <span class="math inline">\(r\)</span>) corresponds to finer
+measurement. The branching factor <span
+class="math inline">\(p+1\)</span> counts the number of sub-classes per
+refinement step — the “measurement alphabet” at each resolution.</p>
 <h3 id="the-distinguishability-graph-g_r">6.3 The Distinguishability
-Graph G_r</h3>
-<p>For a fixed resolution r, the <strong>distinguishability
-graph</strong> <span class="math inline">\(G_r\)</span> has: -
-<strong>Vertices:</strong> Equivalence classes _r (the states
-distinguishable at resolution r). - <strong>Edges:</strong> Between
-classes whose representatives a, b satisfy v(a, b) = r (just barely
-distinguishable at this resolution).</p>
-<p>For a q-adic valuation space (branching factor q at each step), <span
-class="math inline">\(G_r\)</span> is a <strong>cluster graph</strong> —
-a disjoint union of cliques, where each clique contains the q
-subclassifications of a single resolution-(r-1) equivalence class. This
-is the ultrametric clustering property: every triangle is isosceles with
-the two equal sides at least as long as the third.</p>
+Graph <span class="math inline">\(G_r\)</span></h3>
+<p>For a fixed resolution <span class="math inline">\(r\)</span>, the
+<strong>distinguishability graph</strong> <span
+class="math inline">\(G_r\)</span> has:</p>
+<ul>
+<li><strong>Vertices:</strong> Equivalence classes <span
+class="math inline">\(\mathcal{S}_r\)</span> (the states distinguishable
+at resolution <span class="math inline">\(r\)</span>).</li>
+<li><strong>Edges:</strong> Between classes whose representatives <span
+class="math inline">\(a, b\)</span> satisfy <span
+class="math inline">\(v(a, b) = r\)</span> (just barely distinguishable
+at this resolution).</li>
+</ul>
+<p>For a <span class="math inline">\(q\)</span>-adic valuation space
+(branching factor <span class="math inline">\(q\)</span> at each step),
+<span class="math inline">\(G_r\)</span> is a <strong>cluster
+graph</strong> — a disjoint union of cliques, where each clique contains
+the <span class="math inline">\(q\)</span> subclassifications of a
+single resolution-<span class="math inline">\((r-1)\)</span> equivalence
+class. This is the ultrametric clustering property: every triangle is
+isosceles with the two equal sides at least as long as the third.</p>
 <h3 id="information-theory">6.4 Information Theory</h3>
 <p>Shannon’s channel capacity theorem <code>[Shannon, 1948]</code>
 bounds distinguishability by the logarithm of the number of equiprobable
 messages. In the valuation-space framework, the “messages” are the
-equivalence classes _r, and the channel is the measurement apparatus.
-The bound: <span class="math display">\[
-$I(r) = \log_2 \lvert\mathcal{S}_r\rvert \leq \text{channel capacity}$
-\]</span> is the natural information-theoretic embedding of
+equivalence classes <span class="math inline">\(\mathcal{S}_r\)</span>,
+and the channel is the measurement apparatus. The bound:</p>
+<p><span class="math display">\[
+I(r) = \log_2 \lvert\mathcal{S}_r\rvert \leq \text{channel capacity}
+\]</span></p>
+<p>is the natural information-theoretic embedding of
 distinguishability.</p>
 <p>The Landauer bound <code>[Landauer, 1961]</code> imposes the
-thermodynamic cost: <span class="math display">\[
-$E_{\text{meas}}(r) \geq kT \ln 2 \cdot \log_2 \lvert\mathcal{S}_r\rvert
-= kT \cdot d \cdot r \cdot \ln q$
-\]</span> In dimensionless Planck units (<span
-class="math inline">\(\hbar = c = G = k_B = 1\)</span>): <span
-class="math display">\[
+thermodynamic cost:</p>
+<p><span class="math display">\[
+E_{\text{meas}}(r) \geq kT \ln 2 \cdot \log_2 \lvert\mathcal{S}_r\rvert
+= kT \cdot d \cdot r \cdot \ln q
+\]</span></p>
+<p>In dimensionless Planck units (<span class="math inline">\(\hbar = c
+= G = k_B = 1\)</span>):</p>
+<p><span class="math display">\[
 E_{\text{meas}}(r) \geq d \cdot r \cdot \ln q
 \]</span></p>
 <hr />
 <h2 id="dimension-emergence">7. Dimension Emergence</h2>
 <h3 id="the-growth-function">7.1 The Growth Function</h3>
-<p>For a valuation space with constant branching factor q, the number of
-distinguishable states at resolution r is: <span class="math display">\[
-$N(r) = \lvert\mathcal{S}_r\rvert = q^{d \cdot r}$
-\]</span> where d is the effective dimension. Equivalently: <span
-class="math display">\[
+<p>For a valuation space with constant branching factor <span
+class="math inline">\(q\)</span>, the number of distinguishable states
+at resolution <span class="math inline">\(r\)</span> is:</p>
+<p><span class="math display">\[
+N(r) = \lvert\mathcal{S}_r\rvert = q^{d \cdot r}
+\]</span></p>
+<p>where <span class="math inline">\(d\)</span> is the effective
+dimension. Equivalently:</p>
+<p><span class="math display">\[
 d = \frac{\log_q N(r)}{r} \quad \text{(asymptotically as } r \to
 \infty\text{)}
 \]</span></p>
@@ -651,61 +743,81 @@ d = \frac{\log_q N(r)}{r} \quad \text{(asymptotically as } r \to
 class="math inline">\(N(r) \sim r^d\)</span> (continuous power-law). The
 valuation-space scaling is <strong>discrete exponential</strong> — each
 independent direction of distinguishability multiplies the number of
-discriminable states by q at each resolution step.</p>
+discriminable states by <span class="math inline">\(q\)</span> at each
+resolution step.</p>
 <h3 id="sheaf-cohomology-and-the-consistency-constraint">7.2 Sheaf
 Cohomology and the Consistency Constraint</h3>
 <p>The refinement maps <span class="math inline">\(\pi_{r+1}:
 \mathcal{S}_{r+1} \to \mathcal{S}_r\)</span> form a sheaf over <span
 class="math inline">\(\mathbb{N}^{op}\)</span>. The consistency
-condition for this sheaf is that the refinement from resolution r+2 to r
-must factor through r+1: <span class="math display">\[
+condition for this sheaf is that the refinement from resolution <span
+class="math inline">\(r+2\)</span> to <span
+class="math inline">\(r\)</span> must factor through <span
+class="math inline">\(r+1\)</span>:</p>
+<p><span class="math display">\[
 \pi_{r+2} \circ \pi_{r+1} = \pi_{r+2}^{(r)}: \mathcal{S}_{r+2} \to
 \mathcal{S}_r
 \]</span></p>
 <p>The <strong>global sections</strong> of this sheaf are states that
 are defined consistently at ALL resolutions (a global state). The
-dimension d constrains which refinement patterns are globally
-consistent.</p>
-<p><strong>Conjecture (P9 — Frontier Question):</strong> The dimension d
-is the rank of the first sheaf cohomology group <span
-class="math inline">\(H^1\)</span> of the refinement sheaf: <span
-class="math display">\[
+dimension <span class="math inline">\(d\)</span> constrains which
+refinement patterns are globally consistent.</p>
+<p><strong>Conjecture (P9 — Frontier Question):</strong> The dimension
+<span class="math inline">\(d\)</span> is the rank of the first sheaf
+cohomology group <span class="math inline">\(H^1\)</span> of the
+refinement sheaf:</p>
+<p><span class="math display">\[
 d = \operatorname{rank} H^1(\mathcal{F}_{\text{ref}})
-\]</span> where ℱ_ref is the refinement sheaf over <span
-class="math inline">\(\mathbb{N}\)</span>^op. For d = 3 (spatial
-dimensions), the cohomological obstruction restricts the branching
-pattern to a 3-dimensional tree. For d = 3+1 (spacetime), a
-distinguished “causal” direction with different valuation behavior
-emerges from the asymmetry that measurements happen in sequence.</p>
+\]</span></p>
+<p>where <span class="math inline">\(\mathcal{F}_{\text{ref}}\)</span>
+is the refinement sheaf over <span
+class="math inline">\(\mathbb{N}^{op}\)</span>. For <span
+class="math inline">\(d = 3\)</span> (spatial dimensions), the
+cohomological obstruction restricts the branching pattern to a
+3-dimensional tree. For <span class="math inline">\(d = 3+1\)</span>
+(spacetime), a distinguished “causal” direction with different valuation
+behavior emerges from the asymmetry that measurements happen in
+sequence.</p>
 <p><strong>Status:</strong>
 <code>[speculative — mathematical conjecture; see §9 for pre-registration]</code></p>
 <h3 id="why-the-exponent-not-the-base">7.3 Why the Exponent, Not the
 Base?</h3>
-<p>The dimension d appears as the EXPONENT, not the BASE. This means: -
-<strong>d is about branching structure, not about the underlying
-cardinality.</strong> Whether each refinement splits into q = 2
-subclasses (binary) or q = p (p-adic), the dimension is the number of
-independent branching directions. - <strong>d is invariant under changes
-of q.</strong> If the distinguishability lattice changes from binary (q
-= 2) to ternary (q = 3), the dimension can be recomputed: <span
-class="math inline">\(d&#39; = d \cdot \log_q(q&#39;)\)</span> — but the
-NUMBER of independent directions stays the same; only the counting base
-shifts.</p>
+<p>The dimension <span class="math inline">\(d\)</span> appears as the
+EXPONENT, not the BASE. This means:</p>
+<ul>
+<li><strong><span class="math inline">\(d\)</span> is about branching
+structure, not about the underlying cardinality.</strong> Whether each
+refinement splits into <span class="math inline">\(q = 2\)</span>
+subclasses (binary) or <span class="math inline">\(q = p\)</span> (<span
+class="math inline">\(p\)</span>-adic), the dimension is the number of
+independent branching directions.</li>
+<li><strong><span class="math inline">\(d\)</span> is invariant under
+changes of <span class="math inline">\(q\)</span>.</strong> If the
+distinguishability lattice changes from binary (<span
+class="math inline">\(q = 2\)</span>) to ternary (<span
+class="math inline">\(q = 3\)</span>), the dimension can be recomputed:
+<span class="math inline">\(d&#39; = d \cdot \log_q(q&#39;)\)</span> —
+but the NUMBER of independent directions stays the same; only the
+counting base shifts.</li>
+</ul>
 <h3 id="the-emergence-of-31">7.4 The Emergence of “3+1”</h3>
-<p>The valuation-first framework does not PREDICT d = 3+1 — it FRAMES
-the question correctly. The question becomes:</p>
+<p>The valuation-first framework does not PREDICT <span
+class="math inline">\(d = 3+1\)</span> — it FRAMES the question
+correctly. The question becomes:</p>
 <blockquote>
 <p>What consistency conditions on a valuation space force the growth
-exponent d = 3 (spatial) and a distinguished direction (temporal/causal)
-with different valuation behavior?</p>
+exponent <span class="math inline">\(d = 3\)</span> (spatial) and a
+distinguished direction (temporal/causal) with different valuation
+behavior?</p>
 </blockquote>
 <p>Three constraints on the answer:</p>
 <ol type="1">
 <li><p><strong>The number of mutually consistent, non-degenerate
 2-distinguishability relations</strong> that can coexist in a single
-measurement network bounds d from above. If every pair of states must be
-simultaneously distinguishable by SOME measurement protocol, the
-measurement network’s clique complex has a maximal dimension.</p></li>
+measurement network bounds <span class="math inline">\(d\)</span> from
+above. If every pair of states must be simultaneously distinguishable by
+SOME measurement protocol, the measurement network’s clique complex has
+a maximal dimension.</p></li>
 <li><p><strong>The refinement sheaf must be a sheaf in the category
 Val</strong> — not just a presheaf. The sheaf condition (gluing of local
 distinguishability patches) imposes cohomological constraints on the
@@ -713,8 +825,8 @@ branching pattern.</p></li>
 <li><p><strong>The causal distinction</strong> between timelike and
 spacelike measurements emerges from the asymmetry that measurements
 happen in sequence. The valuation operator itself is temporally
-directed: v(a, b) compares states across measurement events, not at a
-single event.</p></li>
+directed: <span class="math inline">\(v(a, b)\)</span> compares states
+across measurement events, not at a single event.</p></li>
 </ol>
 <hr />
 <h2 id="falsifiability-and-pre-registered-predictions">8. Falsifiability
@@ -722,14 +834,14 @@ and Pre-Registered Predictions</h2>
 <h3 id="the-null-equivalence">8.1 The Null-Equivalence</h3>
 <table>
 <colgroup>
-<col style="width: 27%" />
-<col style="width: 52%" />
-<col style="width: 20%" />
+<col style="width: 26%" />
+<col style="width: 54%" />
+<col style="width: 19%" />
 </colgroup>
 <thead>
 <tr>
 <th>Framework</th>
-<th>Prediction for N(r)</th>
+<th>Prediction for <span class="math inline">\(N(r)\)</span></th>
 <th>Status</th>
 </tr>
 </thead>
@@ -756,9 +868,9 @@ class="math inline">\(r^3\)</span> for <span class="math inline">\(d =
 8^r\)</span>. The ratio <span class="math inline">\(8^r / r^3\)</span>
 diverges for <span class="math inline">\(r &gt; 5\)</span>. The
 prediction is testable in any system where: (a) a finite-precision
-measurement can be resolved at increasing depth r, and (b) the
-distinguishability graph <span class="math inline">\(G_r\)</span> can be
-reconstructed.</p>
+measurement can be resolved at increasing depth <span
+class="math inline">\(r\)</span>, and (b) the distinguishability graph
+<span class="math inline">\(G_r\)</span> can be reconstructed.</p>
 <h3 id="pre-registered-predictions">8.2 Pre-Registered Predictions</h3>
 <p><strong>P1 (Primary): Ultrametric distinguishability at <span
 class="math inline">\(r &gt; r_c\)</span>.</strong> If <span
@@ -768,42 +880,44 @@ sufficiently high resolution must exhibit ultrametric clustering
 (non-Archimedean branching: every triangle is isosceles with equal
 longest sides) rather than Euclidean nearest-neighbor structure.</p>
 <p><strong>Disconfirmation:</strong> Zero ultrametric signatures at all
-achievable resolutions below ℓ_P (Planck length) — or any resolution
-below which continuum behavior persists without deviation.</p>
+achievable resolutions below <span class="math inline">\(\ell_P\)</span>
+(Planck length) — or any resolution below which continuum behavior
+persists without deviation.</p>
 <p><strong>Pre-registration:</strong> PROJECT-PLAN.md sha256 aad3eb03
 (committed 2026-08-04, QNFO/ultrametric-physics, tag
 v0.1-phase0-ump004).</p>
-<p><strong>Δlog-odds:</strong> <span
-class="math inline">\(P(\text{ultrametric clustering} \mid \text{random
-graph}) \ll 1\)</span> for large <span
+<p><strong><span class="math inline">\(\Delta\)</span>log-odds:</strong>
+<span class="math inline">\(P(\text{ultrametric clustering} \mid
+\text{random graph}) \ll 1\)</span> for large <span
 class="math inline">\(\lvert\mathcal{S}\rvert\)</span>. Random metrics
 are NOT ultrametric with high probability. Genuine risky prediction —
-<span class="math inline">\(P(O \mid \lnot T) \approx 0\)</span>
+<span class="math inline">\(P(O \mid \lnot T) \approx 0\)</span>.
 <code>[EVIDENCE — pre-registered, falsifiable]</code></p>
 <p><strong>P2 (Secondary): Exponential distinguishability
 growth.</strong> <span class="math inline">\(N(r) \sim q^{d \cdot
 r}\)</span> (discrete exponential) supersedes <span
 class="math inline">\(N(r) \sim r^d\)</span> (continuous power-law) at
-some crossover resolution <span class="math inline">\(r_c\)</span></p>
-<p><strong>Disconfirmation:</strong> N(r) follows power-law at ALL
-accessible resolutions.</p>
-<p><strong>Δlog-odds:</strong> <span class="math inline">\(\approx
-0\)</span> (both exponential and power-law are expected GROWTH forms;
-the discrimination is in ultrametric clustering structure, not growth
-rate alone).
+some crossover resolution <span class="math inline">\(r_c\)</span>.</p>
+<p><strong>Disconfirmation:</strong> <span
+class="math inline">\(N(r)\)</span> follows power-law at ALL accessible
+resolutions.</p>
+<p><strong><span class="math inline">\(\Delta\)</span>log-odds:</strong>
+<span class="math inline">\(\approx 0\)</span> (both exponential and
+power-law are expected GROWTH forms; the discrimination is in
+ultrametric clustering structure, not growth rate alone).
 <code>[NOT YET EVIDENCE — growth form alone insufficiently discriminative]</code></p>
 <p><strong>P3 (Tertiary — P9 Frontier): Sheaf cohomology determines
-d.</strong> The dimension <span class="math inline">\(d\)</span> is the
-rank of <span class="math inline">\(H^1\)</span> of the refinement
-sheaf.</p>
+<span class="math inline">\(d\)</span>.</strong> The dimension <span
+class="math inline">\(d\)</span> is the rank of <span
+class="math inline">\(H^1\)</span> of the refinement sheaf.</p>
 <p><strong>Status:</strong> Mathematical conjecture.
 <code>[NOT YET EVIDENCE — proof needed]</code></p>
 <h3 id="surprise-accounting">8.3 Surprise Accounting</h3>
 <table>
 <colgroup>
-<col style="width: 19%" />
-<col style="width: 58%" />
-<col style="width: 22%" />
+<col style="width: 13%" />
+<col style="width: 71%" />
+<col style="width: 15%" />
 </colgroup>
 <thead>
 <tr>
@@ -815,7 +929,8 @@ sheaf.</p>
 </thead>
 <tbody>
 <tr>
-<td>Ultrametric clustering at r &gt; r_c</td>
+<td>Ultrametric clustering at <span class="math inline">\(r &gt;
+r_c\)</span></td>
 <td>Low (~0 for <span class="math inline">\(\lvert\mathcal{S}\rvert &gt;
 10^3\)</span>)</td>
 <td>Random ER graph: <span class="math inline">\(P(\text{ultrametric})
@@ -828,7 +943,8 @@ sheaf.</p>
 <td>Both exponential and power-law are natural growth forms</td>
 </tr>
 <tr>
-<td>Sheaf cohomology forces d = 3</td>
+<td>Sheaf cohomology forces <span class="math inline">\(d =
+3\)</span></td>
 <td>N/A</td>
 <td>Mathematical conjecture; probability undefined</td>
 </tr>
@@ -852,10 +968,11 @@ sheaf.</p>
 <tr>
 <td>Overfitting</td>
 <td><strong>PASS</strong></td>
-<td>Axioms: 3 (V1, V2, V3). Free parameters: q, r_c. Independent
-predictions: 2 (ultrametric signature, growth exponent — distinguishable
-from null). <span class="math inline">\(\text{dof} \leq\)</span>
-predictions.</td>
+<td>Axioms: 3 (V1, V2, V3). Free parameters: <span
+class="math inline">\(q\)</span>, <span
+class="math inline">\(r_c\)</span>. Independent predictions: 2
+(ultrametric signature, growth exponent — distinguishable from null).
+<span class="math inline">\(\text{dof} \leq\)</span> predictions.</td>
 </tr>
 <tr>
 <td>Cherry-picking</td>
@@ -879,8 +996,8 @@ of falsification.</td>
 standards applied to incumbent frameworks:</p>
 <table>
 <colgroup>
-<col style="width: 28%" />
-<col style="width: 53%" />
+<col style="width: 27%" />
+<col style="width: 55%" />
 <col style="width: 17%" />
 </colgroup>
 <thead>
@@ -957,8 +1074,9 @@ predictions are at Planck resolution (<span class="math inline">\(\ell_P
 <li><p><strong>The valuation base <span class="math inline">\(q\)</span>
 is a free parameter.</strong> The choice <span class="math inline">\(q =
 2\)</span> (binary distinguishability) is natural per the Landauer
-bound, but the framework does not ENFORCE q = 2 — it parameterizes a
-family of valuation spaces indexed by q.</p></li>
+bound, but the framework does not ENFORCE <span class="math inline">\(q
+= 2\)</span> — it parameterizes a family of valuation spaces indexed by
+<span class="math inline">\(q\)</span>.</p></li>
 <li><p><strong>Sheaf-cohomological dimension emergence is a
 conjecture.</strong> The claim <span class="math inline">\(d =
 \operatorname{rank} H^1(\mathcal{F}_{\text{ref}})\)</span> is
@@ -971,7 +1089,7 @@ limit or completion of a valuation space is an open question.</p></li>
 STATIC structure of measurement — distinguishing states at various
 resolutions. It says nothing about how states EVOLVE (dynamics), which
 would require additional structure (e.g., a valuation-preserving flow on
-).</p></li>
+<span class="math inline">\(\mathcal{S}\)</span>).</p></li>
 </ol>
 <hr />
 <h2 id="conclusion-and-frontier-questions">11. Conclusion and Frontier
@@ -982,8 +1100,9 @@ satisfying three axioms with no dependence on the real numbers or set
 theory. The category Val of valuation spaces is self-contained, and the
 real numbers appear only as a limit idealization (the Archimedean
 completion under one particular valuation). The effective spatial
-dimension d emerges as the growth exponent of the distinguishability
-graph, constrained by sheaf cohomology of the refinement operator.</p>
+dimension <span class="math inline">\(d\)</span> emerges as the growth
+exponent of the distinguishability graph, constrained by sheaf
+cohomology of the refinement operator.</p>
 <p><strong>The contribution is not a new physical theory — it is a new
 foundation.</strong> The valuation-first framework provides a
 mathematical language in which questions about the dimensionality of
@@ -995,7 +1114,7 @@ id="frontier-questions-from-the-research-continuity-registry">Frontier
 Questions (from the Research Continuity Registry)</h3>
 <ol type="1">
 <li><p><strong>FQ1:</strong> What consistency conditions on the
-refinement sheaf force d = 3?
+refinement sheaf force <span class="math inline">\(d = 3\)</span>?
 <code>[speculative — mathematical conjecture]</code></p></li>
 <li><p><strong>FQ2:</strong> Can standard quantum mechanics (Hilbert
 spaces over <span class="math inline">\(\mathbb{C}\)</span>, unitary
@@ -1006,13 +1125,14 @@ class="math inline">\(\text{Val} \to \text{Hilb}\)</span>?</p></li>
 the path integral? If states are labeled by finite distinguishability
 depth, what replaces the continuum of intermediate states?</p></li>
 <li><p><strong>FQ4:</strong> Does the ultrametric inequality constrain
-the number of mutually consistent measurement directions to d = 3 in any
-physically admissible valuation space?</p></li>
+the number of mutually consistent measurement directions to <span
+class="math inline">\(d = 3\)</span> in any physically admissible
+valuation space?</p></li>
 <li><p><strong>FQ5:</strong> Can the Lorentzian signature of spacetime
-(−, +, +, +) be derived from the causal asymmetry of the valuation
-operator — the fact that measurements happen in SEQUENCE, making one
-direction (time) valuationally distinct from the other three
-(space)?</p></li>
+<span class="math inline">\((-, +, +, +)\)</span> be derived from the
+causal asymmetry of the valuation operator — the fact that measurements
+happen in SEQUENCE, making one direction (time) valuationally distinct
+from the other three (space)?</p></li>
 </ol>
 <hr />
 <div class="declarations">
