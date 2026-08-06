@@ -1,0 +1,284 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:arxiv="http://arxiv.org/schemas/atom" xmlns="http://www.w3.org/2005/Atom">
+  <id>https://arxiv.org/api/SXqY0WZQYLCb0waCwIXAQhUeKmI</id>
+  <title>arXiv Query: search_query=all:qudit AND all:quantum AND all:advantage&amp;id_list=&amp;start=0&amp;max_results=10</title>
+  <updated>2026-08-06T13:03:38Z</updated>
+  <link href="https://arxiv.org/api/query?search_query=all:qudit+AND+(all:quantum+AND+all:advantage)&amp;start=0&amp;max_results=10&amp;id_list=" type="application/atom+xml"/>
+  <opensearch:itemsPerPage>10</opensearch:itemsPerPage>
+  <opensearch:totalResults>178</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <entry>
+    <id>http://arxiv.org/abs/2111.04384v3</id>
+    <title>Efficient realization of quantum algorithms with qudits</title>
+    <updated>2024-07-01T15:55:37Z</updated>
+    <link href="https://arxiv.org/abs/2111.04384v3" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2111.04384v3" rel="related" type="application/pdf" title="pdf"/>
+    <summary>The development of a universal fault-tolerant quantum computer that can solve efficiently various difficult computational problems is an outstanding challenge for science and technology. In this work, we propose a technique for an efficient implementation of quantum algorithms with multilevel quantum systems (qudits). Our method uses a transpilation of a circuit in the standard qubit form, which depends on the parameters of a qudit-based processor, such as their number and the number of accessible levels. This approach provides a qubit-to-qudit mapping and comparison to a standard realization of quantum algorithms highlighting potential advantages of qudits. We provide an explicit scheme of transpiling qubit circuits into sequences of single-qudit and two-qudit gates taken from a particular universal set. We then illustrate our method by considering an example of an efficient implementation of a $6$-qubit quantum algorithm with qudits. We expect that our findings are of relevance for ongoing experiments with noisy intermediate-scale quantum devices that operate with information carrier allowing qudit encodings, such as trapped ions and neutral atoms as well as optical and solid-state systems.</summary>
+    <category term="quant-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2021-11-08T11:09:37Z</published>
+    <arxiv:comment>14 pages, 10 figures; substantially extended discussion of technical aspects of realizing quantum algorithms with qudits and finding sub-optimal qubit-to-qudit mapping</arxiv:comment>
+    <arxiv:primary_category term="quant-ph"/>
+    <arxiv:journal_ref>EPJ Quantum Technol. 11, 43 (2024)</arxiv:journal_ref>
+    <author>
+      <name>Anastasiia S. Nikolaeva</name>
+    </author>
+    <author>
+      <name>Evgeniy O. Kiktenko</name>
+    </author>
+    <author>
+      <name>Aleksey K. Fedorov</name>
+    </author>
+    <arxiv:doi>10.1140/epjqt/s40507-024-00250-0</arxiv:doi>
+    <link rel="related" href="https://doi.org/10.1140/epjqt/s40507-024-00250-0" title="doi"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/1906.11401v1</id>
+    <title>Quantum Phase Estimation with Time-Frequency Qudits in a Single Photon</title>
+    <updated>2019-06-27T00:50:21Z</updated>
+    <link href="https://arxiv.org/abs/1906.11401v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/1906.11401v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>The Phase Estimation Algorithm (PEA) is an important quantum algorithm used independently or as a key subroutine in other quantum algorithms. Currently most implementations of the PEA are based on qubits, where the computational units in the quantum circuits are two-dimensional states. Performing quantum computing tasks with higher dimensional states -- qudits -- has been proposed, yet a qudit-based PEA has not been realized. Using qudits can reduce the resources needed for achieving a given precision or success probability. Compared to other quantum computing hardware, photonic systems have the advantage of being resilient to noise, but the probabilistic nature of photon-photon interaction makes it difficult to realize two-photon controlled gates that are necessary components in many quantum algorithms. In this work, we report an experimental realization of a qudit-based PEA on a photonic platform, utilizing the high dimensionality in time and frequency degrees of freedom (DoFs) in a single photon. The controlled-unitary gates can be realized in a deterministic fashion, as the control and target registers are now represented by two DoFs in a single photon. This first implementation of a qudit PEA, on any platform, successfully retrieves any arbitrary phase with one ternary digit of precision.</summary>
+    <category term="quant-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.optics" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2019-06-27T00:50:21Z</published>
+    <arxiv:comment>7 pages, 4 figures</arxiv:comment>
+    <arxiv:primary_category term="quant-ph"/>
+    <author>
+      <name>Hsuan-Hao Lu</name>
+    </author>
+    <author>
+      <name>Zixuan Hu</name>
+    </author>
+    <author>
+      <name>Mohammed S. Alshaykh</name>
+    </author>
+    <author>
+      <name>Alexandria J. Moore</name>
+    </author>
+    <author>
+      <name>Yuchen Wang</name>
+    </author>
+    <author>
+      <name>Poolad Imany</name>
+    </author>
+    <author>
+      <name>Andrew M. Weiner</name>
+    </author>
+    <author>
+      <name>Sabre Kais</name>
+    </author>
+    <arxiv:doi>10.1002/qute.201900074</arxiv:doi>
+    <link rel="related" href="https://doi.org/10.1002/qute.201900074" title="doi"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2110.08829v2</id>
+    <title>Qudit States in Noisy Quantum Channels</title>
+    <updated>2023-11-13T07:09:00Z</updated>
+    <link href="https://arxiv.org/abs/2110.08829v2" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2110.08829v2" rel="related" type="application/pdf" title="pdf"/>
+    <summary>In this work, we analyze a number of noisy quantum channels on a family of qudit states. The channels studied are the dit-flip noise, phase flip noise, dit-phase flip noise, depolarizing noise, non-Markovian Amplitude Damping Channel (ADC), dephasing noise, and depolarization noise. To gauge the effect of noise, the fidelity between the original and the final states is studied. The change of coherence under the action of noisy channels is also studied, both analytically and numerically. Our approach is advantageous as it has an explicit relation to the original approach to the multi-qubit hypergraph states.</summary>
+    <category term="quant-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2021-10-17T14:08:49Z</published>
+    <arxiv:comment>This is an updated version of our article "Quantum Hypergraph States in Noisy Quantum Channels". Also, it is a preprint of its published version</arxiv:comment>
+    <arxiv:primary_category term="quant-ph"/>
+    <arxiv:journal_ref>Physica Scripta, Volume 98, Number 11. (2023)</arxiv:journal_ref>
+    <author>
+      <name>Supriyo Dutta</name>
+    </author>
+    <author>
+      <name>Subhashish Banerjee</name>
+    </author>
+    <author>
+      <name>Monika Rani</name>
+    </author>
+    <arxiv:doi>10.1088/1402-4896/ad0006</arxiv:doi>
+    <link rel="related" href="https://doi.org/10.1088/1402-4896/ad0006" title="doi"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2303.08683v2</id>
+    <title>Fermion-qudit quantum processors for simulating lattice gauge theories with matter</title>
+    <updated>2023-10-12T06:48:18Z</updated>
+    <link href="https://arxiv.org/abs/2303.08683v2" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2303.08683v2" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Simulating the real-time dynamics of lattice gauge theories, underlying the Standard Model of particle physics, is a notoriously difficult problem where quantum simulators can provide a practical advantage over classical approaches. In this work, we present a complete Rydberg-based architecture, co-designed to digitally simulate the dynamics of general gauge theories coupled to matter fields in a hardware-efficient manner. Ref. [1] showed how a qudit processor, where non-abelian gauge fields are locally encoded and time-evolved, considerably reduces the required simulation resources compared to standard qubit-based quantum computers. Here we integrate the latter with a recently introduced fermionic quantum processor [2], where fermionic statistics are accounted for at the hardware level, allowing us to construct quantum circuits that preserve the locality of the gauge-matter interactions. We exemplify the flexibility of such a fermion-qudit processor by focusing on two paradigmatic high-energy phenomena. First, we present a resource-efficient protocol to simulate the Abelian-Higgs model, where the dynamics of confinement and string breaking can be investigated. Then, we show how to prepare hadrons made up of fermionic matter constituents bound by non-abelian gauge fields, and show how to extract the corresponding hadronic tensor. In both cases, we estimate the required resources, showing how quantum devices can be used to calculate experimentally-relevant quantities in particle physics.</summary>
+    <category term="quant-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.quant-gas" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.str-el" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="hep-lat" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2023-03-15T15:12:26Z</published>
+    <arxiv:comment>18 pages, 8 figures</arxiv:comment>
+    <arxiv:primary_category term="quant-ph"/>
+    <arxiv:journal_ref>Quantum 7, 1140 (2023)</arxiv:journal_ref>
+    <author>
+      <name>Torsten V. Zache</name>
+    </author>
+    <author>
+      <name>Daniel González-Cuadra</name>
+    </author>
+    <author>
+      <name>Peter Zoller</name>
+    </author>
+    <arxiv:doi>10.22331/q-2023-10-16-1140</arxiv:doi>
+    <link rel="related" href="https://doi.org/10.22331/q-2023-10-16-1140" title="doi"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2311.07015v1</id>
+    <title>QudCom: Towards Quantum Compilation for Qudit Systems</title>
+    <updated>2023-11-13T01:58:48Z</updated>
+    <link href="https://arxiv.org/abs/2311.07015v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2311.07015v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Qudit-based quantum computation offers unique advantages over qubit-based systems in terms of noise mitigation capabilities as well as algorithmic complexity improvements. However, the software ecosystem for multi-state quantum systems is severely limited. In this paper, we highlight a quantum workflow for describing and compiling qudit systems. We investigate the design and implementation of a quantum compiler for qudit systems. We also explore several key theoretical properties of qudit computing as well as efficient optimization techniques. Finally, we provide demonstrations using physical quantum computers as well as simulations of the proposed quantum toolchain.</summary>
+    <category term="quant-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.ET" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2023-11-13T01:58:48Z</published>
+    <arxiv:primary_category term="quant-ph"/>
+    <author>
+      <name>Daniel Volya</name>
+    </author>
+    <author>
+      <name>Prabhat Mishra</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2005.13070v3</id>
+    <title>On connectivity-dependent resource requirements for digital quantum simulation of $d$-level particles</title>
+    <updated>2020-10-02T03:38:59Z</updated>
+    <link href="https://arxiv.org/abs/2005.13070v3" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2005.13070v3" rel="related" type="application/pdf" title="pdf"/>
+    <summary>A primary objective of quantum computation is to efficiently simulate quantum physics. Scientifically and technologically important quantum Hamiltonians include those with spin-$s$, vibrational, photonic, and other bosonic degrees of freedom, i.e. problems composed of or approximated by $d$-level particles (qudits). Recently, several methods for encoding these systems into a set of qubits have been introduced, where each encoding's efficiency was studied in terms of qubit and gate counts. Here, we build on previous results by including effects of hardware connectivity. To study the number of SWAP gates required to Trotterize commonly used quantum operators, we use both analytical arguments and automatic tools that optimize the schedule in multiple stages. We study the unary (or one-hot), Gray, standard binary, and block unary encodings, with three connectivities: linear array, ladder array, and square grid. Among other trends, we find that while the ladder array leads to substantial efficiencies over the linear array, the advantage of the square over the ladder array is less pronounced. These results are applicable in hardware co-design and in choosing efficient qudit encodings for a given set of near-term quantum hardware. Additionally, this work may be relevant to the scheduling of other quantum algorithms for which matrix exponentiation is a subroutine.</summary>
+    <category term="quant-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.other" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2020-05-26T22:28:51Z</published>
+    <arxiv:comment>Accepted to QCE20 (IEEE Quantum Week). Corrected erroneous circuits in Figure 3</arxiv:comment>
+    <arxiv:primary_category term="quant-ph"/>
+    <arxiv:journal_ref>2020 IEEE International Conference on Quantum Computing and Engineering (QCE)</arxiv:journal_ref>
+    <author>
+      <name>Nicolas P. D. Sawaya</name>
+    </author>
+    <author>
+      <name>Gian Giacomo Guerreschi</name>
+    </author>
+    <author>
+      <name>Adam Holmes</name>
+    </author>
+    <arxiv:doi>10.1109/QCE49297.2020.00031</arxiv:doi>
+    <link rel="related" href="https://doi.org/10.1109/QCE49297.2020.00031" title="doi"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2506.09371v1</id>
+    <title>Efficient Implementation of a Quantum Algorithm with a Trapped Ion Qudit</title>
+    <updated>2025-06-11T03:35:55Z</updated>
+    <link href="https://arxiv.org/abs/2506.09371v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2506.09371v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Demonstration of quantum advantage remains challenging due to the increased overhead of controlling large quantum systems. While significant effort has been devoted to qubit-based devices, qudits ($d$-level systems) offer potential advantages in both hardware efficiency and algorithmic performance. In this paper, we demonstrate multi-tone control of a single trapped ion qudit of up to eight levels, as well as the first implementation of Grover's search algorithm on a qudit with dimension five and eight, achieving operation fidelity of 96.8(3)$\%$ and 69(6)$\%$, respectively, which correspond to 99.9(1)\% and 97.1(3) \% squared statistical overlap (SSO), respectively, with the expected result for a single iteration of the Grover search algorithm. The performance is competitive when compared to qubit-based systems; moreover, the sequence requires only $\mathcal{O}(d)$ single qudit gates and no entangling gates. This work highlights the potential of using qudits for efficient implementations of quantum algorithms.</summary>
+    <category term="quant-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2025-06-11T03:35:55Z</published>
+    <arxiv:primary_category term="quant-ph"/>
+    <author>
+      <name>Xiaoyang Shi</name>
+    </author>
+    <author>
+      <name>Jasmine Sinanan-Singh</name>
+    </author>
+    <author>
+      <name>Timothy J. Burke</name>
+    </author>
+    <author>
+      <name>John Chiaverini</name>
+    </author>
+    <author>
+      <name>Isaac L. Chuang</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2108.13357v3</id>
+    <title>Quantum simulation of $φ^4$ theories in qudit systems</title>
+    <updated>2022-04-11T16:10:39Z</updated>
+    <link href="https://arxiv.org/abs/2108.13357v3" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2108.13357v3" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We discuss the implementation of quantum algorithms for lattice $Φ^4$ theory on circuit quantum electrodynamics (cQED) system. The field is represented on qudits in a discretized field amplitude basis. The main advantage of qudit systems is that its multi-level characteristic allows the field interaction to be implemented only with diagonal single-qudit gates. Considering the set of universal gates formed by the single-qudit phase gate and the displacement gate, we address initial state preparation and single-qudit gate synthesis with variational methods.</summary>
+    <category term="quant-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2021-08-30T16:30:33Z</published>
+    <arxiv:comment>6 pages, 3 figures</arxiv:comment>
+    <arxiv:primary_category term="quant-ph"/>
+    <author>
+      <name>Doga Murat Kurkcuoglu</name>
+    </author>
+    <author>
+      <name>M. Sohaib Alam</name>
+    </author>
+    <author>
+      <name>Joshua Adam Job</name>
+    </author>
+    <author>
+      <name>Andy C. Y. Li</name>
+    </author>
+    <author>
+      <name>Alexandru Macridin</name>
+    </author>
+    <author>
+      <name>Gabriel N. Perdue</name>
+    </author>
+    <author>
+      <name>Stephen Providence</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2409.18963v3</id>
+    <title>Transpiling quantum assembly language circuits to a qudit form</title>
+    <updated>2025-01-24T08:07:50Z</updated>
+    <link href="https://arxiv.org/abs/2409.18963v3" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2409.18963v3" rel="related" type="application/pdf" title="pdf"/>
+    <summary>In this paper, we introduce the workflow for converting qubit circuits represented by Open Quantum ASseMbly format (OpenQASM, also known as QASM) into the qudit form for execution on qudit hardware and provide a method for translating qudit experiment results back into qubit results. We present the comparison of several qudit transpilation regimes, which differ in decomposition of multicontrolled gates: "qubit" as ordinary qubit transpilation and execution, "qutrit" with $d{=}3$ levels and single qubit in qudit and "ququart" with $d{=}4$ levels and 2 qubits per ququart. We provide several examples of transpiling circuits, which demonstrate potential advantages of qudits.</summary>
+    <category term="quant-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2024-09-27T17:59:56Z</published>
+    <arxiv:comment>14 pages, 5 figures, 1 table</arxiv:comment>
+    <arxiv:primary_category term="quant-ph"/>
+    <arxiv:journal_ref>Entropy 26, 1129 (2024)</arxiv:journal_ref>
+    <author>
+      <name>Denis A. Drozhzhin</name>
+    </author>
+    <author>
+      <name>Anastasiia S. Nikolaeva</name>
+    </author>
+    <author>
+      <name>Evgeniy O. Kiktenko</name>
+    </author>
+    <author>
+      <name>Aleksey K. Fedorov</name>
+    </author>
+    <arxiv:doi>10.3390/e26121129</arxiv:doi>
+    <link rel="related" href="https://doi.org/10.3390/e26121129" title="doi"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2212.08799v2</id>
+    <title>Qudit entanglers using quantum optimal control</title>
+    <updated>2023-06-27T18:06:37Z</updated>
+    <link href="https://arxiv.org/abs/2212.08799v2" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2212.08799v2" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We study the generation of two-qudit entangling quantum logic gates using two techniques in quantum optimal control. We take advantage of both continuous, Lie-algebraic control and digital, Lie-group control. In both cases, the key is access to a time-dependent Hamiltonian which can generate an arbitrary unitary matrix in the group SU($d^2$). We find efficient protocols for creating high-fidelity entangling gates. As a test of our theory, we study the case of qudits robustly encoded in nuclear spins of alkaline earth atoms and manipulated with magnetic and optical fields, with entangling interactions arising from the well-known Rydberg blockade. We applied this in a case study based on a $d=10$ dimensional qudit encoded in the $I=9/2$ nuclear spin in $^{87}$Sr, controlled through a combination of nuclear spin-resonance, a tensor AC-Stark shift, and Rydberg dressing, which allows us to generate an arbitrary symmetric entangling two-qudit gate such as CPhase. Our techniques can be used to implement qudit entangling gates for any $2\le d \le10$ encoded in the nuclear spin. We also studied how decoherence due to the finite lifetime of the Rydberg states affects the creation of the CPhase gate and found, through numerical optimization, a fidelity of $0.9985$, $0.9980$, $0.9942$, and $0.9800$ for $d=2$, $d=3$, $d=5$, and $d=7$ respectively. This provides a powerful platform to explore the various applications of quantum information processing of qudits including metrological enhancement with qudits, quantum simulation, universal quantum computation, and quantum error correction.</summary>
+    <category term="quant-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.atom-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2022-12-17T04:58:45Z</published>
+    <arxiv:comment>Included more details and figures</arxiv:comment>
+    <arxiv:primary_category term="quant-ph"/>
+    <arxiv:journal_ref>PRXQuantum.4.040333(2023)</arxiv:journal_ref>
+    <author>
+      <name>Sivaprasad Omanakuttan</name>
+    </author>
+    <author>
+      <name>Anupam Mitra</name>
+    </author>
+    <author>
+      <name>Eric J. Meier</name>
+    </author>
+    <author>
+      <name>Michael J. Martin</name>
+    </author>
+    <author>
+      <name>Ivan H Deutsch</name>
+    </author>
+    <arxiv:doi>10.1103/PRXQuantum.4.040333</arxiv:doi>
+    <link rel="related" href="https://doi.org/10.1103/PRXQuantum.4.040333" title="doi"/>
+  </entry>
+</feed>

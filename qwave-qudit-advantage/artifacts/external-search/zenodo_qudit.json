@@ -1,0 +1,1984 @@
+{
+  "hits": {
+    "hits": [
+      {
+        "created": "2026-05-26T06:10:07.560824+00:00",
+        "modified": "2026-05-26T06:10:07.738166+00:00",
+        "id": 20371748,
+        "conceptrecid": "20371747",
+        "doi": "10.5281/zenodo.20371748",
+        "conceptdoi": "10.5281/zenodo.20371747",
+        "doi_url": "https://doi.org/10.5281/zenodo.20371748",
+        "metadata": {
+          "title": "Schur Saturation",
+          "doi": "10.5281/zenodo.20371748",
+          "publication_date": "2026-05-25",
+          "description": "<div class=\"markdown-heading\">\n<h1 class=\"heading-element\">Reproducibility scripts for Schur saturation and the Clifford ceiling</h1>\n<a class=\"anchor\" href=\"https://github.com/JAGV-Math/SchurSaturation#reproducibility-scripts-for-schur-saturation-and-the-clifford-ceiling\"></a></div>\n<p>This repository contains the minimal Python verification package for the computational LDPC instance used in the paper:</p>\n<p><strong>Schur saturation and the Clifford ceiling in qudit CSS codes</strong></p>\n<p>The script verifies the qudit hypergraph-product CSS code</p>\n<p>[ [[58,16,3]]_5. ]</p>\n<p>It checks the CSS commutation relation, ranks, logical dimension, Schur saturation of (\\ker H_Z), and distance certification by exhaustive search up to weight 3.</p>",
+          "access_right": "open",
+          "creators": [
+            {
+              "name": "Guzmán-Vega, José Alberto",
+              "affiliation": "Instituto Politécnico Nacional",
+              "orcid": "0009-0002-1505-0740"
+            },
+            {
+              "name": "Sarmiento-Rosales, Eliseo",
+              "affiliation": "Instituto Politécnico Nacional",
+              "orcid": "0000-0003-0649-7786"
+            },
+            {
+              "name": "Jiménez-Cervantes, Juan Carlos",
+              "affiliation": "Instituto Politécnico Nacional"
+            }
+          ],
+          "language": "eng",
+          "custom": {
+            "code:codeRepository": "https://github.com/JAGV-Math/SchurSaturation",
+            "code:programmingLanguage": [
+              {
+                "id": "python",
+                "title": {
+                  "en": "Python"
+                }
+              }
+            ],
+            "code:developmentStatus": {
+              "id": "concept",
+              "title": {
+                "en": "Concept"
+              }
+            }
+          },
+          "resource_type": {
+            "title": "Computational notebook",
+            "type": "software",
+            "subtype": "computationalnotebook"
+          },
+          "license": {
+            "id": "cc-by-4.0"
+          },
+          "relations": {
+            "version": [
+              {
+                "index": 0,
+                "is_last": true,
+                "parent": {
+                  "pid_type": "recid",
+                  "pid_value": "20371747"
+                }
+              }
+            ]
+          }
+        },
+        "title": "Schur Saturation",
+        "links": {
+          "self": "https://zenodo.org/api/records/20371748",
+          "self_html": "https://zenodo.org/records/20371748",
+          "preview_html": "https://zenodo.org/records/20371748?preview=1",
+          "doi": "https://doi.org/10.5281/zenodo.20371748",
+          "self_doi": "https://doi.org/10.5281/zenodo.20371748",
+          "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.20371748",
+          "reserve_doi": "https://zenodo.org/api/records/20371748/draft/pids/doi",
+          "parent": "https://zenodo.org/api/records/20371747",
+          "parent_html": "https://zenodo.org/records/20371747",
+          "parent_doi": "https://doi.org/10.5281/zenodo.20371747",
+          "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.20371747",
+          "self_iiif_manifest": "https://zenodo.org/api/iiif/record:20371748/manifest",
+          "self_iiif_sequence": "https://zenodo.org/api/iiif/record:20371748/sequence/default",
+          "files": "https://zenodo.org/api/records/20371748/files",
+          "media_files": "https://zenodo.org/api/records/20371748/media-files",
+          "archive": "https://zenodo.org/api/records/20371748/files-archive",
+          "archive_media": "https://zenodo.org/api/records/20371748/media-files-archive",
+          "latest": "https://zenodo.org/api/records/20371748/versions/latest",
+          "latest_html": "https://zenodo.org/records/20371748/latest",
+          "versions": "https://zenodo.org/api/records/20371748/versions",
+          "draft": "https://zenodo.org/api/records/20371748/draft",
+          "access_links": "https://zenodo.org/api/records/20371748/access/links",
+          "access_grants": "https://zenodo.org/api/records/20371748/access/grants",
+          "access_users": "https://zenodo.org/api/records/20371748/access/users",
+          "access_request": "https://zenodo.org/api/records/20371748/access/request",
+          "access": "https://zenodo.org/api/records/20371748/access",
+          "communities": "https://zenodo.org/api/records/20371748/communities",
+          "communities-suggestions": "https://zenodo.org/api/records/20371748/communities-suggestions",
+          "request_deletion": "https://zenodo.org/api/records/20371748/request-deletion",
+          "file_modification": "https://zenodo.org/api/records/20371748/file-modification",
+          "quota_increase": "https://zenodo.org/api/records/20371748/quota-increase",
+          "requests": "https://zenodo.org/api/records/20371748/requests"
+        },
+        "updated": "2026-05-26T06:10:07.738166+00:00",
+        "recid": "20371748",
+        "revision": 4,
+        "files": [
+          {
+            "id": "22b3a544-c9e6-4567-b4c9-47ada9aa2e5d",
+            "key": "SchurSaturation-main.zip",
+            "size": 8466,
+            "checksum": "md5:a8f3f457761bfd823e1e764e7171b92e",
+            "links": {
+              "self": "https://zenodo.org/api/records/20371748/files/SchurSaturation-main.zip/content"
+            }
+          }
+        ],
+        "swh": null,
+        "owners": [
+          {
+            "id": "1660914"
+          }
+        ],
+        "status": "published",
+        "stats": {
+          "downloads": 4,
+          "unique_downloads": 4,
+          "views": 27,
+          "unique_views": 25,
+          "version_downloads": 4,
+          "version_unique_downloads": 4,
+          "version_unique_views": 25,
+          "version_views": 27
+        },
+        "state": "done",
+        "submitted": true
+      },
+      {
+        "created": "2025-07-07T19:28:13.125746+00:00",
+        "modified": "2025-07-07T19:28:13.275753+00:00",
+        "id": 15831874,
+        "conceptrecid": "15831807",
+        "doi": "10.5281/zenodo.15831874",
+        "conceptdoi": "10.5281/zenodo.15831807",
+        "doi_url": "https://doi.org/10.5281/zenodo.15831874",
+        "metadata": {
+          "title": "senkolab/QuantumLogic_25Level_Qudit: Second Release of Analysis/Data for 25-level Qudit Paper Work",
+          "doi": "10.5281/zenodo.15831874",
+          "publication_date": "2025-07-07",
+          "description": "<p>Second Release of Analysis/Data for 25-level Qudit Paper Work</p>",
+          "access_right": "open",
+          "creators": [
+            {
+              "name": "nicholaszutt",
+              "affiliation": null
+            }
+          ],
+          "related_identifiers": [
+            {
+              "identifier": "https://github.com/senkolab/QuantumLogic_25Level_Qudit/tree/v2",
+              "relation": "isSupplementTo",
+              "resource_type": "software",
+              "scheme": "url"
+            }
+          ],
+          "version": "v2",
+          "custom": {
+            "code:codeRepository": "https://github.com/senkolab/QuantumLogic_25Level_Qudit"
+          },
+          "resource_type": {
+            "title": "Software",
+            "type": "software"
+          },
+          "license": {
+            "id": "cc-by-4.0"
+          },
+          "relations": {
+            "version": [
+              {
+                "index": 1,
+                "is_last": true,
+                "parent": {
+                  "pid_type": "recid",
+                  "pid_value": "15831807"
+                }
+              }
+            ]
+          }
+        },
+        "title": "senkolab/QuantumLogic_25Level_Qudit: Second Release of Analysis/Data for 25-level Qudit Paper Work",
+        "links": {
+          "self": "https://zenodo.org/api/records/15831874",
+          "self_html": "https://zenodo.org/records/15831874",
+          "preview_html": "https://zenodo.org/records/15831874?preview=1",
+          "doi": "https://doi.org/10.5281/zenodo.15831874",
+          "self_doi": "https://doi.org/10.5281/zenodo.15831874",
+          "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.15831874",
+          "reserve_doi": "https://zenodo.org/api/records/15831874/draft/pids/doi",
+          "parent": "https://zenodo.org/api/records/15831807",
+          "parent_html": "https://zenodo.org/records/15831807",
+          "parent_doi": "https://doi.org/10.5281/zenodo.15831807",
+          "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.15831807",
+          "self_iiif_manifest": "https://zenodo.org/api/iiif/record:15831874/manifest",
+          "self_iiif_sequence": "https://zenodo.org/api/iiif/record:15831874/sequence/default",
+          "files": "https://zenodo.org/api/records/15831874/files",
+          "media_files": "https://zenodo.org/api/records/15831874/media-files",
+          "archive": "https://zenodo.org/api/records/15831874/files-archive",
+          "archive_media": "https://zenodo.org/api/records/15831874/media-files-archive",
+          "latest": "https://zenodo.org/api/records/15831874/versions/latest",
+          "latest_html": "https://zenodo.org/records/15831874/latest",
+          "versions": "https://zenodo.org/api/records/15831874/versions",
+          "draft": "https://zenodo.org/api/records/15831874/draft",
+          "access_links": "https://zenodo.org/api/records/15831874/access/links",
+          "access_grants": "https://zenodo.org/api/records/15831874/access/grants",
+          "access_users": "https://zenodo.org/api/records/15831874/access/users",
+          "access_request": "https://zenodo.org/api/records/15831874/access/request",
+          "access": "https://zenodo.org/api/records/15831874/access",
+          "communities": "https://zenodo.org/api/records/15831874/communities",
+          "communities-suggestions": "https://zenodo.org/api/records/15831874/communities-suggestions",
+          "request_deletion": "https://zenodo.org/api/records/15831874/request-deletion",
+          "file_modification": "https://zenodo.org/api/records/15831874/file-modification",
+          "quota_increase": "https://zenodo.org/api/records/15831874/quota-increase",
+          "requests": "https://zenodo.org/api/records/15831874/requests"
+        },
+        "updated": "2025-07-07T19:28:13.275753+00:00",
+        "recid": "15831874",
+        "revision": 4,
+        "files": [
+          {
+            "id": "fac2ecc1-71c4-48bc-913c-d7f080f3c20e",
+            "key": "senkolab/QuantumLogic_25Level_Qudit-v2.zip",
+            "size": 101683119,
+            "checksum": "md5:26aec4c8a3c548766dbab3ef12f153eb",
+            "links": {
+              "self": "https://zenodo.org/api/records/15831874/files/senkolab/QuantumLogic_25Level_Qudit-v2.zip/content"
+            }
+          }
+        ],
+        "swh": null,
+        "owners": [
+          {
+            "id": "1319699"
+          }
+        ],
+        "status": "published",
+        "stats": {
+          "downloads": 23,
+          "unique_downloads": 23,
+          "views": 84,
+          "unique_views": 79,
+          "version_downloads": 19,
+          "version_unique_downloads": 19,
+          "version_unique_views": 68,
+          "version_views": 71
+        },
+        "state": "done",
+        "submitted": true
+      },
+      {
+        "created": "2020-05-20T19:44:19.393778+00:00",
+        "modified": "2024-07-19T20:17:31.512709+00:00",
+        "id": 3836624,
+        "conceptrecid": "3836623",
+        "doi": "10.1364/OE.27.017426",
+        "doi_url": "https://doi.org/10.1364/OE.27.017426",
+        "metadata": {
+          "title": "Compressed sensing of twisted photons",
+          "doi": "10.1364/OE.27.017426",
+          "publication_date": "2020-05-20",
+          "description": "<p>The ability to completely characterize the state of a quantum system is an essential element for the emerging quantum technologies. Here, we present a compressed-sensing inspired method to ascertain any rank-deficient qudit state, which we experimentally encode in photonic orbital angular momentum. We efficiently reconstruct these qudit states from a few scans with an intensified CCD camera. Since it requires only a few intensity measurements, our technique would provide an easy and accurate way to identify quantum sources, channels, and systems.</p>",
+          "access_right": "open",
+          "creators": [
+            {
+              "name": "Karimi, Ebrahim",
+              "affiliation": "UO"
+            },
+            {
+              "name": "Leuchs, Gerd",
+              "affiliation": "MPI"
+            }
+          ],
+          "keywords": [
+            "Q-sort",
+            "compressed sensing",
+            "photons",
+            "vorteces"
+          ],
+          "resource_type": {
+            "title": "Journal article",
+            "type": "publication",
+            "subtype": "article"
+          },
+          "license": {
+            "id": "cc-by-4.0"
+          },
+          "grants": [
+            {
+              "code": "766970",
+              "internal_id": "10.13039/501100000780::766970",
+              "funder": {
+                "name": "European Commission",
+                "doi": "10.13039/501100000780",
+                "acronym": "EC"
+              },
+              "title": "QUANTUM SORTER",
+              "acronym": "Q-SORT",
+              "program": "H2020-EU.1.2.",
+              "url": "https://cordis.europa.eu/projects/766970"
+            }
+          ],
+          "communities": [
+            {
+              "id": "eu"
+            },
+            {
+              "id": "qsort"
+            }
+          ],
+          "relations": {
+            "version": [
+              {
+                "index": 0,
+                "is_last": true,
+                "parent": {
+                  "pid_type": "recid",
+                  "pid_value": "3836623"
+                }
+              }
+            ]
+          }
+        },
+        "title": "Compressed sensing of twisted photons",
+        "links": {
+          "self": "https://zenodo.org/api/records/3836624",
+          "self_html": "https://zenodo.org/records/3836624",
+          "preview_html": "https://zenodo.org/records/3836624?preview=1",
+          "doi": "https://doi.org/10.1364/OE.27.017426",
+          "self_doi": "https://doi.org/10.1364/OE.27.017426",
+          "self_doi_html": "https://zenodo.org/doi/10.1364/OE.27.017426",
+          "reserve_doi": "https://zenodo.org/api/records/3836624/draft/pids/doi",
+          "parent": "https://zenodo.org/api/records/3836623",
+          "parent_html": "https://zenodo.org/records/3836623",
+          "self_iiif_manifest": "https://zenodo.org/api/iiif/record:3836624/manifest",
+          "self_iiif_sequence": "https://zenodo.org/api/iiif/record:3836624/sequence/default",
+          "files": "https://zenodo.org/api/records/3836624/files",
+          "media_files": "https://zenodo.org/api/records/3836624/media-files",
+          "thumbnails": {
+            "10": "https://zenodo.org/api/iiif/record:3836624:oe-27-13-17426.pdf/full/%5E10,/0/default.jpg",
+            "50": "https://zenodo.org/api/iiif/record:3836624:oe-27-13-17426.pdf/full/%5E50,/0/default.jpg",
+            "100": "https://zenodo.org/api/iiif/record:3836624:oe-27-13-17426.pdf/full/%5E100,/0/default.jpg",
+            "250": "https://zenodo.org/api/iiif/record:3836624:oe-27-13-17426.pdf/full/%5E250,/0/default.jpg",
+            "750": "https://zenodo.org/api/iiif/record:3836624:oe-27-13-17426.pdf/full/%5E750,/0/default.jpg",
+            "1200": "https://zenodo.org/api/iiif/record:3836624:oe-27-13-17426.pdf/full/%5E1200,/0/default.jpg"
+          },
+          "archive": "https://zenodo.org/api/records/3836624/files-archive",
+          "archive_media": "https://zenodo.org/api/records/3836624/media-files-archive",
+          "latest": "https://zenodo.org/api/records/3836624/versions/latest",
+          "latest_html": "https://zenodo.org/records/3836624/latest",
+          "versions": "https://zenodo.org/api/records/3836624/versions",
+          "draft": "https://zenodo.org/api/records/3836624/draft",
+          "access_links": "https://zenodo.org/api/records/3836624/access/links",
+          "access_grants": "https://zenodo.org/api/records/3836624/access/grants",
+          "access_users": "https://zenodo.org/api/records/3836624/access/users",
+          "access_request": "https://zenodo.org/api/records/3836624/access/request",
+          "access": "https://zenodo.org/api/records/3836624/access",
+          "communities": "https://zenodo.org/api/records/3836624/communities",
+          "communities-suggestions": "https://zenodo.org/api/records/3836624/communities-suggestions",
+          "request_deletion": "https://zenodo.org/api/records/3836624/request-deletion",
+          "file_modification": "https://zenodo.org/api/records/3836624/file-modification",
+          "quota_increase": "https://zenodo.org/api/records/3836624/quota-increase",
+          "requests": "https://zenodo.org/api/records/3836624/requests"
+        },
+        "updated": "2024-07-19T20:17:31.512709+00:00",
+        "recid": "3836624",
+        "revision": 5,
+        "files": [
+          {
+            "id": "4eefe4e1-a2cb-45b3-a0b5-33edd7cba8a6",
+            "key": "oe-27-13-17426.pdf",
+            "size": 13456989,
+            "checksum": "md5:d121131a8c1e1c09698914c315195ea8",
+            "links": {
+              "self": "https://zenodo.org/api/records/3836624/files/oe-27-13-17426.pdf/content"
+            }
+          }
+        ],
+        "swh": null,
+        "owners": [
+          {
+            "id": "43042"
+          }
+        ],
+        "status": "published",
+        "stats": {
+          "downloads": 271,
+          "unique_downloads": 266,
+          "views": 226,
+          "unique_views": 221,
+          "version_downloads": 271,
+          "version_unique_downloads": 266,
+          "version_unique_views": 219,
+          "version_views": 224
+        },
+        "state": "done",
+        "submitted": true
+      },
+      {
+        "created": "2025-06-30T14:05:15.264161+00:00",
+        "modified": "2025-06-30T14:05:15.529035+00:00",
+        "id": 15591043,
+        "conceptrecid": "15591042",
+        "doi": "10.5281/zenodo.15591043",
+        "conceptdoi": "10.5281/zenodo.15591042",
+        "doi_url": "https://doi.org/10.5281/zenodo.15591043",
+        "metadata": {
+          "title": "Dataset for \"Two-local modifications of SYK model with quantum chaos\"",
+          "doi": "10.5281/zenodo.15591043",
+          "publication_date": "2025-06-04",
+          "description": "<p>Spectral data for qudit and overlapping clusters variants of the Sachdev-Ye-Kitaev model used for the publication.</p>\n<p>Files are named to indicate the name of the model, qudit dimension (the integer following \"d\"), locality of the interaction (\"q\"), and the number of qubits (\"L\") or the number of Majorana fermions (\"N\").</p>\n<p>In each file, the computed eigenenergies are given in little-endian double-precision floating numbers, eight bytes for each eigenstate, in ascending order for each generated sample.</p>\n<p>For the overlapping clusters SYK model with q=2 and M=2, the spectral degeneracy has been removed for N unless N is a multiple of 8.</p>",
+          "access_right": "open",
+          "creators": [
+            {
+              "name": "Hanada, Masanori",
+              "affiliation": "Queen Mary University of London",
+              "orcid": "0000-0001-5174-2571"
+            },
+            {
+              "name": "van Leuven, Sam",
+              "affiliation": "University of the Witwatersrand",
+              "orcid": "0000-0002-9331-3553"
+            },
+            {
+              "name": "Oktay, Onur",
+              "affiliation": "Abdullah Gül University"
+            },
+            {
+              "name": "Tezuka, Masaki",
+              "affiliation": "Kyoto University",
+              "orcid": "0000-0001-7877-0839"
+            }
+          ],
+          "related_identifiers": [
+            {
+              "identifier": "arXiv:2505.09900",
+              "relation": "isDescribedBy",
+              "resource_type": "dataset",
+              "scheme": "arxiv"
+            }
+          ],
+          "resource_type": {
+            "title": "Dataset",
+            "type": "dataset"
+          },
+          "license": {
+            "id": "cc-by-4.0"
+          },
+          "relations": {
+            "version": [
+              {
+                "index": 0,
+                "is_last": true,
+                "parent": {
+                  "pid_type": "recid",
+                  "pid_value": "15591042"
+                }
+              }
+            ]
+          }
+        },
+        "title": "Dataset for \"Two-local modifications of SYK model with quantum chaos\"",
+        "links": {
+          "self": "https://zenodo.org/api/records/15591043",
+          "self_html": "https://zenodo.org/records/15591043",
+          "preview_html": "https://zenodo.org/records/15591043?preview=1",
+          "doi": "https://doi.org/10.5281/zenodo.15591043",
+          "self_doi": "https://doi.org/10.5281/zenodo.15591043",
+          "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.15591043",
+          "reserve_doi": "https://zenodo.org/api/records/15591043/draft/pids/doi",
+          "parent": "https://zenodo.org/api/records/15591042",
+          "parent_html": "https://zenodo.org/records/15591042",
+          "parent_doi": "https://doi.org/10.5281/zenodo.15591042",
+          "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.15591042",
+          "self_iiif_manifest": "https://zenodo.org/api/iiif/record:15591043/manifest",
+          "self_iiif_sequence": "https://zenodo.org/api/iiif/record:15591043/sequence/default",
+          "files": "https://zenodo.org/api/records/15591043/files",
+          "media_files": "https://zenodo.org/api/records/15591043/media-files",
+          "archive": "https://zenodo.org/api/records/15591043/files-archive",
+          "archive_media": "https://zenodo.org/api/records/15591043/media-files-archive",
+          "latest": "https://zenodo.org/api/records/15591043/versions/latest",
+          "latest_html": "https://zenodo.org/records/15591043/latest",
+          "versions": "https://zenodo.org/api/records/15591043/versions",
+          "draft": "https://zenodo.org/api/records/15591043/draft",
+          "access_links": "https://zenodo.org/api/records/15591043/access/links",
+          "access_grants": "https://zenodo.org/api/records/15591043/access/grants",
+          "access_users": "https://zenodo.org/api/records/15591043/access/users",
+          "access_request": "https://zenodo.org/api/records/15591043/access/request",
+          "access": "https://zenodo.org/api/records/15591043/access",
+          "communities": "https://zenodo.org/api/records/15591043/communities",
+          "communities-suggestions": "https://zenodo.org/api/records/15591043/communities-suggestions",
+          "request_deletion": "https://zenodo.org/api/records/15591043/request-deletion",
+          "file_modification": "https://zenodo.org/api/records/15591043/file-modification",
+          "quota_increase": "https://zenodo.org/api/records/15591043/quota-increase",
+          "requests": "https://zenodo.org/api/records/15591043/requests"
+        },
+        "updated": "2025-06-30T14:05:15.529035+00:00",
+        "recid": "15591043",
+        "revision": 4,
+        "files": [
+          {
+            "id": "af792bdc-8272-49ce-b766-c1c219d90de2",
+            "key": "zenodo.zip",
+            "size": 4780524966,
+            "checksum": "md5:b8fcc9c375a0863ce488128a3f707c61",
+            "links": {
+              "self": "https://zenodo.org/api/records/15591043/files/zenodo.zip/content"
+            }
+          }
+        ],
+        "swh": null,
+        "owners": [
+          {
+            "id": "476482"
+          }
+        ],
+        "status": "published",
+        "stats": {
+          "downloads": 11,
+          "unique_downloads": 11,
+          "views": 76,
+          "unique_views": 59,
+          "version_downloads": 11,
+          "version_unique_downloads": 11,
+          "version_unique_views": 59,
+          "version_views": 76
+        },
+        "state": "done",
+        "submitted": true
+      },
+      {
+        "created": "2024-09-07T20:15:11.078538+00:00",
+        "modified": "2024-09-07T20:15:11.252191+00:00",
+        "id": 13730666,
+        "conceptrecid": "13730665",
+        "doi": "10.5281/zenodo.13730666",
+        "conceptdoi": "10.5281/zenodo.13730665",
+        "doi_url": "https://doi.org/10.5281/zenodo.13730666",
+        "metadata": {
+          "title": "gwhilton/Qudit-Tapering-Sim-MSc: v1.0.0 - Initial Release",
+          "doi": "10.5281/zenodo.13730666",
+          "publication_date": "2024-09-07",
+          "description": "<h3>Features</h3>\n<ul>\n<li>Implemented condition number calculations for both the original and block-diagonal Hamiltonians.</li>\n<li>Added functionality to plot the condition numbers for different qudit counts and coupling strengths.</li>\n</ul>",
+          "access_right": "open",
+          "creators": [
+            {
+              "name": "George Hilton",
+              "affiliation": null
+            }
+          ],
+          "related_identifiers": [
+            {
+              "identifier": "https://github.com/gwhilton/Qudit-Tapering-Sim-MSc/tree/v1.0.0",
+              "relation": "isSupplementTo",
+              "resource_type": "software",
+              "scheme": "url"
+            }
+          ],
+          "version": "v1.0.0",
+          "resource_type": {
+            "title": "Software",
+            "type": "software"
+          },
+          "license": {
+            "id": "cc-by-4.0"
+          },
+          "relations": {
+            "version": [
+              {
+                "index": 0,
+                "is_last": true,
+                "parent": {
+                  "pid_type": "recid",
+                  "pid_value": "13730665"
+                }
+              }
+            ]
+          }
+        },
+        "title": "gwhilton/Qudit-Tapering-Sim-MSc: v1.0.0 - Initial Release",
+        "links": {
+          "self": "https://zenodo.org/api/records/13730666",
+          "self_html": "https://zenodo.org/records/13730666",
+          "preview_html": "https://zenodo.org/records/13730666?preview=1",
+          "doi": "https://doi.org/10.5281/zenodo.13730666",
+          "self_doi": "https://doi.org/10.5281/zenodo.13730666",
+          "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.13730666",
+          "reserve_doi": "https://zenodo.org/api/records/13730666/draft/pids/doi",
+          "parent": "https://zenodo.org/api/records/13730665",
+          "parent_html": "https://zenodo.org/records/13730665",
+          "parent_doi": "https://doi.org/10.5281/zenodo.13730665",
+          "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.13730665",
+          "self_iiif_manifest": "https://zenodo.org/api/iiif/record:13730666/manifest",
+          "self_iiif_sequence": "https://zenodo.org/api/iiif/record:13730666/sequence/default",
+          "files": "https://zenodo.org/api/records/13730666/files",
+          "media_files": "https://zenodo.org/api/records/13730666/media-files",
+          "archive": "https://zenodo.org/api/records/13730666/files-archive",
+          "archive_media": "https://zenodo.org/api/records/13730666/media-files-archive",
+          "latest": "https://zenodo.org/api/records/13730666/versions/latest",
+          "latest_html": "https://zenodo.org/records/13730666/latest",
+          "versions": "https://zenodo.org/api/records/13730666/versions",
+          "draft": "https://zenodo.org/api/records/13730666/draft",
+          "access_links": "https://zenodo.org/api/records/13730666/access/links",
+          "access_grants": "https://zenodo.org/api/records/13730666/access/grants",
+          "access_users": "https://zenodo.org/api/records/13730666/access/users",
+          "access_request": "https://zenodo.org/api/records/13730666/access/request",
+          "access": "https://zenodo.org/api/records/13730666/access",
+          "communities": "https://zenodo.org/api/records/13730666/communities",
+          "communities-suggestions": "https://zenodo.org/api/records/13730666/communities-suggestions",
+          "request_deletion": "https://zenodo.org/api/records/13730666/request-deletion",
+          "file_modification": "https://zenodo.org/api/records/13730666/file-modification",
+          "quota_increase": "https://zenodo.org/api/records/13730666/quota-increase",
+          "requests": "https://zenodo.org/api/records/13730666/requests"
+        },
+        "updated": "2024-09-07T20:15:11.252191+00:00",
+        "recid": "13730666",
+        "revision": 4,
+        "files": [
+          {
+            "id": "ceb0676e-7782-43e6-b2e6-81cb41a87c0e",
+            "key": "gwhilton/Qudit-Tapering-Sim-MSc-v1.0.0.zip",
+            "size": 3854,
+            "checksum": "md5:8eb319fcada4b4c72e97d5b2395f01b1",
+            "links": {
+              "self": "https://zenodo.org/api/records/13730666/files/gwhilton/Qudit-Tapering-Sim-MSc-v1.0.0.zip/content"
+            }
+          }
+        ],
+        "swh": null,
+        "owners": [
+          {
+            "id": "107020"
+          }
+        ],
+        "status": "published",
+        "stats": {
+          "downloads": 10,
+          "unique_downloads": 10,
+          "views": 39,
+          "unique_views": 38,
+          "version_downloads": 10,
+          "version_unique_downloads": 10,
+          "version_unique_views": 38,
+          "version_views": 39
+        },
+        "state": "done",
+        "submitted": true
+      },
+      {
+        "created": "2025-01-15T15:19:59.978334+00:00",
+        "modified": "2025-01-15T15:20:00.497341+00:00",
+        "id": 14652433,
+        "conceptrecid": "14652432",
+        "doi": "10.5281/zenodo.14652433",
+        "conceptdoi": "10.5281/zenodo.14652432",
+        "doi_url": "https://doi.org/10.5281/zenodo.14652433",
+        "metadata": {
+          "title": "Simulating 2D lattice gauge theories on a qudit quantum computer",
+          "doi": "10.5281/zenodo.14652433",
+          "publication_date": "2025-01-15",
+          "description": "<pre>Datasets to research paper titled \"Simulating 2D lattice gauge theories on a qudit quantum computer\" to be published.<br><br>https://arxiv.org/abs/2310.12110<br><br><br>All files provided as CSV, see README.txt for details on the individual datasets.</pre>",
+          "access_right": "open",
+          "creators": [
+            {
+              "name": "Meth, Michael",
+              "affiliation": "Universität Innsbruck",
+              "orcid": "0000-0002-5446-3962"
+            },
+            {
+              "name": "Zhang, Jinglei",
+              "affiliation": "University of Waterloo"
+            },
+            {
+              "name": "Haase, Jan Friedrich",
+              "affiliation": "University of Waterloo"
+            },
+            {
+              "name": "Edmunds, Claire",
+              "affiliation": "Universität Innsbruck",
+              "orcid": "0000-0002-2367-9074"
+            },
+            {
+              "name": "Postler, Lukas",
+              "affiliation": "Universität Innsbruck"
+            },
+            {
+              "name": "Jena, Andrew J.",
+              "affiliation": "University of Waterloo"
+            },
+            {
+              "name": "Steiner, Alex",
+              "affiliation": "Universität Innsbruck"
+            },
+            {
+              "name": "Dellantonio, Luca",
+              "affiliation": "University of Exeter",
+              "orcid": "0000-0003-1914-6539"
+            },
+            {
+              "name": "Blatt, Rainer",
+              "affiliation": "Universität Innsbruck",
+              "orcid": "0000-0002-3122-2461"
+            },
+            {
+              "name": "Zoller, Peter",
+              "affiliation": "Universität Innsbruck",
+              "orcid": "0000-0003-4014-1505"
+            },
+            {
+              "name": "Monz, Thomas",
+              "affiliation": "Universität Innsbruck",
+              "orcid": "0000-0001-7410-4804"
+            },
+            {
+              "name": "Schindler, Philipp",
+              "affiliation": "Universität Innsbruck",
+              "orcid": "0000-0002-9461-9650"
+            },
+            {
+              "name": "Muschik, Christine",
+              "affiliation": "University of Waterloo",
+              "orcid": "0000-0002-4599-5107"
+            },
+            {
+              "name": "Ringbauer, Martin",
+              "affiliation": "Universität Innsbruck",
+              "orcid": "0000-0001-5055-6240"
+            }
+          ],
+          "resource_type": {
+            "title": "Dataset",
+            "type": "dataset"
+          },
+          "license": {
+            "id": "cc-by-4.0"
+          },
+          "relations": {
+            "version": [
+              {
+                "index": 0,
+                "is_last": true,
+                "parent": {
+                  "pid_type": "recid",
+                  "pid_value": "14652432"
+                }
+              }
+            ]
+          }
+        },
+        "title": "Simulating 2D lattice gauge theories on a qudit quantum computer",
+        "links": {
+          "self": "https://zenodo.org/api/records/14652433",
+          "self_html": "https://zenodo.org/records/14652433",
+          "preview_html": "https://zenodo.org/records/14652433?preview=1",
+          "doi": "https://doi.org/10.5281/zenodo.14652433",
+          "self_doi": "https://doi.org/10.5281/zenodo.14652433",
+          "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.14652433",
+          "reserve_doi": "https://zenodo.org/api/records/14652433/draft/pids/doi",
+          "parent": "https://zenodo.org/api/records/14652432",
+          "parent_html": "https://zenodo.org/records/14652432",
+          "parent_doi": "https://doi.org/10.5281/zenodo.14652432",
+          "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.14652432",
+          "self_iiif_manifest": "https://zenodo.org/api/iiif/record:14652433/manifest",
+          "self_iiif_sequence": "https://zenodo.org/api/iiif/record:14652433/sequence/default",
+          "files": "https://zenodo.org/api/records/14652433/files",
+          "media_files": "https://zenodo.org/api/records/14652433/media-files",
+          "archive": "https://zenodo.org/api/records/14652433/files-archive",
+          "archive_media": "https://zenodo.org/api/records/14652433/media-files-archive",
+          "latest": "https://zenodo.org/api/records/14652433/versions/latest",
+          "latest_html": "https://zenodo.org/records/14652433/latest",
+          "versions": "https://zenodo.org/api/records/14652433/versions",
+          "draft": "https://zenodo.org/api/records/14652433/draft",
+          "access_links": "https://zenodo.org/api/records/14652433/access/links",
+          "access_grants": "https://zenodo.org/api/records/14652433/access/grants",
+          "access_users": "https://zenodo.org/api/records/14652433/access/users",
+          "access_request": "https://zenodo.org/api/records/14652433/access/request",
+          "access": "https://zenodo.org/api/records/14652433/access",
+          "communities": "https://zenodo.org/api/records/14652433/communities",
+          "communities-suggestions": "https://zenodo.org/api/records/14652433/communities-suggestions",
+          "request_deletion": "https://zenodo.org/api/records/14652433/request-deletion",
+          "file_modification": "https://zenodo.org/api/records/14652433/file-modification",
+          "quota_increase": "https://zenodo.org/api/records/14652433/quota-increase",
+          "requests": "https://zenodo.org/api/records/14652433/requests"
+        },
+        "updated": "2025-01-15T15:20:00.497341+00:00",
+        "recid": "14652433",
+        "revision": 3,
+        "files": [
+          {
+            "id": "64df83d9-21f7-4d24-8c88-34ee54e6f477",
+            "key": "part_phys_obc.csv",
+            "size": 1217,
+            "checksum": "md5:9b9c821d90355d3313a59febcc59c141",
+            "links": {
+              "self": "https://zenodo.org/api/records/14652433/files/part_phys_obc.csv/content"
+            }
+          },
+          {
+            "id": "082e6eaa-b397-40cf-b2b8-3d0640c48b36",
+            "key": "part_phys_obc_exact.csv",
+            "size": 5907,
+            "checksum": "md5:3c3c85443177c176480f016eadcf77d1",
+            "links": {
+              "self": "https://zenodo.org/api/records/14652433/files/part_phys_obc_exact.csv/content"
+            }
+          },
+          {
+            "id": "947972b5-445b-4142-a9ca-bc507f233534",
+            "key": "part_phys_obc_time_evolution_exact.csv",
+            "size": 12051,
+            "checksum": "md5:79dfd3d1de43b65556c8c584200e264b",
+            "links": {
+              "self": "https://zenodo.org/api/records/14652433/files/part_phys_obc_time_evolution_exact.csv/content"
+            }
+          },
+          {
+            "id": "70b14fd6-60ea-4d37-a349-6eca1ed056b8",
+            "key": "energy_data_qutrit_pbc.csv",
+            "size": 2234,
+            "checksum": "md5:8ecbf3242195fb56b34d6b5eef70f25f",
+            "links": {
+              "self": "https://zenodo.org/api/records/14652433/files/energy_data_qutrit_pbc.csv/content"
+            }
+          },
+          {
+            "id": "1fe9a641-a2d2-47b5-bd79-16fae5b63315",
+            "key": "part_phys_obc_time_evolution_simulation.csv",
+            "size": 10205,
+            "checksum": "md5:df2921631a97f814c60d0ba69611ffee",
+            "links": {
+              "self": "https://zenodo.org/api/records/14652433/files/part_phys_obc_time_evolution_simulation.csv/content"
+            }
+          },
+          {
+            "id": "d03c0a20-e619-401e-93e6-339129d3a5c7",
+            "key": "histograms_ququint_pbc.csv",
+            "size": 328,
+            "checksum": "md5:8b2112bfe198a7d0ed5205275a589110",
+            "links": {
+              "self": "https://zenodo.org/api/records/14652433/files/histograms_ququint_pbc.csv/content"
+            }
+          },
+          {
+            "id": "783cf62d-7819-48e8-803f-09bc3f70a8b9",
+            "key": "histogram_data_qutrit_pbc.csv",
+            "size": 608,
+            "checksum": "md5:cbc1a53244c42fccf62fef5c481715b0",
+            "links": {
+              "self": "https://zenodo.org/api/records/14652433/files/histogram_data_qutrit_pbc.csv/content"
+            }
+          },
+          {
+            "id": "c46a2d42-444e-46e2-b5b9-c55ea7e77a9b",
+            "key": "cond_matter_obc.csv",
+            "size": 2024,
+            "checksum": "md5:6155616435d2168b8b86fc8697349b27",
+            "links": {
+              "self": "https://zenodo.org/api/records/14652433/files/cond_matter_obc.csv/content"
+            }
+          },
+          {
+            "id": "c897e2ff-1882-4b5a-9d75-3990a6da7a36",
+            "key": "part_phys_obc_time_evolution.csv",
+            "size": 1468,
+            "checksum": "md5:9e97ade3b4746f1b6c40f3ab68325267",
+            "links": {
+              "self": "https://zenodo.org/api/records/14652433/files/part_phys_obc_time_evolution.csv/content"
+            }
+          },
+          {
+            "id": "ba15e8e2-d4e5-4a41-ad4b-0387f113278c",
+            "key": "plaquette_data_ququint_pbc.csv",
+            "size": 1135,
+            "checksum": "md5:9087dc2a2b40ca6f3c4869e0f1a65572",
+            "links": {
+              "self": "https://zenodo.org/api/records/14652433/files/plaquette_data_ququint_pbc.csv/content"
+            }
+          },
+          {
+            "id": "225bcbac-caea-4e58-8e19-49aa52d79609",
+            "key": "cond_matter_obc_theory.csv",
+            "size": 2991,
+            "checksum": "md5:28b260a162458835efb1c1c6d5591bf4",
+            "links": {
+              "self": "https://zenodo.org/api/records/14652433/files/cond_matter_obc_theory.csv/content"
+            }
+          },
+          {
+            "id": "0330cd4d-03a3-465b-991f-68746ee51832",
+            "key": "cond_matter_obc_vqe_example.csv",
+            "size": 14220,
+            "checksum": "md5:bd63550e9bce2911d9d3df22c2932cf4",
+            "links": {
+              "self": "https://zenodo.org/api/records/14652433/files/cond_matter_obc_vqe_example.csv/content"
+            }
+          },
+          {
+            "id": "5aa0bce2-4bea-412b-9b64-5c8c12b9bbab",
+            "key": "part_phys_obc_pure_gauge.csv",
+            "size": 2056,
+            "checksum": "md5:7f4814a3ea9e6976475553033c2cc59e",
+            "links": {
+              "self": "https://zenodo.org/api/records/14652433/files/part_phys_obc_pure_gauge.csv/content"
+            }
+          },
+          {
+            "id": "ea56fd1c-4795-4584-b643-8aa4c4d10446",
+            "key": "energy_data_ququint_pbc.csv",
+            "size": 1120,
+            "checksum": "md5:c2c49ff88cbbedee385b6532e6a6e696",
+            "links": {
+              "self": "https://zenodo.org/api/records/14652433/files/energy_data_ququint_pbc.csv/content"
+            }
+          },
+          {
+            "id": "37eea499-03f6-4a84-81ec-28f1503044c7",
+            "key": "plaquette_data_qutrit_pbc.csv",
+            "size": 2008,
+            "checksum": "md5:112ad3a19be3d91d875c172c4465e563",
+            "links": {
+              "self": "https://zenodo.org/api/records/14652433/files/plaquette_data_qutrit_pbc.csv/content"
+            }
+          },
+          {
+            "id": "a08891b2-17de-4e70-9be0-ca9ea32bf02f",
+            "key": "part_phys_obc_vqe_example.csv",
+            "size": 85105,
+            "checksum": "md5:605ab203a8b1439be6e2d44f549b2642",
+            "links": {
+              "self": "https://zenodo.org/api/records/14652433/files/part_phys_obc_vqe_example.csv/content"
+            }
+          },
+          {
+            "id": "29e1288f-bbd8-4da4-ac21-dff0b4443749",
+            "key": "README.txt",
+            "size": 1577,
+            "checksum": "md5:7aa582a6520fa0ab015f5b158fbbcb7c",
+            "links": {
+              "self": "https://zenodo.org/api/records/14652433/files/README.txt/content"
+            }
+          }
+        ],
+        "swh": null,
+        "owners": [
+          {
+            "id": "1247978"
+          }
+        ],
+        "status": "published",
+        "stats": {
+          "downloads": 1347,
+          "unique_downloads": 1320,
+          "views": 323,
+          "unique_views": 311,
+          "version_downloads": 1347,
+          "version_unique_downloads": 1320,
+          "version_unique_views": 311,
+          "version_views": 323
+        },
+        "state": "done",
+        "submitted": true
+      },
+      {
+        "created": "2021-09-22T20:34:41.118354+00:00",
+        "modified": "2024-07-17T18:39:31.031996+00:00",
+        "id": 5523241,
+        "conceptrecid": "5523240",
+        "doi": "10.1039/d1sc01358k",
+        "doi_url": "https://doi.org/10.1039/d1sc01358k",
+        "metadata": {
+          "title": "Controlled coherent dynamics of [VO(TPP)], a prototype molecular nuclear qudit with an electronic ancilla",
+          "doi": "10.1039/d1sc01358k",
+          "publication_date": "2021-08-05",
+          "description": "<p>We show that [VO(TPP)] (vanadyl tetraphenylporphyrinate) is a promising system to implement quantum&nbsp;computation algorithms based on encoding information in multi-level (qudit) units. Indeed, it embeds&nbsp;a nuclear spin 7/2 coupled to an electronic spin 1/2 by hyperfine interaction. This qubit&ndash;qudit unit can&nbsp;be exploited to implement quantum error correction and quantum simulation algorithms. Through&nbsp;a combined theoretical and broadband nuclear magnetic resonance study, we demonstrate that the&nbsp;elementary operations of such algorithms can be efficiently implemented on the nuclear spin qudit.&nbsp;Manipulation of the nuclear qudit can be achieved by resonant radio-frequency pulses, thanks to the remarkably long coherence times and the effective quadrupolar coupling induced by the strong&nbsp;hyperfine interaction. This approach may open new perspectives for developing new molecular qubit&ndash;qudit systems.</p>",
+          "access_right": "open",
+          "creators": [
+            {
+              "name": "Chicco, Simone",
+              "affiliation": "Università di Parma, Dipartimento di Scienze Matematiche, Fisiche e Informatiche, Parma, Italy"
+            },
+            {
+              "name": "Chiesa, Alessandro",
+              "affiliation": "Università di Parma, Dipartimento di Scienze Matematiche, Fisiche e Informatiche, Parma, Italy"
+            },
+            {
+              "name": "Allodi, Giuseppe",
+              "affiliation": "Università di Parma, Dipartimento di Scienze Matematiche, Fisiche e Informatiche, Parma, Italy"
+            },
+            {
+              "name": "Garlatti, Elena",
+              "affiliation": "Università di Parma, Dipartimento di Scienze Matematiche, Fisiche e Informatiche, Parma, Italy"
+            },
+            {
+              "name": "Atzori, Matteo",
+              "affiliation": "Dipartimento di Chimica \"Ugo Schiff\" & INSTM, Universit`a Degli Studi di Firenze, I- 50019 Sesto Fiorentino, Italy"
+            },
+            {
+              "name": "Sorace, Lorenzo",
+              "affiliation": "Dipartimento di Chimica \"Ugo Schiff\" & INSTM, Universit`a Degli Studi di Firenze, I- 50019 Sesto Fiorentino, Italy"
+            },
+            {
+              "name": "De Renzi, Roberto",
+              "affiliation": "Università di Parma, Dipartimento di Scienze Matematiche, Fisiche e Informatiche, Parma, Italy"
+            },
+            {
+              "name": "Sessoli, Roberta",
+              "affiliation": "Dipartimento di Chimica \"Ugo Schiff\" & INSTM, Universit`a Degli Studi di Firenze, I- 50019 Sesto Fiorentino, Italy"
+            },
+            {
+              "name": "Carretta, Stefano",
+              "affiliation": "Università di Parma, Dipartimento di Scienze Matematiche, Fisiche e Informatiche, Parma, Italy"
+            }
+          ],
+          "resource_type": {
+            "title": "Journal article",
+            "type": "publication",
+            "subtype": "article"
+          },
+          "journal": {
+            "pages": "12046",
+            "title": "Chem. Sci.",
+            "volume": "12"
+          },
+          "license": {
+            "id": "cc-by-4.0"
+          },
+          "communities": [
+            {
+              "id": "fatmols-fet-open-862893"
+            },
+            {
+              "id": "eu"
+            }
+          ],
+          "relations": {
+            "version": [
+              {
+                "index": 0,
+                "is_last": true,
+                "parent": {
+                  "pid_type": "recid",
+                  "pid_value": "5523240"
+                }
+              }
+            ]
+          }
+        },
+        "title": "Controlled coherent dynamics of [VO(TPP)], a prototype molecular nuclear qudit with an electronic ancilla",
+        "links": {
+          "self": "https://zenodo.org/api/records/5523241",
+          "self_html": "https://zenodo.org/records/5523241",
+          "preview_html": "https://zenodo.org/records/5523241?preview=1",
+          "doi": "https://doi.org/10.1039/d1sc01358k",
+          "self_doi": "https://doi.org/10.1039/d1sc01358k",
+          "self_doi_html": "https://zenodo.org/doi/10.1039/d1sc01358k",
+          "reserve_doi": "https://zenodo.org/api/records/5523241/draft/pids/doi",
+          "parent": "https://zenodo.org/api/records/5523240",
+          "parent_html": "https://zenodo.org/records/5523240",
+          "self_iiif_manifest": "https://zenodo.org/api/iiif/record:5523241/manifest",
+          "self_iiif_sequence": "https://zenodo.org/api/iiif/record:5523241/sequence/default",
+          "files": "https://zenodo.org/api/records/5523241/files",
+          "media_files": "https://zenodo.org/api/records/5523241/media-files",
+          "thumbnails": {
+            "10": "https://zenodo.org/api/iiif/record:5523241:FATMOLS-UPR-Chicco-ChemSci2021.pdf/full/%5E10,/0/default.jpg",
+            "50": "https://zenodo.org/api/iiif/record:5523241:FATMOLS-UPR-Chicco-ChemSci2021.pdf/full/%5E50,/0/default.jpg",
+            "100": "https://zenodo.org/api/iiif/record:5523241:FATMOLS-UPR-Chicco-ChemSci2021.pdf/full/%5E100,/0/default.jpg",
+            "250": "https://zenodo.org/api/iiif/record:5523241:FATMOLS-UPR-Chicco-ChemSci2021.pdf/full/%5E250,/0/default.jpg",
+            "750": "https://zenodo.org/api/iiif/record:5523241:FATMOLS-UPR-Chicco-ChemSci2021.pdf/full/%5E750,/0/default.jpg",
+            "1200": "https://zenodo.org/api/iiif/record:5523241:FATMOLS-UPR-Chicco-ChemSci2021.pdf/full/%5E1200,/0/default.jpg"
+          },
+          "archive": "https://zenodo.org/api/records/5523241/files-archive",
+          "archive_media": "https://zenodo.org/api/records/5523241/media-files-archive",
+          "latest": "https://zenodo.org/api/records/5523241/versions/latest",
+          "latest_html": "https://zenodo.org/records/5523241/latest",
+          "versions": "https://zenodo.org/api/records/5523241/versions",
+          "draft": "https://zenodo.org/api/records/5523241/draft",
+          "access_links": "https://zenodo.org/api/records/5523241/access/links",
+          "access_grants": "https://zenodo.org/api/records/5523241/access/grants",
+          "access_users": "https://zenodo.org/api/records/5523241/access/users",
+          "access_request": "https://zenodo.org/api/records/5523241/access/request",
+          "access": "https://zenodo.org/api/records/5523241/access",
+          "communities": "https://zenodo.org/api/records/5523241/communities",
+          "communities-suggestions": "https://zenodo.org/api/records/5523241/communities-suggestions",
+          "request_deletion": "https://zenodo.org/api/records/5523241/request-deletion",
+          "file_modification": "https://zenodo.org/api/records/5523241/file-modification",
+          "quota_increase": "https://zenodo.org/api/records/5523241/quota-increase",
+          "requests": "https://zenodo.org/api/records/5523241/requests"
+        },
+        "updated": "2024-07-17T18:39:31.031996+00:00",
+        "recid": "5523241",
+        "revision": 6,
+        "files": [
+          {
+            "id": "94f34704-34a4-41ac-971c-f14aaa6fc699",
+            "key": "FATMOLS-UPR-Chicco-ChemSci2021.pdf",
+            "size": 1871687,
+            "checksum": "md5:1d50717ac0d40a3637e27b1a5a969f0c",
+            "links": {
+              "self": "https://zenodo.org/api/records/5523241/files/FATMOLS-UPR-Chicco-ChemSci2021.pdf/content"
+            }
+          }
+        ],
+        "swh": null,
+        "owners": [
+          {
+            "id": "111245"
+          }
+        ],
+        "status": "published",
+        "stats": {
+          "downloads": 115,
+          "unique_downloads": 115,
+          "views": 70,
+          "unique_views": 70,
+          "version_downloads": 115,
+          "version_unique_downloads": 115,
+          "version_unique_views": 70,
+          "version_views": 70
+        },
+        "state": "done",
+        "submitted": true
+      },
+      {
+        "created": "2025-03-19T14:45:13.684449+00:00",
+        "modified": "2025-03-19T15:59:03.289134+00:00",
+        "id": 15052164,
+        "conceptrecid": "13618284",
+        "doi": "10.5281/zenodo.15052164",
+        "conceptdoi": "10.5281/zenodo.13618284",
+        "doi_url": "https://doi.org/10.5281/zenodo.15052164",
+        "metadata": {
+          "title": "Code and Data for \"Nonlinearity of the Fidelity in Open Qudit Systems: Gate and Noise Dependence in High-dimensional Quantum Computing\"",
+          "doi": "10.5281/zenodo.15052164",
+          "publication_date": "2025-03-19",
+          "description": "This project provides the source code and data used for simulating, analysing and generating the results presented in the article \"Nonlinearity of the Fidelity in Open Qudit Systems: Gate and Noise Dependence in High-dimensional Quantum Computing\" (https://arxiv.org/abs/2406.15141).",
+          "access_right": "open",
+          "creators": [
+            {
+              "name": "Hartmann, Jean-Gabriel",
+              "affiliation": null,
+              "orcid": "0000-0002-1992-9675"
+            },
+            {
+              "name": "Jankovic, Denis",
+              "affiliation": null,
+              "orcid": "0000-0002-9550-6412"
+            },
+            {
+              "name": "Pasquier, Remi",
+              "affiliation": null,
+              "orcid": "0000-0003-0058-4125"
+            },
+            {
+              "name": "Ruben, Mario",
+              "affiliation": null,
+              "orcid": "0000-0002-7718-7016"
+            },
+            {
+              "name": "Hervieux, Paul-Antoine",
+              "affiliation": null,
+              "orcid": "0000-0002-4965-9709"
+            }
+          ],
+          "keywords": [
+            "Quantum computers",
+            "Quantum physics",
+            "Open quantum systems",
+            "Qudits"
+          ],
+          "related_identifiers": [
+            {
+              "identifier": "https://github.com/jgkh/code-and-data-for-the-figures-of-nonlinearity-of-the-fidelity-in-open-qudit-systems/tree/v1.1.0",
+              "relation": "isSupplementTo",
+              "resource_type": "software",
+              "scheme": "url"
+            },
+            {
+              "identifier": "arXiv:2406.15141",
+              "relation": "isSupplementTo",
+              "resource_type": "publication-preprint",
+              "scheme": "arxiv"
+            }
+          ],
+          "version": "v1.1.0",
+          "custom": {
+            "code:codeRepository": "https://github.com/jgkh/code-and-data-for-the-figures-of-nonlinearity-of-the-fidelity-in-open-qudit-systems",
+            "code:programmingLanguage": [
+              {
+                "id": "python",
+                "title": {
+                  "en": "Python"
+                }
+              },
+              {
+                "id": "jupyter_notebook",
+                "title": {
+                  "en": "Jupyter Notebook"
+                }
+              }
+            ]
+          },
+          "resource_type": {
+            "title": "Software",
+            "type": "software"
+          },
+          "license": {
+            "id": "cc-by-4.0"
+          },
+          "grants": [
+            {
+              "code": "847471",
+              "internal_id": "10.13039/501100000780::847471",
+              "funder": {
+                "name": "European Commission",
+                "doi": "10.13039/501100000780",
+                "acronym": "EC"
+              },
+              "title": "QUSTEC: international, interdisciplinary and intersectoral doctoral programme in Quantum Science and Technologies",
+              "acronym": "QUSTEC",
+              "program": "H2020-EU.1.3.",
+              "url": "https://cordis.europa.eu/projects/847471"
+            },
+            {
+              "code": "ANR-17-EURE-0024",
+              "internal_id": "10.13039/501100001665::ANR-17-EURE-0024",
+              "funder": {
+                "name": "Agence Nationale de la Recherche",
+                "doi": "10.13039/501100001665",
+                "acronym": "ANR"
+              },
+              "title": "Quantum Science and Nanomaterials",
+              "acronym": "QMAT"
+            },
+            {
+              "code": "471424360",
+              "internal_id": "018mejw64::471424360",
+              "funder": {
+                "name": "Deutsche Forschungsgemeinschaft"
+              },
+              "title": "SFB 1573:  4f for Future",
+              "url": "https://gepris-extern.dfg.de/gepris/projekt/471424360?language=en"
+            }
+          ],
+          "relations": {
+            "version": [
+              {
+                "index": 1,
+                "is_last": true,
+                "parent": {
+                  "pid_type": "recid",
+                  "pid_value": "13618284"
+                }
+              }
+            ]
+          },
+          "notes": "If you use this software, please cite it using the metadata from this file."
+        },
+        "title": "Code and Data for \"Nonlinearity of the Fidelity in Open Qudit Systems: Gate and Noise Dependence in High-dimensional Quantum Computing\"",
+        "links": {
+          "self": "https://zenodo.org/api/records/15052164",
+          "self_html": "https://zenodo.org/records/15052164",
+          "preview_html": "https://zenodo.org/records/15052164?preview=1",
+          "doi": "https://doi.org/10.5281/zenodo.15052164",
+          "self_doi": "https://doi.org/10.5281/zenodo.15052164",
+          "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.15052164",
+          "reserve_doi": "https://zenodo.org/api/records/15052164/draft/pids/doi",
+          "parent": "https://zenodo.org/api/records/13618284",
+          "parent_html": "https://zenodo.org/records/13618284",
+          "parent_doi": "https://doi.org/10.5281/zenodo.13618284",
+          "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.13618284",
+          "self_iiif_manifest": "https://zenodo.org/api/iiif/record:15052164/manifest",
+          "self_iiif_sequence": "https://zenodo.org/api/iiif/record:15052164/sequence/default",
+          "files": "https://zenodo.org/api/records/15052164/files",
+          "media_files": "https://zenodo.org/api/records/15052164/media-files",
+          "archive": "https://zenodo.org/api/records/15052164/files-archive",
+          "archive_media": "https://zenodo.org/api/records/15052164/media-files-archive",
+          "latest": "https://zenodo.org/api/records/15052164/versions/latest",
+          "latest_html": "https://zenodo.org/records/15052164/latest",
+          "versions": "https://zenodo.org/api/records/15052164/versions",
+          "draft": "https://zenodo.org/api/records/15052164/draft",
+          "access_links": "https://zenodo.org/api/records/15052164/access/links",
+          "access_grants": "https://zenodo.org/api/records/15052164/access/grants",
+          "access_users": "https://zenodo.org/api/records/15052164/access/users",
+          "access_request": "https://zenodo.org/api/records/15052164/access/request",
+          "access": "https://zenodo.org/api/records/15052164/access",
+          "communities": "https://zenodo.org/api/records/15052164/communities",
+          "communities-suggestions": "https://zenodo.org/api/records/15052164/communities-suggestions",
+          "request_deletion": "https://zenodo.org/api/records/15052164/request-deletion",
+          "file_modification": "https://zenodo.org/api/records/15052164/file-modification",
+          "quota_increase": "https://zenodo.org/api/records/15052164/quota-increase",
+          "requests": "https://zenodo.org/api/records/15052164/requests"
+        },
+        "updated": "2025-03-19T15:59:03.289134+00:00",
+        "recid": "15052164",
+        "revision": 6,
+        "files": [
+          {
+            "id": "e45b81ab-cafd-41ad-8810-1273f3240c24",
+            "key": "jgkh/code-and-data-for-the-figures-of-nonlinearity-of-the-fidelity-in-open-qudit-systems-v1.1.0.zip",
+            "size": 3472009365,
+            "checksum": "md5:c58263074b5e3d8201ab2b88eb8cbd27",
+            "links": {
+              "self": "https://zenodo.org/api/records/15052164/files/jgkh/code-and-data-for-the-figures-of-nonlinearity-of-the-fidelity-in-open-qudit-systems-v1.1.0.zip/content"
+            }
+          }
+        ],
+        "swh": null,
+        "owners": [
+          {
+            "id": "1181820"
+          }
+        ],
+        "status": "published",
+        "stats": {
+          "downloads": 65,
+          "unique_downloads": 63,
+          "views": 163,
+          "unique_views": 157,
+          "version_downloads": 56,
+          "version_unique_downloads": 54,
+          "version_unique_views": 93,
+          "version_views": 98
+        },
+        "state": "done",
+        "submitted": true
+      },
+      {
+        "created": "2024-09-02T14:28:09.229985+00:00",
+        "modified": "2024-09-02T14:57:43.992089+00:00",
+        "id": 13461896,
+        "conceptrecid": "13461895",
+        "doi": "10.5281/zenodo.13461896",
+        "conceptdoi": "10.5281/zenodo.13461895",
+        "doi_url": "https://doi.org/10.5281/zenodo.13461896",
+        "metadata": {
+          "title": "Code and Data for \"Nonlinearity of the Fidelity in Open Qudit Systems: Gate and Noise Dependence in High-dimensional Quantum Computing\"",
+          "doi": "10.5281/zenodo.13461896",
+          "publication_date": "2024-08-30",
+          "description": "<p>This project provides the source code and data used for simulating, analysing and generating the results presented in the article \"Nonlinearity of the Fidelity in Open Qudit Systems: Gate and Noise Dependence in High-dimensional Quantum Computing\" (<a href=\"https://arxiv.org/abs/2406.15141\" target=\"_blank\" rel=\"nofollow noreferrer noopener\">https://arxiv.org/abs/2406.15141</a>).</p>",
+          "access_right": "open",
+          "creators": [
+            {
+              "name": "Hartmann, Jean-Gabriel",
+              "affiliation": "Institut de Physique et Chimie des Matériaux de Strasbourg",
+              "orcid": "0000-0002-1992-9675"
+            },
+            {
+              "name": "Jankovic, Denis",
+              "affiliation": "Institut de Physique et Chimie des Matériaux de Strasbourg",
+              "orcid": "0000-0002-9550-6412"
+            },
+            {
+              "name": "Pasquier, Remi",
+              "affiliation": "Institut de Physique et Chimie des Matériaux de Strasbourg",
+              "orcid": "0000-0003-0058-4125"
+            },
+            {
+              "name": "Ruben, Mario",
+              "affiliation": "Karlsruhe Institute of Technology",
+              "orcid": "0000-0002-7718-7016"
+            },
+            {
+              "name": "Hervieux, Paul-Antoine",
+              "affiliation": "Institut de Physique et Chimie des Matériaux de Strasbourg",
+              "orcid": "0000-0002-4965-9709"
+            }
+          ],
+          "keywords": [
+            "Qudits",
+            "Open quantum systems"
+          ],
+          "related_identifiers": [
+            {
+              "identifier": "arXiv:2406.15141",
+              "relation": "isSupplementTo",
+              "resource_type": "publication-preprint",
+              "scheme": "arxiv"
+            }
+          ],
+          "version": "1.0.0",
+          "language": "eng",
+          "custom": {
+            "code:codeRepository": "https://github.com/jgkh/code-and-data-for-the-figures-of-nonlinearity-of-the-fidelity-in-open-qudit-systems.git",
+            "code:programmingLanguage": [
+              {
+                "id": "python",
+                "title": {
+                  "en": "Python"
+                }
+              },
+              {
+                "id": "jupyter_notebook",
+                "title": {
+                  "en": "Jupyter Notebook"
+                }
+              }
+            ],
+            "code:developmentStatus": {
+              "id": "active",
+              "title": {
+                "en": "Active"
+              }
+            }
+          },
+          "resource_type": {
+            "title": "Computational notebook",
+            "type": "software",
+            "subtype": "computationalnotebook"
+          },
+          "license": {
+            "id": "cc-by-4.0"
+          },
+          "grants": [
+            {
+              "code": "847471",
+              "internal_id": "10.13039/501100000780::847471",
+              "funder": {
+                "name": "European Commission",
+                "doi": "10.13039/501100000780",
+                "acronym": "EC"
+              },
+              "title": "QUSTEC: international, interdisciplinary and intersectoral doctoral programme in Quantum Science and Technologies",
+              "acronym": "QUSTEC",
+              "program": "H2020-EU.1.3.",
+              "url": "https://cordis.europa.eu/projects/847471"
+            },
+            {
+              "code": "ANR-17-EURE-0024",
+              "internal_id": "10.13039/501100001665::ANR-17-EURE-0024",
+              "funder": {
+                "name": "Agence Nationale de la Recherche",
+                "doi": "10.13039/501100001665",
+                "acronym": "ANR"
+              },
+              "title": "Quantum Science and Nanomaterials",
+              "acronym": "QMAT"
+            },
+            {
+              "code": "471424360",
+              "internal_id": "018mejw64::471424360",
+              "funder": {
+                "name": "Deutsche Forschungsgemeinschaft"
+              },
+              "title": "SFB 1573:  4f for Future",
+              "url": "https://gepris-extern.dfg.de/gepris/projekt/471424360?language=en"
+            }
+          ],
+          "communities": [
+            {
+              "id": "unistra"
+            }
+          ],
+          "relations": {
+            "version": [
+              {
+                "index": 0,
+                "is_last": true,
+                "parent": {
+                  "pid_type": "recid",
+                  "pid_value": "13461895"
+                }
+              }
+            ]
+          }
+        },
+        "title": "Code and Data for \"Nonlinearity of the Fidelity in Open Qudit Systems: Gate and Noise Dependence in High-dimensional Quantum Computing\"",
+        "links": {
+          "self": "https://zenodo.org/api/records/13461896",
+          "self_html": "https://zenodo.org/records/13461896",
+          "preview_html": "https://zenodo.org/records/13461896?preview=1",
+          "doi": "https://doi.org/10.5281/zenodo.13461896",
+          "self_doi": "https://doi.org/10.5281/zenodo.13461896",
+          "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.13461896",
+          "reserve_doi": "https://zenodo.org/api/records/13461896/draft/pids/doi",
+          "parent": "https://zenodo.org/api/records/13461895",
+          "parent_html": "https://zenodo.org/records/13461895",
+          "parent_doi": "https://doi.org/10.5281/zenodo.13461895",
+          "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.13461895",
+          "self_iiif_manifest": "https://zenodo.org/api/iiif/record:13461896/manifest",
+          "self_iiif_sequence": "https://zenodo.org/api/iiif/record:13461896/sequence/default",
+          "files": "https://zenodo.org/api/records/13461896/files",
+          "media_files": "https://zenodo.org/api/records/13461896/media-files",
+          "archive": "https://zenodo.org/api/records/13461896/files-archive",
+          "archive_media": "https://zenodo.org/api/records/13461896/media-files-archive",
+          "latest": "https://zenodo.org/api/records/13461896/versions/latest",
+          "latest_html": "https://zenodo.org/records/13461896/latest",
+          "versions": "https://zenodo.org/api/records/13461896/versions",
+          "draft": "https://zenodo.org/api/records/13461896/draft",
+          "access_links": "https://zenodo.org/api/records/13461896/access/links",
+          "access_grants": "https://zenodo.org/api/records/13461896/access/grants",
+          "access_users": "https://zenodo.org/api/records/13461896/access/users",
+          "access_request": "https://zenodo.org/api/records/13461896/access/request",
+          "access": "https://zenodo.org/api/records/13461896/access",
+          "communities": "https://zenodo.org/api/records/13461896/communities",
+          "communities-suggestions": "https://zenodo.org/api/records/13461896/communities-suggestions",
+          "request_deletion": "https://zenodo.org/api/records/13461896/request-deletion",
+          "file_modification": "https://zenodo.org/api/records/13461896/file-modification",
+          "quota_increase": "https://zenodo.org/api/records/13461896/quota-increase",
+          "requests": "https://zenodo.org/api/records/13461896/requests"
+        },
+        "updated": "2024-09-02T14:57:43.992089+00:00",
+        "recid": "13461896",
+        "revision": 8,
+        "files": [
+          {
+            "id": "b02141f2-b734-40b2-a272-065a8229fa3c",
+            "key": "code-and-data-for-the-figures-of-nonlinearity-of-the-fidelity-in-open-qudit-systems-1.0.0.zip",
+            "size": 3471923383,
+            "checksum": "md5:5465885828b8bec724e779ac49494641",
+            "links": {
+              "self": "https://zenodo.org/api/records/13461896/files/code-and-data-for-the-figures-of-nonlinearity-of-the-fidelity-in-open-qudit-systems-1.0.0.zip/content"
+            }
+          }
+        ],
+        "swh": null,
+        "owners": [
+          {
+            "id": "1180787"
+          }
+        ],
+        "status": "published",
+        "stats": {
+          "downloads": 43,
+          "unique_downloads": 41,
+          "views": 147,
+          "unique_views": 133,
+          "version_downloads": 43,
+          "version_unique_downloads": 41,
+          "version_unique_views": 133,
+          "version_views": 147
+        },
+        "state": "done",
+        "submitted": true
+      },
+      {
+        "created": "2026-05-29T13:47:21.496293+00:00",
+        "modified": "2026-05-29T13:47:21.781226+00:00",
+        "id": 20434777,
+        "conceptrecid": "20434776",
+        "doi": "10.5281/zenodo.20434777",
+        "conceptdoi": "10.5281/zenodo.20434776",
+        "doi_url": "https://doi.org/10.5281/zenodo.20434777",
+        "metadata": {
+          "title": "PhD_dissertation_NCFZ Dataset, Analysis Code, and Latex files",
+          "doi": "10.5281/zenodo.20434777",
+          "publication_date": "2026-05-28",
+          "description": "<p>These are the analysis scripts and data, along with the raw Latex and figure files, which were used in the writing of the PhD thesis \"Qudit Quantum Computation on Trapped<br>Barium-137 Ions\", written at the University of Waterloo by Nicholas C.F. Zutt.</p>",
+          "access_right": "open",
+          "creators": [
+            {
+              "name": "Zutt, Nicholas Covey Fleming",
+              "affiliation": "University of Waterloo",
+              "orcid": "0000-0002-9185-1788"
+            }
+          ],
+          "resource_type": {
+            "title": "Dataset",
+            "type": "dataset"
+          },
+          "license": {
+            "id": "cc-by-4.0"
+          },
+          "relations": {
+            "version": [
+              {
+                "index": 0,
+                "is_last": true,
+                "parent": {
+                  "pid_type": "recid",
+                  "pid_value": "20434776"
+                }
+              }
+            ]
+          }
+        },
+        "title": "PhD_dissertation_NCFZ Dataset, Analysis Code, and Latex files",
+        "links": {
+          "self": "https://zenodo.org/api/records/20434777",
+          "self_html": "https://zenodo.org/records/20434777",
+          "preview_html": "https://zenodo.org/records/20434777?preview=1",
+          "doi": "https://doi.org/10.5281/zenodo.20434777",
+          "self_doi": "https://doi.org/10.5281/zenodo.20434777",
+          "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.20434777",
+          "reserve_doi": "https://zenodo.org/api/records/20434777/draft/pids/doi",
+          "parent": "https://zenodo.org/api/records/20434776",
+          "parent_html": "https://zenodo.org/records/20434776",
+          "parent_doi": "https://doi.org/10.5281/zenodo.20434776",
+          "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.20434776",
+          "self_iiif_manifest": "https://zenodo.org/api/iiif/record:20434777/manifest",
+          "self_iiif_sequence": "https://zenodo.org/api/iiif/record:20434777/sequence/default",
+          "files": "https://zenodo.org/api/records/20434777/files",
+          "media_files": "https://zenodo.org/api/records/20434777/media-files",
+          "archive": "https://zenodo.org/api/records/20434777/files-archive",
+          "archive_media": "https://zenodo.org/api/records/20434777/media-files-archive",
+          "latest": "https://zenodo.org/api/records/20434777/versions/latest",
+          "latest_html": "https://zenodo.org/records/20434777/latest",
+          "versions": "https://zenodo.org/api/records/20434777/versions",
+          "draft": "https://zenodo.org/api/records/20434777/draft",
+          "access_links": "https://zenodo.org/api/records/20434777/access/links",
+          "access_grants": "https://zenodo.org/api/records/20434777/access/grants",
+          "access_users": "https://zenodo.org/api/records/20434777/access/users",
+          "access_request": "https://zenodo.org/api/records/20434777/access/request",
+          "access": "https://zenodo.org/api/records/20434777/access",
+          "communities": "https://zenodo.org/api/records/20434777/communities",
+          "communities-suggestions": "https://zenodo.org/api/records/20434777/communities-suggestions",
+          "request_deletion": "https://zenodo.org/api/records/20434777/request-deletion",
+          "file_modification": "https://zenodo.org/api/records/20434777/file-modification",
+          "quota_increase": "https://zenodo.org/api/records/20434777/quota-increase",
+          "requests": "https://zenodo.org/api/records/20434777/requests"
+        },
+        "updated": "2026-05-29T13:47:21.781226+00:00",
+        "recid": "20434777",
+        "revision": 4,
+        "files": [
+          {
+            "id": "a4d87988-e154-4236-928e-e1cad97ed9a6",
+            "key": "references.bib",
+            "size": 593156,
+            "checksum": "md5:df90e28b1eab64b437fbe2b2a1198f93",
+            "links": {
+              "self": "https://zenodo.org/api/records/20434777/files/references.bib/content"
+            }
+          },
+          {
+            "id": "c501b2d2-0a42-488f-b744-819eadaf941a",
+            "key": "NCFZ_Dissertation_Thesis.zip",
+            "size": 456860772,
+            "checksum": "md5:092c8a97826123da0f93fb2bc3e90444",
+            "links": {
+              "self": "https://zenodo.org/api/records/20434777/files/NCFZ_Dissertation_Thesis.zip/content"
+            }
+          },
+          {
+            "id": "f6d55ba0-63c0-4b3e-9b16-88162c68be5f",
+            "key": "NCFZ_Dissertation_Data.zip",
+            "size": 307497220,
+            "checksum": "md5:90e911960ce2b4aba74df8ce27cdc04e",
+            "links": {
+              "self": "https://zenodo.org/api/records/20434777/files/NCFZ_Dissertation_Data.zip/content"
+            }
+          },
+          {
+            "id": "234afc16-19f1-425f-bf4e-3ca18e5c9561",
+            "key": "NCFZ_Dissertation_Analysis.zip",
+            "size": 676211,
+            "checksum": "md5:de2db1c08764634c9897322350e98398",
+            "links": {
+              "self": "https://zenodo.org/api/records/20434777/files/NCFZ_Dissertation_Analysis.zip/content"
+            }
+          }
+        ],
+        "swh": null,
+        "owners": [
+          {
+            "id": "1319699"
+          }
+        ],
+        "status": "published",
+        "stats": {
+          "downloads": 5,
+          "unique_downloads": 4,
+          "views": 13,
+          "unique_views": 13,
+          "version_downloads": 5,
+          "version_unique_downloads": 4,
+          "version_unique_views": 13,
+          "version_views": 13
+        },
+        "state": "done",
+        "submitted": true
+      }
+    ],
+    "total": 153
+  },
+  "aggregations": {
+    "publication_date": {
+      "buckets": [
+        {
+          "key": "2020",
+          "doc_count": 3,
+          "label": "2020",
+          "is_selected": false
+        },
+        {
+          "key": "2021",
+          "doc_count": 7,
+          "label": "2021",
+          "is_selected": false
+        },
+        {
+          "key": "2022",
+          "doc_count": 10,
+          "label": "2022",
+          "is_selected": false
+        },
+        {
+          "key": "2023",
+          "doc_count": 3,
+          "label": "2023",
+          "is_selected": false
+        },
+        {
+          "key": "2024",
+          "doc_count": 9,
+          "label": "2024",
+          "is_selected": false
+        },
+        {
+          "key": "2025",
+          "doc_count": 25,
+          "label": "2025",
+          "is_selected": false
+        },
+        {
+          "key": "2026",
+          "doc_count": 96,
+          "label": "2026",
+          "is_selected": false
+        }
+      ],
+      "label": "Publication date"
+    },
+    "access_status": {
+      "buckets": [
+        {
+          "key": "open",
+          "doc_count": 147,
+          "label": "Open",
+          "is_selected": false
+        },
+        {
+          "key": "restricted",
+          "doc_count": 6,
+          "label": "Restricted",
+          "is_selected": false
+        }
+      ],
+      "label": "Access status"
+    },
+    "resource_type": {
+      "buckets": [
+        {
+          "key": "publication",
+          "doc_count": 112,
+          "label": "Publication",
+          "is_selected": false,
+          "inner": {
+            "buckets": [
+              {
+                "key": "publication-preprint",
+                "doc_count": 53,
+                "label": "Preprint",
+                "is_selected": false
+              },
+              {
+                "key": "publication-article",
+                "doc_count": 15,
+                "label": "Journal article",
+                "is_selected": false
+              },
+              {
+                "key": "publication-workingpaper",
+                "doc_count": 7,
+                "label": "Working paper",
+                "is_selected": false
+              },
+              {
+                "key": "publication-journal",
+                "doc_count": 1,
+                "label": "Journal",
+                "is_selected": false
+              },
+              {
+                "key": "publication-milestone",
+                "doc_count": 1,
+                "label": "Project milestone",
+                "is_selected": false
+              },
+              {
+                "key": "publication-report",
+                "doc_count": 1,
+                "label": "Report",
+                "is_selected": false
+              },
+              {
+                "key": "publication-standard",
+                "doc_count": 1,
+                "label": "Standard",
+                "is_selected": false
+              },
+              {
+                "key": "publication-technicalnote",
+                "doc_count": 1,
+                "label": "Technical note",
+                "is_selected": false
+              }
+            ]
+          }
+        },
+        {
+          "key": "dataset",
+          "doc_count": 29,
+          "label": "Dataset",
+          "is_selected": false,
+          "inner": {
+            "buckets": []
+          }
+        },
+        {
+          "key": "software",
+          "doc_count": 10,
+          "label": "Software",
+          "is_selected": false,
+          "inner": {
+            "buckets": [
+              {
+                "key": "software-computationalnotebook",
+                "doc_count": 2,
+                "label": "Computational notebook",
+                "is_selected": false
+              }
+            ]
+          }
+        },
+        {
+          "key": "other",
+          "doc_count": 2,
+          "label": "Other",
+          "is_selected": false,
+          "inner": {
+            "buckets": []
+          }
+        }
+      ],
+      "label": "Resource types"
+    },
+    "subject": {
+      "buckets": [
+        {
+          "key": "quantum computing",
+          "doc_count": 13,
+          "label": "quantum computing",
+          "is_selected": false
+        },
+        {
+          "key": "ASC",
+          "doc_count": 10,
+          "label": "ASC",
+          "is_selected": false
+        },
+        {
+          "key": "E8 lattice",
+          "doc_count": 10,
+          "label": "E8 lattice",
+          "is_selected": false
+        },
+        {
+          "key": "E8 geometry",
+          "doc_count": 8,
+          "label": "E8 geometry",
+          "is_selected": false
+        },
+        {
+          "key": "artificial intelligence",
+          "doc_count": 8,
+          "label": "artificial intelligence",
+          "is_selected": false
+        },
+        {
+          "key": "breakthrough discovery",
+          "doc_count": 8,
+          "label": "breakthrough discovery",
+          "is_selected": false
+        },
+        {
+          "key": "independent research",
+          "doc_count": 8,
+          "label": "independent research",
+          "is_selected": false
+        },
+        {
+          "key": "Sign Net",
+          "doc_count": 3,
+          "label": "Sign Net",
+          "is_selected": false
+        },
+        {
+          "key": "2.75 continuity",
+          "doc_count": 2,
+          "label": "2.75 continuity",
+          "is_selected": false
+        },
+        {
+          "key": "AGI",
+          "doc_count": 2,
+          "label": "AGI",
+          "is_selected": false
+        }
+      ],
+      "label": "Subjects"
+    },
+    "file_type": {
+      "buckets": [
+        {
+          "key": "pdf",
+          "doc_count": 98,
+          "label": "PDF",
+          "is_selected": false
+        },
+        {
+          "key": "zip",
+          "doc_count": 26,
+          "label": "ZIP",
+          "is_selected": false
+        },
+        {
+          "key": "txt",
+          "doc_count": 18,
+          "label": "TXT",
+          "is_selected": false
+        },
+        {
+          "key": "py",
+          "doc_count": 7,
+          "label": "PY",
+          "is_selected": false
+        },
+        {
+          "key": "md",
+          "doc_count": 6,
+          "label": "MD",
+          "is_selected": false
+        },
+        {
+          "key": "csv",
+          "doc_count": 5,
+          "label": "CSV",
+          "is_selected": false
+        },
+        {
+          "key": "bin",
+          "doc_count": 4,
+          "label": "BIN",
+          "is_selected": false
+        },
+        {
+          "key": "docx",
+          "doc_count": 4,
+          "label": "DOCX",
+          "is_selected": false
+        },
+        {
+          "key": "tex",
+          "doc_count": 4,
+          "label": "TEX",
+          "is_selected": false
+        },
+        {
+          "key": "bib",
+          "doc_count": 3,
+          "label": "BIB",
+          "is_selected": false
+        }
+      ],
+      "label": "File type"
+    }
+  },
+  "links": {
+    "self": "https://zenodo.org/api/records?page=1&q=qudit&size=10&sort=bestmatch",
+    "next": "https://zenodo.org/api/records?page=2&q=qudit&size=10&sort=bestmatch"
+  }
+}

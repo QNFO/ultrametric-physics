@@ -1,0 +1,2699 @@
+{
+  "hits": {
+    "hits": [
+      {
+        "created": "2025-11-29T12:02:11.977317+00:00",
+        "modified": "2026-07-28T09:40:18.682552+00:00",
+        "id": 17761691,
+        "conceptrecid": "17207033",
+        "doi": "10.5281/zenodo.17761691",
+        "conceptdoi": "10.5281/zenodo.17207033",
+        "doi_url": "https://doi.org/10.5281/zenodo.17761691",
+        "metadata": {
+          "title": "[FRAGMENT — part of larger work] QWAV Venture Prospectus: A Proposal for Partnership",
+          "doi": "10.5281/zenodo.17761691",
+          "publication_date": "2026-07-13",
+          "description": "---\n\n**SUPERSESSION NOTICE (2026-07-28):** This document has been superseded by the [QWAV Commercial Platform: Strategic Architecture Whitepaper](https://doi.org/10.5281/zenodo.21641108) (DOI: 10.5281/zenodo.21641108). The Strategic Architecture Whitepaper provides the current, authoritative statement of QWAV platform strategy, defining the formal boundary between QNFO (research collective) and QWAV (commercial platform), articulating the Joules-per-Solution (JPCUB) benchmark as the core commercial value proposition, and providing an 18-month roadmap for QWAV as an independent commercial entity. Readers seeking current QWAV strategy should consult the Whitepaper, not this document.",
+          "access_right": "open",
+          "creators": [
+            {
+              "name": "Quni-Gudzinas, Rowan Brad",
+              "affiliation": "QNFO Research Collective"
+            }
+          ],
+          "related_identifiers": [
+            {
+              "identifier": "10.5281/zenodo.21641108",
+              "relation": "isObsoletedBy",
+              "resource_type": "publication-other",
+              "scheme": "doi"
+            }
+          ],
+          "version": "1.1",
+          "resource_type": {
+            "title": "Other",
+            "type": "publication",
+            "subtype": "other"
+          },
+          "license": {
+            "id": "cc-by-4.0"
+          },
+          "communities": [
+            {
+              "id": "qwav"
+            }
+          ],
+          "relations": {
+            "version": [
+              {
+                "index": 1,
+                "is_last": true,
+                "parent": {
+                  "pid_type": "recid",
+                  "pid_value": "17207033"
+                }
+              }
+            ]
+          }
+        },
+        "title": "[FRAGMENT — part of larger work] QWAV Venture Prospectus: A Proposal for Partnership",
+        "links": {
+          "self": "https://zenodo.org/api/records/17761691",
+          "self_html": "https://zenodo.org/records/17761691",
+          "preview_html": "https://zenodo.org/records/17761691?preview=1",
+          "doi": "https://doi.org/10.5281/zenodo.17761691",
+          "self_doi": "https://doi.org/10.5281/zenodo.17761691",
+          "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.17761691",
+          "reserve_doi": "https://zenodo.org/api/records/17761691/draft/pids/doi",
+          "parent": "https://zenodo.org/api/records/17207033",
+          "parent_html": "https://zenodo.org/records/17207033",
+          "parent_doi": "https://doi.org/10.5281/zenodo.17207033",
+          "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.17207033",
+          "self_iiif_manifest": "https://zenodo.org/api/iiif/record:17761691/manifest",
+          "self_iiif_sequence": "https://zenodo.org/api/iiif/record:17761691/sequence/default",
+          "files": "https://zenodo.org/api/records/17761691/files",
+          "media_files": "https://zenodo.org/api/records/17761691/media-files",
+          "thumbnails": {
+            "10": "https://zenodo.org/api/iiif/record:17761691:QWAV%20PROSPECTUS.pdf/full/%5E10,/0/default.jpg",
+            "50": "https://zenodo.org/api/iiif/record:17761691:QWAV%20PROSPECTUS.pdf/full/%5E50,/0/default.jpg",
+            "100": "https://zenodo.org/api/iiif/record:17761691:QWAV%20PROSPECTUS.pdf/full/%5E100,/0/default.jpg",
+            "250": "https://zenodo.org/api/iiif/record:17761691:QWAV%20PROSPECTUS.pdf/full/%5E250,/0/default.jpg",
+            "750": "https://zenodo.org/api/iiif/record:17761691:QWAV%20PROSPECTUS.pdf/full/%5E750,/0/default.jpg",
+            "1200": "https://zenodo.org/api/iiif/record:17761691:QWAV%20PROSPECTUS.pdf/full/%5E1200,/0/default.jpg"
+          },
+          "archive": "https://zenodo.org/api/records/17761691/files-archive",
+          "archive_media": "https://zenodo.org/api/records/17761691/media-files-archive",
+          "latest": "https://zenodo.org/api/records/17761691/versions/latest",
+          "latest_html": "https://zenodo.org/records/17761691/latest",
+          "versions": "https://zenodo.org/api/records/17761691/versions",
+          "draft": "https://zenodo.org/api/records/17761691/draft",
+          "access_links": "https://zenodo.org/api/records/17761691/access/links",
+          "access_grants": "https://zenodo.org/api/records/17761691/access/grants",
+          "access_users": "https://zenodo.org/api/records/17761691/access/users",
+          "access_request": "https://zenodo.org/api/records/17761691/access/request",
+          "access": "https://zenodo.org/api/records/17761691/access",
+          "communities": "https://zenodo.org/api/records/17761691/communities",
+          "communities-suggestions": "https://zenodo.org/api/records/17761691/communities-suggestions",
+          "request_deletion": "https://zenodo.org/api/records/17761691/request-deletion",
+          "file_modification": "https://zenodo.org/api/records/17761691/file-modification",
+          "quota_increase": "https://zenodo.org/api/records/17761691/quota-increase",
+          "requests": "https://zenodo.org/api/records/17761691/requests"
+        },
+        "updated": "2026-07-28T09:40:18.682552+00:00",
+        "recid": "17761691",
+        "revision": 4,
+        "files": [
+          {
+            "id": "26ae2c46-a65e-48d2-9bbf-4c14f58dd67c",
+            "key": "1.1.md",
+            "size": 9103,
+            "checksum": "md5:ba791ae3bfd1e1682ff4ea78a337a202",
+            "links": {
+              "self": "https://zenodo.org/api/records/17761691/files/1.1.md/content"
+            }
+          },
+          {
+            "id": "c807f30a-7f8a-4217-bafa-d7beaa9f37a2",
+            "key": "QWAV PROSPECTUS.pdf",
+            "size": 105616,
+            "checksum": "md5:7f18be1e7d760e17cb45312c8e89000e",
+            "links": {
+              "self": "https://zenodo.org/api/records/17761691/files/QWAV%20PROSPECTUS.pdf/content"
+            }
+          }
+        ],
+        "swh": null,
+        "owners": [
+          {
+            "id": "1328013"
+          }
+        ],
+        "status": "published",
+        "stats": {
+          "downloads": 114,
+          "unique_downloads": 101,
+          "views": 46,
+          "unique_views": 39,
+          "version_downloads": 93,
+          "version_unique_downloads": 89,
+          "version_unique_views": 20,
+          "version_views": 23
+        },
+        "state": "done",
+        "submitted": true
+      },
+      {
+        "created": "2026-06-02T21:26:40.831082+00:00",
+        "modified": "2026-08-06T12:57:51.914927+00:00",
+        "id": 20517291,
+        "conceptrecid": "20517290",
+        "doi": "10.5281/zenodo.20517291",
+        "conceptdoi": "10.5281/zenodo.20517290",
+        "doi_url": "https://doi.org/10.5281/zenodo.20517291",
+        "metadata": {
+          "title": "The Quantum Cryptanalysis of 2026: Resource Estimates, Censorship, and the Race to Q-Day — with QWAV Thermodynamic Critique",
+          "doi": "10.5281/zenodo.20517291",
+          "publication_date": "2026-06-02",
+          "description": "[v2.0 — Full QWAV Thermodynamic Integration]\n\nAnalysis of March 2026 Google Quantum AI and Oratomic papers on Shor's algorithm resource estimates for secp256k1 elliptic curve cryptography, presented alongside QWAV's published thermodynamic critique of Shor scalability.\n\nCONTENTS:\n- Resource estimates: Google (≤1,200 logical qubits, ≤90M Toffoli gates; &lt;500K physical qubits superconducting) and Oratomic (10K physical qubits, neutral atoms)\n- ZK-proof censorship: First use in academic publishing; hidden optimizations independently rediscovered by Schrottenloher (arXiv:2606.02235) within two months\n- ecdsa.fail: Crowdsourced optimization challenge achieving 15.1% improvement over Google's classified circuit (135 submissions, 35 solvers)\n- Q-Day timeline: Justin Drake 50% by 2032 vs. QWAV \"never\" (thermodynamic impossibility)\n- QWAV THERMODYNAMIC CRITIQUE (new in v2.0): Full analysis of Landauer-limited QEC scaling, precision scaling problem, five false assumptions in Shor's algorithm, Feynman-Shor quantum bifurcation\n- Post-quantum migration: Ethereum Foundation's leanVM, 2029 target, Proximity Prize, Poseidon Initiative\n- UNRESOLVED DEBATE: Is Shor's algorithm physically viable at cryptographically relevant scales? Google/Oratomic: yes (engineering). QWAV: no (thermodynamic). No experimental resolution at scale exists.\n\nQWAV prior work integrated: Feynman-Shor Quantum Bifurcation (DOI: 10.5281/zenodo.17977869), Post-Quantum Synthesis (DOI: 10.5281/zenodo.17184229), SHORS IS BUSTED internal analysis.",
+          "access_right": "open",
+          "creators": [
+            {
+              "name": "Quni-Gudzinas, Rowan",
+              "affiliation": "QNFO/QWAV",
+              "orcid": "0009-0002-4317-5604"
+            }
+          ],
+          "keywords": [
+            "quantum cryptanalysis",
+            "Shor's algorithm",
+            "elliptic curve cryptography",
+            "secp256k1",
+            "blockchain security",
+            "post-quantum cryptography",
+            "ECDSA",
+            "Q-Day",
+            "thermodynamic constraints",
+            "Landauer principle",
+            "quantum error correction",
+            "Feynman-Shor bifurcation",
+            "fault-tolerant quantum computing",
+            "neutral atom qubits",
+            "zero-knowledge proof censorship",
+            "philosophy of physics",
+            "foundations of quantum mechanics",
+            "epistemology"
+          ],
+          "version": "2.0",
+          "resource_type": {
+            "title": "Working paper",
+            "type": "publication",
+            "subtype": "workingpaper"
+          },
+          "license": {
+            "id": "cc-by-4.0"
+          },
+          "relations": {
+            "version": [
+              {
+                "index": 0,
+                "is_last": true,
+                "parent": {
+                  "pid_type": "recid",
+                  "pid_value": "20517290"
+                }
+              }
+            ]
+          },
+          "notes": "v2.0 — Full integration of QWAV thermodynamic critique alongside Google/Oratomic resource estimates. Unresolved debate presented without adjudication. Prior versions: v1.1 (DOI: 10.5281/zenodo.20517264), v1.0 (DOI: 10.5281/zenodo.20517217)."
+        },
+        "title": "The Quantum Cryptanalysis of 2026: Resource Estimates, Censorship, and the Race to Q-Day — with QWAV Thermodynamic Critique",
+        "links": {
+          "self": "https://zenodo.org/api/records/20517291",
+          "self_html": "https://zenodo.org/records/20517291",
+          "preview_html": "https://zenodo.org/records/20517291?preview=1",
+          "doi": "https://doi.org/10.5281/zenodo.20517291",
+          "self_doi": "https://doi.org/10.5281/zenodo.20517291",
+          "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.20517291",
+          "reserve_doi": "https://zenodo.org/api/records/20517291/draft/pids/doi",
+          "parent": "https://zenodo.org/api/records/20517290",
+          "parent_html": "https://zenodo.org/records/20517290",
+          "parent_doi": "https://doi.org/10.5281/zenodo.20517290",
+          "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.20517290",
+          "self_iiif_manifest": "https://zenodo.org/api/iiif/record:20517291/manifest",
+          "self_iiif_sequence": "https://zenodo.org/api/iiif/record:20517291/sequence/default",
+          "files": "https://zenodo.org/api/records/20517291/files",
+          "media_files": "https://zenodo.org/api/records/20517291/media-files",
+          "thumbnails": {
+            "10": "https://zenodo.org/api/iiif/record:20517291:QUANTUM-CRYPTANALYSIS-2026-v2.0.pdf/full/%5E10,/0/default.jpg",
+            "50": "https://zenodo.org/api/iiif/record:20517291:QUANTUM-CRYPTANALYSIS-2026-v2.0.pdf/full/%5E50,/0/default.jpg",
+            "100": "https://zenodo.org/api/iiif/record:20517291:QUANTUM-CRYPTANALYSIS-2026-v2.0.pdf/full/%5E100,/0/default.jpg",
+            "250": "https://zenodo.org/api/iiif/record:20517291:QUANTUM-CRYPTANALYSIS-2026-v2.0.pdf/full/%5E250,/0/default.jpg",
+            "750": "https://zenodo.org/api/iiif/record:20517291:QUANTUM-CRYPTANALYSIS-2026-v2.0.pdf/full/%5E750,/0/default.jpg",
+            "1200": "https://zenodo.org/api/iiif/record:20517291:QUANTUM-CRYPTANALYSIS-2026-v2.0.pdf/full/%5E1200,/0/default.jpg"
+          },
+          "archive": "https://zenodo.org/api/records/20517291/files-archive",
+          "archive_media": "https://zenodo.org/api/records/20517291/media-files-archive",
+          "latest": "https://zenodo.org/api/records/20517291/versions/latest",
+          "latest_html": "https://zenodo.org/records/20517291/latest",
+          "versions": "https://zenodo.org/api/records/20517291/versions",
+          "draft": "https://zenodo.org/api/records/20517291/draft",
+          "access_links": "https://zenodo.org/api/records/20517291/access/links",
+          "access_grants": "https://zenodo.org/api/records/20517291/access/grants",
+          "access_users": "https://zenodo.org/api/records/20517291/access/users",
+          "access_request": "https://zenodo.org/api/records/20517291/access/request",
+          "access": "https://zenodo.org/api/records/20517291/access",
+          "communities": "https://zenodo.org/api/records/20517291/communities",
+          "communities-suggestions": "https://zenodo.org/api/records/20517291/communities-suggestions",
+          "request_deletion": "https://zenodo.org/api/records/20517291/request-deletion",
+          "file_modification": "https://zenodo.org/api/records/20517291/file-modification",
+          "quota_increase": "https://zenodo.org/api/records/20517291/quota-increase",
+          "requests": "https://zenodo.org/api/records/20517291/requests"
+        },
+        "updated": "2026-08-06T12:57:51.914927+00:00",
+        "recid": "20517291",
+        "revision": 4,
+        "files": [
+          {
+            "id": "bcdf4489-2a9c-4585-a3da-2b040ce36a70",
+            "key": "QUANTUM-CRYPTANALYSIS-2026-v2.0.pdf",
+            "size": 60081,
+            "checksum": "md5:9570ac8f3c9c7c0e1b43965442cac69b",
+            "links": {
+              "self": "https://zenodo.org/api/records/20517291/files/QUANTUM-CRYPTANALYSIS-2026-v2.0.pdf/content"
+            }
+          }
+        ],
+        "swh": null,
+        "owners": [
+          {
+            "id": "1328013"
+          }
+        ],
+        "status": "published",
+        "stats": {
+          "downloads": 4,
+          "unique_downloads": 3,
+          "views": 21,
+          "unique_views": 19,
+          "version_downloads": 4,
+          "version_unique_downloads": 3,
+          "version_unique_views": 19,
+          "version_views": 21
+        },
+        "state": "done",
+        "submitted": true
+      },
+      {
+        "created": "2026-07-31T03:43:15.618792+00:00",
+        "modified": "2026-08-06T12:27:16.219358+00:00",
+        "id": 21713222,
+        "conceptrecid": "21651505",
+        "doi": "10.5281/zenodo.21713222",
+        "conceptdoi": "10.5281/zenodo.21651505",
+        "doi_url": "https://doi.org/10.5281/zenodo.21713222",
+        "metadata": {
+          "title": "QWAV Commercial Platform: Strategic Architecture Whitepaper v2.3",
+          "doi": "10.5281/zenodo.21713222",
+          "publication_date": "2026-07-31",
+          "description": "QWAV strategic architecture whitepaper. v2.3 (2026-07-31): added cross-reference to the Computing After Silicon forecast (DOI 10.5281/zenodo.21713202), establishing the external falsification timeline against which QWAV technology milestones can be tracked. The forecast independently identifies quantum error correction as the binding constraint on the post-silicon trajectory.",
+          "access_right": "open",
+          "creators": [
+            {
+              "name": "Quni-Gudzinas, Rowan Brad",
+              "affiliation": null,
+              "orcid": "0009-0002-4317-5604"
+            }
+          ],
+          "keywords": [
+            "epistemology",
+            "philosophy of science",
+            "consilience"
+          ],
+          "related_identifiers": [
+            {
+              "identifier": "10.5281/zenodo.21651506",
+              "relation": "isNewVersionOf",
+              "scheme": "doi"
+            },
+            {
+              "identifier": "10.5281/zenodo.21713202",
+              "relation": "cites",
+              "scheme": "doi"
+            }
+          ],
+          "version": "2.3",
+          "resource_type": {
+            "title": "Report",
+            "type": "publication",
+            "subtype": "report"
+          },
+          "license": {
+            "id": "cc-by-4.0"
+          },
+          "relations": {
+            "version": [
+              {
+                "index": 1,
+                "is_last": true,
+                "parent": {
+                  "pid_type": "recid",
+                  "pid_value": "21651505"
+                }
+              }
+            ]
+          }
+        },
+        "title": "QWAV Commercial Platform: Strategic Architecture Whitepaper v2.3",
+        "links": {
+          "self": "https://zenodo.org/api/records/21713222",
+          "self_html": "https://zenodo.org/records/21713222",
+          "preview_html": "https://zenodo.org/records/21713222?preview=1",
+          "doi": "https://doi.org/10.5281/zenodo.21713222",
+          "self_doi": "https://doi.org/10.5281/zenodo.21713222",
+          "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.21713222",
+          "reserve_doi": "https://zenodo.org/api/records/21713222/draft/pids/doi",
+          "parent": "https://zenodo.org/api/records/21651505",
+          "parent_html": "https://zenodo.org/records/21651505",
+          "parent_doi": "https://doi.org/10.5281/zenodo.21651505",
+          "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.21651505",
+          "self_iiif_manifest": "https://zenodo.org/api/iiif/record:21713222/manifest",
+          "self_iiif_sequence": "https://zenodo.org/api/iiif/record:21713222/sequence/default",
+          "files": "https://zenodo.org/api/records/21713222/files",
+          "media_files": "https://zenodo.org/api/records/21713222/media-files",
+          "archive": "https://zenodo.org/api/records/21713222/files-archive",
+          "archive_media": "https://zenodo.org/api/records/21713222/media-files-archive",
+          "latest": "https://zenodo.org/api/records/21713222/versions/latest",
+          "latest_html": "https://zenodo.org/records/21713222/latest",
+          "versions": "https://zenodo.org/api/records/21713222/versions",
+          "draft": "https://zenodo.org/api/records/21713222/draft",
+          "access_links": "https://zenodo.org/api/records/21713222/access/links",
+          "access_grants": "https://zenodo.org/api/records/21713222/access/grants",
+          "access_users": "https://zenodo.org/api/records/21713222/access/users",
+          "access_request": "https://zenodo.org/api/records/21713222/access/request",
+          "access": "https://zenodo.org/api/records/21713222/access",
+          "communities": "https://zenodo.org/api/records/21713222/communities",
+          "communities-suggestions": "https://zenodo.org/api/records/21713222/communities-suggestions",
+          "request_deletion": "https://zenodo.org/api/records/21713222/request-deletion",
+          "file_modification": "https://zenodo.org/api/records/21713222/file-modification",
+          "quota_increase": "https://zenodo.org/api/records/21713222/quota-increase",
+          "requests": "https://zenodo.org/api/records/21713222/requests"
+        },
+        "updated": "2026-08-06T12:27:16.219358+00:00",
+        "recid": "21713222",
+        "revision": 4,
+        "files": [
+          {
+            "id": "a050616f-a910-4233-a41a-e7663152927e",
+            "key": "EXTERNAL-STRATEGY-v2.3.md",
+            "size": 43185,
+            "checksum": "md5:77151bb86942574f65746900245863be",
+            "links": {
+              "self": "https://zenodo.org/api/records/21713222/files/EXTERNAL-STRATEGY-v2.3.md/content"
+            }
+          }
+        ],
+        "swh": null,
+        "owners": [
+          {
+            "id": "1328013"
+          }
+        ],
+        "status": "published",
+        "stats": {
+          "downloads": 1,
+          "unique_downloads": 1,
+          "views": 7,
+          "unique_views": 6,
+          "version_downloads": 0,
+          "version_unique_downloads": 0,
+          "version_unique_views": 4,
+          "version_views": 4
+        },
+        "state": "done",
+        "submitted": true
+      },
+      {
+        "created": "2026-07-18T06:26:42.644031+00:00",
+        "modified": "2026-08-06T12:33:34.135421+00:00",
+        "id": 21424982,
+        "conceptrecid": "21424981",
+        "doi": "10.5281/zenodo.21424982",
+        "conceptdoi": "10.5281/zenodo.21424981",
+        "doi_url": "https://doi.org/10.5281/zenodo.21424982",
+        "metadata": {
+          "title": "QNFO Unified License Agreement (QNFO-ULA) v2.0",
+          "doi": "10.5281/zenodo.21424982",
+          "publication_date": "2026-05-29",
+          "description": "The QNFO Unified License Agreement v2.0 — the governing license for all Content across the QNFO and QWAV ecosystems. Effective May 29, 2026. Supersedes QNFO Content License Agreement v1.1 and all prior licenses. SPDX: LicenseRef-QNFO-ULA-2.0. Licensor: Rowan Brad Quni-Gudzinas.",
+          "access_right": "open",
+          "creators": [
+            {
+              "name": "Rowan Brad Quni-Gudzinas",
+              "affiliation": null,
+              "orcid": "0009-0002-4317-5604"
+            }
+          ],
+          "keywords": [
+            "QNFO-ULA",
+            "license",
+            "QNFO",
+            "QWAV",
+            "Unified License Agreement",
+            "epistemology",
+            "philosophy of science",
+            "consilience"
+          ],
+          "version": "2.0",
+          "resource_type": {
+            "title": "Other",
+            "type": "other"
+          },
+          "license": {
+            "id": "cc-by-nc-sa-4.0"
+          },
+          "communities": [
+            {
+              "id": "qnfo"
+            }
+          ],
+          "relations": {
+            "version": [
+              {
+                "index": 0,
+                "is_last": true,
+                "parent": {
+                  "pid_type": "recid",
+                  "pid_value": "21424981"
+                }
+              }
+            ]
+          },
+          "notes": "Live: https://legal.qnfo.org | GitHub: https://github.com/QNFO/license | SPDX: LicenseRef-QNFO-ULA-2.0"
+        },
+        "title": "QNFO Unified License Agreement (QNFO-ULA) v2.0",
+        "links": {
+          "self": "https://zenodo.org/api/records/21424982",
+          "self_html": "https://zenodo.org/records/21424982",
+          "preview_html": "https://zenodo.org/records/21424982?preview=1",
+          "doi": "https://doi.org/10.5281/zenodo.21424982",
+          "self_doi": "https://doi.org/10.5281/zenodo.21424982",
+          "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.21424982",
+          "reserve_doi": "https://zenodo.org/api/records/21424982/draft/pids/doi",
+          "parent": "https://zenodo.org/api/records/21424981",
+          "parent_html": "https://zenodo.org/records/21424981",
+          "parent_doi": "https://doi.org/10.5281/zenodo.21424981",
+          "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.21424981",
+          "self_iiif_manifest": "https://zenodo.org/api/iiif/record:21424982/manifest",
+          "self_iiif_sequence": "https://zenodo.org/api/iiif/record:21424982/sequence/default",
+          "files": "https://zenodo.org/api/records/21424982/files",
+          "media_files": "https://zenodo.org/api/records/21424982/media-files",
+          "archive": "https://zenodo.org/api/records/21424982/files-archive",
+          "archive_media": "https://zenodo.org/api/records/21424982/media-files-archive",
+          "latest": "https://zenodo.org/api/records/21424982/versions/latest",
+          "latest_html": "https://zenodo.org/records/21424982/latest",
+          "versions": "https://zenodo.org/api/records/21424982/versions",
+          "draft": "https://zenodo.org/api/records/21424982/draft",
+          "access_links": "https://zenodo.org/api/records/21424982/access/links",
+          "access_grants": "https://zenodo.org/api/records/21424982/access/grants",
+          "access_users": "https://zenodo.org/api/records/21424982/access/users",
+          "access_request": "https://zenodo.org/api/records/21424982/access/request",
+          "access": "https://zenodo.org/api/records/21424982/access",
+          "communities": "https://zenodo.org/api/records/21424982/communities",
+          "communities-suggestions": "https://zenodo.org/api/records/21424982/communities-suggestions",
+          "request_deletion": "https://zenodo.org/api/records/21424982/request-deletion",
+          "file_modification": "https://zenodo.org/api/records/21424982/file-modification",
+          "quota_increase": "https://zenodo.org/api/records/21424982/quota-increase",
+          "requests": "https://zenodo.org/api/records/21424982/requests"
+        },
+        "updated": "2026-08-06T12:33:34.135421+00:00",
+        "recid": "21424982",
+        "revision": 5,
+        "files": [
+          {
+            "id": "cfeb08c2-ec24-47b0-9d5c-40accf66d869",
+            "key": "QNFO-ULA-v2.0.txt",
+            "size": 87554,
+            "checksum": "md5:f2faee18c484766996447ad6a34ec818",
+            "links": {
+              "self": "https://zenodo.org/api/records/21424982/files/QNFO-ULA-v2.0.txt/content"
+            }
+          }
+        ],
+        "swh": null,
+        "owners": [
+          {
+            "id": "1328013"
+          }
+        ],
+        "status": "published",
+        "stats": {
+          "downloads": 0,
+          "unique_downloads": 0,
+          "views": 1,
+          "unique_views": 1,
+          "version_downloads": 0,
+          "version_unique_downloads": 0,
+          "version_unique_views": 1,
+          "version_views": 1
+        },
+        "state": "done",
+        "submitted": true
+      },
+      {
+        "created": "2026-06-02T21:23:07.850535+00:00",
+        "modified": "2026-08-06T12:57:54.570903+00:00",
+        "id": 20517264,
+        "conceptrecid": "20517216",
+        "doi": "10.5281/zenodo.20517264",
+        "conceptdoi": "10.5281/zenodo.20517216",
+        "doi_url": "https://doi.org/10.5281/zenodo.20517264",
+        "metadata": {
+          "title": "The Quantum Cryptanalysis of 2026: Resource Estimates, Censorship, and the Race to Q-Day",
+          "doi": "10.5281/zenodo.20517264",
+          "publication_date": "2026-06-02",
+          "description": "[v1.1 — Due Diligence corrected] Analysis of March 2026 Google Quantum AI and Oratomic papers on Shor's algorithm resource estimates for secp256k1 elliptic curve cryptography. Covers ZK-proof censorship, Schrottenloher's independent rediscovery (arXiv:2606.02235), the ecdsa.fail crowdsourced optimization challenge (15.1% improvement over Google), Justin Drake's Q-Day estimates (50% by 2032), and Ethereum Foundation's leanVM post-quantum migration plan. v1.1 CORRECTION: Prior QWAV research on the thermodynamic non-viability of Shor-scale quantum computing (DOIs: 10.5281/zenodo.17977869, 10.5281/zenodo.17184229) is now acknowledged and discussed. The initial due diligence missed archived internal work located outside the Discovery Index. The QWAV thermodynamic critique — arguing that Landauer's principle, scaling phase transitions, and qubit leakage errors make fault-tolerant Shor physically impossible — is presented as a counterpoint to the Google/Oratomic resource estimates.",
+          "access_right": "open",
+          "creators": [
+            {
+              "name": "Quni-Gudzinas, Rowan",
+              "affiliation": "QNFO/QWAV",
+              "orcid": "0009-0002-4317-5604"
+            }
+          ],
+          "keywords": [
+            "quantum cryptanalysis",
+            "Shor's algorithm",
+            "elliptic curve cryptography",
+            "secp256k1",
+            "blockchain security",
+            "post-quantum cryptography",
+            "ECDSA",
+            "Q-Day",
+            "thermodynamic constraints",
+            "Landauer principle",
+            "philosophy of physics",
+            "foundations of quantum mechanics",
+            "epistemology"
+          ],
+          "version": "1.1",
+          "resource_type": {
+            "title": "Working paper",
+            "type": "publication",
+            "subtype": "workingpaper"
+          },
+          "license": {
+            "id": "cc-by-4.0"
+          },
+          "relations": {
+            "version": [
+              {
+                "index": 1,
+                "is_last": true,
+                "parent": {
+                  "pid_type": "recid",
+                  "pid_value": "20517216"
+                }
+              }
+            ]
+          },
+          "notes": "v1.1 — Corrected due diligence to acknowledge existing QWAV prior work (thermodynamic critique of Shor scalability). Research paper produced under QNFO/QWAV authority."
+        },
+        "title": "The Quantum Cryptanalysis of 2026: Resource Estimates, Censorship, and the Race to Q-Day",
+        "links": {
+          "self": "https://zenodo.org/api/records/20517264",
+          "self_html": "https://zenodo.org/records/20517264",
+          "preview_html": "https://zenodo.org/records/20517264?preview=1",
+          "doi": "https://doi.org/10.5281/zenodo.20517264",
+          "self_doi": "https://doi.org/10.5281/zenodo.20517264",
+          "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.20517264",
+          "reserve_doi": "https://zenodo.org/api/records/20517264/draft/pids/doi",
+          "parent": "https://zenodo.org/api/records/20517216",
+          "parent_html": "https://zenodo.org/records/20517216",
+          "parent_doi": "https://doi.org/10.5281/zenodo.20517216",
+          "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.20517216",
+          "self_iiif_manifest": "https://zenodo.org/api/iiif/record:20517264/manifest",
+          "self_iiif_sequence": "https://zenodo.org/api/iiif/record:20517264/sequence/default",
+          "files": "https://zenodo.org/api/records/20517264/files",
+          "media_files": "https://zenodo.org/api/records/20517264/media-files",
+          "thumbnails": {
+            "10": "https://zenodo.org/api/iiif/record:20517264:QUANTUM-CRYPTANALYSIS-2026-v1.1.pdf/full/%5E10,/0/default.jpg",
+            "50": "https://zenodo.org/api/iiif/record:20517264:QUANTUM-CRYPTANALYSIS-2026-v1.1.pdf/full/%5E50,/0/default.jpg",
+            "100": "https://zenodo.org/api/iiif/record:20517264:QUANTUM-CRYPTANALYSIS-2026-v1.1.pdf/full/%5E100,/0/default.jpg",
+            "250": "https://zenodo.org/api/iiif/record:20517264:QUANTUM-CRYPTANALYSIS-2026-v1.1.pdf/full/%5E250,/0/default.jpg",
+            "750": "https://zenodo.org/api/iiif/record:20517264:QUANTUM-CRYPTANALYSIS-2026-v1.1.pdf/full/%5E750,/0/default.jpg",
+            "1200": "https://zenodo.org/api/iiif/record:20517264:QUANTUM-CRYPTANALYSIS-2026-v1.1.pdf/full/%5E1200,/0/default.jpg"
+          },
+          "archive": "https://zenodo.org/api/records/20517264/files-archive",
+          "archive_media": "https://zenodo.org/api/records/20517264/media-files-archive",
+          "latest": "https://zenodo.org/api/records/20517264/versions/latest",
+          "latest_html": "https://zenodo.org/records/20517264/latest",
+          "versions": "https://zenodo.org/api/records/20517264/versions",
+          "draft": "https://zenodo.org/api/records/20517264/draft",
+          "access_links": "https://zenodo.org/api/records/20517264/access/links",
+          "access_grants": "https://zenodo.org/api/records/20517264/access/grants",
+          "access_users": "https://zenodo.org/api/records/20517264/access/users",
+          "access_request": "https://zenodo.org/api/records/20517264/access/request",
+          "access": "https://zenodo.org/api/records/20517264/access",
+          "communities": "https://zenodo.org/api/records/20517264/communities",
+          "communities-suggestions": "https://zenodo.org/api/records/20517264/communities-suggestions",
+          "request_deletion": "https://zenodo.org/api/records/20517264/request-deletion",
+          "file_modification": "https://zenodo.org/api/records/20517264/file-modification",
+          "quota_increase": "https://zenodo.org/api/records/20517264/quota-increase",
+          "requests": "https://zenodo.org/api/records/20517264/requests"
+        },
+        "updated": "2026-08-06T12:57:54.570903+00:00",
+        "recid": "20517264",
+        "revision": 4,
+        "files": [
+          {
+            "id": "34bd5615-d236-480a-8db2-797f42e12fc8",
+            "key": "QUANTUM-CRYPTANALYSIS-2026-v1.1.pdf",
+            "size": 44737,
+            "checksum": "md5:bed8a11a1587cde0674a3c494938a0ef",
+            "links": {
+              "self": "https://zenodo.org/api/records/20517264/files/QUANTUM-CRYPTANALYSIS-2026-v1.1.pdf/content"
+            }
+          },
+          {
+            "id": "cba2ac28-ca6f-49be-969e-d1b45d701d61",
+            "key": "QUANTUM-CRYPTANALYSIS-2026-v1.0.pdf",
+            "size": 43029,
+            "checksum": "md5:1cdda607031f66dd3e190169152c5063",
+            "links": {
+              "self": "https://zenodo.org/api/records/20517264/files/QUANTUM-CRYPTANALYSIS-2026-v1.0.pdf/content"
+            }
+          }
+        ],
+        "swh": null,
+        "owners": [
+          {
+            "id": "1328013"
+          }
+        ],
+        "status": "published",
+        "stats": {
+          "downloads": 5,
+          "unique_downloads": 5,
+          "views": 37,
+          "unique_views": 35,
+          "version_downloads": 4,
+          "version_unique_downloads": 4,
+          "version_unique_views": 24,
+          "version_views": 26
+        },
+        "state": "done",
+        "submitted": true
+      },
+      {
+        "created": "2026-05-26T07:43:30.603010+00:00",
+        "modified": "2026-08-06T12:58:21.673539+00:00",
+        "id": 20391555,
+        "conceptrecid": "20391554",
+        "doi": "10.5281/zenodo.20391555",
+        "conceptdoi": "10.5281/zenodo.20391554",
+        "doi_url": "https://doi.org/10.5281/zenodo.20391555",
+        "metadata": {
+          "title": "The Revolutionary Beginner's Guide to Quantum Computing: Why We Don't Have Quantum Computers Yet — and What the Geometric Alternative Offers",
+          "doi": "10.5281/zenodo.20391555",
+          "publication_date": "2026-05-26",
+          "description": "A 20-chapter beginner's guide to quantum computing that starts with an honest question — why don't we have quantum computers yet? The guide teaches the standard curriculum accurately, explains why the standard approach faces a thermodynamic wall (a 20,000-fold cooling gap that is Carnot-limited), and introduces the ultrametric alternative: passive geometric fault tolerance on Bruhat-Tits trees, with DOI-registered evidence, computationally validated error thresholds 75 times higher than surface codes, and three falsifiable predictions. 20,000 words. Two rounds of blind reader testing.",
+          "access_right": "open",
+          "creators": [
+            {
+              "name": "Quni-Gudzinas, Rowan Brad",
+              "affiliation": null,
+              "orcid": "0009-0002-4317-5604"
+            }
+          ],
+          "keywords": [
+            "quantum computing",
+            "quantum error correction",
+            "ultrametric geometry",
+            "Bruhat-Tits tree",
+            "thermodynamic wall",
+            "passive fault tolerance",
+            "surface code",
+            "post-quantum cryptography",
+            "philosophy of physics",
+            "foundations of quantum mechanics",
+            "epistemology"
+          ],
+          "version": "v1.1",
+          "language": "eng",
+          "resource_type": {
+            "title": "Other",
+            "type": "publication",
+            "subtype": "other"
+          },
+          "license": {
+            "id": "cc-by-4.0"
+          },
+          "relations": {
+            "version": [
+              {
+                "index": 0,
+                "is_last": true,
+                "parent": {
+                  "pid_type": "recid",
+                  "pid_value": "20391554"
+                }
+              }
+            ]
+          },
+          "notes": "Part of the QWAV research program. Open-access. Confidence-tagged throughout. Two rounds of blind reader testing with all issues resolved."
+        },
+        "title": "The Revolutionary Beginner's Guide to Quantum Computing: Why We Don't Have Quantum Computers Yet — and What the Geometric Alternative Offers",
+        "links": {
+          "self": "https://zenodo.org/api/records/20391555",
+          "self_html": "https://zenodo.org/records/20391555",
+          "preview_html": "https://zenodo.org/records/20391555?preview=1",
+          "doi": "https://doi.org/10.5281/zenodo.20391555",
+          "self_doi": "https://doi.org/10.5281/zenodo.20391555",
+          "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.20391555",
+          "reserve_doi": "https://zenodo.org/api/records/20391555/draft/pids/doi",
+          "parent": "https://zenodo.org/api/records/20391554",
+          "parent_html": "https://zenodo.org/records/20391554",
+          "parent_doi": "https://doi.org/10.5281/zenodo.20391554",
+          "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.20391554",
+          "self_iiif_manifest": "https://zenodo.org/api/iiif/record:20391555/manifest",
+          "self_iiif_sequence": "https://zenodo.org/api/iiif/record:20391555/sequence/default",
+          "files": "https://zenodo.org/api/records/20391555/files",
+          "media_files": "https://zenodo.org/api/records/20391555/media-files",
+          "archive": "https://zenodo.org/api/records/20391555/files-archive",
+          "archive_media": "https://zenodo.org/api/records/20391555/media-files-archive",
+          "latest": "https://zenodo.org/api/records/20391555/versions/latest",
+          "latest_html": "https://zenodo.org/records/20391555/latest",
+          "versions": "https://zenodo.org/api/records/20391555/versions",
+          "draft": "https://zenodo.org/api/records/20391555/draft",
+          "access_links": "https://zenodo.org/api/records/20391555/access/links",
+          "access_grants": "https://zenodo.org/api/records/20391555/access/grants",
+          "access_users": "https://zenodo.org/api/records/20391555/access/users",
+          "access_request": "https://zenodo.org/api/records/20391555/access/request",
+          "access": "https://zenodo.org/api/records/20391555/access",
+          "communities": "https://zenodo.org/api/records/20391555/communities",
+          "communities-suggestions": "https://zenodo.org/api/records/20391555/communities-suggestions",
+          "request_deletion": "https://zenodo.org/api/records/20391555/request-deletion",
+          "file_modification": "https://zenodo.org/api/records/20391555/file-modification",
+          "quota_increase": "https://zenodo.org/api/records/20391555/quota-increase",
+          "requests": "https://zenodo.org/api/records/20391555/requests"
+        },
+        "updated": "2026-08-06T12:58:21.673539+00:00",
+        "recid": "20391555",
+        "revision": 4,
+        "files": [
+          {
+            "id": "9c772be8-b6c7-49a9-8c7a-39296b234637",
+            "key": "The-Revolutionary-Beginners-Guide-to-Quantum-Computing.md",
+            "size": 136288,
+            "checksum": "md5:6c187885c3b598785e7743442aead97b",
+            "links": {
+              "self": "https://zenodo.org/api/records/20391555/files/The-Revolutionary-Beginners-Guide-to-Quantum-Computing.md/content"
+            }
+          }
+        ],
+        "swh": null,
+        "owners": [
+          {
+            "id": "1328013"
+          }
+        ],
+        "status": "published",
+        "stats": {
+          "downloads": 3,
+          "unique_downloads": 3,
+          "views": 9,
+          "unique_views": 9,
+          "version_downloads": 3,
+          "version_unique_downloads": 3,
+          "version_unique_views": 9,
+          "version_views": 9
+        },
+        "state": "done",
+        "submitted": true
+      },
+      {
+        "created": "2026-05-31T22:30:53.268995+00:00",
+        "modified": "2026-08-06T12:58:03.166283+00:00",
+        "id": 20480659,
+        "conceptrecid": "20480658",
+        "doi": "10.5281/zenodo.20480659",
+        "conceptdoi": "10.5281/zenodo.20480658",
+        "doi_url": "https://doi.org/10.5281/zenodo.20480659",
+        "metadata": {
+          "title": "Why Astrology Won't Die: Retrospective Prophecy, Cognitive Persistence, and the Institutionalization of Pseudoscience",
+          "doi": "10.5281/zenodo.20480659",
+          "publication_date": "2026-06-01",
+          "description": "Astrology has been empirically tested across decades of controlled studies. Meta-analyses of over 40 experiments involving nearly 500 astrologers yield a mean effect size of d = 0.101. Shawn Carlson's landmark double-blind experiment published in Nature (1985) found that professional astrologers could not match natal charts to personality profiles above chance levels. Yet belief in astrology persists at high rates. This paper examines three clusters of explanation: cognitive mechanisms including the Barnum/Forer effect, institutional legitimization particularly the Indian UGC funding case, and retrospective prophecy whereby predictive failures are continually repackaged as confirmations through post-hoc reinterpretation.",
+          "access_right": "open",
+          "creators": [
+            {
+              "name": "QWAV Research",
+              "affiliation": null
+            }
+          ],
+          "keywords": [
+            "astrology",
+            "pseudoscience",
+            "retrospective prophecy",
+            "cognitive bias",
+            "institutional capture",
+            "Meera Nanda",
+            "epistemology",
+            "philosophy of science",
+            "consilience"
+          ],
+          "resource_type": {
+            "title": "Other",
+            "type": "publication",
+            "subtype": "other"
+          },
+          "license": {
+            "id": "cc-by-4.0"
+          },
+          "relations": {
+            "version": [
+              {
+                "index": 0,
+                "is_last": true,
+                "parent": {
+                  "pid_type": "recid",
+                  "pid_value": "20480658"
+                }
+              }
+            ]
+          }
+        },
+        "title": "Why Astrology Won't Die: Retrospective Prophecy, Cognitive Persistence, and the Institutionalization of Pseudoscience",
+        "links": {
+          "self": "https://zenodo.org/api/records/20480659",
+          "self_html": "https://zenodo.org/records/20480659",
+          "preview_html": "https://zenodo.org/records/20480659?preview=1",
+          "doi": "https://doi.org/10.5281/zenodo.20480659",
+          "self_doi": "https://doi.org/10.5281/zenodo.20480659",
+          "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.20480659",
+          "reserve_doi": "https://zenodo.org/api/records/20480659/draft/pids/doi",
+          "parent": "https://zenodo.org/api/records/20480658",
+          "parent_html": "https://zenodo.org/records/20480658",
+          "parent_doi": "https://doi.org/10.5281/zenodo.20480658",
+          "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.20480658",
+          "self_iiif_manifest": "https://zenodo.org/api/iiif/record:20480659/manifest",
+          "self_iiif_sequence": "https://zenodo.org/api/iiif/record:20480659/sequence/default",
+          "files": "https://zenodo.org/api/records/20480659/files",
+          "media_files": "https://zenodo.org/api/records/20480659/media-files",
+          "archive": "https://zenodo.org/api/records/20480659/files-archive",
+          "archive_media": "https://zenodo.org/api/records/20480659/media-files-archive",
+          "latest": "https://zenodo.org/api/records/20480659/versions/latest",
+          "latest_html": "https://zenodo.org/records/20480659/latest",
+          "versions": "https://zenodo.org/api/records/20480659/versions",
+          "draft": "https://zenodo.org/api/records/20480659/draft",
+          "access_links": "https://zenodo.org/api/records/20480659/access/links",
+          "access_grants": "https://zenodo.org/api/records/20480659/access/grants",
+          "access_users": "https://zenodo.org/api/records/20480659/access/users",
+          "access_request": "https://zenodo.org/api/records/20480659/access/request",
+          "access": "https://zenodo.org/api/records/20480659/access",
+          "communities": "https://zenodo.org/api/records/20480659/communities",
+          "communities-suggestions": "https://zenodo.org/api/records/20480659/communities-suggestions",
+          "request_deletion": "https://zenodo.org/api/records/20480659/request-deletion",
+          "file_modification": "https://zenodo.org/api/records/20480659/file-modification",
+          "quota_increase": "https://zenodo.org/api/records/20480659/quota-increase",
+          "requests": "https://zenodo.org/api/records/20480659/requests"
+        },
+        "updated": "2026-08-06T12:58:03.166283+00:00",
+        "recid": "20480659",
+        "revision": 4,
+        "files": [
+          {
+            "id": "9dff5f1e-f285-4157-924a-98c5c22adbf7",
+            "key": "0.3-draft.md",
+            "size": 24345,
+            "checksum": "md5:0aedc9b6862fd5c5be8b4463e6efd610",
+            "links": {
+              "self": "https://zenodo.org/api/records/20480659/files/0.3-draft.md/content"
+            }
+          }
+        ],
+        "swh": null,
+        "owners": [
+          {
+            "id": "1328013"
+          }
+        ],
+        "status": "published",
+        "stats": {
+          "downloads": 2,
+          "unique_downloads": 2,
+          "views": 10,
+          "unique_views": 7,
+          "version_downloads": 2,
+          "version_unique_downloads": 2,
+          "version_unique_views": 7,
+          "version_views": 10
+        },
+        "state": "done",
+        "submitted": true
+      },
+      {
+        "created": "2025-12-18T17:51:49.297205+00:00",
+        "modified": "2025-12-18T17:51:54.506498+00:00",
+        "id": 17980312,
+        "conceptrecid": "17938113",
+        "doi": "10.5281/zenodo.17980312",
+        "conceptdoi": "10.5281/zenodo.17938113",
+        "doi_url": "https://doi.org/10.5281/zenodo.17980312",
+        "metadata": {
+          "title": "Thermodynamic Constraints and Architectural Inversions in Scalable Quantum Information Systems",
+          "doi": "10.5281/zenodo.17980312",
+          "publication_date": "2025-12-18",
+          "description": "<p>The central tension in quantum computing lies between the exponential scaling of quantum information density and the polynomial limits of cryogenic heat extraction. This thermodynamic bottleneck mandates a paradigm shift from maximizing coherence at millikelvin temperatures to optimizing system-level efficiency through an architectural inversion, where control and readout systems are offloaded to higher-temperature stages. This work validates the physical viability of this approach through a detailed numerical analysis of a quantum unit cell. Grounding the simulation in a realistic noise model and a measurable engineering parameter&mdash;the Two-Level System loss tangent&mdash;we demonstrate that the systematic improvement of dielectric material quality is the key enabling factor for robust, high-fidelity quantum operations at 4 Kelvin. Our results show that by transitioning from standard amorphous dielectrics to state-of-the-art crystalline materials, the decoherence-limited single-qubit gate fidelity at 4 Kelvin can exceed 99.96%, becoming nearly indistinguishable from the performance at 10 millikelvin. This provides a quantitative, materials-driven roadmap for overcoming the thermodynamic constraints on scalable quantum information systems.</p>",
+          "access_right": "open",
+          "creators": [
+            {
+              "name": "Quni-Gudzinas, Rowan Brad",
+              "affiliation": null,
+              "orcid": "0009-0002-4317-5604"
+            }
+          ],
+          "related_identifiers": [
+            {
+              "identifier": "10.5281/zenodo.17937531",
+              "relation": "isSupplementedBy",
+              "resource_type": "publication-preprint",
+              "scheme": "doi"
+            }
+          ],
+          "version": "2.0",
+          "resource_type": {
+            "title": "Technical note",
+            "type": "publication",
+            "subtype": "technicalnote"
+          },
+          "license": {
+            "id": "cc-by-4.0"
+          },
+          "communities": [
+            {
+              "id": "qwav"
+            }
+          ],
+          "relations": {
+            "version": [
+              {
+                "index": 1,
+                "is_last": true,
+                "parent": {
+                  "pid_type": "recid",
+                  "pid_value": "17938113"
+                }
+              }
+            ]
+          }
+        },
+        "title": "Thermodynamic Constraints and Architectural Inversions in Scalable Quantum Information Systems",
+        "links": {
+          "self": "https://zenodo.org/api/records/17980312",
+          "self_html": "https://zenodo.org/records/17980312",
+          "preview_html": "https://zenodo.org/records/17980312?preview=1",
+          "doi": "https://doi.org/10.5281/zenodo.17980312",
+          "self_doi": "https://doi.org/10.5281/zenodo.17980312",
+          "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.17980312",
+          "reserve_doi": "https://zenodo.org/api/records/17980312/draft/pids/doi",
+          "parent": "https://zenodo.org/api/records/17938113",
+          "parent_html": "https://zenodo.org/records/17938113",
+          "parent_doi": "https://doi.org/10.5281/zenodo.17938113",
+          "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.17938113",
+          "self_iiif_manifest": "https://zenodo.org/api/iiif/record:17980312/manifest",
+          "self_iiif_sequence": "https://zenodo.org/api/iiif/record:17980312/sequence/default",
+          "files": "https://zenodo.org/api/records/17980312/files",
+          "media_files": "https://zenodo.org/api/records/17980312/media-files",
+          "thumbnails": {
+            "10": "https://zenodo.org/api/iiif/record:17980312:Thermodynamic%20Constraints%20and%20Architectural%20Inversions%20in%20Scalable%20Quantum%20Information%20Systems.pdf/full/%5E10,/0/default.jpg",
+            "50": "https://zenodo.org/api/iiif/record:17980312:Thermodynamic%20Constraints%20and%20Architectural%20Inversions%20in%20Scalable%20Quantum%20Information%20Systems.pdf/full/%5E50,/0/default.jpg",
+            "100": "https://zenodo.org/api/iiif/record:17980312:Thermodynamic%20Constraints%20and%20Architectural%20Inversions%20in%20Scalable%20Quantum%20Information%20Systems.pdf/full/%5E100,/0/default.jpg",
+            "250": "https://zenodo.org/api/iiif/record:17980312:Thermodynamic%20Constraints%20and%20Architectural%20Inversions%20in%20Scalable%20Quantum%20Information%20Systems.pdf/full/%5E250,/0/default.jpg",
+            "750": "https://zenodo.org/api/iiif/record:17980312:Thermodynamic%20Constraints%20and%20Architectural%20Inversions%20in%20Scalable%20Quantum%20Information%20Systems.pdf/full/%5E750,/0/default.jpg",
+            "1200": "https://zenodo.org/api/iiif/record:17980312:Thermodynamic%20Constraints%20and%20Architectural%20Inversions%20in%20Scalable%20Quantum%20Information%20Systems.pdf/full/%5E1200,/0/default.jpg"
+          },
+          "archive": "https://zenodo.org/api/records/17980312/files-archive",
+          "archive_media": "https://zenodo.org/api/records/17980312/media-files-archive",
+          "latest": "https://zenodo.org/api/records/17980312/versions/latest",
+          "latest_html": "https://zenodo.org/records/17980312/latest",
+          "versions": "https://zenodo.org/api/records/17980312/versions",
+          "draft": "https://zenodo.org/api/records/17980312/draft",
+          "access_links": "https://zenodo.org/api/records/17980312/access/links",
+          "access_grants": "https://zenodo.org/api/records/17980312/access/grants",
+          "access_users": "https://zenodo.org/api/records/17980312/access/users",
+          "access_request": "https://zenodo.org/api/records/17980312/access/request",
+          "access": "https://zenodo.org/api/records/17980312/access",
+          "communities": "https://zenodo.org/api/records/17980312/communities",
+          "communities-suggestions": "https://zenodo.org/api/records/17980312/communities-suggestions",
+          "request_deletion": "https://zenodo.org/api/records/17980312/request-deletion",
+          "file_modification": "https://zenodo.org/api/records/17980312/file-modification",
+          "quota_increase": "https://zenodo.org/api/records/17980312/quota-increase",
+          "requests": "https://zenodo.org/api/records/17980312/requests"
+        },
+        "updated": "2025-12-18T17:51:54.506498+00:00",
+        "recid": "17980312",
+        "revision": 3,
+        "files": [
+          {
+            "id": "c54f99b1-401c-4dea-80b6-416365bb8fa7",
+            "key": "R1.1.md",
+            "size": 6827,
+            "checksum": "md5:d8a369e5109327f5ca9e0a0fa9566e5f",
+            "links": {
+              "self": "https://zenodo.org/api/records/17980312/files/R1.1.md/content"
+            }
+          },
+          {
+            "id": "42a0b787-f97d-452f-8ed1-eb4a3e78aae3",
+            "key": "R1.2.1.md",
+            "size": 1688,
+            "checksum": "md5:fa8ebd1a1a7704075853abe87644299b",
+            "links": {
+              "self": "https://zenodo.org/api/records/17980312/files/R1.2.1.md/content"
+            }
+          },
+          {
+            "id": "816983a5-561e-48da-be96-5146dfdc294a",
+            "key": "S4.2.3.md",
+            "size": 28660,
+            "checksum": "md5:4b84a43b86bd79e9349d9b096059f7e6",
+            "links": {
+              "self": "https://zenodo.org/api/records/17980312/files/S4.2.3.md/content"
+            }
+          },
+          {
+            "id": "1a37cf30-4370-4993-a450-75a970308ae3",
+            "key": "S6.2.1.md",
+            "size": 15191,
+            "checksum": "md5:6c166abdfe6673121f10b29de823a7e5",
+            "links": {
+              "self": "https://zenodo.org/api/records/17980312/files/S6.2.1.md/content"
+            }
+          },
+          {
+            "id": "78793ea9-ea1d-4396-b8a2-a85cf9f56491",
+            "key": "S3A.1.md",
+            "size": 2772,
+            "checksum": "md5:b96c200b1482859dac6db4e542740088",
+            "links": {
+              "self": "https://zenodo.org/api/records/17980312/files/S3A.1.md/content"
+            }
+          },
+          {
+            "id": "c04ae68f-6aab-4991-844e-913326531072",
+            "key": "R1.2.md",
+            "size": 11585,
+            "checksum": "md5:68227346fbb54f1c749076312e06285a",
+            "links": {
+              "self": "https://zenodo.org/api/records/17980312/files/R1.2.md/content"
+            }
+          },
+          {
+            "id": "0c6a814e-3c2e-4503-bd5d-03bca20a471c",
+            "key": "Thermodynamic Constraints and Architectural Inversions in Scalable Quantum Information Systems.md",
+            "size": 14714,
+            "checksum": "md5:d417d55c65cfaba20628300cccc3fe7d",
+            "links": {
+              "self": "https://zenodo.org/api/records/17980312/files/Thermodynamic%20Constraints%20and%20Architectural%20Inversions%20in%20Scalable%20Quantum%20Information%20Systems.md/content"
+            }
+          },
+          {
+            "id": "96765ac6-ed24-420a-a498-1483ab23ea84",
+            "key": "S4.2.5.md",
+            "size": 6020,
+            "checksum": "md5:84c99f1a4e53b004c80b1bc900a8e7da",
+            "links": {
+              "self": "https://zenodo.org/api/records/17980312/files/S4.2.5.md/content"
+            }
+          },
+          {
+            "id": "143f2c7f-d09f-4615-a34a-79368221cc19",
+            "key": "R1.1.1.md",
+            "size": 19052,
+            "checksum": "md5:6e1cec41daeb10a5a1b27b39d96daf54",
+            "links": {
+              "self": "https://zenodo.org/api/records/17980312/files/R1.1.1.md/content"
+            }
+          },
+          {
+            "id": "ce0d263c-b90e-4513-a74c-4b5e6d6dacb9",
+            "key": "S5.2.md",
+            "size": 16690,
+            "checksum": "md5:1e148c48d0d97f3cc12c5c40d68d36af",
+            "links": {
+              "self": "https://zenodo.org/api/records/17980312/files/S5.2.md/content"
+            }
+          },
+          {
+            "id": "b139b391-af40-485b-a797-c3653dce1dbf",
+            "key": "S4.2.2.md",
+            "size": 30952,
+            "checksum": "md5:1527eef5e8bd2d86358573a354063943",
+            "links": {
+              "self": "https://zenodo.org/api/records/17980312/files/S4.2.2.md/content"
+            }
+          },
+          {
+            "id": "88791718-84fa-4db8-8baa-2d9fb90df562",
+            "key": "S6.2.md",
+            "size": 16622,
+            "checksum": "md5:501b92d8d42a71be1cfe0439fba9d504",
+            "links": {
+              "self": "https://zenodo.org/api/records/17980312/files/S6.2.md/content"
+            }
+          },
+          {
+            "id": "3bec5510-2075-4bb6-aeb9-1d9abd54260c",
+            "key": "0.1.txt",
+            "size": 1722,
+            "checksum": "md5:ae0eeeca81c0d8de8ac4b5de554177ad",
+            "links": {
+              "self": "https://zenodo.org/api/records/17980312/files/0.1.txt/content"
+            }
+          },
+          {
+            "id": "02ce7049-7324-45a9-b781-fefe8117cafa",
+            "key": "A.1.md",
+            "size": 8984,
+            "checksum": "md5:421d804a0a98ae82a38122ee8f1fec9d",
+            "links": {
+              "self": "https://zenodo.org/api/records/17980312/files/A.1.md/content"
+            }
+          },
+          {
+            "id": "6c2974fe-8cd5-4c11-bc12-6d0cff4c771c",
+            "key": "Thermodynamic Constraints and Architectural Inversions in Scalable Quantum Information Systems.pdf",
+            "size": 76644,
+            "checksum": "md5:3c0e333f319dec25cec501608d0654c8",
+            "links": {
+              "self": "https://zenodo.org/api/records/17980312/files/Thermodynamic%20Constraints%20and%20Architectural%20Inversions%20in%20Scalable%20Quantum%20Information%20Systems.pdf/content"
+            }
+          },
+          {
+            "id": "79b7af27-0668-420d-825a-d6359271e47b",
+            "key": "S3A.2.md",
+            "size": 2926,
+            "checksum": "md5:7fdc913e21876afdfbe25f7e9a852f57",
+            "links": {
+              "self": "https://zenodo.org/api/records/17980312/files/S3A.2.md/content"
+            }
+          },
+          {
+            "id": "c00bcf06-b588-42b4-990a-5b979987e65c",
+            "key": "S4.1.2.md",
+            "size": 34647,
+            "checksum": "md5:c30e41b87194c6d7104703afdf5b13cd",
+            "links": {
+              "self": "https://zenodo.org/api/records/17980312/files/S4.1.2.md/content"
+            }
+          },
+          {
+            "id": "b32847be-d84a-415f-95de-67fcdfd99b3d",
+            "key": "S4.1.1.md",
+            "size": 38579,
+            "checksum": "md5:6e8bf63857f4fa7c0ba785d6ae8d8a8a",
+            "links": {
+              "self": "https://zenodo.org/api/records/17980312/files/S4.1.1.md/content"
+            }
+          },
+          {
+            "id": "2a95e09d-2414-4249-8e40-784dd6625b16",
+            "key": "S3B.1.md",
+            "size": 31026,
+            "checksum": "md5:877493ef5b4c65ced9be17b6289691e7",
+            "links": {
+              "self": "https://zenodo.org/api/records/17980312/files/S3B.1.md/content"
+            }
+          },
+          {
+            "id": "8ce1d0d5-e1df-4307-9a2f-b6909e3727b4",
+            "key": "S4.2.1.md",
+            "size": 32208,
+            "checksum": "md5:8d23b76cdca8a24105d948d849a38358",
+            "links": {
+              "self": "https://zenodo.org/api/records/17980312/files/S4.2.1.md/content"
+            }
+          },
+          {
+            "id": "349ede39-e323-42f1-a7ee-2b7141f9a628",
+            "key": "S4.1.4.md",
+            "size": 43062,
+            "checksum": "md5:bf4ccedb89ec90d9da31b6d0299889d0",
+            "links": {
+              "self": "https://zenodo.org/api/records/17980312/files/S4.1.4.md/content"
+            }
+          },
+          {
+            "id": "21cf4f71-f2f7-4bbe-b8b1-8698d716100c",
+            "key": "2.0.md",
+            "size": 14697,
+            "checksum": "md5:25db5469c3f699db4fd0309464699b07",
+            "links": {
+              "self": "https://zenodo.org/api/records/17980312/files/2.0.md/content"
+            }
+          },
+          {
+            "id": "5fe0c882-0790-4926-b01c-6cc2c3f85924",
+            "key": "S4.2.4.md",
+            "size": 33513,
+            "checksum": "md5:bf8f77d6be7442af4cf582bee753ba6d",
+            "links": {
+              "self": "https://zenodo.org/api/records/17980312/files/S4.2.4.md/content"
+            }
+          },
+          {
+            "id": "c0ddc70c-0baa-4027-a8f4-695f88aa5b05",
+            "key": "0.2.md",
+            "size": 4217,
+            "checksum": "md5:cdb33fe8d7bce2e8eef9ed5726c99a7e",
+            "links": {
+              "self": "https://zenodo.org/api/records/17980312/files/0.2.md/content"
+            }
+          },
+          {
+            "id": "e26b6853-5728-4bf6-8faa-dad202a7b841",
+            "key": "S5.2.3.md",
+            "size": 4081,
+            "checksum": "md5:93111a8f5057469fbe903e8588701441",
+            "links": {
+              "self": "https://zenodo.org/api/records/17980312/files/S5.2.3.md/content"
+            }
+          },
+          {
+            "id": "98cf6aba-5884-4850-b92a-abbe4e243cc0",
+            "key": "S3B.2.md",
+            "size": 31033,
+            "checksum": "md5:ac485ae2b438b56f1e3ba055a0327858",
+            "links": {
+              "self": "https://zenodo.org/api/records/17980312/files/S3B.2.md/content"
+            }
+          },
+          {
+            "id": "6fb18e0a-df5f-48b9-bd2b-5e3931ddf9cc",
+            "key": "S5.2.1.md",
+            "size": 7077,
+            "checksum": "md5:34991ee808abd3e83d1b68bd8e047be7",
+            "links": {
+              "self": "https://zenodo.org/api/records/17980312/files/S5.2.1.md/content"
+            }
+          },
+          {
+            "id": "52854276-bba8-43ca-9984-b3beeb372a00",
+            "key": "S5.2.2.md",
+            "size": 6706,
+            "checksum": "md5:dd274ccd171bd4718dc8ef373369eb1f",
+            "links": {
+              "self": "https://zenodo.org/api/records/17980312/files/S5.2.2.md/content"
+            }
+          },
+          {
+            "id": "e2c0b8a8-b088-4600-bf25-85d8ed6e8f96",
+            "key": "S3A.2.txt",
+            "size": 5643,
+            "checksum": "md5:72a00b847950af4232718932db3bd075",
+            "links": {
+              "self": "https://zenodo.org/api/records/17980312/files/S3A.2.txt/content"
+            }
+          },
+          {
+            "id": "dd979a1a-e12e-4ab5-8487-1448787508a0",
+            "key": "R1.1.2.md",
+            "size": 8973,
+            "checksum": "md5:d9752c936688ccc46319995f5beed150",
+            "links": {
+              "self": "https://zenodo.org/api/records/17980312/files/R1.1.2.md/content"
+            }
+          },
+          {
+            "id": "368258ef-c54d-4d0c-a407-b5ffdcad5f76",
+            "key": "S4.1.5.md",
+            "size": 13806,
+            "checksum": "md5:43487eb0d9e8687375763d953c16d032",
+            "links": {
+              "self": "https://zenodo.org/api/records/17980312/files/S4.1.5.md/content"
+            }
+          },
+          {
+            "id": "15313787-83e4-4f74-8374-8e649f4eec6a",
+            "key": "S4.1.3.md",
+            "size": 35450,
+            "checksum": "md5:c8d5f80c1168c660be645ee4075715d3",
+            "links": {
+              "self": "https://zenodo.org/api/records/17980312/files/S4.1.3.md/content"
+            }
+          },
+          {
+            "id": "bd7e9c88-788c-48da-b8b6-d422153b103a",
+            "key": "S3A.1.txt",
+            "size": 4752,
+            "checksum": "md5:4a7874b5d0b3134f00452d3794fac2aa",
+            "links": {
+              "self": "https://zenodo.org/api/records/17980312/files/S3A.1.txt/content"
+            }
+          }
+        ],
+        "swh": null,
+        "owners": [
+          {
+            "id": "1328013"
+          }
+        ],
+        "status": "published",
+        "stats": {
+          "downloads": 153,
+          "unique_downloads": 149,
+          "views": 61,
+          "unique_views": 58,
+          "version_downloads": 139,
+          "version_unique_downloads": 137,
+          "version_unique_views": 25,
+          "version_views": 25
+        },
+        "state": "done",
+        "submitted": true
+      },
+      {
+        "created": "2026-07-01T21:50:52.809077+00:00",
+        "modified": "2026-08-06T12:52:25.474657+00:00",
+        "id": 21116028,
+        "conceptrecid": "21116027",
+        "doi": "10.5281/zenodo.21116028",
+        "conceptdoi": "10.5281/zenodo.21116027",
+        "doi_url": "https://doi.org/10.5281/zenodo.21116028",
+        "metadata": {
+          "title": "Radix to Ultrametrics to Page-Wootters to Wheeler-DeWitt to Bruhat-Tits: A Convergent Synthesis",
+          "doi": "10.5281/zenodo.21116028",
+          "publication_date": "2026-07-01",
+          "description": "Convergent synthesis bridging discrete p-adic ultrametrics with continuous quantum geometry via Page-Wootters, Wheeler-DeWitt, and Bruhat-Tits buildings. We prove that diagonal clock-rest interaction forces exact ultrametricity in conditional state overlaps (Theorem 6.1) and specialize to D=4 where the Bruhat-Tits building for PGL(4,Qp) encodes 3+1D spacetime geometry (Theorem 6.3). CMB Planck 2018 analysis constrains log-periodic oscillation amplitude to &lt;0.015 at p~2. Falsifiable predictions for trapped-ion quantum simulation.",
+          "access_right": "open",
+          "creators": [
+            {
+              "name": "QWAV / QNFO Research",
+              "affiliation": "QWAV"
+            }
+          ],
+          "keywords": [
+            "QNFO",
+            "ultrametric",
+            "Page-Wootters",
+            "Wheeler-DeWitt",
+            "Bruhat-Tits",
+            "p-adic geometry",
+            "quantum gravity",
+            "conditional states",
+            "silent radix",
+            "quantum clocks",
+            "CMB log-periodic",
+            "duplicate-record",
+            "philosophy of physics",
+            "foundations of quantum mechanics",
+            "epistemology"
+          ],
+          "related_identifiers": [
+            {
+              "identifier": "10.5281/zenodo.21102435",
+              "relation": "isVersionOf",
+              "resource_type": "publication",
+              "scheme": "doi"
+            }
+          ],
+          "version": "1.0.0",
+          "resource_type": {
+            "title": "Working paper",
+            "type": "publication",
+            "subtype": "workingpaper"
+          },
+          "license": {
+            "id": "cc-by-4.0"
+          },
+          "relations": {
+            "version": [
+              {
+                "index": 0,
+                "is_last": true,
+                "parent": {
+                  "pid_type": "recid",
+                  "pid_value": "21116027"
+                }
+              }
+            ]
+          },
+          "notes": "DUPLICATE RECORD NOTICE: This deposition is a duplicate of the canonical record 10.5281/zenodo.21102435 ('Radix to Ultrametrics to Page-Wootters to Wheeler-DeWitt to Bruhat-Tits: A Conve'). It was created as a separate upload instead of a new version under the canonical concept DOI. Kept live for DOI citation stability. Cite the canonical record. Cross-referenced via related_identifiers (isVersionOf)."
+        },
+        "title": "Radix to Ultrametrics to Page-Wootters to Wheeler-DeWitt to Bruhat-Tits: A Convergent Synthesis",
+        "links": {
+          "self": "https://zenodo.org/api/records/21116028",
+          "self_html": "https://zenodo.org/records/21116028",
+          "preview_html": "https://zenodo.org/records/21116028?preview=1",
+          "doi": "https://doi.org/10.5281/zenodo.21116028",
+          "self_doi": "https://doi.org/10.5281/zenodo.21116028",
+          "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.21116028",
+          "reserve_doi": "https://zenodo.org/api/records/21116028/draft/pids/doi",
+          "parent": "https://zenodo.org/api/records/21116027",
+          "parent_html": "https://zenodo.org/records/21116027",
+          "parent_doi": "https://doi.org/10.5281/zenodo.21116027",
+          "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.21116027",
+          "self_iiif_manifest": "https://zenodo.org/api/iiif/record:21116028/manifest",
+          "self_iiif_sequence": "https://zenodo.org/api/iiif/record:21116028/sequence/default",
+          "files": "https://zenodo.org/api/records/21116028/files",
+          "media_files": "https://zenodo.org/api/records/21116028/media-files",
+          "thumbnails": {
+            "10": "https://zenodo.org/api/iiif/record:21116028:paper.pdf/full/%5E10,/0/default.jpg",
+            "50": "https://zenodo.org/api/iiif/record:21116028:paper.pdf/full/%5E50,/0/default.jpg",
+            "100": "https://zenodo.org/api/iiif/record:21116028:paper.pdf/full/%5E100,/0/default.jpg",
+            "250": "https://zenodo.org/api/iiif/record:21116028:paper.pdf/full/%5E250,/0/default.jpg",
+            "750": "https://zenodo.org/api/iiif/record:21116028:paper.pdf/full/%5E750,/0/default.jpg",
+            "1200": "https://zenodo.org/api/iiif/record:21116028:paper.pdf/full/%5E1200,/0/default.jpg"
+          },
+          "archive": "https://zenodo.org/api/records/21116028/files-archive",
+          "archive_media": "https://zenodo.org/api/records/21116028/media-files-archive",
+          "latest": "https://zenodo.org/api/records/21116028/versions/latest",
+          "latest_html": "https://zenodo.org/records/21116028/latest",
+          "versions": "https://zenodo.org/api/records/21116028/versions",
+          "draft": "https://zenodo.org/api/records/21116028/draft",
+          "access_links": "https://zenodo.org/api/records/21116028/access/links",
+          "access_grants": "https://zenodo.org/api/records/21116028/access/grants",
+          "access_users": "https://zenodo.org/api/records/21116028/access/users",
+          "access_request": "https://zenodo.org/api/records/21116028/access/request",
+          "access": "https://zenodo.org/api/records/21116028/access",
+          "communities": "https://zenodo.org/api/records/21116028/communities",
+          "communities-suggestions": "https://zenodo.org/api/records/21116028/communities-suggestions",
+          "request_deletion": "https://zenodo.org/api/records/21116028/request-deletion",
+          "file_modification": "https://zenodo.org/api/records/21116028/file-modification",
+          "quota_increase": "https://zenodo.org/api/records/21116028/quota-increase",
+          "requests": "https://zenodo.org/api/records/21116028/requests"
+        },
+        "updated": "2026-08-06T12:52:25.474657+00:00",
+        "recid": "21116028",
+        "revision": 6,
+        "files": [
+          {
+            "id": "d5c50d06-5def-4181-8841-1362d0a5246a",
+            "key": "paper.md",
+            "size": 30367,
+            "checksum": "md5:9762cd2c73af0842e959f765c5e33de0",
+            "links": {
+              "self": "https://zenodo.org/api/records/21116028/files/paper.md/content"
+            }
+          },
+          {
+            "id": "6d72d887-18e4-4e65-9393-5f0636939e1d",
+            "key": "paper.pdf",
+            "size": 24485,
+            "checksum": "md5:e53887491955d287c0fb5b69fc0ddd04",
+            "links": {
+              "self": "https://zenodo.org/api/records/21116028/files/paper.pdf/content"
+            }
+          }
+        ],
+        "swh": null,
+        "owners": [
+          {
+            "id": "1328013"
+          }
+        ],
+        "status": "published",
+        "stats": {
+          "downloads": 3,
+          "unique_downloads": 3,
+          "views": 10,
+          "unique_views": 10,
+          "version_downloads": 3,
+          "version_unique_downloads": 3,
+          "version_unique_views": 10,
+          "version_views": 10
+        },
+        "state": "done",
+        "submitted": true
+      },
+      {
+        "created": "2026-02-05T15:47:47.404099+00:00",
+        "modified": "2026-02-05T16:15:09.461261+00:00",
+        "id": 18496890,
+        "conceptrecid": "18496889",
+        "doi": "10.5281/zenodo.18496890",
+        "conceptdoi": "10.5281/zenodo.18496889",
+        "doi_url": "https://doi.org/10.5281/zenodo.18496890",
+        "metadata": {
+          "title": "Superconductivity Quadrangle: Validating Tensor-Locked Resilience in Topological Substrates",
+          "doi": "10.5281/zenodo.18496890",
+          "publication_date": "2026-02-05",
+          "description": "<p>The engineering of robust, decoherence-resistant topological qubits is currently impeded by a fragmented approach to material design that often treats control parameters in isolation. This study introduces and computationally validates the &ldquo;Superconductivity Quadrangle,&rdquo; a unified framework integrating four cardinal axes&mdash;Geometry (G), Light (L), Heat (H), and Pressure (P)&mdash;for the predictive design of topological substrates. We identify a critical &ldquo;thermodynamic bottleneck&rdquo; governed by the coupling between Light and Heat, which constrains the utility of Floquet engineering. In response, we propose the &ldquo;Tensor Coupling&rdquo; of Pressure and Geometry (PxG) as a thermodynamically efficient alternative. We demonstrate that this coupling creates an effective &ldquo;analogue gravity&rdquo; metric within the material, giving rise to a &ldquo;tensor-locked&rdquo; topological phase. Crucially, we provide direct computational evidence that this phase maintains a robust topological gap in the presence of strong local potential disorder, offering a deterministic, active alternative to the current reliance on passive geometric confinement. This work bridges the gap between abstract theoretical unification and physical realism, offering a rigorous, validated blueprint for the next generation of fault-tolerant quantum materials.</p>",
+          "access_right": "open",
+          "creators": [
+            {
+              "name": "Quni-Gudzinas, Rowan Brad",
+              "affiliation": "QWAV",
+              "orcid": "0009-0002-4317-5604"
+            }
+          ],
+          "version": "1.0",
+          "resource_type": {
+            "title": "Preprint",
+            "type": "publication",
+            "subtype": "preprint"
+          },
+          "license": {
+            "id": "cc-by-4.0"
+          },
+          "communities": [
+            {
+              "id": "qwav"
+            }
+          ],
+          "relations": {
+            "version": [
+              {
+                "index": 0,
+                "is_last": true,
+                "parent": {
+                  "pid_type": "recid",
+                  "pid_value": "18496889"
+                }
+              }
+            ]
+          }
+        },
+        "title": "Superconductivity Quadrangle: Validating Tensor-Locked Resilience in Topological Substrates",
+        "links": {
+          "self": "https://zenodo.org/api/records/18496890",
+          "self_html": "https://zenodo.org/records/18496890",
+          "preview_html": "https://zenodo.org/records/18496890?preview=1",
+          "doi": "https://doi.org/10.5281/zenodo.18496890",
+          "self_doi": "https://doi.org/10.5281/zenodo.18496890",
+          "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.18496890",
+          "reserve_doi": "https://zenodo.org/api/records/18496890/draft/pids/doi",
+          "parent": "https://zenodo.org/api/records/18496889",
+          "parent_html": "https://zenodo.org/records/18496889",
+          "parent_doi": "https://doi.org/10.5281/zenodo.18496889",
+          "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.18496889",
+          "self_iiif_manifest": "https://zenodo.org/api/iiif/record:18496890/manifest",
+          "self_iiif_sequence": "https://zenodo.org/api/iiif/record:18496890/sequence/default",
+          "files": "https://zenodo.org/api/records/18496890/files",
+          "media_files": "https://zenodo.org/api/records/18496890/media-files",
+          "thumbnails": {
+            "10": "https://zenodo.org/api/iiif/record:18496890:Superconductivity%20Quadrangle.pdf/full/%5E10,/0/default.jpg",
+            "50": "https://zenodo.org/api/iiif/record:18496890:Superconductivity%20Quadrangle.pdf/full/%5E50,/0/default.jpg",
+            "100": "https://zenodo.org/api/iiif/record:18496890:Superconductivity%20Quadrangle.pdf/full/%5E100,/0/default.jpg",
+            "250": "https://zenodo.org/api/iiif/record:18496890:Superconductivity%20Quadrangle.pdf/full/%5E250,/0/default.jpg",
+            "750": "https://zenodo.org/api/iiif/record:18496890:Superconductivity%20Quadrangle.pdf/full/%5E750,/0/default.jpg",
+            "1200": "https://zenodo.org/api/iiif/record:18496890:Superconductivity%20Quadrangle.pdf/full/%5E1200,/0/default.jpg"
+          },
+          "archive": "https://zenodo.org/api/records/18496890/files-archive",
+          "archive_media": "https://zenodo.org/api/records/18496890/media-files-archive",
+          "latest": "https://zenodo.org/api/records/18496890/versions/latest",
+          "latest_html": "https://zenodo.org/records/18496890/latest",
+          "versions": "https://zenodo.org/api/records/18496890/versions",
+          "draft": "https://zenodo.org/api/records/18496890/draft",
+          "access_links": "https://zenodo.org/api/records/18496890/access/links",
+          "access_grants": "https://zenodo.org/api/records/18496890/access/grants",
+          "access_users": "https://zenodo.org/api/records/18496890/access/users",
+          "access_request": "https://zenodo.org/api/records/18496890/access/request",
+          "access": "https://zenodo.org/api/records/18496890/access",
+          "communities": "https://zenodo.org/api/records/18496890/communities",
+          "communities-suggestions": "https://zenodo.org/api/records/18496890/communities-suggestions",
+          "request_deletion": "https://zenodo.org/api/records/18496890/request-deletion",
+          "file_modification": "https://zenodo.org/api/records/18496890/file-modification",
+          "quota_increase": "https://zenodo.org/api/records/18496890/quota-increase",
+          "requests": "https://zenodo.org/api/records/18496890/requests"
+        },
+        "updated": "2026-02-05T16:15:09.461261+00:00",
+        "recid": "18496890",
+        "revision": 4,
+        "files": [
+          {
+            "id": "7fa228f2-7d97-4b8f-8179-f0ce2d58ec13",
+            "key": "Superconductivity Quadrangle.pdf",
+            "size": 737110,
+            "checksum": "md5:f1dde499b39acc7e15daffb6409b8131",
+            "links": {
+              "self": "https://zenodo.org/api/records/18496890/files/Superconductivity%20Quadrangle.pdf/content"
+            }
+          },
+          {
+            "id": "8aa9742b-9b14-48f7-ba3c-679002b6bda5",
+            "key": "S3.6.json",
+            "size": 214,
+            "checksum": "md5:e6e5c4a7f8773f2cf5e696012f1760f0",
+            "links": {
+              "self": "https://zenodo.org/api/records/18496890/files/S3.6.json/content"
+            }
+          },
+          {
+            "id": "568ae07e-2bfd-4160-86d0-f3170b65206b",
+            "key": "S1.3.md",
+            "size": 3573,
+            "checksum": "md5:3587c74befb347f91b91de69b54a7b7a",
+            "links": {
+              "self": "https://zenodo.org/api/records/18496890/files/S1.3.md/content"
+            }
+          },
+          {
+            "id": "1ba27248-fd71-457a-8107-1c7a272702ed",
+            "key": "S5.5.2.md",
+            "size": 12892,
+            "checksum": "md5:dfa364be4f40d830a99b816b749aa043",
+            "links": {
+              "self": "https://zenodo.org/api/records/18496890/files/S5.5.2.md/content"
+            }
+          },
+          {
+            "id": "8a7be0e2-30c0-494a-9aa4-f2773eb8581a",
+            "key": "S1.4.md",
+            "size": 4488,
+            "checksum": "md5:872c3bdbc01bf86e45011931929b0211",
+            "links": {
+              "self": "https://zenodo.org/api/records/18496890/files/S1.4.md/content"
+            }
+          },
+          {
+            "id": "da566762-5ae8-445f-a251-8fb2403b3508",
+            "key": "S1.3.1.md",
+            "size": 3681,
+            "checksum": "md5:fbb41077a53c25d08cd1f8b4f2caaf2a",
+            "links": {
+              "self": "https://zenodo.org/api/records/18496890/files/S1.3.1.md/content"
+            }
+          },
+          {
+            "id": "b2fc1373-92bf-4013-84aa-b97766f964fa",
+            "key": "E.1.7.md",
+            "size": 15534,
+            "checksum": "md5:ec7672308f8cabbc5eca58ba6c6c87df",
+            "links": {
+              "self": "https://zenodo.org/api/records/18496890/files/E.1.7.md/content"
+            }
+          },
+          {
+            "id": "753b4690-f9c6-4fe3-b00f-983092a52817",
+            "key": "S5.6.1.md",
+            "size": 10554,
+            "checksum": "md5:b3d96741423b53f1a5144b99d5510bb6",
+            "links": {
+              "self": "https://zenodo.org/api/records/18496890/files/S5.6.1.md/content"
+            }
+          },
+          {
+            "id": "273d583c-3927-46c2-90e9-5aeeeec7353c",
+            "key": "S3.6.py",
+            "size": 1581,
+            "checksum": "md5:203cc7c2d702d46518ee43f44b38fbfa",
+            "links": {
+              "self": "https://zenodo.org/api/records/18496890/files/S3.6.py/content"
+            }
+          },
+          {
+            "id": "769d89cd-76cd-46eb-9d69-d8df1b4f5e0f",
+            "key": "E.1.5.md",
+            "size": 9432,
+            "checksum": "md5:a4d549cfd0fadf93e481aaaf08bf5f20",
+            "links": {
+              "self": "https://zenodo.org/api/records/18496890/files/E.1.5.md/content"
+            }
+          },
+          {
+            "id": "c1b690b4-9e1c-406e-9beb-cefbed00bade",
+            "key": "S2.5.md",
+            "size": 17629,
+            "checksum": "md5:7cb52f61cdddee52bc13b919a8d5437e",
+            "links": {
+              "self": "https://zenodo.org/api/records/18496890/files/S2.5.md/content"
+            }
+          },
+          {
+            "id": "b6095843-388d-4f68-8ca5-ec131a3ce136",
+            "key": "S9.6.json",
+            "size": 54613,
+            "checksum": "md5:6ac76a4d166911cb4c326de4870d99b1",
+            "links": {
+              "self": "https://zenodo.org/api/records/18496890/files/S9.6.json/content"
+            }
+          },
+          {
+            "id": "0955389b-8c5c-4df7-a9ae-127b569fd05f",
+            "key": "S7.5.py",
+            "size": 2732,
+            "checksum": "md5:c53c0e6d0fc436d1f15aefe5bbb52cb6",
+            "links": {
+              "self": "https://zenodo.org/api/records/18496890/files/S7.5.py/content"
+            }
+          },
+          {
+            "id": "b4fc0626-9a29-4b0d-ae58-f398a6bef98d",
+            "key": "S6.5.md",
+            "size": 14212,
+            "checksum": "md5:e8077e07d156219b5807e6262e6254c7",
+            "links": {
+              "self": "https://zenodo.org/api/records/18496890/files/S6.5.md/content"
+            }
+          },
+          {
+            "id": "c3e35af0-adf2-499f-95b4-71aa1abd4a24",
+            "key": "S4.6.py",
+            "size": 4086,
+            "checksum": "md5:6f0dad634c9ab601bdf3a1a2da0c4a6b",
+            "links": {
+              "self": "https://zenodo.org/api/records/18496890/files/S4.6.py/content"
+            }
+          },
+          {
+            "id": "02c8700b-1c07-4a92-a271-8dd47c4e9e41",
+            "key": "S7.5.md",
+            "size": 28855,
+            "checksum": "md5:255a95b45333af0b7896ae3d30ce0f14",
+            "links": {
+              "self": "https://zenodo.org/api/records/18496890/files/S7.5.md/content"
+            }
+          },
+          {
+            "id": "7a9c8a34-4da2-415c-843f-ebb7f1a5e452",
+            "key": "S5.5.7.md",
+            "size": 12199,
+            "checksum": "md5:eb0f12642651c0273503b00585010bb9",
+            "links": {
+              "self": "https://zenodo.org/api/records/18496890/files/S5.5.7.md/content"
+            }
+          },
+          {
+            "id": "c24fe9f8-d4a1-43c3-83e9-e40d2eb682cc",
+            "key": "E.1.6.md",
+            "size": 10648,
+            "checksum": "md5:9534e94a987281512ad5e4a1b4a52686",
+            "links": {
+              "self": "https://zenodo.org/api/records/18496890/files/E.1.6.md/content"
+            }
+          },
+          {
+            "id": "5811fcfe-848f-49aa-be57-a8b6db8bd3f5",
+            "key": "S4.6.md",
+            "size": 8679,
+            "checksum": "md5:26924f330001b2ed5a8d54b02ca56404",
+            "links": {
+              "self": "https://zenodo.org/api/records/18496890/files/S4.6.md/content"
+            }
+          },
+          {
+            "id": "f21076b6-d02d-4bf6-8f5b-05ffdd0e0976",
+            "key": "S5.5.6.md",
+            "size": 10517,
+            "checksum": "md5:7ed08b870ad3f4b1c9986ec7859dce77",
+            "links": {
+              "self": "https://zenodo.org/api/records/18496890/files/S5.5.6.md/content"
+            }
+          },
+          {
+            "id": "8438c699-83ab-42da-a3e6-2d5a1042df0d",
+            "key": "S3.2.md",
+            "size": 20392,
+            "checksum": "md5:d93e8cc4a11cd8739d2b9be831a0d6a9",
+            "links": {
+              "self": "https://zenodo.org/api/records/18496890/files/S3.2.md/content"
+            }
+          },
+          {
+            "id": "9fceb8c0-2f14-47ed-9d28-32082602e4ab",
+            "key": "0.5.md",
+            "size": 66827,
+            "checksum": "md5:20b65b93bd589e526aa5f12e388b1a46",
+            "links": {
+              "self": "https://zenodo.org/api/records/18496890/files/0.5.md/content"
+            }
+          },
+          {
+            "id": "efb73ca5-bca1-4d49-a608-62909a4e8753",
+            "key": "E.1.1.md",
+            "size": 25186,
+            "checksum": "md5:514c5533afd381a62c5becb38453d956",
+            "links": {
+              "self": "https://zenodo.org/api/records/18496890/files/E.1.1.md/content"
+            }
+          },
+          {
+            "id": "cb171d11-e4fc-4990-bce0-13ae4a4849f9",
+            "key": "S3.1.md",
+            "size": 8765,
+            "checksum": "md5:f1422a276658f06a5a5be0953b2d01a7",
+            "links": {
+              "self": "https://zenodo.org/api/records/18496890/files/S3.1.md/content"
+            }
+          },
+          {
+            "id": "b4c99a52-d4f0-435b-b8b6-2459d7dcc250",
+            "key": "Superconductivity Quadrangle.md",
+            "size": 61282,
+            "checksum": "md5:36b33ffea30bde2a8dd6e893dc9fa96e",
+            "links": {
+              "self": "https://zenodo.org/api/records/18496890/files/Superconductivity%20Quadrangle.md/content"
+            }
+          },
+          {
+            "id": "ee60bebe-0d02-45f5-beba-e77fe464f635",
+            "key": "S5.5.4.md",
+            "size": 11160,
+            "checksum": "md5:bcc306c843d6ceb6d7460add454b0632",
+            "links": {
+              "self": "https://zenodo.org/api/records/18496890/files/S5.5.4.md/content"
+            }
+          },
+          {
+            "id": "54cde6b9-c2cd-46f7-a080-81ed201b9f8a",
+            "key": "0.1.txt",
+            "size": 426,
+            "checksum": "md5:d5b24864b42927679cc41a5fcb316406",
+            "links": {
+              "self": "https://zenodo.org/api/records/18496890/files/0.1.txt/content"
+            }
+          },
+          {
+            "id": "956560df-57f9-4fd0-b179-d3b9baf18697",
+            "key": "S5.6.6.md",
+            "size": 6172,
+            "checksum": "md5:e13d02b6ba50731d127f921ae14f748a",
+            "links": {
+              "self": "https://zenodo.org/api/records/18496890/files/S5.6.6.md/content"
+            }
+          },
+          {
+            "id": "ed07b7ab-af38-46ca-b61e-771efbe9f41c",
+            "key": "S5.1.3.md",
+            "size": 4456,
+            "checksum": "md5:40cd864f514b4028300cd086d7f7a08a",
+            "links": {
+              "self": "https://zenodo.org/api/records/18496890/files/S5.1.3.md/content"
+            }
+          },
+          {
+            "id": "ecdf72f5-ac95-4b9d-abad-3b5b0072e375",
+            "key": "S5.6.5.md",
+            "size": 7435,
+            "checksum": "md5:65f4ec35dde9096b280e6f254e9cc2f4",
+            "links": {
+              "self": "https://zenodo.org/api/records/18496890/files/S5.6.5.md/content"
+            }
+          },
+          {
+            "id": "919ed574-6a53-45ef-9fa8-890ad690be61",
+            "key": "S3.5.md",
+            "size": 38611,
+            "checksum": "md5:fd870774eab8588b73ffa81389d69227",
+            "links": {
+              "self": "https://zenodo.org/api/records/18496890/files/S3.5.md/content"
+            }
+          },
+          {
+            "id": "ab658a03-7fb9-41b3-8839-ced4435ac6ff",
+            "key": "S5.6.4.md",
+            "size": 6791,
+            "checksum": "md5:6395da79fff750ad04162cf659acf790",
+            "links": {
+              "self": "https://zenodo.org/api/records/18496890/files/S5.6.4.md/content"
+            }
+          },
+          {
+            "id": "209a7e9c-9c01-46aa-97af-972524efa3b8",
+            "key": "S1.6.1.md",
+            "size": 4400,
+            "checksum": "md5:8d247d6efb7fa5321fad359f60605901",
+            "links": {
+              "self": "https://zenodo.org/api/records/18496890/files/S1.6.1.md/content"
+            }
+          },
+          {
+            "id": "7066930f-1328-4ad4-883f-10aa1bee8e0a",
+            "key": "S8.6.1.py",
+            "size": 1282,
+            "checksum": "md5:9a73863dcf849ef31ff12293d35b6083",
+            "links": {
+              "self": "https://zenodo.org/api/records/18496890/files/S8.6.1.py/content"
+            }
+          },
+          {
+            "id": "c476e8e6-7c1d-4d57-bf0d-73e493094ca4",
+            "key": "S3.6.1.md",
+            "size": 1561,
+            "checksum": "md5:f3ec6407a1a4a0f1e1e2b9b41f3fe297",
+            "links": {
+              "self": "https://zenodo.org/api/records/18496890/files/S3.6.1.md/content"
+            }
+          },
+          {
+            "id": "d5577150-6d68-4461-b229-2c19914566c2",
+            "key": "S7.6.md",
+            "size": 69529,
+            "checksum": "md5:e20ab1827486688aae83b15e55ba06a2",
+            "links": {
+              "self": "https://zenodo.org/api/records/18496890/files/S7.6.md/content"
+            }
+          },
+          {
+            "id": "ed88d304-5af3-43a9-b7b3-200c4b9c5e7a",
+            "key": "S5.6.3.md",
+            "size": 7045,
+            "checksum": "md5:f4d778f31f429a8e92ba25bc2d3d86f3",
+            "links": {
+              "self": "https://zenodo.org/api/records/18496890/files/S5.6.3.md/content"
+            }
+          },
+          {
+            "id": "081cbd2e-7c29-4981-8f43-bf1bd1d42026",
+            "key": "S3.6.md",
+            "size": 27595,
+            "checksum": "md5:863c42267a6f46bd7251191be491666c",
+            "links": {
+              "self": "https://zenodo.org/api/records/18496890/files/S3.6.md/content"
+            }
+          },
+          {
+            "id": "8942a09a-4b41-41ca-a511-c7999e2d22b5",
+            "key": "S4.1.md",
+            "size": 5200,
+            "checksum": "md5:efd714b062a782b538b18dda1c9f1f98",
+            "links": {
+              "self": "https://zenodo.org/api/records/18496890/files/S4.1.md/content"
+            }
+          },
+          {
+            "id": "96c1f878-b224-43fc-ac9f-23db74929599",
+            "key": "1.0.md",
+            "size": 61098,
+            "checksum": "md5:691444ead2e25444be8b5cb412307be2",
+            "links": {
+              "self": "https://zenodo.org/api/records/18496890/files/1.0.md/content"
+            }
+          },
+          {
+            "id": "470187a0-91f2-4ef2-85f9-03f96c96c42c",
+            "key": "S2.6.md",
+            "size": 12959,
+            "checksum": "md5:374c0dc124188375d4aa5a345c542c39",
+            "links": {
+              "self": "https://zenodo.org/api/records/18496890/files/S2.6.md/content"
+            }
+          },
+          {
+            "id": "8aad1533-8e64-4c74-96a2-c8d5d330f35d",
+            "key": "S9.6.md",
+            "size": 54908,
+            "checksum": "md5:2fd0f7d2a88f55349de07ba235e98555",
+            "links": {
+              "self": "https://zenodo.org/api/records/18496890/files/S9.6.md/content"
+            }
+          },
+          {
+            "id": "c957fd0a-e5d0-45e0-9cc9-b3145b5a3ed9",
+            "key": "S5.6.8.md",
+            "size": 10108,
+            "checksum": "md5:9facb0117d91bc8601e9cf08953aa2f2",
+            "links": {
+              "self": "https://zenodo.org/api/records/18496890/files/S5.6.8.md/content"
+            }
+          },
+          {
+            "id": "bf8b21d4-30a5-4170-90d8-62180e715e4b",
+            "key": "S5.6.2.md",
+            "size": 8748,
+            "checksum": "md5:c7de251bb3acd028968fe98a03b0a1a3",
+            "links": {
+              "self": "https://zenodo.org/api/records/18496890/files/S5.6.2.md/content"
+            }
+          },
+          {
+            "id": "f0c2a75b-729d-4e1c-9c7c-88017fc4cd3b",
+            "key": "S7.6.1.md",
+            "size": 61057,
+            "checksum": "md5:bf9edc240f9fdcbfb736fdfb515fe962",
+            "links": {
+              "self": "https://zenodo.org/api/records/18496890/files/S7.6.1.md/content"
+            }
+          },
+          {
+            "id": "b70fba78-5e63-4399-a43b-034cfcf5f6e1",
+            "key": "S8.6.md",
+            "size": 57217,
+            "checksum": "md5:5b97d50383fedadf978b489a502a4e97",
+            "links": {
+              "self": "https://zenodo.org/api/records/18496890/files/S8.6.md/content"
+            }
+          },
+          {
+            "id": "5ae46532-5e93-47c7-9b6d-c5f5ce775859",
+            "key": "S5.5.1.md",
+            "size": 13013,
+            "checksum": "md5:f47fcb237ecfdb579e3c72fa339943ba",
+            "links": {
+              "self": "https://zenodo.org/api/records/18496890/files/S5.5.1.md/content"
+            }
+          },
+          {
+            "id": "7d57edc9-c611-48ef-8a1f-b6b7e12033b4",
+            "key": "S9.6.py",
+            "size": 58201,
+            "checksum": "md5:6e63157bc74d45f43a6a83d116fa2d53",
+            "links": {
+              "self": "https://zenodo.org/api/records/18496890/files/S9.6.py/content"
+            }
+          },
+          {
+            "id": "9abd6236-08ef-4b48-b67a-e3d5eae73d89",
+            "key": "S8.6.txt",
+            "size": 905,
+            "checksum": "md5:8705bffee666af27b7d0cd001496d84a",
+            "links": {
+              "self": "https://zenodo.org/api/records/18496890/files/S8.6.txt/content"
+            }
+          },
+          {
+            "id": "e74c6c68-2c1a-45ef-9cc0-698d6412573a",
+            "key": "S5.6.7.md",
+            "size": 9642,
+            "checksum": "md5:b27a5cc54d8d2f9fb869425c282ad1d7",
+            "links": {
+              "self": "https://zenodo.org/api/records/18496890/files/S5.6.7.md/content"
+            }
+          },
+          {
+            "id": "048d1867-a649-4eaa-8106-f37314c70639",
+            "key": "S4.2.py",
+            "size": 3506,
+            "checksum": "md5:c8c2e370de1c8a4178373ba8b944cc86",
+            "links": {
+              "self": "https://zenodo.org/api/records/18496890/files/S4.2.py/content"
+            }
+          },
+          {
+            "id": "fd3db7d1-2402-4eaa-b9b3-9eabc5f70266",
+            "key": "S5.1.4.md",
+            "size": 4236,
+            "checksum": "md5:750e3d22bf35fb92dab32bbf945b3486",
+            "links": {
+              "self": "https://zenodo.org/api/records/18496890/files/S5.1.4.md/content"
+            }
+          },
+          {
+            "id": "67733dfc-5bc2-4f98-9bf3-812837a8d7af",
+            "key": "S8.6.1.txt",
+            "size": 41,
+            "checksum": "md5:7d877bf91063a20984acf9f4c289370b",
+            "links": {
+              "self": "https://zenodo.org/api/records/18496890/files/S8.6.1.txt/content"
+            }
+          },
+          {
+            "id": "a37197bb-0bdf-4c24-91d1-615378adffec",
+            "key": "S8.6.py",
+            "size": 53486,
+            "checksum": "md5:904451cf252eb8267d1e73c3dbda517b",
+            "links": {
+              "self": "https://zenodo.org/api/records/18496890/files/S8.6.py/content"
+            }
+          },
+          {
+            "id": "6d53339d-e537-480d-9d45-0d7c79a014b1",
+            "key": "S4.6.txt",
+            "size": 1883,
+            "checksum": "md5:2f6c1540bf14256b79144d30b4779796",
+            "links": {
+              "self": "https://zenodo.org/api/records/18496890/files/S4.6.txt/content"
+            }
+          },
+          {
+            "id": "ad5db316-2dc1-4eae-bb79-84a7d48e9086",
+            "key": "S4.2.txt",
+            "size": 2695,
+            "checksum": "md5:a334dcfc89cea0ee903c8fc5ba661d56",
+            "links": {
+              "self": "https://zenodo.org/api/records/18496890/files/S4.2.txt/content"
+            }
+          },
+          {
+            "id": "a7bb146d-ccbb-4460-85e0-a7e5f4b02fc7",
+            "key": "S3.1.1.md",
+            "size": 8773,
+            "checksum": "md5:9ce31fe84ecbca511faab7b1f2008744",
+            "links": {
+              "self": "https://zenodo.org/api/records/18496890/files/S3.1.1.md/content"
+            }
+          },
+          {
+            "id": "2e009936-e787-4ef7-9c4c-2b37d6942e7c",
+            "key": "S6.6.md",
+            "size": 13729,
+            "checksum": "md5:7ff677e33a0c6220613c041805d7ddec",
+            "links": {
+              "self": "https://zenodo.org/api/records/18496890/files/S6.6.md/content"
+            }
+          },
+          {
+            "id": "f4f4add0-a928-4e84-830e-9a474466b56e",
+            "key": "S7.5.txt",
+            "size": 1053,
+            "checksum": "md5:17909e38d4c930647eaca6776a328c8c",
+            "links": {
+              "self": "https://zenodo.org/api/records/18496890/files/S7.5.txt/content"
+            }
+          },
+          {
+            "id": "cdf8f376-e2fe-43cf-8826-14f5b4a12583",
+            "key": "S2.3.1.md",
+            "size": 15769,
+            "checksum": "md5:3ff33585e74151d7b1fa9c6a0ddf77a2",
+            "links": {
+              "self": "https://zenodo.org/api/records/18496890/files/S2.3.1.md/content"
+            }
+          },
+          {
+            "id": "6e49f7fd-d170-4062-8cc3-4610e8bcc68e",
+            "key": "S5.2.1.md",
+            "size": 5038,
+            "checksum": "md5:6ecd0466d087541759c86e1b393cf715",
+            "links": {
+              "self": "https://zenodo.org/api/records/18496890/files/S5.2.1.md/content"
+            }
+          },
+          {
+            "id": "0fd280a4-0a17-478f-b200-90d9a82ebeda",
+            "key": "S1.6.md",
+            "size": 3968,
+            "checksum": "md5:a8d2d6c792a0fcd1005aaacfcb0082ec",
+            "links": {
+              "self": "https://zenodo.org/api/records/18496890/files/S1.6.md/content"
+            }
+          },
+          {
+            "id": "61c5f6ae-8375-4fa1-b3b0-d7659d8706f4",
+            "key": "S4.4.json",
+            "size": 2554,
+            "checksum": "md5:aa876b7b5b11b57b7151795704ea2826",
+            "links": {
+              "self": "https://zenodo.org/api/records/18496890/files/S4.4.json/content"
+            }
+          },
+          {
+            "id": "c85fc56b-ab4d-4d73-85d4-a6358b25dfdf",
+            "key": "S7.5.1.md",
+            "size": 98126,
+            "checksum": "md5:5a0e0043d532ff4328283a7d64a7ad8e",
+            "links": {
+              "self": "https://zenodo.org/api/records/18496890/files/S7.5.1.md/content"
+            }
+          },
+          {
+            "id": "533224ba-9f00-496c-872f-b6591b5f24d3",
+            "key": "S3.4.md",
+            "size": 4811,
+            "checksum": "md5:5ca389a7ad7ee32543c34661b34e2cf8",
+            "links": {
+              "self": "https://zenodo.org/api/records/18496890/files/S3.4.md/content"
+            }
+          },
+          {
+            "id": "35d63524-6903-4eca-ad65-28c19be14c55",
+            "key": "S4.1.1.py",
+            "size": 2790,
+            "checksum": "md5:f180799459b635f2036abf13c5becd7b",
+            "links": {
+              "self": "https://zenodo.org/api/records/18496890/files/S4.1.1.py/content"
+            }
+          },
+          {
+            "id": "0f4b9df9-eb99-4fed-a1fd-88ec240b2fa0",
+            "key": "S6.5.1.md",
+            "size": 16062,
+            "checksum": "md5:77f6b64680c026b395dda62e4e295b1b",
+            "links": {
+              "self": "https://zenodo.org/api/records/18496890/files/S6.5.1.md/content"
+            }
+          },
+          {
+            "id": "c4e189f4-e28b-4fa8-9df6-da816b5f9448",
+            "key": "S5.5.3.md",
+            "size": 11131,
+            "checksum": "md5:e0662768ad64c84ac82bf7369b734c0a",
+            "links": {
+              "self": "https://zenodo.org/api/records/18496890/files/S5.5.3.md/content"
+            }
+          },
+          {
+            "id": "1ed45bb9-5a49-4846-943a-02c23a0ffb5d",
+            "key": "S3.5.py",
+            "size": 4811,
+            "checksum": "md5:5ca389a7ad7ee32543c34661b34e2cf8",
+            "links": {
+              "self": "https://zenodo.org/api/records/18496890/files/S3.5.py/content"
+            }
+          },
+          {
+            "id": "110a3954-30e4-4935-8d59-13e37c88cdeb",
+            "key": "S4.5.txt",
+            "size": 1769,
+            "checksum": "md5:56ad1f5a5232ab08bd3fc00d3fb6d806",
+            "links": {
+              "self": "https://zenodo.org/api/records/18496890/files/S4.5.txt/content"
+            }
+          },
+          {
+            "id": "8601dabd-ae5a-4a63-80aa-10ed77c73cd3",
+            "key": "S4.1.json",
+            "size": 1780,
+            "checksum": "md5:ee6b2a9f6b7e6976c82077bed9e9cfb1",
+            "links": {
+              "self": "https://zenodo.org/api/records/18496890/files/S4.1.json/content"
+            }
+          },
+          {
+            "id": "a51a3e1a-7fd1-4bb8-b2e5-90881db4b467",
+            "key": "S3.1.2.md",
+            "size": 10377,
+            "checksum": "md5:87f1a36fa7da23226ab42cf23687c20c",
+            "links": {
+              "self": "https://zenodo.org/api/records/18496890/files/S3.1.2.md/content"
+            }
+          },
+          {
+            "id": "c5ae1a5d-ff95-4697-b359-ed4f6b6e8328",
+            "key": "S5.5.5.md",
+            "size": 10833,
+            "checksum": "md5:50402532ae8e88d0781382e8da7fff99",
+            "links": {
+              "self": "https://zenodo.org/api/records/18496890/files/S5.5.5.md/content"
+            }
+          },
+          {
+            "id": "7a77fffb-5aa4-4546-8b7c-452fc7f5f7a5",
+            "key": "S1.5.md",
+            "size": 4488,
+            "checksum": "md5:872c3bdbc01bf86e45011931929b0211",
+            "links": {
+              "self": "https://zenodo.org/api/records/18496890/files/S1.5.md/content"
+            }
+          },
+          {
+            "id": "66dc8565-00b6-43b4-8c47-9dccc8bec047",
+            "key": "S3.5.json",
+            "size": 2554,
+            "checksum": "md5:aa876b7b5b11b57b7151795704ea2826",
+            "links": {
+              "self": "https://zenodo.org/api/records/18496890/files/S3.5.json/content"
+            }
+          },
+          {
+            "id": "421206f9-0263-4a01-940e-c53e2060a403",
+            "key": "S4.5.py",
+            "size": 3298,
+            "checksum": "md5:02b5980dd7eb63d590d617724ab37b6d",
+            "links": {
+              "self": "https://zenodo.org/api/records/18496890/files/S4.5.py/content"
+            }
+          },
+          {
+            "id": "58f062c3-24b6-4341-b37c-bc9b32056df4",
+            "key": "S4.5.md",
+            "size": 15096,
+            "checksum": "md5:139e044f495b40fb30862e8c05f16661",
+            "links": {
+              "self": "https://zenodo.org/api/records/18496890/files/S4.5.md/content"
+            }
+          },
+          {
+            "id": "eb4063e6-ce68-46b4-9e61-e2a6ca6fecc5",
+            "key": "S2.4.md",
+            "size": 17629,
+            "checksum": "md5:7cb52f61cdddee52bc13b919a8d5437e",
+            "links": {
+              "self": "https://zenodo.org/api/records/18496890/files/S2.4.md/content"
+            }
+          },
+          {
+            "id": "febe99d9-c782-4bcf-89b5-41513b0b29ea",
+            "key": "S4.4.md",
+            "size": 38611,
+            "checksum": "md5:fd870774eab8588b73ffa81389d69227",
+            "links": {
+              "self": "https://zenodo.org/api/records/18496890/files/S4.4.md/content"
+            }
+          },
+          {
+            "id": "4bee248b-63ca-44bb-947f-1db957a6c24d",
+            "key": "S4.2.md",
+            "size": 10799,
+            "checksum": "md5:1a4c8b74d53a1eab290d9642bfb7ae34",
+            "links": {
+              "self": "https://zenodo.org/api/records/18496890/files/S4.2.md/content"
+            }
+          },
+          {
+            "id": "63d231c9-f169-453b-8fe1-e922e604bf24",
+            "key": "S2.3.md",
+            "size": 15707,
+            "checksum": "md5:930ac20bb0d7cc423869ad57b50ff526",
+            "links": {
+              "self": "https://zenodo.org/api/records/18496890/files/S2.3.md/content"
+            }
+          },
+          {
+            "id": "3772603d-8140-4d94-a735-617acc78bcc7",
+            "key": "S1.3.2.md",
+            "size": 4425,
+            "checksum": "md5:355262180f1f9e51de79f1e125f105ca",
+            "links": {
+              "self": "https://zenodo.org/api/records/18496890/files/S1.3.2.md/content"
+            }
+          },
+          {
+            "id": "726e6213-2172-4a5a-a48d-b88d338278a5",
+            "key": "S4.1.py",
+            "size": 3627,
+            "checksum": "md5:77eccfa2d7007c73a75e50e980e4118a",
+            "links": {
+              "self": "https://zenodo.org/api/records/18496890/files/S4.1.py/content"
+            }
+          },
+          {
+            "id": "66c306a3-5afd-4b0c-9ab0-b6feda541627",
+            "key": "S3.1.1.py",
+            "size": 17775,
+            "checksum": "md5:cafb95ea947edec5a23ba354a7f2facc",
+            "links": {
+              "self": "https://zenodo.org/api/records/18496890/files/S3.1.1.py/content"
+            }
+          },
+          {
+            "id": "68643b6d-1e50-40e3-9891-4fade0dfd97d",
+            "key": "S1.1.1.md",
+            "size": 3383,
+            "checksum": "md5:395058cc32ac9ef51309d1ead45bf4c3",
+            "links": {
+              "self": "https://zenodo.org/api/records/18496890/files/S1.1.1.md/content"
+            }
+          },
+          {
+            "id": "24225bf3-7027-4f19-84f7-2720c92680a2",
+            "key": "S5.1.1.md",
+            "size": 4678,
+            "checksum": "md5:7709aebbc11cd815b3d5104e793aa487",
+            "links": {
+              "self": "https://zenodo.org/api/records/18496890/files/S5.1.1.md/content"
+            }
+          },
+          {
+            "id": "ce418d4a-78c1-4ec1-a40d-47dc9d33da27",
+            "key": "S5.1.2.md",
+            "size": 5291,
+            "checksum": "md5:83561573ca5fd61bb4510d1fd84f3eb9",
+            "links": {
+              "self": "https://zenodo.org/api/records/18496890/files/S5.1.2.md/content"
+            }
+          },
+          {
+            "id": "18a91d07-1f5f-4c40-a84a-d2d34d1f4992",
+            "key": "S3.1.py",
+            "size": 23398,
+            "checksum": "md5:cd5b395f62b398e827809913d75265c6",
+            "links": {
+              "self": "https://zenodo.org/api/records/18496890/files/S3.1.py/content"
+            }
+          },
+          {
+            "id": "7baafa82-de3e-45d2-ba12-08c2b383a9cb",
+            "key": "S3.1.3.md",
+            "size": 10375,
+            "checksum": "md5:dfe260b5336f4f8e645275a165a826b1",
+            "links": {
+              "self": "https://zenodo.org/api/records/18496890/files/S3.1.3.md/content"
+            }
+          },
+          {
+            "id": "b55e56d0-8b73-4100-a78d-dc6d7f2621ba",
+            "key": "E.1.2.md",
+            "size": 10699,
+            "checksum": "md5:06328e40dd8c65e6f6678e8982237bfd",
+            "links": {
+              "self": "https://zenodo.org/api/records/18496890/files/E.1.2.md/content"
+            }
+          },
+          {
+            "id": "edd3e40c-0fc7-4a9b-b5b5-69c841a49d91",
+            "key": "S2.1.md",
+            "size": 25078,
+            "checksum": "md5:744bad16e084d3c1848d9421fa224b54",
+            "links": {
+              "self": "https://zenodo.org/api/records/18496890/files/S2.1.md/content"
+            }
+          },
+          {
+            "id": "5ad5400d-8b21-468f-ad54-dfc02fea8a3a",
+            "key": "E.1.4.md",
+            "size": 22401,
+            "checksum": "md5:5da463e550e762b8ddbb0beb04e4e2f1",
+            "links": {
+              "self": "https://zenodo.org/api/records/18496890/files/E.1.4.md/content"
+            }
+          },
+          {
+            "id": "df24dff7-7440-47ab-a07e-5cc091727b59",
+            "key": "E.1.md",
+            "size": 13994,
+            "checksum": "md5:262380735e5dadcba0cca06fe676d4ae",
+            "links": {
+              "self": "https://zenodo.org/api/records/18496890/files/E.1.md/content"
+            }
+          },
+          {
+            "id": "ae7f5823-eeca-4e4e-91e3-2183cb68b53e",
+            "key": "E.1.3.md",
+            "size": 10120,
+            "checksum": "md5:ed0fa7d35790bc50f004c4b4e1657ede",
+            "links": {
+              "self": "https://zenodo.org/api/records/18496890/files/E.1.3.md/content"
+            }
+          }
+        ],
+        "swh": null,
+        "owners": [
+          {
+            "id": "1328013"
+          }
+        ],
+        "status": "published",
+        "stats": {
+          "downloads": 326,
+          "unique_downloads": 320,
+          "views": 88,
+          "unique_views": 81,
+          "version_downloads": 326,
+          "version_unique_downloads": 320,
+          "version_unique_views": 81,
+          "version_views": 88
+        },
+        "state": "done",
+        "submitted": true
+      }
+    ],
+    "total": 163
+  },
+  "aggregations": {
+    "publication_date": {
+      "buckets": [
+        {
+          "key": "2025",
+          "doc_count": 5,
+          "label": "2025",
+          "is_selected": false
+        },
+        {
+          "key": "2026",
+          "doc_count": 158,
+          "label": "2026",
+          "is_selected": false
+        }
+      ],
+      "label": "Publication date"
+    },
+    "access_status": {
+      "buckets": [
+        {
+          "key": "open",
+          "doc_count": 163,
+          "label": "Open",
+          "is_selected": false
+        }
+      ],
+      "label": "Access status"
+    },
+    "resource_type": {
+      "buckets": [
+        {
+          "key": "publication",
+          "doc_count": 162,
+          "label": "Publication",
+          "is_selected": false,
+          "inner": {
+            "buckets": [
+              {
+                "key": "publication-workingpaper",
+                "doc_count": 128,
+                "label": "Working paper",
+                "is_selected": false
+              },
+              {
+                "key": "publication-preprint",
+                "doc_count": 18,
+                "label": "Preprint",
+                "is_selected": false
+              },
+              {
+                "key": "publication-other",
+                "doc_count": 6,
+                "label": "Other",
+                "is_selected": false
+              },
+              {
+                "key": "publication-technicalnote",
+                "doc_count": 5,
+                "label": "Technical note",
+                "is_selected": false
+              },
+              {
+                "key": "publication-report",
+                "doc_count": 2,
+                "label": "Report",
+                "is_selected": false
+              },
+              {
+                "key": "publication-dissertation",
+                "doc_count": 1,
+                "label": "Thesis",
+                "is_selected": false
+              }
+            ]
+          }
+        },
+        {
+          "key": "other",
+          "doc_count": 1,
+          "label": "Other",
+          "is_selected": false,
+          "inner": {
+            "buckets": []
+          }
+        }
+      ],
+      "label": "Resource types"
+    },
+    "subject": {
+      "buckets": [
+        {
+          "key": "epistemology",
+          "doc_count": 134,
+          "label": "epistemology",
+          "is_selected": false
+        },
+        {
+          "key": "foundations of quantum mechanics",
+          "doc_count": 79,
+          "label": "foundations of quantum mechanics",
+          "is_selected": false
+        },
+        {
+          "key": "philosophy of physics",
+          "doc_count": 79,
+          "label": "philosophy of physics",
+          "is_selected": false
+        },
+        {
+          "key": "QNFO",
+          "doc_count": 51,
+          "label": "QNFO",
+          "is_selected": false
+        },
+        {
+          "key": "consilience",
+          "doc_count": 50,
+          "label": "consilience",
+          "is_selected": false
+        },
+        {
+          "key": "philosophy of science",
+          "doc_count": 49,
+          "label": "philosophy of science",
+          "is_selected": false
+        },
+        {
+          "key": "QWAV",
+          "doc_count": 41,
+          "label": "QWAV",
+          "is_selected": false
+        },
+        {
+          "key": "research",
+          "doc_count": 41,
+          "label": "research",
+          "is_selected": false
+        },
+        {
+          "key": "p-adic",
+          "doc_count": 40,
+          "label": "p-adic",
+          "is_selected": false
+        },
+        {
+          "key": "chapter-fragment",
+          "doc_count": 38,
+          "label": "chapter-fragment",
+          "is_selected": false
+        }
+      ],
+      "label": "Subjects"
+    },
+    "file_type": {
+      "buckets": [
+        {
+          "key": "md",
+          "doc_count": 154,
+          "label": "MD",
+          "is_selected": false
+        },
+        {
+          "key": "pdf",
+          "doc_count": 103,
+          "label": "PDF",
+          "is_selected": false
+        },
+        {
+          "key": "zip",
+          "doc_count": 13,
+          "label": "ZIP",
+          "is_selected": false
+        },
+        {
+          "key": "py",
+          "doc_count": 10,
+          "label": "PY",
+          "is_selected": false
+        },
+        {
+          "key": "txt",
+          "doc_count": 9,
+          "label": "TXT",
+          "is_selected": false
+        },
+        {
+          "key": "json",
+          "doc_count": 8,
+          "label": "JSON",
+          "is_selected": false
+        },
+        {
+          "key": "html",
+          "doc_count": 5,
+          "label": "HTML",
+          "is_selected": false
+        },
+        {
+          "key": "tex",
+          "doc_count": 4,
+          "label": "TEX",
+          "is_selected": false
+        },
+        {
+          "key": "bib",
+          "doc_count": 3,
+          "label": "BIB",
+          "is_selected": false
+        },
+        {
+          "key": "bin",
+          "doc_count": 3,
+          "label": "BIN",
+          "is_selected": false
+        }
+      ],
+      "label": "File type"
+    }
+  },
+  "links": {
+    "self": "https://zenodo.org/api/records?page=1&q=QWAV&size=10&sort=bestmatch",
+    "next": "https://zenodo.org/api/records?page=2&q=QWAV&size=10&sort=bestmatch"
+  }
+}
