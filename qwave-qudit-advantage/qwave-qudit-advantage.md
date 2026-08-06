@@ -3,7 +3,7 @@ title: "The Qudit Advantage: System-Level Joules-per-Solution Comparison of a Qu
 author: "Rowan Brad Quni-Gudzinas"
 date: "2026-08-06"
 license: "QNFO Unified License Agreement (QNFO-ULA)"
-doi: "10.5281/zenodo.21827268"
+doi: "10.5281/zenodo.21827347"
 status: "published"
 keywords:
   - JPCUB
@@ -102,7 +102,7 @@ $$d_p(x, y) = p^{-v_p(x - y)}$$
 
 where $v_p$ is the $p$-adic valuation, hierarchically separates error clusters by valuation depth. Decoding on this tree is a natural hierarchical traversal — structurally identical to a radix trie [@B3_fredkin1960] — with complexity $\mathcal{O}(\log_p N)$ per logical operation, a sub-exponential improvement over planar-lattice decoders.
 
-Furthermore, the ultrametric geometry provides passive error resilience: errors at different valuation depths are exponentially separated by the metric, reducing the need for active syndrome extraction and ancilla qubits. This is the "QEC Darwinism" property — the environment naturally selects error clusters that are localized in the ultrametric hierarchy, and the tree structure passively separates them [speculative].
+Furthermore, the ultrametric geometry provides passive error resilience: errors at different valuation depths are exponentially separated by the metric, reducing the need for active syndrome extraction and ancilla qubits. The environment naturally selects error clusters that are localized in the ultrametric hierarchy, and the tree structure passively separates them [speculative].
 
 ---
 
@@ -230,7 +230,7 @@ The model carries significant uncertainties. The following constraints, identifi
 
 3. **The ultrametric decoder is theoretical.** No experimental fault-tolerance threshold has been computed for a Bruhat–Tits tree QEC code. The decoder complexity $\mathcal{O}(\log_p N)$ is an asymptotic bound; the constant factor and practical code distance may differ significantly. This is the largest unconstrained parameter in the model [speculative].
 
-4. **JPCUB is QNFO-internal.** The JPCUB framework [@C5_jpcub_p0] has zero external citations or independent validations as of 2026-08-06. The reported qudit advantage inherits the framework's credibility. Adversarial validation per the JPCUB P0 protocol is invited.
+4. **JPCUB has no external validation.** The JPCUB framework [@C5_jpcub_p0] has zero external citations or independent validations as of 2026-08-06. The reported qudit advantage inherits the framework's credibility. Adversarial validation per the JPCUB P0 protocol is invited.
 
 5. **NISQ-era applicability.** The model assumes a fault-tolerant regime (logical qubits, not physical qudits). For near-term noisy intermediate-scale qudit (NISQ) devices, the encoding-density advantage may be offset by higher per-gate energy at small circuit sizes. The JPCUB estimate here is a *fault-tolerant* projection, not a NISQ-era measurement.
 
@@ -263,7 +263,7 @@ This paper is the first to place all four discoveries — Shannon's $\log_2 d$, 
 ### 5.3 Calibration Register
 
 ```
-[CHECK: 2027] QNFO.UMP.005's qudit JPCUB estimate survives adversarial validation
+[CHECK: 2027] This paper's qudit JPCUB estimate survives adversarial validation
   per JPCUB P0 protocol — independent red-team reproduces the computation.
 Strength: [STRONG] | Status: [PENDING]
 

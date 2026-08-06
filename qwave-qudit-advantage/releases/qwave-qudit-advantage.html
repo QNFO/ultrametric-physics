@@ -479,10 +479,9 @@ decoders.</p>
 <p>Furthermore, the ultrametric geometry provides passive error
 resilience: errors at different valuation depths are exponentially
 separated by the metric, reducing the need for active syndrome
-extraction and ancilla qubits. This is the “QEC Darwinism” property —
-the environment naturally selects error clusters that are localized in
-the ultrametric hierarchy, and the tree structure passively separates
-them [speculative].</p>
+extraction and ancilla qubits. The environment naturally selects error
+clusters that are localized in the ultrametric hierarchy, and the tree
+structure passively separates them [speculative].</p>
 <hr />
 <h2 id="jpcub-model-for-the-qudit-architecture">3 JPCUB Model for the
 Qudit Architecture</h2>
@@ -884,11 +883,12 @@ class="math inline">\(\mathcal{O}(\log_p N)\)</span> is an asymptotic
 bound; the constant factor and practical code distance may differ
 significantly. This is the largest unconstrained parameter in the model
 [speculative].</p></li>
-<li><p><strong>JPCUB is QNFO-internal.</strong> The JPCUB framework
-<span class="citation" data-cites="C5_jpcub_p0">[@C5_jpcub_p0]</span>
-has zero external citations or independent validations as of 2026-08-06.
-The reported qudit advantage inherits the framework’s credibility.
-Adversarial validation per the JPCUB P0 protocol is invited.</p></li>
+<li><p><strong>JPCUB has no external validation.</strong> The JPCUB
+framework <span class="citation"
+data-cites="C5_jpcub_p0">[@C5_jpcub_p0]</span> has zero external
+citations or independent validations as of 2026-08-06. The reported
+qudit advantage inherits the framework’s credibility. Adversarial
+validation per the JPCUB P0 protocol is invited.</p></li>
 <li><p><strong>NISQ-era applicability.</strong> The model assumes a
 fault-tolerant regime (logical qubits, not physical qudits). For
 near-term noisy intermediate-scale qudit (NISQ) devices, the
@@ -1007,7 +1007,7 @@ this prediction requires experimental validation at room
 temperature.</p></li>
 </ol>
 <h3 id="calibration-register">5.3 Calibration Register</h3>
-<pre><code>[CHECK: 2027] QNFO.UMP.005&#39;s qudit JPCUB estimate survives adversarial validation
+<pre><code>[CHECK: 2027] This paper&#39;s qudit JPCUB estimate survives adversarial validation
   per JPCUB P0 protocol — independent red-team reproduces the computation.
 Strength: [STRONG] | Status: [PENDING]
 
