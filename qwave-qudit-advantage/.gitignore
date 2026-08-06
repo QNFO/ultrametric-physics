@@ -1,0 +1,32 @@
+# QNFO project gitignore
+
+# Build artifacts
+*.pdf
+*.html
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temp / ephemeral
+*.tmp
+*.log
+%TEMP%
+
+# Secrets
+keys.json
+.env
+*.token
+
+# Python
+.venv/
+venv/
+*.egg-info/
+dist/
+
+# Node
+node_modules/
+package-lock.json
