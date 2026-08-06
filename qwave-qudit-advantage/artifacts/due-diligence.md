@@ -39,7 +39,7 @@ KG and Vectorize queries returned 0 exact matches for "qudit JPCUB" — no inter
 | 2 | A universal qudit quantum processor with trapped ions (Ringbauer et al.) | 2022 | 365 | 10.1038/s41567-022-01658-0 |
 | 3 | A programmable qudit-based quantum processor (Chi et al.) | 2022 | 264 | 10.1038/s41467-022-28767-x |
 | 4 | Efficient realization of quantum algorithms with qudits (Low et al.) | 2024 | 35 | 10.1140/epjqt/s40507-024-00250-0 |
-| 5 | Universal Qudit Gate Synthesis for Transmons (Gokhale et al.) | 2023 | 61 | 10.1103/prxquantum.4.030327 |
+| 5 | Universal Qudit Gate Synthesis for Transmons (Fischer et al.) | 2023 | 61 | 10.1103/prxquantum.4.030327 |
 
 #### OpenAlex — qudit vs qubit comparison (1,389 total)
 | # | Paper | Year | Citations | DOI |

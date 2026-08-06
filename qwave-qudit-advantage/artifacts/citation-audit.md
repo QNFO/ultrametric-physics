@@ -27,7 +27,7 @@
 | C7_trapped_ion2020 | 10.1103/physrevresearch.2.033128 | ✅ | ✅ | 116 | ✅ PASS |
 | S1_rydberg2022 | 10.1103/physrevlett.129.160501 | ✅ | ✅ | 142 | ✅ PASS |
 | S2_qudit_surface2023 | 10.1007/s11128-023-04060-8 | ✅ | ✅ | <10 | ✅ PASS |
-| S3_gokhale2023 | 10.1103/prxquantum.4.030327 | ✅ | ✅ | 61 | ✅ PASS |
+| S3_fischer2023 | 10.1103/prxquantum.4.030327 | ✅ | ✅ | 61 | ✅ PASS |
 | S4_heydeman2018 | 10.4310/atmp.2018.v22.n1.a4 | ✅* | ✅* | 56 | ✅ PASS |
 | S5_nonarchimedean2021 | 10.4310/atmp.2021.v25.n3.a2 | ✅ | ✅ | 21 | ✅ PASS |
 | S6_chi2022 | 10.1038/s41467-022-28767-x | ✅ | ✅ | 264 | ✅ PASS |

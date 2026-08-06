@@ -3,7 +3,7 @@ title: "The Qudit Advantage: System-Level Joules-per-Solution Comparison of a Qu
 author: "Rowan Brad Quni-Gudzinas"
 date: "2026-08-06"
 license: "QNFO Unified License Agreement (QNFO-ULA)"
-doi: "10.5281/zenodo.21827347"
+doi: "10.5281/zenodo.21827737"
 status: "published"
 keywords:
   - JPCUB
@@ -42,7 +42,7 @@ abstract: >
 
 The joules-per-solution (JPCUB) framework [@C5_jpcub_p0] introduced a system-level energy-efficiency metric for quantum computing platforms: $J_{\text{CUB}} = P_{\text{sys}} \cdot t_{\text{sol}}$, where $P_{\text{sys}}$ is total system power consumption and $t_{\text{sol}}$ is the time to produce one verified solution. The companion JPCUB Competitive Landscape v2.0 [@C6_jpcub_landscape_v2] applied this metric to 17 quantum computing platforms whose specifications were extracted from published sources: 13 gate-model platforms (7 superconducting, 4 trapped-ion, 2 neutral-atom), 2 quantum annealers, 1 photonic platform, and 1 pre-commercial design target. Every platform in that landscape uses two-level quantum systems — qubits — with a Hilbert space of $\mathbb{C}^2$ per physical carrier.
 
-A separate line of research, extending back to Shannon's foundational work on communication theory [@B1_shannon1948], establishes a structural invariant: an alphabet of $d$ symbols carries $\log_2 d$ bits of information per symbol. In the specific case $d = 2$, this yields 1 bit per symbol — the qubit is, in information-theoretic terms, the *least* information-dense carrier possible. Quantum systems with $d > 2$ levels — qudits — have been studied extensively in the theoretical literature [@C1_wang2020; @C3_low2024] and demonstrated experimentally in trapped-ion [@C2_ringbauer2022], photonic [@S6_chi2022], and superconducting [@S3_gokhale2023] platforms. Yet no existing qudit platform has been benchmarked within the JPCUB framework, and no energy-efficiency comparison between qudit and qubit architectures has been published.
+A separate line of research, extending back to Shannon's foundational work on communication theory [@B1_shannon1948], establishes a structural invariant: an alphabet of $d$ symbols carries $\log_2 d$ bits of information per symbol. In the specific case $d = 2$, this yields 1 bit per symbol — the qubit is, in information-theoretic terms, the *least* information-dense carrier possible. Quantum systems with $d > 2$ levels — qudits — have been studied extensively in the theoretical literature [@C1_wang2020; @C3_low2024] and demonstrated experimentally in trapped-ion [@C2_ringbauer2022], photonic [@S6_chi2022], and superconducting [@S3_fischer2023] platforms. Yet no existing qudit platform has been benchmarked within the JPCUB framework, and no energy-efficiency comparison between qudit and qubit architectures has been published.
 
 This paper fills that gap. It models a qudit platform within the JPCUB framework and compares the resulting joules-per-solution estimate against the 17 qubit platforms from the JPCUB Landscape v2.0. The qudit platform is not a specific commercial implementation; rather, it is a theoretical architecture whose defining features are: (1) $p$-adic stabilizer codes on a Bruhat–Tits tree, (2) hierarchical ultrametric decoding, and (3) passive error resilience through ultrametric geometry. The motivation for this particular architecture is discussed in Section 2.
 

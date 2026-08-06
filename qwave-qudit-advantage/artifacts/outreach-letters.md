@@ -34,15 +34,15 @@
 
 ---
 
-## LETTER 2 — Yuchen Wang et al. (qudit review authors)
+## LETTER 2 — Sabre Kais (Purdue, qudit review corresponding author)
 
-**Reference:** Wang et al., "Qudits and High-Dimensional Quantum Computing," Frontiers in Physics 8, 2020 (10.3389/fphy.2020.589504)
+**Reference:** Wang, Hu, Sanders, Kais, "Qudits and High-Dimensional Quantum Computing," Frontiers in Physics 8, 2020 (10.3389/fphy.2020.589504)
 
-**Recipient email:** verify via paper / Frontiers profile before send
+**Recipient email:** kais@purdue.edu (verified from arXiv 2008.00959 source)
 
-> Dear Dr. Wang,
+> Dear Dr. Kais,
 >
-> I am an independent researcher working on energy-efficient quantum computation. Your review "Qudits and High-Dimensional Quantum Computing" (2020) is the definitive survey of the field, and my recent work builds directly on the qudit framework it consolidates.
+> I am an independent researcher working on energy-efficient quantum computation. Your review "Qudits and High-Dimensional Quantum Computing" (2020, with Wang, Hu, and Sanders) is the definitive survey of the field, and my recent work builds directly on the qudit framework it consolidates.
 >
 > I have extended a system-level energy benchmark (JPCUB, joules per solution) from qubit platforms to a qudit architecture based on p-adic stabilizer codes on Bruhat-Tits trees with hierarchical ultrametric decoding. The model projects ~10^-5 J/sol for d = 7 vs. the 0.05 J/sol superconducting-qubit floor, driven by dimensional encoding density, sub-exponential decoding, and passive error resilience. The paper (DOI 10.5281/zenodo.21827347) pre-registers an explicit disconfirmation condition and invites adversarial validation.
 >
@@ -54,15 +54,15 @@
 
 ---
 
-## LETTER 3 — Prakash Gokhale (Infleqtion / Super.tech, transmons)
+## LETTER 3 — Ivano Tavernelli (IBM Research Zurich, superconducting qudits)
 
-**Reference:** Gokhale et al., "Universal Qudit Gate Synthesis for Transmons," PRX Quantum 4, 2023 (10.1103/prxquantum.4.030327)
+**Reference:** Fischer, Chiesa, Tacchino, Egger, Carretta, Tavernelli, "Universal Qudit Gate Synthesis for Transmons," PRX Quantum 4, 2023 (10.1103/prxquantum.4.030327)
 
-**Recipient email:** verify via company profile before send
+**Recipient email:** verify via IBM Research profile before send (paper source lists aur@zurich.ibm.com / ita@zurich.ibm.com — the arXiv contact addresses for the paper's IBM Zurich authors)
 
-> Dear Dr. Gokhale,
+> Dear Dr. Tavernelli,
 >
-> I am an independent researcher in energy-efficient quantum computation. Your 2023 PRX Quantum work on universal qudit gate synthesis for transmons is directly relevant to a joules-per-solution comparison I have built between qudit and qubit architectures.
+> I am an independent researcher in energy-efficient quantum computation. Your 2023 PRX Quantum work with Fischer, Chiesa, Tacchino, Egger, and Carretta on universal qudit gate synthesis for transmons is directly relevant to a joules-per-solution comparison I have built between qudit and qubit architectures.
 >
 > The JPCUB framework (joules per solution — 10.5281/zenodo.21637028, with 17 qubit platforms benchmarked at 10.5281/zenodo.21821767) has been extended to a qudit architecture using p-adic stabilizer codes on Bruhat-Tits trees. A key claim is that superconducting-qudit platforms may inherit the dimensional-advantage argument — your gate synthesis work is the physical basis for that. The paper is at 10.5281/zenodo.21827347.
 >

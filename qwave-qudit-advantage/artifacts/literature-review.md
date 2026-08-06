@@ -47,7 +47,7 @@
 |:--|:------|:-----|:----------|:----|:---------------|
 | S1 | Hardware Efficient Quantum Simulation of Non-Abelian Gauge Theories with Qudits on Rydberg Platforms | 2022 | 142 | 10.1103/physrevlett.129.160501 | Demonstrates qudit advantage for lattice gauge theory simulation — supports the "qudit = natural for gauge theories" argument. |
 | S2 | Qudit surface codes and hypermap codes | 2023 | <10 | 10.1007/s11128-023-04060-8 | Extends surface code QEC to qudits — provides error-threshold estimates for qudit QEC, relevant for the decoder energy model. |
-| S3 | Universal Qudit Gate Synthesis for Transmons | 2023 | 61 | 10.1103/prxquantum.4.030327 | Superconducting qudit gate synthesis — useful for comparing physical-gate energy across qubit vs qudit superconducting platforms. |
+| S3 | Universal Qudit Gate Synthesis for Transmons (Fischer et al.) | 2023 | 61 | 10.1103/prxquantum.4.030327 | Superconducting qudit gate synthesis — provides physical-gate energy comparison basis. |
 | S4 | Tensor networks, $p$-adic fields, and algebraic curves (Heydeman et al.) | 2018 | 56 | 10.4310/atmp.2018.v22.n1.a4 | Connects $p$-adic geometry to tensor networks — supports the Bruhat-Tits tree as a natural tensor-network substrate for QEC. |
 | S5 | Nonarchimedean holographic entropy from networks of perfect tensors | 2021 | 21 | 10.4310/atmp.2021.v25.n3.a2 | Extends the $p$-adic tensor network framework — supports the holographic entropy argument for ultrametric QEC. |
 | S6 | A programmable qudit-based quantum processor (Chi et al.) | 2022 | 264 | 10.1038/s41467-022-28767-x | Programmable qudit processor with photonic qudits — provides alternative physical implementation for qudit energy model. |
