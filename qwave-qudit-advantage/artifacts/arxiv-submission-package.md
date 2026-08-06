@@ -1,7 +1,14 @@
 # arXiv quant-ph Submission Package — QNFO.UMP.005
 
+> **⚠️ STATUS: BLOCKED — NO arXiv ENDORSEMENT (2026-08-06).**
+> The author does not hold endorsement to post to any arXiv category, and the standing
+> preference is direct journal submission. **This package is superseded by
+> `journal-submission-strategy.md`.** Retained for reference if endorsement is later
+> granted (e.g., after a journal publication, arXiv endorsement can be requested from
+> an established author in quant-ph).
+
 **Paper:** The Qudit Advantage: System-Level Joules-per-Solution Comparison of a Qudit Architecture Against 17 Conventional Qubit Quantum Computing Platforms
-**DOI:** 10.5281/zenodo.21827347 (v0.3)
+**DOI:** 10.5281/zenodo.21827737 (v0.4 — canonical; supersedes 21827347 v0.3)
 **Author:** Rowan Brad Quni-Gudzinas (Independent Researcher, QNFO)
 **ORCID:** 0009-0002-4317-5604
 **Date:** 2026-08-06
