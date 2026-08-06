@@ -6,6 +6,30 @@
 
 ---
 
+## ⏸ DECISION RECORD — SUBMISSION DEFERRED (2026-08-06)
+
+**Decision:** Journal submission is **DEFERRED indefinitely** — user assessed the value-add against cost (APC fees, review time, formatting overhead) and chose not to submit now.
+
+**Rationale (user-stated):** "I don't see value add given the cost."
+
+**Current value realized without journal publication:**
+- Zenodo v0.4 DOI live (DataCite findable, 15 subjects, PhilPapers-optimized keywords)
+- OpenAlex auto-indexed (author A5133504808)
+- 5 targeted outreach emails sent (Ringbauer, Kais, Tavernelli, Heydeman, Lei)
+- papers.qnfo.org live
+
+**Re-evaluation trigger:** A scheduled reminder (cronjob `qwave-qudit-journal-reconsider`, ~2026-11-06) will re-assess whether journal submission now carries value. Conditions that would change the calculus:
+1. Any outreach reply indicating substantive engagement → a journal submission would formalize the connection
+2. External citation of the DOI → journal version would add credibility weight
+3. A venue with waived/low APC (Quantum diamond-OA is free) → cost objection removed
+4. PhilPapers indexing confirmed → philosophy-of-physics discoverability already working without a journal
+
+**Re-evaluation conditions that would NOT change the calculus:**
+- No external engagement with the work (journal submission alone does not generate readers)
+- The [speculative] status of the core claim (a journal would not convert speculation into validation)
+
+---
+
 ## Why this works without arXiv
 
 - Zenodo → DataCite → **OpenAlex auto-indexing** (your author `A5133504808` exists) gives the paper scholarly-index presence equivalent to an arXiv listing for discovery purposes.
@@ -24,7 +48,7 @@
 | **AVS Quantum Science** | OA | ★★★☆☆ | Interdisciplinary — energy efficiency angle fits. |
 | **Entropy** (MDPI) | OA, APC | ★★★☆☆ | Information-theoretic framing (Shannon, Landauer) fits well; fast review. |
 
-**Recommendation:** submit to **Frontiers in Physics** first (same venue as the review you build on — reviewer pool likely to include the field's qudit researchers). Fallback: **EPJ Quantum Technology**. Highest-prestige option: **Quantum**.
+**Recommendation (if/when submitting):** **Frontiers in Physics** first (same venue as the review you build on — reviewer pool likely to include the field's qudit researchers). Fallback: **EPJ Quantum Technology**. Highest-prestige option: **Quantum** (also the cheapest — diamond OA).
 
 ## Submission Checklist (before sending)
 
@@ -49,7 +73,7 @@
 
 ## Next actions
 
-- [ ] User selects journal (recommendation: Frontiers in Physics)
-- [ ] Draft cover letter (I can draft this on request)
-- [ ] Submit via journal portal (needs user account)
+- [ ] **DEFERRED 2026-08-06** — user decision: no journal submission now (value < cost). Re-evaluate via cronjob reminder (~2026-11-06).
+- [x] Cover letter drafted (`cover-letter-frontiers.md`, commit 4e15a26) — ready if/when the calculus changes.
+- [ ] On submission decision: submit via journal portal (needs user account)
 - [ ] On acceptance: newversion v0.5 with journal cross-reference in metadata (`related_identifiers: isPublishedIn`)
