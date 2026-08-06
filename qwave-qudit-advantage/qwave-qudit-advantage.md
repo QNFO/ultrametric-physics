@@ -3,7 +3,7 @@ title: "The Qudit Advantage: System-Level Joules-per-Solution Comparison of a Qu
 author: "Rowan Brad Quni-Gudzinas"
 date: "2026-08-06"
 license: "QNFO Unified License Agreement (QNFO-ULA)"
-doi: "10.5281/zenodo.21826679"
+doi: "10.5281/zenodo.21827268"
 status: "published"
 keywords:
   - JPCUB
