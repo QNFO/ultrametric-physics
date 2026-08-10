@@ -1,0 +1,865 @@
+{
+  "status": "ok",
+  "message-type": "work-list",
+  "message-version": "1.0.0",
+  "message": {
+    "facets": {},
+    "total-results": 673060,
+    "items": [
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2025,
+              12,
+              18
+            ]
+          ],
+          "date-time": "2025-12-18T10:41:39Z",
+          "timestamp": 1766054499744,
+          "version": "3.48.0"
+        },
+        "posted": {
+          "date-parts": [
+            [
+              2025
+            ]
+          ]
+        },
+        "group-title": "SSRN",
+        "reference-count": 0,
+        "publisher": "Elsevier BV",
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "DOI": "10.2139/ssrn.5732902",
+        "type": "posted-content",
+        "created": {
+          "date-parts": [
+            [
+              2025,
+              12,
+              18
+            ]
+          ],
+          "date-time": "2025-12-18T10:38:31Z",
+          "timestamp": 1766054311000
+        },
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Dual-Strand Geometric Analysis of DNA Sequences: Information Enhancement Through Cardinal Coordinate Transformation"
+        ],
+        "prefix": "10.2139",
+        "author": [
+          {
+            "given": "Kundai Farai",
+            "family": "Sachikonye",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "member": "78",
+        "deposited": {
+          "date-parts": [
+            [
+              2025,
+              12,
+              18
+            ]
+          ],
+          "date-time": "2025-12-18T10:38:31Z",
+          "timestamp": 1766054311000
+        },
+        "score": 27.400566,
+        "resource": {
+          "primary": {
+            "URL": "https://www.ssrn.com/abstract=5732902"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2025
+            ]
+          ]
+        },
+        "references-count": 0,
+        "URL": "https://doi.org/10.2139/ssrn.5732902",
+        "published": {
+          "date-parts": [
+            [
+              2025
+            ]
+          ]
+        },
+        "subtype": "preprint"
+      },
+      {
+        "institution": [
+          {
+            "name": "San Jose State University",
+            "acronym": [
+              "SJSU",
+              "SJSU"
+            ],
+            "place": [
+              "San Jose, CA, USA"
+            ],
+            "department": [
+              "Mathematics"
+            ]
+          }
+        ],
+        "indexed": {
+          "date-parts": [
+            [
+              2022,
+              4,
+              1
+            ]
+          ],
+          "date-time": "2022-04-01T19:24:23Z",
+          "timestamp": 1648841063210
+        },
+        "reference-count": 0,
+        "publisher": "San Jose State University Library",
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "DOI": "10.31979/etd.e5yv-jqxx",
+        "type": "dissertation",
+        "created": {
+          "date-parts": [
+            [
+              2019,
+              5,
+              3
+            ]
+          ],
+          "date-time": "2019-05-03T12:26:30Z",
+          "timestamp": 1556886390000
+        },
+        "approved": {
+          "date-parts": [
+            [
+              2011,
+              1,
+              1
+            ]
+          ]
+        },
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Integer Factorization Methods"
+        ],
+        "prefix": "10.31979",
+        "author": [
+          {
+            "given": "Stephanie Faith",
+            "family": "Vergara",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "San Jose State University"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "member": "16862",
+        "link": [
+          {
+            "URL": "https://scholarworks.sjsu.edu/cgi/viewcontent.cgi?article=5114&amp;context=etd_theses&amp;unstamped=1",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2019,
+              5,
+              3
+            ]
+          ],
+          "date-time": "2019-05-03T12:27:02Z",
+          "timestamp": 1556886422000
+        },
+        "score": 26.73959,
+        "degree": [
+          "Master of Science (MS)"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://scholarworks.sjsu.edu/etd_theses/4115"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              null
+            ]
+          ]
+        },
+        "references-count": 0,
+        "URL": "https://doi.org/10.31979/etd.e5yv-jqxx"
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2025,
+              12,
+              3
+            ]
+          ],
+          "date-time": "2025-12-03T17:38:23Z",
+          "timestamp": 1764783503994,
+          "version": "3.40.4"
+        },
+        "publisher-location": "Boston, MA",
+        "reference-count": 28,
+        "publisher": "Springer US",
+        "isbn-type": [
+          {
+            "type": "print",
+            "value": "9781475738186"
+          },
+          {
+            "type": "electronic",
+            "value": "9781475738162"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2004
+            ]
+          ]
+        },
+        "DOI": "10.1007/978-1-4757-3816-2_3",
+        "type": "book-chapter",
+        "created": {
+          "date-parts": [
+            [
+              2013,
+              4,
+              30
+            ]
+          ],
+          "date-time": "2013-04-30T16:46:08Z",
+          "timestamp": 1367340368000
+        },
+        "page": "139-191",
+        "source": "Crossref",
+        "is-referenced-by-count": 2,
+        "title": [
+          "Integer Factorization and Discrete Logarithms"
+        ],
+        "prefix": "10.1007",
+        "author": [
+          {
+            "given": "Song Y.",
+            "family": "Yan",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "member": "297",
+        "reference": [
+          {
+            "key": "3_CR1",
+            "doi-asserted-by": "crossref",
+            "unstructured": "L. M. Adleman, “A Subexponential Algorithmic for the Discrete Logarithm Problem with Applications to Cryptography”, Proceedings of the 20th Annual IEEE Symposium on Foundations of Computer Science, IEEE Press, 1979, 5560.",
+            "DOI": "10.1109/SFCS.1979.2"
+          },
+          {
+            "key": "3_CR2",
+            "doi-asserted-by": "crossref",
+            "unstructured": "L. M. Adleman, “Algorithmic Number Theory–The Complexity Contribution”, Proceedings of the 35thAnnual IEEE Symposium on Foundations of Computer Science, IEEE Press, 1994, 88–113.",
+            "DOI": "10.1109/SFCS.1994.365702"
+          },
+          {
+            "key": "3_CR3",
+            "unstructured": "E. Bach, M. Giesbrecht and J. McInnes, TheComplexity of Number Theoretical Algorithms, Technical Report 247/91, Department of Computer Science, University of Toronto, 1991."
+          },
+          {
+            "key": "3_CR4",
+            "unstructured": "E. Bach and J. Shallit, Algorithmic Number Theory I - Efficient Algorithms, MIT Press, 1996."
+          },
+          {
+            "key": "3_CR5",
+            "doi-asserted-by": "crossref",
+            "unstructured": "R. P. Brent, “Recent progress and prospects for integer factorisation algorithms”, Proc. COCOON 2000 (Sydney. July 2000), Lecture Notes in Computer Science, Volume 1858, Springer-Verlag, 2000, 3–22.",
+            "DOI": "10.1007/3-540-44968-X_2"
+          },
+          {
+            "key": "3_CR6",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1007/978-1-4612-4544-5",
+            "volume-title": "Factorization and Primality Testing",
+            "author": "DM Bressoud",
+            "year": "1989",
+            "unstructured": "D. M. Bressoud, Factorization and Primality Testing, Undergraduate Texts in Mathematics, Springer-Verlag, 1989."
+          },
+          {
+            "key": "3_CR7",
+            "doi-asserted-by": "crossref",
+            "unstructured": "J. P. Buhler (editor), Algorithmic Number Theory, Third International Symposium, ANTS-III, Proceedings, Lecture Notes in Computer Science1423, Springer-Verlag, 1998.",
+            "DOI": "10.1007/BFb0054849"
+          },
+          {
+            "key": "3_CR8",
+            "doi-asserted-by": "crossref",
+            "unstructured": "S. A. Burr (editor), The Unreasonable Effectiveness of Number Theory, Proceedings of Symposia in Applied Mathematics46, American Mathematical Society, 1992.",
+            "DOI": "10.1090/psapm/046"
+          },
+          {
+            "key": "3_CR9",
+            "doi-asserted-by": "crossref",
+            "unstructured": "H. Cohen, ACourse in Computational Algebraic Number Theory, Graduate Texts in Mathematics138, Springer-Verlag, 1993.",
+            "DOI": "10.1007/978-3-662-02945-9"
+          },
+          {
+            "key": "3_CR10",
+            "unstructured": "T. H. Cormen, C. E. Ceiserson and R. L. Rivest, Introduction to Algorithms, MIT Press, 1990."
+          },
+          {
+            "key": "3_CR11",
+            "doi-asserted-by": "crossref",
+            "unstructured": "D. M. Gordon and K. S. McCurley, “Massively Parallel Computation of Discrete Logarithms”, Advances in Cryptography, Crypto ‘82, Proceedings, Lecture Notes in Computer Science740, Springer-Verlag, 1992, 312–323.",
+            "DOI": "10.1007/3-540-48071-4_22"
+          },
+          {
+            "key": "3_CR12",
+            "unstructured": "R. M. Huizing, An Implementation of the Number Field Sieve, Note NM-R9511, Centre for Mathematics and Computer Science (CWI), Amsterdam, 1995."
+          },
+          {
+            "key": "3_CR13",
+            "doi-asserted-by": "publisher",
+            "first-page": "41",
+            "DOI": "10.1023/A:1008312401197",
+            "volume": "20",
+            "author": "MJ Jacobson",
+            "year": "2000",
+            "unstructured": "M. J. Jacobson, N. Koblitz, J. H. Silverman, A. Stein, E. Teske, “Analysis of the Xedni Calculus Attack”, Designs. Codes and Cryptography, 20, 2000, 41–64.",
+            "journal-title": "Designs Codes and Cryptography"
+          },
+          {
+            "key": "3_CR14",
+            "unstructured": "D. E. Knuth, The Art of Computer Programming II - Seminumerical Algorithms, 3rd Edition, Addison-Wesley, 1998."
+          },
+          {
+            "key": "3_CR15",
+            "doi-asserted-by": "publisher",
+            "first-page": "649",
+            "DOI": "10.2307/1971363",
+            "volume": "126",
+            "author": "HW Lenstra",
+            "year": "1987",
+            "unstructured": "H. W. Lenstra, Jr., “Factoring Integers with Elliptic Curves”, Annals of Mathematics, 126 (1987), 649–673.",
+            "journal-title": "Annals of Mathematics"
+          },
+          {
+            "key": "3_CR16",
+            "doi-asserted-by": "crossref",
+            "unstructured": "A. K. Lenstra and H. W. Lenstra, Jr. (editors), The Development of the Number Field Sieve, Lecture Notes in Mathematics1554, Springer-Verlag, 1993.",
+            "DOI": "10.1007/BFb0091534"
+          },
+          {
+            "key": "3_CR17",
+            "doi-asserted-by": "crossref",
+            "unstructured": "K. S. McCurley, “The Discrete Logarithm Problem”, in:Cryptology and ComputationalNumber Theory, edited by C. Pomerance, Proceedings of Symposia in Applied Mathematics 42, American Mathematics Society, 1990, pp 49–74.",
+            "DOI": "10.1090/psapm/042/1095551"
+          },
+          {
+            "key": "3_CR18",
+            "unstructured": "A. M. Odlyzko, “Discrete Logarithms in Finite Fields and their Cryptographic Significance”, Advances in Cryptography, EUROCRYPT ‘84, Proceedings, Lecture Notes in Computer Science209, Springer-Verlag, 1984, 225–314."
+          },
+          {
+            "key": "3_CR19",
+            "doi-asserted-by": "publisher",
+            "first-page": "106",
+            "DOI": "10.1109/TIT.1978.1055817",
+            "volume": "24",
+            "author": "SC Pohlig",
+            "year": "1978",
+            "unstructured": "S. C. Pohlig and M. Hellman, “An Improved Algorithm for Computing Logarithms over GF(p) and its Cryptographic Significance”, IEEE Transactions on Information Theory, 24 (1978), 106–110.",
+            "journal-title": "IEEE Transactions on Information Theory"
+          },
+          {
+            "key": "3_CR20",
+            "doi-asserted-by": "crossref",
+            "unstructured": "C. Pomerance, “Cryptology and Computational Number Theory–An Introduction”, Cryptology and Computational Number Theory, edited by C. Pomerance, Proceedings of Symposia in Applied Mathematics 42, American Mathematical Society, 1990, 1–12.",
+            "DOI": "10.1090/psapm/042/1095548"
+          },
+          {
+            "key": "3_CR21",
+            "volume-title": "Prime Numbers and Computer Methods for Factorization",
+            "author": "H Riesel",
+            "year": "1990",
+            "unstructured": "H. Riesel, Prime Numbers and Computer Methods for Factorization, Birkhäuser, Boston, 1990."
+          },
+          {
+            "key": "3_CR22",
+            "doi-asserted-by": "publisher",
+            "first-page": "110",
+            "DOI": "10.1007/3-540-49649-1_10",
+            "volume": "1514",
+            "author": "JH Silverman",
+            "year": "1998",
+            "unstructured": "J. H. Silverman and J. Suzuki, “Elliptic Curve Discrete Logarithms and the Index Calculus”, Advances in Cryptology — ASIACRYPT ‘88, Springer Lecture Notes in Computer Science1514, 1998, 110–125.",
+            "journal-title": "Springer Lecture Notes in Computer Science"
+          },
+          {
+            "key": "3_CR23",
+            "doi-asserted-by": "publisher",
+            "first-page": "5",
+            "DOI": "10.1023/A:1008319518035",
+            "volume": "20",
+            "author": "JH Silverman",
+            "year": "2000",
+            "unstructured": "J. H. Silverman, “The Xedni Calculus and the Elliptic Curve Discrete Logarithm Problem”, Designs. Codes and Cryptography, 20, 2000, 5–40.",
+            "journal-title": "Codes and Cryptography"
+          },
+          {
+            "key": "3_CR24",
+            "doi-asserted-by": "publisher",
+            "first-page": "329",
+            "DOI": "10.1090/S0025-5718-1987-0866119-8",
+            "volume": "48",
+            "author": "RD Silverman",
+            "year": "1987",
+            "unstructured": "R. D. Silverman, ‘The Multiple Polynomial Quadratic Sieve“, Mathematics of Computation, 48 (1987), 329–339.",
+            "journal-title": "Mathematics of Computation"
+          },
+          {
+            "issue": "11",
+            "key": "3_CR25",
+            "doi-asserted-by": "publisher",
+            "first-page": "95",
+            "DOI": "10.1145/125490.125504",
+            "volume": "34",
+            "author": "RD Silverman",
+            "year": "1991",
+            "unstructured": "R. D. Silverman, “Massively Distributed Computing and Factoring Large Integers”, Communications of the ACM, 34, 11 (1991), 95–103.",
+            "journal-title": "Communications of the ACM"
+          },
+          {
+            "issue": "2",
+            "key": "3_CR26",
+            "doi-asserted-by": "publisher",
+            "first-page": "75",
+            "DOI": "10.1016/0898-1221(82)90026-8",
+            "volume": "8",
+            "author": "HC Williams",
+            "year": "1982",
+            "unstructured": "H. C. Williams, “The Influence of Computers in theDevelopment of Number Theory”, Computers &Mathematics with Applications, 8, 2 (1982), 75–93.",
+            "journal-title": "Mathematics with Applications"
+          },
+          {
+            "issue": "3",
+            "key": "3_CR27",
+            "doi-asserted-by": "publisher",
+            "first-page": "29",
+            "DOI": "10.1007/BF03024126",
+            "volume": "6",
+            "author": "HC Williams",
+            "year": "1984",
+            "unstructured": "H. C. Williams, “Factoring on a Computer”, Mathematical Intelligencer, 6, 3 (1984), 29–36.",
+            "journal-title": "Mathematical Intelligencer"
+          },
+          {
+            "key": "3_CR28",
+            "doi-asserted-by": "crossref",
+            "unstructured": "S. Y. Yan, Number Theory for Computing, 2nd Edition, Springer-Verlag, 2002.",
+            "DOI": "10.1007/978-3-662-04773-6"
+          }
+        ],
+        "container-title": [
+          "Advances in Information Security",
+          "Primality Testing and Integer Factorization in Public-Key Cryptography"
+        ],
+        "link": [
+          {
+            "URL": "http://link.springer.com/content/pdf/10.1007/978-1-4757-3816-2_3",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2025,
+              4,
+              30
+            ]
+          ],
+          "date-time": "2025-04-30T07:14:52Z",
+          "timestamp": 1745997292000
+        },
+        "score": 25.930618,
+        "resource": {
+          "primary": {
+            "URL": "http://link.springer.com/10.1007/978-1-4757-3816-2_3"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2004
+            ]
+          ]
+        },
+        "ISBN": [
+          "9781475738186",
+          "9781475738162"
+        ],
+        "references-count": 28,
+        "URL": "https://doi.org/10.1007/978-1-4757-3816-2_3",
+        "ISSN": [
+          "1568-2633"
+        ],
+        "issn-type": [
+          {
+            "type": "print",
+            "value": "1568-2633"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2004
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2025,
+              3,
+              28
+            ]
+          ],
+          "date-time": "2025-03-28T04:27:02Z",
+          "timestamp": 1743136022633,
+          "version": "3.40.3"
+        },
+        "publisher-location": "Boston, MA",
+        "reference-count": 0,
+        "publisher": "Springer US",
+        "isbn-type": [
+          {
+            "type": "print",
+            "value": "9780387772677"
+          },
+          {
+            "type": "electronic",
+            "value": "9780387772684"
+          }
+        ],
+        "license": [
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2008,
+                  10,
+                  21
+                ]
+              ],
+              "date-time": "2008-10-21T00:00:00Z",
+              "timestamp": 1224547200000
+            },
+            "content-version": "tdm",
+            "delay-in-days": 0,
+            "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+          },
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2008,
+                  10,
+                  21
+                ]
+              ],
+              "date-time": "2008-10-21T00:00:00Z",
+              "timestamp": 1224547200000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+          }
+        ],
+        "content-domain": {
+          "domain": [
+            "link.springer.com"
+          ],
+          "crossmark-restriction": false
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2009
+            ]
+          ]
+        },
+        "DOI": "10.1007/978-0-387-77268-4_3",
+        "type": "book-chapter",
+        "created": {
+          "date-parts": [
+            [
+              2009,
+              3,
+              26
+            ]
+          ],
+          "date-time": "2009-03-26T10:02:14Z",
+          "timestamp": 1238061734000
+        },
+        "page": "209-285",
+        "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Integer Factorization and Discrete Logarithms"
+        ],
+        "prefix": "10.1007",
+        "author": [
+          {
+            "given": "Song Y.",
+            "family": "Yan",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "member": "297",
+        "published-online": {
+          "date-parts": [
+            [
+              2008,
+              10,
+              21
+            ]
+          ]
+        },
+        "container-title": [
+          "Advances in Information Security",
+          "Primality Testing and Integer Factorization in Public-Key Cryptography"
+        ],
+        "language": "en",
+        "link": [
+          {
+            "URL": "https://link.springer.com/content/pdf/10.1007/978-0-387-77268-4_3",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2023,
+              2,
+              10
+            ]
+          ],
+          "date-time": "2023-02-10T18:58:35Z",
+          "timestamp": 1676055515000
+        },
+        "score": 25.788746,
+        "resource": {
+          "primary": {
+            "URL": "https://link.springer.com/10.1007/978-0-387-77268-4_3"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2008,
+              10,
+              21
+            ]
+          ]
+        },
+        "ISBN": [
+          "9780387772677",
+          "9780387772684"
+        ],
+        "references-count": 0,
+        "URL": "https://doi.org/10.1007/978-0-387-77268-4_3",
+        "ISSN": [
+          "1568-2633"
+        ],
+        "issn-type": [
+          {
+            "type": "print",
+            "value": "1568-2633"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2008,
+              10,
+              21
+            ]
+          ]
+        },
+        "assertion": [
+          {
+            "value": "21 October 2008",
+            "order": 1,
+            "name": "first_online",
+            "label": "First Online",
+            "group": {
+              "name": "ChapterHistory",
+              "label": "Chapter History"
+            }
+          }
+        ]
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2024,
+              9,
+              11
+            ]
+          ],
+          "date-time": "2024-09-11T16:49:56Z",
+          "timestamp": 1726073396736
+        },
+        "edition-number": "0",
+        "reference-count": 0,
+        "publisher": "Chapman and Hall/CRC",
+        "isbn-type": [
+          {
+            "type": "electronic",
+            "value": "9780429090516"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2016,
+              4,
+              19
+            ]
+          ]
+        },
+        "DOI": "10.1201/b14045-9",
+        "type": "book-chapter",
+        "created": {
+          "date-parts": [
+            [
+              2020,
+              7,
+              9
+            ]
+          ],
+          "date-time": "2020-07-09T17:19:41Z",
+          "timestamp": 1594315181000
+        },
+        "page": "315-362",
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Integer Factorization"
+        ],
+        "prefix": "10.1201",
+        "member": "301",
+        "container-title": [
+          "Computational Number Theory"
+        ],
+        "language": "en",
+        "deposited": {
+          "date-parts": [
+            [
+              2021,
+              4,
+              10
+            ]
+          ],
+          "date-time": "2021-04-10T17:47:43Z",
+          "timestamp": 1618076863000
+        },
+        "score": 25.76337,
+        "resource": {
+          "primary": {
+            "URL": "https://www.taylorfrancis.com/books/9781482205824/chapters/10.1201/b14045-9"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2016,
+              4,
+              19
+            ]
+          ]
+        },
+        "ISBN": [
+          "9780429090516"
+        ],
+        "references-count": 0,
+        "URL": "https://doi.org/10.1201/b14045-9",
+        "published": {
+          "date-parts": [
+            [
+              2016,
+              4,
+              19
+            ]
+          ]
+        }
+      }
+    ],
+    "items-per-page": 5,
+    "query": {
+      "start-index": 0,
+      "search-terms": "integer factorization geometric coordinate transformation"
+    }
+  }
+}

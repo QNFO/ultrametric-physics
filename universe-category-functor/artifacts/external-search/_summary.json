@@ -1,0 +1,543 @@
+{
+  "openalex_prime_numbers_functor_smooth_manifolds_Morse_theory": {
+    "count": 391,
+    "hits": [
+      {
+        "title": "Equivariant Morse theory and closed geodesics",
+        "doi": "https://doi.org/10.4310/jdg/1214438424",
+        "year": 1984,
+        "cited_by": 111
+      },
+      {
+        "title": "Periodic geodesics on compact riemannian manifolds",
+        "doi": "https://doi.org/10.4310/jdg/1214429070",
+        "year": 1969,
+        "cited_by": 218
+      },
+      {
+        "title": "Equivariant <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\"> <mml:mi>K</mml:mi> </mml:math> -theory",
+        "doi": "https://doi.org/10.1007/bf02684593",
+        "year": 1968,
+        "cited_by": 582
+      },
+      {
+        "title": "Floer cohomology and disc instantons of Lagrangian torus fibers in Fano toric manifolds",
+        "doi": "https://doi.org/10.4310/ajm.2006.v10.n4.a10",
+        "year": 2006,
+        "cited_by": 226
+      },
+      {
+        "title": "Persistence Modules with Operators in Morse and Floer Theory",
+        "doi": "https://doi.org/10.17323/1609-4514-2017-17-4-757-786",
+        "year": 2017,
+        "cited_by": 20
+      }
+    ]
+  },
+  "crossref_prime_numbers_functor_smooth_manifolds_Morse_theory": {
+    "count": 2310896,
+    "hits": [
+      {
+        "title": "Piecewise Linear Morse Theory",
+        "doi": "10.1142/9789814630979_0005",
+        "year": 2015
+      },
+      {
+        "title": "Morse-Novikov numbers, tunnel numbers, and handle numbers of sutured manifolds",
+        "doi": "10.4310/jdg/1736261608",
+        "year": 2025
+      },
+      {
+        "title": "Fundamental Results in Morse Theory",
+        "doi": "10.1142/9789814630979_0002",
+        "year": 2015
+      },
+      {
+        "title": "Morse numbers and minimal Morse functions",
+        "doi": "10.1090/mmono/131/05",
+        "year": 1993
+      },
+      {
+        "title": "Morse numbers and minimal morse functions on nonsimply connected manifolds",
+        "doi": "10.1007/bf01056463",
+        "year": 1988
+      }
+    ]
+  },
+  "arxiv_prime_numbers_functor_smooth_manifolds_Morse_theory": {
+    "count": 5,
+    "hits": [
+      {
+        "title": "Functoriality in Morse theory on closed manifolds",
+        "arxiv": "0805.2131v2"
+      },
+      {
+        "title": "6m Theorem for Prime numbers",
+        "arxiv": "1810.02188v1"
+      },
+      {
+        "title": "Mapping Cone and Morse Theory",
+        "arxiv": "2405.02272v2"
+      },
+      {
+        "title": "Normal Smoothings for Smooth Cube Manifolds",
+        "arxiv": "1406.1735v2"
+      },
+      {
+        "title": "Strong discrete Morse theory",
+        "arxiv": "2504.15729v2"
+      }
+    ]
+  },
+  "zenodo_prime_numbers_functor_smooth_manifolds_Morse_theory": {
+    "count": 381035,
+    "hits": [
+      {
+        "title": "Homological Invariants of Computational Hardness: The Morse Smale Obstruction to P ≠ NP",
+        "doi": "10.5281/zenodo.18046058",
+        "creators": [
+          "",
+          ""
+        ]
+      },
+      {
+        "title": "Proof of Erdős Problem #369: Consecutive Smooth Integers Near N",
+        "doi": "10.5281/zenodo.19361034",
+        "creators": [
+          ""
+        ]
+      },
+      {
+        "title": "Smooth numbers in large prime gaps",
+        "doi": "10.5281/zenodo.5914768",
+        "creators": [
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "title": "Geometric Implementation of Morse Theory Derived from Hecke Algebras in Ring Spaces",
+        "doi": "10.5281/zenodo.18710369",
+        "creators": [
+          ""
+        ]
+      },
+      {
+        "title": "Superposed Topology - a formulation of Quantum Discrete Morse Theory",
+        "doi": "10.5281/zenodo.18445474",
+        "creators": [
+          ""
+        ]
+      }
+    ]
+  },
+  "openalex_ultrametric_geometry_quantization_p-adic_topological_invaria": {
+    "count": 87,
+    "hits": [
+      {
+        "title": "Modeling Fluid’s Dynamics with Master Equations in Ultrametric Spaces Representing the Treelike Structure of Capillary Networks",
+        "doi": "https://doi.org/10.3390/e18070249",
+        "year": 2016,
+        "cited_by": 50
+      },
+      {
+        "title": "p-adic CFT is a holographic tensor network",
+        "doi": "https://doi.org/10.1007/jhep04(2019)170",
+        "year": 2019,
+        "cited_by": 43
+      },
+      {
+        "title": "Invariant measures on p-adic Lie groups: the p-adic quaternion algebra and the Haar integral on the p-adic rotation groups",
+        "doi": "https://doi.org/10.1007/s11005-024-01826-8",
+        "year": 2024,
+        "cited_by": 4
+      },
+      {
+        "title": "What p-adic icosahedron could mean? And what about p-adic manifold?",
+        "doi": null,
+        "year": 2013,
+        "cited_by": 2
+      },
+      {
+        "title": "Spin foams and noncommutative geometry",
+        "doi": "https://doi.org/10.1088/0264-9381/27/20/205025",
+        "year": 2010,
+        "cited_by": 17
+      }
+    ]
+  },
+  "crossref_ultrametric_geometry_quantization_p-adic_topological_invaria": {
+    "count": 362962,
+    "hits": [
+      {
+        "title": "Quantization of algebraic invariants through Topological Quantum Field Theories",
+        "doi": "10.1016/j.geomphys.2023.104849",
+        "year": 2023
+      },
+      {
+        "title": "Topological Invariants and Differential Geometry",
+        "doi": "10.23943/princeton/9780691144771.003.0002",
+        "year": 2017
+      },
+      {
+        "title": "p-Adic valued quantization",
+        "doi": "10.1134/s2070046609020010",
+        "year": 2009
+      },
+      {
+        "title": "Quantization causes waves: Smooth finitely computable functions are affine",
+        "doi": "10.1134/s2070046615030012",
+        "year": 2015
+      },
+      {
+        "title": "From image processing to topological modelling with p-adic numbers",
+        "doi": "10.1134/s2070046610040047",
+        "year": 2010
+      }
+    ]
+  },
+  "arxiv_ultrametric_geometry_quantization_p-adic_topological_invaria": {
+    "count": 5,
+    "hits": [
+      {
+        "title": "From Data to the p-Adic or Ultrametric Model",
+        "arxiv": "0809.0492v1"
+      },
+      {
+        "title": "Application of $p$-adic analysis methods in describing Markov processes on ultrametric spaces isometrically embeddable i",
+        "arxiv": "1504.03629v1"
+      },
+      {
+        "title": "p-Adic description of Higgs mechanism I: p-Adic square root and p-adic light cone",
+        "arxiv": "hep-th/9410058v3"
+      },
+      {
+        "title": "On Phase Transitions for $P$-Adic Potts Model with Competing Interactions on a Cayley Tree",
+        "arxiv": "math-ph/0512018v2"
+      },
+      {
+        "title": "A p-Adic Model of DNA Sequence and Genetic Code",
+        "arxiv": "q-bio/0607018v1"
+      }
+    ]
+  },
+  "zenodo_ultrametric_geometry_quantization_p-adic_topological_invaria": {
+    "count": 829758,
+    "hits": [
+      {
+        "title": "On similarity related the genetic code",
+        "doi": "10.5281/zenodo.8362198",
+        "creators": [
+          "",
+          ""
+        ]
+      },
+      {
+        "title": "Photon Quantization from Geometric Invariants in Spatial-Causal Geometry (SCG)",
+        "doi": "10.5281/zenodo.16730165",
+        "creators": [
+          ""
+        ]
+      },
+      {
+        "title": "The genetic code and its p-adic ultrametric modelling",
+        "doi": "10.1016/j.biosystems.2024.105322",
+        "creators": [
+          "",
+          ""
+        ]
+      },
+      {
+        "title": "Topological Quantization of Mathematical Structures (TQMS)",
+        "doi": "10.5281/zenodo.21835961",
+        "creators": [
+          ""
+        ]
+      },
+      {
+        "title": "p-Adic hierarchical properties of the genetic code",
+        "doi": "10.1016/j.biosystems.2019.104017",
+        "creators": [
+          "",
+          ""
+        ]
+      }
+    ]
+  },
+  "openalex_integer_factorization_geometric_coordinate_transformation": {
+    "count": 12466,
+    "hits": [
+      {
+        "title": "Mixed-integer quadrangulation",
+        "doi": "https://doi.org/10.1145/1531326.1531383",
+        "year": 2009,
+        "cited_by": 476
+      },
+      {
+        "title": "Torification and factorization of birational maps",
+        "doi": "https://doi.org/10.1090/s0894-0347-02-00396-x",
+        "year": 2002,
+        "cited_by": 300
+      },
+      {
+        "title": "Guaranteed Matrix Completion via Non-Convex Factorization",
+        "doi": "https://doi.org/10.1109/tit.2016.2598574",
+        "year": 2016,
+        "cited_by": 345
+      },
+      {
+        "title": "Topological photonics",
+        "doi": "https://doi.org/10.1103/revmodphys.91.015006",
+        "year": 2019,
+        "cited_by": 3673
+      },
+      {
+        "title": "Strategies for designing geometric transformations on quantum images",
+        "doi": "https://doi.org/10.1016/j.tcs.2010.11.029",
+        "year": 2010,
+        "cited_by": 142
+      }
+    ]
+  },
+  "crossref_integer_factorization_geometric_coordinate_transformation": {
+    "count": 673060,
+    "hits": [
+      {
+        "title": "Dual-Strand Geometric Analysis of DNA Sequences: Information Enhancement Through Cardinal Coordinate Transformation",
+        "doi": "10.2139/ssrn.5732902",
+        "year": 2025
+      },
+      {
+        "title": "Integer Factorization Methods",
+        "doi": "10.31979/etd.e5yv-jqxx",
+        "year": null
+      },
+      {
+        "title": "Integer Factorization and Discrete Logarithms",
+        "doi": "10.1007/978-1-4757-3816-2_3",
+        "year": 2004
+      },
+      {
+        "title": "Integer Factorization and Discrete Logarithms",
+        "doi": "10.1007/978-0-387-77268-4_3",
+        "year": 2008
+      },
+      {
+        "title": "Integer Factorization",
+        "doi": "10.1201/b14045-9",
+        "year": 2016
+      }
+    ]
+  },
+  "arxiv_integer_factorization_geometric_coordinate_transformation": {
+    "count": 5,
+    "hits": [
+      {
+        "title": "Integer Factorization with a Neuromorphic Sieve",
+        "arxiv": "1703.03768v2"
+      },
+      {
+        "title": "Deterministic Integer Factorization Algorithms",
+        "arxiv": "1308.2891v3"
+      },
+      {
+        "title": "Lorentz Transformation as a 'Complementary Time-Dependent Coordinate Transformation'. The Physical Foundation of Einstei",
+        "arxiv": "physics/0603015v2"
+      },
+      {
+        "title": "A geometric approach to integer factorization",
+        "arxiv": "1802.03658v1"
+      },
+      {
+        "title": "Integer Sequences from Queueing Theory",
+        "arxiv": "1006.0686v1"
+      }
+    ]
+  },
+  "zenodo_integer_factorization_geometric_coordinate_transformation": {
+    "count": 153336,
+    "hits": [
+      {
+        "title": "Axiomatic Node Locking: Deriving Coronal Thermal Inversion, Planetary Scale-Equivariance, and Trans-Neptunian Regulators",
+        "doi": "10.5281/zenodo.21715129",
+        "creators": [
+          ""
+        ]
+      },
+      {
+        "title": "13. Quantum Reflection Amplitude for the Double Sine-Gordon Kink-Antikink System: From the geometric subsystem programme",
+        "doi": "10.5281/zenodo.20532810",
+        "creators": [
+          "",
+          ""
+        ]
+      },
+      {
+        "title": "15. Numerical Framework for the Quantum S‑Matrix of the Double Sine-Gordon Kink-Antikink System: Semi‑analytic method an",
+        "doi": "10.5281/zenodo.20533266",
+        "creators": [
+          "",
+          ""
+        ]
+      },
+      {
+        "title": "The Symmetry Coordinate of Polynomial Integer Sequences",
+        "doi": "10.5281/zenodo.19154553",
+        "creators": [
+          ""
+        ]
+      },
+      {
+        "title": "BIR BIRLIKKA YETISHMAYDIGAN KO'PAYTUVCHINI ANIQLASHGA ASOSLANGAN SONLARNI TUBLIKKA TEKSHIRISH USULINING QO'LLANILISHI",
+        "doi": "10.5281/zenodo.18708725",
+        "creators": [
+          "",
+          ""
+        ]
+      }
+    ]
+  },
+  "openalex_Bruhat-Tits_tree_quantum_state_space_ultrametric": {
+    "count": 43,
+    "hits": [
+      {
+        "title": "Treelike Interactions and Fast Scrambling with Cold Atoms",
+        "doi": "https://doi.org/10.1103/physrevlett.123.130601",
+        "year": 2019,
+        "cited_by": 85
+      },
+      {
+        "title": "Tensor networks, $p$-adic fields, and algebraic curves: arithmetic and the $\\mathrm{AdS}_3 / \\mathrm{CFT}_2$ correspondence",
+        "doi": "https://doi.org/10.4310/atmp.2018.v22.n1.a4",
+        "year": 2018,
+        "cited_by": 56
+      },
+      {
+        "title": "p-adic CFT is a holographic tensor network",
+        "doi": "https://doi.org/10.1007/jhep04(2019)170",
+        "year": 2019,
+        "cited_by": 43
+      },
+      {
+        "title": "Nonarchimedean holographic entropy from networks of perfect tensors",
+        "doi": "https://doi.org/10.4310/atmp.2021.v25.n3.a2",
+        "year": 2021,
+        "cited_by": 21
+      },
+      {
+        "title": "O(N) and O(N) and O(N)",
+        "doi": "https://doi.org/10.1007/jhep11(2017)107",
+        "year": 2017,
+        "cited_by": 41
+      }
+    ]
+  },
+  "crossref_Bruhat-Tits_tree_quantum_state_space_ultrametric": {
+    "count": 4454963,
+    "hits": [
+      {
+        "title": "A Bruhat-Tits Ultrametric Logic for Hierarchical Inference",
+        "doi": "10.20944/preprints202608.0449.v1",
+        "year": 2026
+      },
+      {
+        "title": "Bending the Bruhat-Tits tree. Part II. The p-adic BTZ black hole and local diffeomorphism on the Bruhat-Tits tree",
+        "doi": "10.1007/jhep09(2021)097",
+        "year": 2021
+      },
+      {
+        "title": "Bruhat–Tits Theory",
+        "doi": "10.1017/9781108933049.005",
+        "year": 2023
+      },
+      {
+        "title": "Formalising the Bruhat-Tits Tree",
+        "doi": "10.46298/afm.15738",
+        "year": 2026
+      },
+      {
+        "title": "Overview and Summary of Bruhat–Tits Theory",
+        "doi": "10.1017/9781108933049.007",
+        "year": 2023
+      }
+    ]
+  },
+  "arxiv_Bruhat-Tits_tree_quantum_state_space_ultrametric": {
+    "count": 5,
+    "hits": [
+      {
+        "title": "On the missing branches of the Bruhat-Tits tree",
+        "arxiv": "1712.01463v2"
+      },
+      {
+        "title": "Bending the Bruhat-Tits Tree II: the p-adic BTZ Black hole and Local Diffeomorphism on the Bruhat-Tits Tree",
+        "arxiv": "2102.12024v2"
+      },
+      {
+        "title": "Formalising the Bruhat-Tits Tree",
+        "arxiv": "2505.12933v4"
+      },
+      {
+        "title": "The boundary theory of a spinor field theory on the Bruhat-Tits tree",
+        "arxiv": "1910.09397v2"
+      },
+      {
+        "title": "An embedding, an extension, and an interpolation of ultrametrics",
+        "arxiv": "2008.10209v2"
+      }
+    ]
+  },
+  "zenodo_Bruhat-Tits_tree_quantum_state_space_ultrametric": {
+    "count": 733447,
+    "hits": [
+      {
+        "title": "Ultrametrics in the genetic code and the genome",
+        "doi": "10.1016/j.amc.2017.04.012",
+        "creators": [
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "title": "Data from: Phylogenetic comparative analysis supports aposematic colouration–body size association in millipede assassin",
+        "doi": "10.5061/dryad.1g2tf45",
+        "creators": [
+          "",
+          ""
+        ]
+      },
+      {
+        "title": "Fig. 3 in Biodiversity of the Buffalo Leeches Genus Hirudinaria (Arhynchobdellida, Hirudinidae) in Southern Thailand Rev",
+        "doi": "10.5281/zenodo.12827506",
+        "creators": [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "title": "On Completeness in Metric Spaces and Fixed Point Theorems",
+        "doi": "10.5281/zenodo.4967530",
+        "creators": [
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "title": "FIGURE 2. Penaeini ultrametric tree. Below a in Molecular phylogeny and divergence time estimates of Penaeid Shrimp Line",
+        "doi": "10.5281/zenodo.10093298",
+        "creators": [
+          "",
+          "",
+          ""
+        ]
+      }
+    ]
+  }
+}

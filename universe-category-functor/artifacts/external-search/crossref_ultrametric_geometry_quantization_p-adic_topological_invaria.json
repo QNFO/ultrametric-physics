@@ -1,0 +1,2292 @@
+{
+  "status": "ok",
+  "message-type": "work-list",
+  "message-version": "1.0.0",
+  "message": {
+    "facets": {},
+    "total-results": 362962,
+    "items": [
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2025,
+              10,
+              9
+            ]
+          ],
+          "date-time": "2025-10-09T01:09:23Z",
+          "timestamp": 1759972163891,
+          "version": "build-2065373602"
+        },
+        "reference-count": 25,
+        "publisher": "Elsevier BV",
+        "license": [
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2023,
+                  7,
+                  1
+                ]
+              ],
+              "date-time": "2023-07-01T00:00:00Z",
+              "timestamp": 1688169600000
+            },
+            "content-version": "tdm",
+            "delay-in-days": 0,
+            "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+          },
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2023,
+                  7,
+                  1
+                ]
+              ],
+              "date-time": "2023-07-01T00:00:00Z",
+              "timestamp": 1688169600000
+            },
+            "content-version": "tdm",
+            "delay-in-days": 0,
+            "URL": "https://www.elsevier.com/legal/tdmrep-license"
+          },
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2023,
+                  4,
+                  26
+                ]
+              ],
+              "date-time": "2023-04-26T00:00:00Z",
+              "timestamp": 1682467200000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+          }
+        ],
+        "content-domain": {
+          "domain": [
+            "elsevier.com",
+            "sciencedirect.com"
+          ],
+          "crossmark-restriction": true
+        },
+        "short-container-title": [
+          "Journal of Geometry and Physics"
+        ],
+        "published-print": {
+          "date-parts": [
+            [
+              2023,
+              7
+            ]
+          ]
+        },
+        "DOI": "10.1016/j.geomphys.2023.104849",
+        "type": "journal-article",
+        "created": {
+          "date-parts": [
+            [
+              2023,
+              5,
+              2
+            ]
+          ],
+          "date-time": "2023-05-02T16:08:04Z",
+          "timestamp": 1683043684000
+        },
+        "page": "104849",
+        "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "special_numbering": "C",
+        "title": [
+          "Quantization of algebraic invariants through Topological Quantum Field Theories"
+        ],
+        "prefix": "10.1016",
+        "volume": "189",
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0003-2326-6752",
+            "authenticated-orcid": false,
+            "given": "Ángel",
+            "family": "González-Prieto",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "member": "78",
+        "reference": [
+          {
+            "key": "10.1016/j.geomphys.2023.104849_br0010",
+            "doi-asserted-by": "crossref",
+            "first-page": "175",
+            "DOI": "10.1007/BF02698547",
+            "article-title": "Topological quantum field theories",
+            "volume": "68",
+            "author": "Atiyah",
+            "year": "1989",
+            "journal-title": "Publ. Math. Inst. Hautes Études Sci."
+          },
+          {
+            "issue": "4",
+            "key": "10.1016/j.geomphys.2023.104849_br0020",
+            "doi-asserted-by": "crossref",
+            "first-page": "1045",
+            "DOI": "10.1112/jtopol/jtv028",
+            "article-title": "Factorization homology of topological manifolds",
+            "volume": "8",
+            "author": "Ayala",
+            "year": "2015",
+            "journal-title": "J. Topol."
+          },
+          {
+            "author": "Ben-Zvi",
+            "key": "10.1016/j.geomphys.2023.104849_br0030"
+          },
+          {
+            "issue": "4",
+            "key": "10.1016/j.geomphys.2023.104849_br0040",
+            "doi-asserted-by": "crossref",
+            "first-page": "1011",
+            "DOI": "10.1112/S0010437X03000617",
+            "article-title": "The universal euler characteristic for varieties of characteristic zero",
+            "volume": "140",
+            "author": "Bittner",
+            "year": "2004",
+            "journal-title": "Compos. Math."
+          },
+          {
+            "issue": "3",
+            "key": "10.1016/j.geomphys.2023.104849_br0050",
+            "doi-asserted-by": "crossref",
+            "first-page": "361",
+            "DOI": "10.4310/jdg/1214442469",
+            "article-title": "Flat G-bundles with canonical metrics",
+            "volume": "28",
+            "author": "Corlette",
+            "year": "1988",
+            "journal-title": "J. Differ. Geom."
+          },
+          {
+            "key": "10.1016/j.geomphys.2023.104849_br0060",
+            "first-page": "81",
+            "article-title": "Duality, trace and transfer",
+            "volume": "154",
+            "author": "Dold",
+            "year": "1983",
+            "journal-title": "Tr. Mat. Inst. Steklova"
+          },
+          {
+            "year": "2007",
+            "series-title": "Motivic Homotopy Theory: Lectures at a Summer School in Nordfjordeid, Norway, August 2002",
+            "author": "Dundas",
+            "key": "10.1016/j.geomphys.2023.104849_br0070"
+          },
+          {
+            "author": "Fritz",
+            "key": "10.1016/j.geomphys.2023.104849_br0080"
+          },
+          {
+            "author": "González-Prieto",
+            "key": "10.1016/j.geomphys.2023.104849_br0090"
+          },
+          {
+            "author": "González-Prieto",
+            "key": "10.1016/j.geomphys.2023.104849_br0100"
+          },
+          {
+            "key": "10.1016/j.geomphys.2023.104849_br0110",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1016/j.bulsci.2020.102871",
+            "article-title": "A lax monoidal Topological Quantum Field Theory for representation varieties",
+            "author": "González-Prieto",
+            "year": "2020",
+            "journal-title": "Bull. Sci. Math."
+          },
+          {
+            "key": "10.1016/j.geomphys.2023.104849_br0120",
+            "first-page": "095",
+            "article-title": "Virtual classes of representation varieties of upper triangular matrices via topological quantum field theories",
+            "volume": "18",
+            "author": "Hablicsek",
+            "year": "2022",
+            "journal-title": "SIGMA"
+          },
+          {
+            "issue": "3",
+            "key": "10.1016/j.geomphys.2023.104849_br0130",
+            "doi-asserted-by": "crossref",
+            "first-page": "555",
+            "DOI": "10.1007/s00222-008-0142-x",
+            "article-title": "Mixed Hodge polynomials of character varieties",
+            "volume": "174",
+            "author": "Hausel",
+            "year": "2008",
+            "journal-title": "Invent. Math."
+          },
+          {
+            "key": "10.1016/j.geomphys.2023.104849_br0140",
+            "article-title": "Frobenius Algebras and 2D Topological Quantum Field Theories",
+            "volume": "vol. 59",
+            "author": "Kock",
+            "year": "2004"
+          },
+          {
+            "year": "2009",
+            "series-title": "Higher Topos Theory",
+            "author": "Lurie",
+            "key": "10.1016/j.geomphys.2023.104849_br0150"
+          },
+          {
+            "key": "10.1016/j.geomphys.2023.104849_br0160",
+            "series-title": "Current Developments in Mathematics, 2008",
+            "first-page": "129",
+            "article-title": "On the classification of topological field theories",
+            "author": "Lurie",
+            "year": "2009"
+          },
+          {
+            "key": "10.1016/j.geomphys.2023.104849_br0170",
+            "article-title": "Categories for the Working Mathematician",
+            "volume": "vol. 5",
+            "author": "Mac Lane",
+            "year": "1998"
+          },
+          {
+            "key": "10.1016/j.geomphys.2023.104849_br0180",
+            "doi-asserted-by": "crossref",
+            "first-page": "926",
+            "DOI": "10.1093/imrn/rnv163",
+            "article-title": "E-polynomials of the SL(2,C)-character varieties of surface groups",
+            "volume": "3",
+            "author": "Martínez",
+            "year": "2016",
+            "journal-title": "Int. Math. Res. Not."
+          },
+          {
+            "key": "10.1016/j.geomphys.2023.104849_br0190",
+            "article-title": "Mixed Hodge Structures",
+            "volume": "vol. 52",
+            "author": "Peters",
+            "year": "2008"
+          },
+          {
+            "issue": "2",
+            "key": "10.1016/j.geomphys.2023.104849_br0200",
+            "doi-asserted-by": "crossref",
+            "first-page": "221",
+            "DOI": "10.2977/prims/1195171082",
+            "article-title": "Mixed Hodge modules",
+            "volume": "26",
+            "author": "Saito",
+            "year": "1990",
+            "journal-title": "Publ. Res. Inst. Math. Sci."
+          },
+          {
+            "year": "2009",
+            "series-title": "The classification of two-dimensional extended topological field theories",
+            "author": "Schommer-Pries",
+            "key": "10.1016/j.geomphys.2023.104849_br0210"
+          },
+          {
+            "key": "10.1016/j.geomphys.2023.104849_br0220",
+            "doi-asserted-by": "crossref",
+            "first-page": "47",
+            "DOI": "10.1007/BF02698887",
+            "article-title": "Moduli of representations of the fundamental group of a smooth projective variety. I",
+            "volume": "79",
+            "author": "Simpson",
+            "year": "1994",
+            "journal-title": "Publ. Math. Inst. Hautes Études Sci."
+          },
+          {
+            "key": "10.1016/j.geomphys.2023.104849_br0230",
+            "doi-asserted-by": "crossref",
+            "first-page": "5",
+            "DOI": "10.1007/BF02698895",
+            "article-title": "Moduli of representations of the fundamental group of a smooth projective variety. II",
+            "volume": "80",
+            "author": "Simpson",
+            "year": "1995",
+            "journal-title": "Publ. Math. Inst. Hautes Études Sci."
+          },
+          {
+            "author": "Vogel",
+            "key": "10.1016/j.geomphys.2023.104849_br0240"
+          },
+          {
+            "issue": "3",
+            "key": "10.1016/j.geomphys.2023.104849_br0250",
+            "doi-asserted-by": "crossref",
+            "first-page": "351",
+            "DOI": "10.1007/BF01217730",
+            "article-title": "Quantum field theory and the Jones polynomial",
+            "volume": "121",
+            "author": "Witten",
+            "year": "1989",
+            "journal-title": "Commun. Math. Phys."
+          }
+        ],
+        "container-title": [
+          "Journal of Geometry and Physics"
+        ],
+        "language": "en",
+        "link": [
+          {
+            "URL": "https://api.elsevier.com/content/article/PII:S0393044023001018?httpAccept=text/xml",
+            "content-type": "text/xml",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://api.elsevier.com/content/article/PII:S0393044023001018?httpAccept=text/plain",
+            "content-type": "text/plain",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2025,
+              10,
+              8
+            ]
+          ],
+          "date-time": "2025-10-08T20:08:43Z",
+          "timestamp": 1759954123000
+        },
+        "score": 37.54245,
+        "resource": {
+          "primary": {
+            "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0393044023001018"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2023,
+              7
+            ]
+          ]
+        },
+        "references-count": 25,
+        "alternative-id": [
+          "S0393044023001018"
+        ],
+        "URL": "https://doi.org/10.1016/j.geomphys.2023.104849",
+        "ISSN": [
+          "0393-0440"
+        ],
+        "issn-type": [
+          {
+            "type": "print",
+            "value": "0393-0440"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2023,
+              7
+            ]
+          ]
+        },
+        "assertion": [
+          {
+            "value": "Elsevier",
+            "name": "publisher",
+            "label": "This article is maintained by"
+          },
+          {
+            "value": "Quantization of algebraic invariants through Topological Quantum Field Theories",
+            "name": "articletitle",
+            "label": "Article Title"
+          },
+          {
+            "value": "Journal of Geometry and Physics",
+            "name": "journaltitle",
+            "label": "Journal Title"
+          },
+          {
+            "value": "https://doi.org/10.1016/j.geomphys.2023.104849",
+            "name": "articlelink",
+            "label": "CrossRef DOI link to publisher maintained version"
+          },
+          {
+            "value": "article",
+            "name": "content_type",
+            "label": "Content Type"
+          },
+          {
+            "value": "© 2023 The Author(s). Published by Elsevier B.V.",
+            "name": "copyright",
+            "label": "Copyright"
+          }
+        ],
+        "article-number": "104849"
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2022,
+              7,
+              29
+            ]
+          ],
+          "date-time": "2022-07-29T04:19:49Z",
+          "timestamp": 1659068389930
+        },
+        "reference-count": 0,
+        "publisher": "Princeton University Press",
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2017,
+              10,
+              19
+            ]
+          ]
+        },
+        "abstract": "<p>This chapter deals with topological invariants and differential geometry. It first considers a topological space <italic>X</italic> for which singular homology and cohomology are defined, along with the Euler number <italic>e</italic>(<italic>X</italic>). The Euler number, also known as the Euler-Poincaré characteristic, is an important invariant of a topological space <italic>X</italic>. It generalizes the notion of the cardinality of a finite set. The chapter presents the simple formulas for computing the Euler-Poincaré characteristic (Euler number) of many of the spaces to be encountered throughout the book. It also discusses fundamental groups and covering spaces and some basics of the theory of complex manifolds and Hermitian metrics, including the concept of real manifold. Finally, it provides some general facts about divisors, line bundles, and the first Chern class on a complex manifold <italic>X</italic>.</p>",
+        "DOI": "10.23943/princeton/9780691144771.003.0002",
+        "type": "book",
+        "created": {
+          "date-parts": [
+            [
+              2017,
+              11,
+              21
+            ]
+          ],
+          "date-time": "2017-11-21T12:26:50Z",
+          "timestamp": 1511267210000
+        },
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Topological Invariants and Differential Geometry"
+        ],
+        "prefix": "10.23943",
+        "author": [
+          {
+            "given": "Paula",
+            "family": "Tretkoff",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "member": "10341",
+        "container-title": [
+          "Princeton University Press"
+        ],
+        "original-title": [
+          "Topological Invariants and Differential Geometry"
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2022,
+              7,
+              28
+            ]
+          ],
+          "date-time": "2022-07-28T13:57:09Z",
+          "timestamp": 1659016629000
+        },
+        "score": 37.21025,
+        "resource": {
+          "primary": {
+            "URL": "https://academic.oup.com/princeton-scholarship-online/book/35829/chapter/307463503"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2017,
+              10,
+              19
+            ]
+          ]
+        },
+        "references-count": 0,
+        "URL": "https://doi.org/10.23943/princeton/9780691144771.003.0002",
+        "published": {
+          "date-parts": [
+            [
+              2017,
+              10,
+              19
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              3,
+              30
+            ]
+          ],
+          "date-time": "2026-03-30T04:12:18Z",
+          "timestamp": 1774843938078,
+          "version": "3.50.1"
+        },
+        "reference-count": 38,
+        "publisher": "Pleiades Publishing Ltd",
+        "issue": "2",
+        "license": [
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2009,
+                  5,
+                  10
+                ]
+              ],
+              "date-time": "2009-05-10T00:00:00Z",
+              "timestamp": 1241913600000
+            },
+            "content-version": "tdm",
+            "delay-in-days": 0,
+            "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+          },
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2009,
+                  5,
+                  10
+                ]
+              ],
+              "date-time": "2009-05-10T00:00:00Z",
+              "timestamp": 1241913600000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+          }
+        ],
+        "content-domain": {
+          "domain": [
+            "link.springer.com"
+          ],
+          "crossmark-restriction": false
+        },
+        "short-container-title": [
+          "P-Adic Num Ultrametr Anal Appl"
+        ],
+        "published-print": {
+          "date-parts": [
+            [
+              2009,
+              6
+            ]
+          ]
+        },
+        "DOI": "10.1134/s2070046609020010",
+        "type": "journal-article",
+        "created": {
+          "date-parts": [
+            [
+              2009,
+              5,
+              9
+            ]
+          ],
+          "date-time": "2009-05-09T05:36:19Z",
+          "timestamp": 1241847379000
+        },
+        "page": "91-104",
+        "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+        "source": "Crossref",
+        "is-referenced-by-count": 38,
+        "title": [
+          "p-Adic valued quantization"
+        ],
+        "prefix": "10.1134",
+        "volume": "1",
+        "author": [
+          {
+            "given": "Sergio",
+            "family": "Albeverio",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Roberto",
+            "family": "Cianci",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Andrei Yu.",
+            "family": "Khrennikov",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "member": "137",
+        "published-online": {
+          "date-parts": [
+            [
+              2009,
+              5,
+              10
+            ]
+          ]
+        },
+        "reference": [
+          {
+            "key": "2001_CR1",
+            "doi-asserted-by": "publisher",
+            "first-page": "317",
+            "DOI": "10.1007/BF01028510",
+            "volume": "59",
+            "author": "V. S. Vladimirov",
+            "year": "1984",
+            "unstructured": "V. S. Vladimirov and I.V. Volovich, “Superanalysis. I. Differential calculus,” Theor. Math. Phys. 59, 317–335 (1984).",
+            "journal-title": "Theor. Math. Phys."
+          },
+          {
+            "key": "2001_CR2",
+            "doi-asserted-by": "publisher",
+            "first-page": "743",
+            "DOI": "10.1007/BF01018974",
+            "volume": "60",
+            "author": "V. S. Vladimirov",
+            "year": "1985",
+            "unstructured": "V. S. Vladimirov and I. V. Volovich, “Superanalysis. II. Integral calculus,” Theor. Math. Phys. 60, 743–765 (1985).",
+            "journal-title": "Theor. Math. Phys."
+          },
+          {
+            "key": "2001_CR3",
+            "doi-asserted-by": "publisher",
+            "first-page": "83",
+            "DOI": "10.1088/0264-9381/4/4/003",
+            "volume": "4",
+            "author": "I. V. Volovich",
+            "year": "1987",
+            "unstructured": "I. V. Volovich. “p-Adic string,” Class. Quant. Grav. 4, 83–87 (1987).",
+            "journal-title": "Class. Quant. Grav."
+          },
+          {
+            "key": "2001_CR4",
+            "doi-asserted-by": "publisher",
+            "first-page": "512",
+            "DOI": "10.1016/0370-2693(88)90161-X",
+            "volume": "200",
+            "author": "I. Ya. Aref’eva",
+            "year": "1988",
+            "unstructured": "I. Ya. Aref’eva, B. Dragovich and I. V. Volovich, “On the p-adic summability of the anharmonic ocillator,” Phys. Lett. B 200, 512–514 (1988).",
+            "journal-title": "Phys. Lett. B"
+          },
+          {
+            "key": "2001_CR5",
+            "doi-asserted-by": "publisher",
+            "first-page": "2301",
+            "DOI": "10.1142/S0217732391002694",
+            "volume": "6",
+            "author": "B. Dragovich",
+            "year": "1991",
+            "unstructured": "B. Dragovich, “On signature change in p-adic space-time,” Mod. Phys. Lett. 6, 2301–2307 (1991).",
+            "journal-title": "Mod. Phys. Lett."
+          },
+          {
+            "issue": "4",
+            "key": "2001_CR6",
+            "first-page": "79",
+            "volume": "45",
+            "author": "A. Yu. Khrennikov",
+            "year": "1990",
+            "unstructured": "A. Yu. Khrennikov, “Mathematical methods of the non-archimedean physics,” Uspekhi Mat. Nauk 45(4), 79–110 (1990).",
+            "journal-title": "Uspekhi Mat. Nauk"
+          },
+          {
+            "key": "2001_CR7",
+            "first-page": "860",
+            "volume": "315",
+            "author": "A. Yu. Khrennikov",
+            "year": "1990",
+            "unstructured": "A. Yu. Khrennikov, “Quantum mechanics over Galois extensions of number fields,” Dokl. Akad. Nauk USSR 315, 860–864 (1990).",
+            "journal-title": "Dokl. Akad. Nauk USSR"
+          },
+          {
+            "key": "2001_CR8",
+            "doi-asserted-by": "publisher",
+            "first-page": "932",
+            "DOI": "10.1063/1.529353",
+            "volume": "32",
+            "author": "A. Yu. Khrennikov",
+            "year": "1991",
+            "unstructured": "A. Yu. Khrennikov, “p-Adic quantum mechanics with p-adic valued functions,” J.Math. Phys. 32, 932–937 (1991).",
+            "journal-title": "J.Math. Phys."
+          },
+          {
+            "issue": "2",
+            "key": "2001_CR9",
+            "doi-asserted-by": "publisher",
+            "first-page": "177",
+            "DOI": "10.1007/BF01016162",
+            "volume": "86",
+            "author": "A. Yu. Khrennikov",
+            "year": "1991",
+            "unstructured": "A. Yu. Khrennikov, “Real-non-Archimedean structure of space-time,” Theor. Math. Phys. 86(2), 177–190 (1991).",
+            "journal-title": "Theor. Math. Phys."
+          },
+          {
+            "key": "2001_CR10",
+            "first-page": "1075",
+            "volume": "322",
+            "author": "A. Yu. Khrennikov",
+            "year": "1992",
+            "unstructured": "A. Yu. Khrennikov, “p-Adic probability and statistics,” Dokl. Akad. Nauk 322, 1075–1079 (1992).",
+            "journal-title": "Dokl. Akad. Nauk"
+          },
+          {
+            "issue": "3",
+            "key": "2001_CR11",
+            "doi-asserted-by": "publisher",
+            "first-page": "348",
+            "DOI": "10.1007/BF01015763",
+            "volume": "97",
+            "author": "A. Yu. Khrennikov",
+            "year": "1993",
+            "unstructured": "A. Yu. Khrennikov, “p-Adic probability theory and its applications. The principle of statistical stabization of frequencies,” Theor. Math. Phys. 97(3), 348–363 (1993).",
+            "journal-title": "Theor. Math. Phys."
+          },
+          {
+            "key": "2001_CR12",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1007/978-94-015-8356-5",
+            "volume-title": "p-Adic Valued Distributions in Mathematical Physics",
+            "author": "A. Yu. Khrennikov",
+            "year": "1994",
+            "unstructured": "A. Yu. Khrennikov, p-Adic Valued Distributions in Mathematical Physics (Kluwer, Dordrecht, 1994)."
+          },
+          {
+            "key": "2001_CR13",
+            "doi-asserted-by": "publisher",
+            "first-page": "109",
+            "DOI": "10.1016/0370-2693(94)90436-7",
+            "volume": "328",
+            "author": "R. Cianci",
+            "year": "1994",
+            "unstructured": "R. Cianci and A. Yu. Khrennikov, “p-Adic numbers and the renormalization of eigenfunctions in quantum mechanics,” Phys. Lett. B 328, 109–112 (1994).",
+            "journal-title": "Phys. Lett. B"
+          },
+          {
+            "issue": "5",
+            "key": "2001_CR14",
+            "first-page": "603",
+            "volume": "342",
+            "author": "R. Cianci",
+            "year": "1995",
+            "unstructured": "R. Cianci and A. Yu. Khrennikov, “Energy levels corresponding to p-adic quantum states,” Dokl. Akad. Nauk 342(5), 603–606 (1995).",
+            "journal-title": "Dokl. Akad. Nauk"
+          },
+          {
+            "issue": "1",
+            "key": "2001_CR15",
+            "first-page": "189",
+            "volume": "40",
+            "author": "A. Yu. Khrennikov",
+            "year": "1995",
+            "unstructured": "A. Yu. Khrennikov, “On probablity distributions on the field of p-adic numbers,” Theory of Probab. and Appl. 40(1), 189–192 (1995).",
+            "journal-title": "Theory of Probab. and Appl."
+          },
+          {
+            "issue": "1",
+            "key": "2001_CR16",
+            "first-page": "23",
+            "volume": "344",
+            "author": "A. Yu. Khrennikov",
+            "year": "1995",
+            "unstructured": "A. Yu. Khrennikov and H. Zhiyan, “Generalized functionals of p-adic white noise,” Dokl. Akad. Nauk 344(1), 23–26 (1995).",
+            "journal-title": "Dokl. Akad. Nauk"
+          },
+          {
+            "key": "2001_CR17",
+            "doi-asserted-by": "publisher",
+            "first-page": "5515",
+            "DOI": "10.1088/0305-4470/29/17/023",
+            "volume": "29",
+            "author": "S. Albeverio",
+            "year": "1996",
+            "unstructured": "S. Albeverio and A. Yu. Khrennikov, “Representation of the Weyl group in spaces of square integrable functions with respect to p-adic valued Gaussian distributions,” J. Phys. A: Math. Gen. 29, 5515–5527 (1996).",
+            "journal-title": "J. Phys. A: Math. Gen."
+          },
+          {
+            "key": "2001_CR18",
+            "doi-asserted-by": "publisher",
+            "first-page": "1665",
+            "DOI": "10.1142/S021797929600074X",
+            "volume": "10",
+            "author": "S. Albeverio",
+            "year": "1996",
+            "unstructured": "S. Albeverio and A. Yu. Khrennikov, “p-Adic Hilbert space representation of quantum systems with an infinite number of degrees of freedom,” Int. J. Mod. Phys. B 10, 1665–1673 (1996).",
+            "journal-title": "Int. J. Mod. Phys. B"
+          },
+          {
+            "issue": "8",
+            "key": "2001_CR19",
+            "doi-asserted-by": "publisher",
+            "first-page": "1033",
+            "DOI": "10.1007/BF02061402",
+            "volume": "26",
+            "author": "A. Yu. Khrennikov",
+            "year": "1996",
+            "unstructured": "A. Yu. Khrennikov, “Ultrametric Hilbert space representation of quantum mechanics with a finite exactness,” Found. Physics 26(8), 1033–1054 (1996).",
+            "journal-title": "Found. Physics"
+          },
+          {
+            "issue": "1",
+            "key": "2001_CR20",
+            "first-page": "1",
+            "volume": "16",
+            "author": "A. Yu. Khrennikov",
+            "year": "1996",
+            "unstructured": "A. Yu. Khrennikov and Z. Huang, “A model for white noise analysis in p-adic number fields,” Acta Math. Scientia (China) 16(1), 1–14 (1996).",
+            "journal-title": "Acta Math. Scientia (China)"
+          },
+          {
+            "key": "2001_CR21",
+            "doi-asserted-by": "publisher",
+            "first-page": "881",
+            "DOI": "10.1088/0305-4470/30/3/013",
+            "volume": "30",
+            "author": "S. Albeverio",
+            "year": "1997",
+            "unstructured": "S. Albeverio, R. Cianci and A. Yu. Khrennikov, “On the spectrum of the p-adic position operator,” J. Phys. A: Math. Gen. 30, 881–889 (1997).",
+            "journal-title": "J. Phys. A: Math. Gen."
+          },
+          {
+            "issue": "3",
+            "key": "2001_CR22",
+            "doi-asserted-by": "publisher",
+            "first-page": "355",
+            "DOI": "10.1007/BF02583040",
+            "volume": "112",
+            "author": "S. Albeverio",
+            "year": "1997",
+            "unstructured": "S. Albeverio, R. Cianci and A. Yu. Khrennikov, “A representation of quantum field Hamiltonian in a p-adic Hilbert space,” Theor. Math. Phys. 112(3), 355–374 (1997).",
+            "journal-title": "Theor. Math. Phys."
+          },
+          {
+            "key": "2001_CR23",
+            "doi-asserted-by": "publisher",
+            "first-page": "5767",
+            "DOI": "10.1088/0305-4470/30/16/018",
+            "volume": "30",
+            "author": "S. Albeverio",
+            "year": "1997",
+            "unstructured": "S. Albeverio, R. Cianci and A. Yu. Khrennikov, “On the Fourier transform and the spectral properties of the p-adic momentum and Schrodinger operators,” J. Phys. A:Math. Gen. 30, 5767–5784 (1997).",
+            "journal-title": "J. Phys. A:Math. Gen."
+          },
+          {
+            "key": "2001_CR24",
+            "doi-asserted-by": "publisher",
+            "first-page": "225",
+            "DOI": "10.1023/A:1005813632179",
+            "volume": "50",
+            "author": "S. Albeverio",
+            "year": "1998",
+            "unstructured": "S. Albeverio and A. Yu. Khrennikov, “A regularization of quantum field Hamiltonians with the aid of p-adic numbers,” Acta Appl. Math. 50, 225–251 (1998).",
+            "journal-title": "Acta Appl. Math."
+          },
+          {
+            "key": "2001_CR25",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1007/978-94-009-1483-4",
+            "volume-title": "Non-Archimedean Analysis: Quantum Paradoxes, Dynamical Systems and Biological Models",
+            "author": "A. Yu. Khrennikov",
+            "year": "1997",
+            "unstructured": "A. Yu. Khrennikov, Non-Archimedean Analysis: Quantum Paradoxes, Dynamical Systems and Biological Models (Kluwer, Dordrecht, 1997)."
+          },
+          {
+            "issue": "3",
+            "key": "2001_CR26",
+            "first-page": "478",
+            "volume": "58",
+            "author": "A. Yu. Khrennikov",
+            "year": "1998",
+            "unstructured": "A. Yu. Khrennikov, “Description of experiments detecting p-adic statistics in quantum diffraction experiments,” Doklady Mathematics 58(3), 478–480 (1998).",
+            "journal-title": "Doklady Mathematics"
+          },
+          {
+            "key": "2001_CR27",
+            "volume-title": "Interpretations of Probability",
+            "author": "A. Yu. Khrennikov",
+            "year": "1999",
+            "unstructured": "A. Yu. Khrennikov, Interpretations of Probability (VSP, Utrecht, 1999)."
+          },
+          {
+            "key": "2001_CR28",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1007/978-3-662-00231-5",
+            "volume-title": "Analyse non-Archimédienne",
+            "author": "A. Monna",
+            "year": "1970",
+            "unstructured": "A. Monna, Analyse non-Archimédienne (Springer-Verlag, Berlin-Heidelberg-New York, 1970)."
+          },
+          {
+            "key": "2001_CR29",
+            "volume-title": "Non-Archimedean Functional Analysis",
+            "author": "A. van Rooij",
+            "year": "1978",
+            "unstructured": "A. van Rooij Non-Archimedean Functional Analysis (Marcel Dekker, New York, 1978)."
+          },
+          {
+            "key": "2001_CR30",
+            "volume-title": "Ultrametric Calculus. An Introduction to p-Adic Analysis",
+            "author": "W. H. Schikhof",
+            "year": "1984",
+            "unstructured": "W. H. Schikhof, Ultrametric Calculus. An Introduction to p-Adic Analysis (Cambridge University Press, Cambridge, 1984)."
+          },
+          {
+            "key": "2001_CR31",
+            "doi-asserted-by": "publisher",
+            "first-page": "180",
+            "DOI": "10.2307/1969224",
+            "volume": "48",
+            "author": "G. K. Kalisch",
+            "year": "1947",
+            "unstructured": "G. K. Kalisch, “On p-adic Hilbert spaces,” Ann.Math. 48, 180–192 (1947).",
+            "journal-title": "Ann.Math."
+          },
+          {
+            "key": "2001_CR32",
+            "volume-title": "Productos Internos en Espacios Normados non-Arquimedianos",
+            "author": "J. M. Bayod",
+            "year": "1976",
+            "unstructured": "J. M. Bayod, Productos Internos en Espacios Normados non-Arquimedianos (Univ. de Bilbao Press, Bilbao, 1976)."
+          },
+          {
+            "issue": "6",
+            "key": "2001_CR33",
+            "first-page": "3",
+            "volume": "63",
+            "author": "S. Albeverio",
+            "year": "1999",
+            "unstructured": "S. Albeverio, J. M. Bayod, C. Perez-Garcia, A. Yu. Khrennikov and R. Cianci, “Non-Archimedean analogues of orthogonal and symmetric operators,” Izv. Akademii Nauk 63(6), 3–28 (1999).",
+            "journal-title": "Izv. Akademii Nauk"
+          },
+          {
+            "key": "2001_CR34",
+            "volume-title": "p-Adic Analysis and Mathematical Physics",
+            "author": "V. S. Vladimirov",
+            "year": "1995",
+            "unstructured": "V. S. Vladimirov, I. V. Volovich and E. I. Zelenov, p-Adic Analysis and Mathematical Physics (World Scientific Publ., Singapore, 1995)."
+          },
+          {
+            "issue": "4",
+            "key": "2001_CR35",
+            "first-page": "456",
+            "volume": "56",
+            "author": "M. Endo",
+            "year": "1992",
+            "unstructured": "M. Endo and A. Yu. Khrennikov, “The unboundedness of the p-adic Gaussian distribution,” Izvestia Akad. Nauk SSSR: Ser. Mat. 56(4), 456–476 (1992).",
+            "journal-title": "Izvestia Akad. Nauk SSSR: Ser. Mat."
+          },
+          {
+            "key": "2001_CR36",
+            "doi-asserted-by": "publisher",
+            "first-page": "6375",
+            "DOI": "10.1088/0305-4470/29/19/021",
+            "volume": "29",
+            "author": "A. N. Kochubei",
+            "year": "1996",
+            "unstructured": "A. N. Kochubei, “p-Adic commutation relations,” J. Phys. A: Math. Gen. 29, 6375–6378 (1996).",
+            "journal-title": "J. Phys. A: Math. Gen."
+          },
+          {
+            "key": "2001_CR37",
+            "first-page": "177",
+            "volume": "222",
+            "author": "H. Keller",
+            "year": "2003",
+            "unstructured": "H. Keller, H. Ochsenius and W. H. Schikhof, “On the commutation relation AB − BA = I for operators on nonclassical Hilbert spaces,” Lecture Notes in Pure and Appl. Math. 222, 177–190 (2003).",
+            "journal-title": "On the commutation relation AB − BA = I for operators on nonclassical Hilbert spaces"
+          },
+          {
+            "key": "2001_CR38",
+            "doi-asserted-by": "publisher",
+            "first-page": "2349",
+            "DOI": "10.1142/S0217751X95001145",
+            "volume": "10",
+            "author": "B. Dragovich",
+            "year": "1995",
+            "unstructured": "B. Dragovich, “Adelic harmonic oscillator,” Int. J. Mod. Phys. A 10, 2349–2365 (1995).",
+            "journal-title": "Int. J. Mod. Phys. A"
+          }
+        ],
+        "container-title": [
+          "P-Adic Numbers, Ultrametric Analysis, and Applications"
+        ],
+        "language": "en",
+        "link": [
+          {
+            "URL": "https://link.springer.com/content/pdf/10.1134/S2070046609020010.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://link.springer.com/article/10.1134/S2070046609020010",
+            "content-type": "text/html",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "http://link.springer.com/content/pdf/10.1134/S2070046609020010",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          },
+          {
+            "URL": "https://link.springer.com/content/pdf/10.1134/S2070046609020010.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2026,
+              3,
+              30
+            ]
+          ],
+          "date-time": "2026-03-30T02:43:25Z",
+          "timestamp": 1774838605000
+        },
+        "score": 36.44506,
+        "resource": {
+          "primary": {
+            "URL": "https://link.springer.com/10.1134/S2070046609020010"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2009,
+              5,
+              10
+            ]
+          ]
+        },
+        "references-count": 38,
+        "journal-issue": {
+          "issue": "2",
+          "published-print": {
+            "date-parts": [
+              [
+                2009,
+                6
+              ]
+            ]
+          }
+        },
+        "alternative-id": [
+          "2001"
+        ],
+        "URL": "https://doi.org/10.1134/s2070046609020010",
+        "ISSN": [
+          "2070-0466",
+          "2070-0474"
+        ],
+        "issn-type": [
+          {
+            "value": "2070-0466",
+            "type": "print"
+          },
+          {
+            "value": "2070-0474",
+            "type": "electronic"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2009,
+              5,
+              10
+            ]
+          ]
+        },
+        "assertion": [
+          {
+            "value": "2 November 2008",
+            "order": 1,
+            "name": "received",
+            "label": "Received",
+            "group": {
+              "name": "ArticleHistory",
+              "label": "Article History"
+            }
+          },
+          {
+            "value": "10 May 2009",
+            "order": 2,
+            "name": "first_online",
+            "label": "First Online",
+            "group": {
+              "name": "ArticleHistory",
+              "label": "Article History"
+            }
+          }
+        ]
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              3,
+              30
+            ]
+          ],
+          "date-time": "2026-03-30T05:07:58Z",
+          "timestamp": 1774847278681,
+          "version": "3.50.1"
+        },
+        "reference-count": 47,
+        "publisher": "Pleiades Publishing Ltd",
+        "issue": "3",
+        "license": [
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2015,
+                  7,
+                  1
+                ]
+              ],
+              "date-time": "2015-07-01T00:00:00Z",
+              "timestamp": 1435708800000
+            },
+            "content-version": "tdm",
+            "delay-in-days": 0,
+            "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+          },
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2015,
+                  7,
+                  1
+                ]
+              ],
+              "date-time": "2015-07-01T00:00:00Z",
+              "timestamp": 1435708800000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+          }
+        ],
+        "content-domain": {
+          "domain": [
+            "link.springer.com"
+          ],
+          "crossmark-restriction": false
+        },
+        "short-container-title": [
+          "P-Adic Num Ultrametr Anal Appl"
+        ],
+        "published-print": {
+          "date-parts": [
+            [
+              2015,
+              7
+            ]
+          ]
+        },
+        "DOI": "10.1134/s2070046615030012",
+        "type": "journal-article",
+        "created": {
+          "date-parts": [
+            [
+              2015,
+              8,
+              11
+            ]
+          ],
+          "date-time": "2015-08-11T13:14:09Z",
+          "timestamp": 1439298849000
+        },
+        "page": "169-227",
+        "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+        "source": "Crossref",
+        "is-referenced-by-count": 8,
+        "title": [
+          "Quantization causes waves: Smooth finitely computable functions are affine"
+        ],
+        "prefix": "10.1134",
+        "volume": "7",
+        "author": [
+          {
+            "given": "V. S.",
+            "family": "Anashin",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "member": "137",
+        "published-online": {
+          "date-parts": [
+            [
+              2015,
+              8,
+              12
+            ]
+          ]
+        },
+        "reference": [
+          {
+            "key": "2198_CR1",
+            "volume-title": "Principles of Real Analysis",
+            "author": "C. D. Aliprantis",
+            "year": "1998",
+            "unstructured": "C. D. Aliprantis and O. Burkinshaw, Principles of Real Analysis (Academic Press, Inc., 1998)."
+          },
+          {
+            "key": "2198_CR2",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1017/CBO9780511546563",
+            "volume-title": "Automatic Sequences. Theory, Applications, Generalizations",
+            "author": "J.-P. Allouche",
+            "year": "2003",
+            "unstructured": "J.-P. Allouche and J. Shallit, Automatic Sequences. Theory, Applications, Generalizations (Cambridge Univ. Press, Cambridge, 2003)."
+          },
+          {
+            "key": "2198_CR3",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1515/9783110203011",
+            "volume-title": "Applied Algebraic Dynamics",
+            "author": "V. Anashin",
+            "year": "2009",
+            "unstructured": "V. Anashin and A. Khrennikov, Applied Algebraic Dynamics, de Gruyter Expositions in Math. 49 (Walter de Gruyter GmbH & Co., Berlin-N.Y., 2009)."
+          },
+          {
+            "issue": "3",
+            "key": "2198_CR4",
+            "first-page": "306",
+            "volume": "83",
+            "author": "V. S. Anashin",
+            "year": "2011",
+            "unstructured": "V. S. Anashin, A. Yu. Khrennikov and E. I. Yurova, “Characterization of ergodicity of p-adic dynamical systems by using van der Put basis,” Doklady Math. 83 (3), 306–308 (2011).",
+            "journal-title": "Characterization of ergodicity of p-adic dynamical systems by using van der Put basis"
+          },
+          {
+            "issue": "2",
+            "key": "2198_CR5",
+            "first-page": "151",
+            "volume": "4",
+            "author": "V. Anashin",
+            "year": "2012",
+            "unstructured": "V. Anashin, “Automata finiteness criterion in terms of van der Put series of automata functions,” p-Adic Numbers Ultrametric Anal. Appl. 4 (2), 151–160 (2012).",
+            "journal-title": "Automata finiteness criterion in terms of van der Put series of automata functions"
+          },
+          {
+            "issue": "4",
+            "key": "2198_CR6",
+            "first-page": "375",
+            "volume": "6",
+            "author": "V. Anashin",
+            "year": "2012",
+            "unstructured": "V. Anashin, “The non-Archimedean theory of discrete systems,” Math. Comp. Sci. 6 (4), 375–393 (2012).",
+            "journal-title": "The non-Archimedean theory of discrete systems"
+          },
+          {
+            "key": "2198_CR7",
+            "first-page": "169",
+            "volume": "175",
+            "author": "A. Barbé",
+            "year": "2003",
+            "unstructured": "A. Barbé and F. von Haeseler, “Limit sets of automatic sequences,” Adv. Math. 175, 169–196 (2003).",
+            "journal-title": "Limit sets of automatic sequences"
+          },
+          {
+            "key": "2198_CR8",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1007/978-3-322-92151-2",
+            "volume-title": "Automatentheorie",
+            "author": "W. Brauer",
+            "year": "1984",
+            "unstructured": "W. Brauer, Automatentheorie (B. G. Teubner, Stuttgart, 1984)."
+          },
+          {
+            "key": "2198_CR9",
+            "volume-title": "Theory of Finite Automata",
+            "author": "J. Carroll",
+            "year": "1989",
+            "unstructured": "J. Carroll and D. Long, Theory of Finite Automata (Prentice-Hall Inc., 1989)."
+          },
+          {
+            "issue": "1",
+            "key": "2198_CR10",
+            "first-page": "1",
+            "volume": "22",
+            "author": "A. N. Cherepov",
+            "year": "2010",
+            "unstructured": "A. N. Cherepov, “On approximation of continuous functions by determinate functions with delay,” Discrete Math. Appl. 22 (1), 1–24 (2010).",
+            "journal-title": "On approximation of continuous functions by determinate functions with delay"
+          },
+          {
+            "issue": "4",
+            "key": "2198_CR11",
+            "first-page": "445",
+            "volume": "22",
+            "author": "A. N. Cherepov",
+            "year": "2012",
+            "unstructured": "A. N. Cherepov, “Approximation of continuous functions by finite automata,” Discrete Math. Appl. 22 (4), 445–453 (2012).",
+            "journal-title": "Approximation of continuous functions by finite automata"
+          },
+          {
+            "key": "2198_CR12",
+            "volume-title": "Introduction to the Knot Theory",
+            "author": "R. Crowell",
+            "year": "1963",
+            "unstructured": "R. Crowell and R. Fox, Introduction to the Knot Theory (Ginu and Co., Boston, 1963)."
+          },
+          {
+            "issue": "4",
+            "key": "2198_CR13",
+            "first-page": "373",
+            "volume": "114",
+            "author": "D. Dubischar",
+            "year": "1999",
+            "unstructured": "D. Dubischar, V. M. Gundlach, O. Steinkamp and A. Khrennikov, “The interference phenomenon, memory effects in the equipment and random dynamical systems over the fields of p-adic numbers,” N. Cimento B 114 (4), 373–382 (1999).",
+            "journal-title": "The interference phenomenon, memory effects in the equipment and random dynamical systems over the fields of p-adic numbers"
+          },
+          {
+            "key": "2198_CR14",
+            "doi-asserted-by": "crossref",
+            "unstructured": "B. A. Dubrovin, A. T. Fomenko and S. P. Novikov, Modern Geometry: Methods and Applications, vol. II (Springer-Verlag, NY-Berlin-Heidelberg-Tokyo, 1985).",
+            "DOI": "10.1007/978-1-4612-1100-6"
+          },
+          {
+            "key": "2198_CR15",
+            "volume-title": "Automata, Languages, and Machines",
+            "author": "S. Eilenberg",
+            "year": "1974",
+            "unstructured": "S. Eilenberg, Automata, Languages, and Machines, vol. A (Academic Press, 1974)."
+          },
+          {
+            "issue": "1",
+            "key": "2198_CR16",
+            "first-page": "87",
+            "volume": "46",
+            "author": "C. Frougny",
+            "year": "2012",
+            "unstructured": "C. Frougny and K. Klouda, “Rational base number systems for p-adic numbers,” RAIPO Theor. Inform. Appl. 46 (1), 87–106 (2012).",
+            "journal-title": "Rational base number systems for p-adic numbers"
+          },
+          {
+            "key": "2198_CR17",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1007/978-3-642-59058-0",
+            "volume-title": "p-Adic Numbers. An Introduction",
+            "author": "F. Q. Gouvêa",
+            "year": "1997",
+            "unstructured": "F. Q. Gouvêa, p-Adic Numbers. An Introduction (Springer-Verlag, Berlin-Heidelberg-New York, 1997)."
+          },
+          {
+            "key": "2198_CR18",
+            "first-page": "128",
+            "volume": "231",
+            "author": "R. I. Grigorchuk",
+            "year": "2000",
+            "unstructured": "R. I. Grigorchuk, V. V. Nekrashevich and V. I. Sushchanskii, “Automata, dynamical systems, and groups,” Proc. Steklov Institute Math. 231, 128–203 (2000).",
+            "journal-title": "Automata, dynamical systems, and groups"
+          },
+          {
+            "key": "2198_CR19",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1017/CBO9780511998188",
+            "volume-title": "A First Course in Dynamics",
+            "author": "B. Hasselblatt",
+            "year": "2003",
+            "unstructured": "B. Hasselblatt and A. Katok, A First Course in Dynamics (Cambridge Univ. Press, Cambridge, 2003)."
+          },
+          {
+            "key": "2198_CR20",
+            "volume-title": "p-Adic Analysis in Comparison with Real",
+            "author": "S. Katok",
+            "year": "2003",
+            "unstructured": "S. Katok, p-Adic Analysis in Comparison with Real (American Math. Soc., 2003)."
+          },
+          {
+            "key": "2198_CR21",
+            "volume-title": "Finite Markov Chains",
+            "author": "J. G. Kemeny",
+            "year": "1976",
+            "unstructured": "J. G. Kemeny and J. L. Snell, Finite Markov Chains (Springer-Verlag, 1976)."
+          },
+          {
+            "issue": "9",
+            "key": "2198_CR22",
+            "first-page": "1005",
+            "volume": "121",
+            "author": "A. Khrennikov",
+            "year": "2006",
+            "unstructured": "A. Khrennikov, “Quantum mechanics from time scaling and random fluctuations at the “quick time scale”,” N. Cimento B 121 (9), 1005–1021 (2006).",
+            "journal-title": "Quantum mechanics from time scaling and random fluctuations at the “quick time scale”"
+          },
+          {
+            "issue": "1",
+            "key": "2198_CR23",
+            "first-page": "013512",
+            "volume": "48",
+            "author": "A. Khrennikov",
+            "year": "2007",
+            "unstructured": "A. Khrennikov, “To quantum averages through asymptotic expansion of classical averages on infinitedimensional space,” J. Math. Phys. 48 (1), 013512 (2007).",
+            "journal-title": "To quantum averages through asymptotic expansion of classical averages on infinitedimensional space"
+          },
+          {
+            "key": "2198_CR24",
+            "first-page": "1033",
+            "volume": "26",
+            "author": "A. Yu. Khrennikov",
+            "year": "1996",
+            "unstructured": "A. Yu. Khrennikov, “Ultrametric Hilbert space representation of quantum mechanics with a finite exactness,” Found. Phys. 26, 1033–1054 (1996).",
+            "journal-title": "Ultrametric Hilbert space representation of quantum mechanics with a finite exactness"
+          },
+          {
+            "key": "2198_CR25",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1007/978-94-009-1483-4",
+            "volume-title": "Non-Archimedean Analysis: Quantum Paradoxes, Dynamical Systems and Biological Models",
+            "author": "A. Yu. Khrennikov",
+            "year": "1997",
+            "unstructured": "A. Yu. Khrennikov, Non-Archimedean Analysis: Quantum Paradoxes, Dynamical Systems and Biological Models (Kluwer Acad. Publ., Dordrecht, 1997)."
+          },
+          {
+            "key": "2198_CR26",
+            "doi-asserted-by": "publisher",
+            "first-page": "58",
+            "DOI": "10.1007/978-1-4612-1112-9",
+            "volume-title": "p-Adic Numbers, p-Adic Analysis and Zeta-Functions, Graduate Texts in Math",
+            "author": "N. Koblitz",
+            "year": "1984",
+            "unstructured": "N. Koblitz, p-Adic Numbers, p-Adic Analysis and Zeta-Functions, Graduate Texts in Math. 58 (Springer-Verlag, second edition, 1984)."
+          },
+          {
+            "key": "2198_CR27",
+            "first-page": "373",
+            "volume": "284",
+            "author": "M. Konečný",
+            "year": "2002",
+            "unstructured": "M. Konečný, “Real functions computable by finite automata using affine representations,” Theor. Comput. Sci. 284, 373–396 (2002).",
+            "journal-title": "Real functions computable by finite automata using affine representations"
+          },
+          {
+            "issue": "1",
+            "key": "2198_CR28",
+            "first-page": "69",
+            "volume": "34",
+            "author": "L. P. Lisovik",
+            "year": "1998",
+            "unstructured": "L. P. Lisovik and O. Yu. Shkaravskaya, “Real functions defined by transducers,” Cybern. System Anal. 34 (1), 69–76 (1998).",
+            "journal-title": "Real functions defined by transducers"
+          },
+          {
+            "key": "2198_CR29",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1017/CBO9781107326019",
+            "volume-title": "Algebraic Combinatorics on Words",
+            "author": "M. Lothaire",
+            "year": "2002",
+            "unstructured": "M. Lothaire, Algebraic Combinatorics on Words (Cambridge Univ. Press, Cambridge, 2002)."
+          },
+          {
+            "key": "2198_CR30",
+            "first-page": "17",
+            "volume": "14",
+            "author": "A. G. Lunts",
+            "year": "1965",
+            "unstructured": "A. G. Lunts, “The p-adic apparatus in the theory of finite automata,” Problemy Kibern. 14, 17–30 (1965), [in Russian].",
+            "journal-title": "The p-adic apparatus in the theory of finite automata"
+          },
+          {
+            "key": "2198_CR31",
+            "volume-title": "p-Adic Numbers and Their Functions",
+            "author": "K. Mahler",
+            "year": "1981",
+            "unstructured": "K. Mahler, p-Adic Numbers and Their Functions (Cambridge Univ. Press, Cambridge, 1981)."
+          },
+          {
+            "key": "2198_CR32",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1201/9780203402849",
+            "volume-title": "Knot Theory",
+            "author": "V. Mansurov",
+            "year": "2004",
+            "unstructured": "V. Mansurov, Knot Theory (Chapman & Hall/CRC, Boca Raton-London-NY-Washington, 2004)."
+          },
+          {
+            "key": "2198_CR33",
+            "volume-title": "A Course ofDifferential Geometry and Topology",
+            "author": "A. Mishchenko",
+            "year": "1988",
+            "unstructured": "A. Mishchenko and A. Fomenko, A Course ofDifferential Geometry and Topology (Mir, Moscow, 1988)."
+          },
+          {
+            "key": "2198_CR34",
+            "first-page": "1",
+            "volume": "14",
+            "author": "A. F. Monna",
+            "year": "1952",
+            "unstructured": "A. F. Monna, “Sur une transformation simple des nombres p-adiques en nombres ré els,” Indag. Math. 14, 1–9 (1952).",
+            "journal-title": "Sur une transformation simple des nombres p-adiques en nombres ré els"
+          },
+          {
+            "key": "2198_CR35",
+            "first-page": "401",
+            "volume": "11",
+            "author": "W. Parry",
+            "year": "1960",
+            "unstructured": "W. Parry, “On the β-expansions of real numbers,” Acta Math. Acad. Sci. Hung. 11, 401–416 (1960).",
+            "journal-title": "On the β-expansions of real numbers"
+          },
+          {
+            "key": "2198_CR36",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1007/978-3-662-21717-7",
+            "volume-title": "Computability in Analysis and Physics",
+            "author": "M. B. Pour-El",
+            "year": "1989",
+            "unstructured": "M. B. Pour-El and J. I. Richards, Computability in Analysis and Physics (Springer-Verlag, 1989)."
+          },
+          {
+            "key": "2198_CR37",
+            "first-page": "477",
+            "volume": "8",
+            "author": "A. Rényi",
+            "year": "1957",
+            "unstructured": "A. Rényi, “Representation for real numbers and their ergodic properties,” Acta Math. Acad. Sci. Hung. 8, 477–493 (1957).",
+            "journal-title": "Representation for real numbers and their ergodic properties"
+          },
+          {
+            "key": "2198_CR38",
+            "volume-title": "Ultrametric Calculus",
+            "author": "W. H. Schikhof",
+            "year": "1984",
+            "unstructured": "W. H. Schikhof, Ultrametric Calculus (Cambridge Univ. Press, Cambridge, 1984)."
+          },
+          {
+            "issue": "5",
+            "key": "2198_CR39",
+            "first-page": "781",
+            "volume": "34",
+            "author": "O. Yu. Shkaravskaya",
+            "year": "1998",
+            "unstructured": "O. Yu. Shkaravskaya, “Affine mappings defined by finite transducers,” Cybern. System Anal. 34 (5), 781–783 (1998).",
+            "journal-title": "Affine mappings defined by finite transducers"
+          },
+          {
+            "key": "2198_CR40",
+            "doi-asserted-by": "publisher",
+            "first-page": "145",
+            "DOI": "10.1017/CBO9780511546716.010",
+            "volume": "310",
+            "author": "N. Sidorov",
+            "year": "2003",
+            "unstructured": "N. Sidorov, “Arithmetic dynamics,” Topics in Dynamics and Ergodic Theory, London Math. Soc. Lecture Note Series 310, 145–189 (Cambridge Univ. Press, Cambridge, 2003).",
+            "journal-title": "Topics in Dynamics and Ergodic Theory"
+          },
+          {
+            "issue": "2",
+            "key": "2198_CR41",
+            "first-page": "121",
+            "volume": "25",
+            "author": "T. I. Smyshlyaeva",
+            "year": "2013",
+            "unstructured": "T. I. Smyshlyaeva, “A criterion for functions defined by automata to be bounded-determinate,” Diskret. Mat. 25 (2), 121–134 (2013).",
+            "journal-title": "A criterion for functions defined by automata to be bounded-determinate"
+          },
+          {
+            "key": "2198_CR42",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1142/1581",
+            "volume-title": "p-Adic Analysis and Mathematical Physics",
+            "author": "V. S. Vladimirov",
+            "year": "1994",
+            "unstructured": "V. S. Vladimirov, I. V. Volovich and E. I. Zelenov, p-Adic Analysis and Mathematical Physics (World Scientific, Singapore, 1994)."
+          },
+          {
+            "issue": "8",
+            "key": "2198_CR43",
+            "first-page": "868",
+            "volume": "43",
+            "author": "J. Vuillemin",
+            "year": "1994",
+            "unstructured": "J. Vuillemin, “On circuits and numbers,” IEEE Trans. Comp. 43 (8), 868–879 (1994).",
+            "journal-title": "On circuits and numbers"
+          },
+          {
+            "key": "2198_CR44",
+            "doi-asserted-by": "publisher",
+            "first-page": "1",
+            "DOI": "10.1007/3-540-44464-5_1",
+            "volume": "1961",
+            "author": "J. Vuillemin",
+            "year": "2000",
+            "unstructured": "J. Vuillemin, “Finite digital synchronous circuits are characterized by 2-algebraic truth tables,” Advances in Computing Science — ASIAN 2000, Lect. Notes Comp. Sci. 1961, 1–7 (2000).",
+            "journal-title": "Advances in Computing Science — ASIAN 2000"
+          },
+          {
+            "key": "2198_CR45",
+            "first-page": "733",
+            "volume": "2772",
+            "author": "J. Vuillemin",
+            "year": "2003",
+            "unstructured": "J. Vuillemin, “Digital algebra and circuits,” Verification: Theory and Practice, Lect. Notes Comp. Sci. 2772, 733–746 (2003).",
+            "journal-title": "Verification: Theory and Practice"
+          },
+          {
+            "key": "2198_CR46",
+            "first-page": "309",
+            "volume-title": "Information, physics, quantum: The search for links",
+            "author": "J. A. Wheeler",
+            "year": "1990",
+            "unstructured": "J. A. Wheeler, “Information, physics, quantum: The search for links,” Complexity, Entropy, and the Physics of Information pp. 309–336 (Addison-Wesley Pub. Co., Redwood City, Calif., 1990)."
+          },
+          {
+            "key": "2198_CR47",
+            "volume-title": "Introduction to DiscreteMathematics",
+            "author": "S. V. Yablonsky",
+            "year": "1989",
+            "unstructured": "S. V. Yablonsky, Introduction to DiscreteMathematics (Mir, Moscow, 1989)."
+          }
+        ],
+        "container-title": [
+          "P-Adic Numbers, Ultrametric Analysis, and Applications"
+        ],
+        "language": "en",
+        "link": [
+          {
+            "URL": "https://link.springer.com/content/pdf/10.1134/S2070046615030012.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://link.springer.com/article/10.1134/S2070046615030012",
+            "content-type": "text/html",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "http://link.springer.com/content/pdf/10.1134/S2070046615030012",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          },
+          {
+            "URL": "https://link.springer.com/content/pdf/10.1134/S2070046615030012.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2026,
+              3,
+              30
+            ]
+          ],
+          "date-time": "2026-03-30T03:37:12Z",
+          "timestamp": 1774841832000
+        },
+        "score": 34.422764,
+        "resource": {
+          "primary": {
+            "URL": "https://link.springer.com/10.1134/S2070046615030012"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2015,
+              7
+            ]
+          ]
+        },
+        "references-count": 47,
+        "journal-issue": {
+          "issue": "3",
+          "published-print": {
+            "date-parts": [
+              [
+                2015,
+                7
+              ]
+            ]
+          }
+        },
+        "alternative-id": [
+          "2198"
+        ],
+        "URL": "https://doi.org/10.1134/s2070046615030012",
+        "ISSN": [
+          "2070-0466",
+          "2070-0474"
+        ],
+        "issn-type": [
+          {
+            "value": "2070-0466",
+            "type": "print"
+          },
+          {
+            "value": "2070-0474",
+            "type": "electronic"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2015,
+              7
+            ]
+          ]
+        },
+        "assertion": [
+          {
+            "value": "4 April 2015",
+            "order": 1,
+            "name": "received",
+            "label": "Received",
+            "group": {
+              "name": "ArticleHistory",
+              "label": "Article History"
+            }
+          },
+          {
+            "value": "12 August 2015",
+            "order": 2,
+            "name": "first_online",
+            "label": "First Online",
+            "group": {
+              "name": "ArticleHistory",
+              "label": "Article History"
+            }
+          }
+        ]
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              3,
+              30
+            ]
+          ],
+          "date-time": "2026-03-30T13:02:55Z",
+          "timestamp": 1774875775997,
+          "version": "3.50.1"
+        },
+        "reference-count": 22,
+        "publisher": "Pleiades Publishing Ltd",
+        "issue": "4",
+        "license": [
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2010,
+                  11,
+                  25
+                ]
+              ],
+              "date-time": "2010-11-25T00:00:00Z",
+              "timestamp": 1290643200000
+            },
+            "content-version": "tdm",
+            "delay-in-days": 0,
+            "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+          },
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2010,
+                  11,
+                  25
+                ]
+              ],
+              "date-time": "2010-11-25T00:00:00Z",
+              "timestamp": 1290643200000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+          }
+        ],
+        "content-domain": {
+          "domain": [
+            "link.springer.com"
+          ],
+          "crossmark-restriction": false
+        },
+        "short-container-title": [
+          "P-Adic Num Ultrametr Anal Appl"
+        ],
+        "published-print": {
+          "date-parts": [
+            [
+              2010,
+              12
+            ]
+          ]
+        },
+        "DOI": "10.1134/s2070046610040047",
+        "type": "journal-article",
+        "created": {
+          "date-parts": [
+            [
+              2010,
+              11,
+              23
+            ]
+          ],
+          "date-time": "2010-11-23T18:51:38Z",
+          "timestamp": 1290538298000
+        },
+        "page": "293-304",
+        "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+        "source": "Crossref",
+        "is-referenced-by-count": 3,
+        "title": [
+          "From image processing to topological modelling with p-adic numbers"
+        ],
+        "prefix": "10.1134",
+        "volume": "2",
+        "author": [
+          {
+            "given": "Patrick Erik",
+            "family": "Bradley",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "member": "137",
+        "published-online": {
+          "date-parts": [
+            [
+              2010,
+              11,
+              25
+            ]
+          ]
+        },
+        "reference": [
+          {
+            "key": "2071_CR1",
+            "doi-asserted-by": "publisher",
+            "first-page": "8785",
+            "DOI": "10.1088/0305-4470/32/50/301",
+            "volume": "32",
+            "author": "V. A. Avetisov",
+            "year": "1999",
+            "unstructured": "V. A. Avetisov, A. H. Bikulov and S. V. Kozyrev, “Application of p-adic analysis to models of breaking of replica symmetry,” J. Phys. A:Math. Gen. 32, 8785–8791 (1999).",
+            "journal-title": "J. Phys. A:Math. Gen."
+          },
+          {
+            "key": "2071_CR2",
+            "first-page": "450",
+            "volume": "64",
+            "author": "J. Benois-Pineau",
+            "year": "2001",
+            "unstructured": "J. Benois-Pineau, A. Yu. Khrennikov and N. V. Kotovich, “Segmentation of images in p-adic and Euclidean metrics,” Dokl.Math. 64, 450–455 (2001).",
+            "journal-title": "Dokl.Math."
+          },
+          {
+            "key": "2071_CR3",
+            "doi-asserted-by": "publisher",
+            "first-page": "27",
+            "DOI": "10.1007/s00357-008-9009-5",
+            "volume": "25",
+            "author": "P. E. Bradley",
+            "year": "2008",
+            "unstructured": "P. E. Bradley, “Degenerating families of dendrograms,” J. Classification 25, 27–42 (2008).",
+            "journal-title": "J. Classification"
+          },
+          {
+            "key": "2071_CR4",
+            "doi-asserted-by": "publisher",
+            "first-page": "271",
+            "DOI": "10.1134/S2070046609040013",
+            "volume": "1",
+            "author": "P. E. Bradley",
+            "year": "2009",
+            "unstructured": "P. E. Bradley, “On p-adic classification,” p-Adic Numbers, Ultrametric Analysis and Applications 1, 271–285 (2009).",
+            "journal-title": "p-Adic Numbers, Ultrametric Analysis and Applications"
+          },
+          {
+            "key": "2071_CR5",
+            "doi-asserted-by": "publisher",
+            "first-page": "55",
+            "DOI": "10.1134/S2070046610010048",
+            "volume": "2",
+            "author": "P. E. Bradley",
+            "year": "2010",
+            "unstructured": "P. E. Bradley, “A p-adic RANSAC algorithm for stereo vision using Hensel lifting,” p-Adic Numbers, Ultrametric Analysis and Applications 2, 55–67 (2010).",
+            "journal-title": "p-Adic Numbers, Ultrametric Analysis and Applications"
+          },
+          {
+            "key": "2071_CR6",
+            "doi-asserted-by": "publisher",
+            "first-page": "69",
+            "DOI": "10.1093/comjnl/bxn054",
+            "volume": "53",
+            "author": "P. E. Bradley",
+            "year": "2010",
+            "unstructured": "P. E. Bradley and N. Paul, “Using the relational model to capture topological information of spaces,” Comp. Journal 53, 69–89 (2010).",
+            "journal-title": "Comp. Journal"
+          },
+          {
+            "key": "2071_CR7",
+            "doi-asserted-by": "publisher",
+            "first-page": "1",
+            "DOI": "10.1016/0370-1573(93)90043-D",
+            "volume": "233",
+            "author": "L. Brekke",
+            "year": "1993",
+            "unstructured": "L. Brekke and P. G. O. Freund, “p-Adic numbers in physics,” Phys. Rep. 233, 1–66 (1993).",
+            "journal-title": "Phys. Rep."
+          },
+          {
+            "key": "2071_CR8",
+            "doi-asserted-by": "publisher",
+            "first-page": "149",
+            "DOI": "10.1142/S0218654305000761",
+            "volume": "11",
+            "author": "G. Carlsson",
+            "year": "2005",
+            "unstructured": "G. Carlsson, A. Zomorodian, A. Collins and L. J. Guibas, “Persistence barcodes for shapes,” Int. J. Shape Mod. 11, 149–187 (2005).",
+            "journal-title": "Int. J. Shape Mod."
+          },
+          {
+            "key": "2071_CR9",
+            "doi-asserted-by": "publisher",
+            "first-page": "1",
+            "DOI": "10.1134/S2070046609010014",
+            "volume": "1",
+            "author": "B. Dragovich",
+            "year": "2009",
+            "unstructured": "B. Dragovich, A. Yu. Khrennikov, S. V. Kozyrev and I. V. Volovich, “On p-adic mathematical physics,” p-Adic Numbers, Ultrametric Analysis and Applications 1, 1–17 (2009).",
+            "journal-title": "p-Adic Numbers, Ultrametric Analysis and Applications"
+          },
+          {
+            "key": "2071_CR10",
+            "doi-asserted-by": "publisher",
+            "first-page": "151601",
+            "DOI": "10.1103/PhysRevLett.97.151601",
+            "volume": "97",
+            "author": "D. Ghoshal",
+            "year": "2006",
+            "unstructured": "D. Ghoshal, “p-Adic string theories provide lattice discretization to the ordinary string world sheet,” Phys. Rev. Lett. 97, 151601 (2006).",
+            "journal-title": "Phys. Rev. Lett."
+          },
+          {
+            "key": "2071_CR11",
+            "doi-asserted-by": "crossref",
+            "unstructured": "F. Q. Gouvêa, p-Adic Numbers. An Introduction (Springer, 1993).",
+            "DOI": "10.1007/978-3-662-22278-2"
+          },
+          {
+            "key": "2071_CR12",
+            "unstructured": "R. Hartshorne, Algebraic Geometry (Springer, 1993)."
+          },
+          {
+            "issue": "2",
+            "key": "2071_CR13",
+            "first-page": "159",
+            "volume": "387",
+            "author": "A. Khrennikov",
+            "year": "2002",
+            "unstructured": "A. Khrennikov and N. V. Kotovich, “Representation and compression of images with the aid of the m-adic coordinate system,” Dokl. Akad. Nauk. 387(2), 159–163 (2002).",
+            "journal-title": "Dokl. Akad. Nauk."
+          },
+          {
+            "issue": "3",
+            "key": "2071_CR14",
+            "first-page": "305",
+            "volume": "396",
+            "author": "A. Khrennikov",
+            "year": "2004",
+            "unstructured": "A. Khrennikov, N. Kotovich and E. Borzistaya, “Compression of images with the aid of representation by p-adic maps and approximation by Mahler’s polynomials,” Dokl.Akad.Nauk 396(3), 305–308 (2004). English Translation: DokladyMath. 69 (3), 373–377 (2004).",
+            "journal-title": "Dokl.Akad.Nauk"
+          },
+          {
+            "key": "2071_CR15",
+            "doi-asserted-by": "crossref",
+            "unstructured": "D. Munoz, J. A. Bagnell and M. Hebert, “Stacked hierarchical labeling,” Proc. ECCV 2010, Part VI, LNCS 6316, 57–70 (2010).",
+            "DOI": "10.1007/978-3-642-15567-3_5"
+          },
+          {
+            "key": "2071_CR16",
+            "doi-asserted-by": "publisher",
+            "first-page": "167",
+            "DOI": "10.1007/s00357-004-0015-y",
+            "volume": "21",
+            "author": "F. Murtagh",
+            "year": "2004",
+            "unstructured": "F. Murtagh, “On ultrametricity, data coding, and computation,” J. Classification 21, 167–184 (2004).",
+            "journal-title": "J. Classification"
+          },
+          {
+            "key": "2071_CR17",
+            "doi-asserted-by": "publisher",
+            "first-page": "3",
+            "DOI": "10.1007/s00357-007-0007-9",
+            "volume": "24",
+            "author": "F. Murtagh",
+            "year": "2006",
+            "unstructured": "F. Murtagh, “The Haar wavelet transformation of a dendrogram,” J. Classication 24, 3–32 (2006).",
+            "journal-title": "J. Classication"
+          },
+          {
+            "key": "2071_CR18",
+            "doi-asserted-by": "publisher",
+            "first-page": "207",
+            "DOI": "10.1016/0370-2693(81)90743-7",
+            "volume": "103",
+            "author": "A.M. Polyakov",
+            "year": "1981",
+            "unstructured": "A.M. Polyakov, “Quantum geometry of bosonic strings,” Phys. Lett. B 103, 207–210 (1981).",
+            "journal-title": "Phys. Lett. B"
+          },
+          {
+            "key": "2071_CR19",
+            "doi-asserted-by": "publisher",
+            "first-page": "310",
+            "DOI": "10.1109/83.661181",
+            "volume": "7",
+            "author": "N. Sochen",
+            "year": "1998",
+            "unstructured": "N. Sochen, R. Kimmel and R. Malladi, “A general framework for low level vision,” IEEE T Image Process 7, 310–318 (1998).",
+            "journal-title": "IEEE T Image Process"
+          },
+          {
+            "key": "2071_CR20",
+            "doi-asserted-by": "publisher",
+            "first-page": "533",
+            "DOI": "10.1007/BF01448082",
+            "volume": "1",
+            "author": "R. Sturm",
+            "year": "1869",
+            "unstructured": "R. Sturm, “Das Problem der Projektivität und seine Anwendung auf die Flächen zweiten Grades,” Math. Ann. 1, 533–574 (1869).",
+            "journal-title": "Math. Ann."
+          },
+          {
+            "key": "2071_CR21",
+            "doi-asserted-by": "crossref",
+            "unstructured": "V. S. Vladimirov, I. V. Volovich and Ye. I. Zelenov, p-Adic Analysis and Mathematical Physics (World Scientific, 1994)",
+            "DOI": "10.1142/1581"
+          },
+          {
+            "key": "2071_CR22",
+            "doi-asserted-by": "publisher",
+            "first-page": "463",
+            "DOI": "10.1007/BF01238811",
+            "volume": "123",
+            "author": "A. V. Zabrodin",
+            "year": "1989",
+            "unstructured": "A. V. Zabrodin, “Non-Archimedean strings and Bruhat-Tits trees,” Commun. Math. Phys. 123, 463–483 (1989).",
+            "journal-title": "Commun. Math. Phys."
+          }
+        ],
+        "container-title": [
+          "P-Adic Numbers, Ultrametric Analysis, and Applications"
+        ],
+        "language": "en",
+        "link": [
+          {
+            "URL": "https://link.springer.com/content/pdf/10.1134/S2070046610040047.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://link.springer.com/article/10.1134/S2070046610040047",
+            "content-type": "text/html",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "http://link.springer.com/content/pdf/10.1134/S2070046610040047",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          },
+          {
+            "URL": "https://link.springer.com/content/pdf/10.1134/S2070046610040047.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2026,
+              3,
+              30
+            ]
+          ],
+          "date-time": "2026-03-30T02:59:45Z",
+          "timestamp": 1774839585000
+        },
+        "score": 34.291203,
+        "resource": {
+          "primary": {
+            "URL": "https://link.springer.com/10.1134/S2070046610040047"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2010,
+              11,
+              25
+            ]
+          ]
+        },
+        "references-count": 22,
+        "journal-issue": {
+          "issue": "4",
+          "published-print": {
+            "date-parts": [
+              [
+                2010,
+                12
+              ]
+            ]
+          }
+        },
+        "alternative-id": [
+          "2071"
+        ],
+        "URL": "https://doi.org/10.1134/s2070046610040047",
+        "ISSN": [
+          "2070-0466",
+          "2070-0474"
+        ],
+        "issn-type": [
+          {
+            "value": "2070-0466",
+            "type": "print"
+          },
+          {
+            "value": "2070-0474",
+            "type": "electronic"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2010,
+              11,
+              25
+            ]
+          ]
+        },
+        "assertion": [
+          {
+            "value": "5 October 2010",
+            "order": 1,
+            "name": "received",
+            "label": "Received",
+            "group": {
+              "name": "ArticleHistory",
+              "label": "Article History"
+            }
+          },
+          {
+            "value": "25 November 2010",
+            "order": 2,
+            "name": "first_online",
+            "label": "First Online",
+            "group": {
+              "name": "ArticleHistory",
+              "label": "Article History"
+            }
+          }
+        ]
+      }
+    ],
+    "items-per-page": 5,
+    "query": {
+      "start-index": 0,
+      "search-terms": "ultrametric geometry quantization p-adic topological invariants"
+    }
+  }
+}

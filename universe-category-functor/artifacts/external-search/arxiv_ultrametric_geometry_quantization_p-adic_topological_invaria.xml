@@ -1,0 +1,112 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:arxiv="http://arxiv.org/schemas/atom" xmlns="http://www.w3.org/2005/Atom">
+  <id>https://arxiv.org/api/9gXhOI54GNYsoXXAbU7vxBCrF6Q</id>
+  <title>arXiv Query: search_query=all:ultrametric OR all:geometry OR all:quantization OR all:p-adic OR all:topological OR all:invariants&amp;id_list=&amp;start=0&amp;max_results=5</title>
+  <updated>2026-08-10T21:12:04Z</updated>
+  <link href="https://arxiv.org/api/query?search_query=all:ultrametric+OR+(all:geometry+OR+(all:quantization+OR+(all:p-adic+OR+(all:topological+OR+all:invariants))))&amp;start=0&amp;max_results=5&amp;id_list=" type="application/atom+xml"/>
+  <opensearch:itemsPerPage>5</opensearch:itemsPerPage>
+  <opensearch:totalResults>464765</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <entry>
+    <id>http://arxiv.org/abs/0809.0492v1</id>
+    <title>From Data to the p-Adic or Ultrametric Model</title>
+    <updated>2008-09-02T18:10:52Z</updated>
+    <link href="https://arxiv.org/abs/0809.0492v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/0809.0492v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>  We model anomaly and change in data by embedding the data in an ultrametric space. Taking our initial data as cross-tabulation counts (or other input data formats), Correspondence Analysis allows us to endow the information space with a Euclidean metric. We then model anomaly or change by an induced ultrametric. The induced ultrametric that we are particularly interested in takes a sequential - e.g. temporal - ordering of the data into account. We apply this work to the flow of narrative expressed in the film script of the Casablanca movie; and to the evolution between 1988 and 2004 of the Colombian social conflict and violence.</summary>
+    <category term="stat.ML" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="stat.AP" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2008-09-02T18:10:52Z</published>
+    <arxiv:comment>15 pages, 6 figures. To appear in: Proceedings of Third International Conference on p-Adic Mathematical Physics: From Planck Scale Physics to Complex Systems to Biology, Steklov Mathematics Institute, Russian Academy of Sciences</arxiv:comment>
+    <arxiv:primary_category term="stat.ML"/>
+    <arxiv:journal_ref>p-Adic Numbers, Ultrametric Analysis and Applications, 1, 58-68, 2009</arxiv:journal_ref>
+    <author>
+      <name>Fionn Murtagh</name>
+    </author>
+    <arxiv:doi>10.1134/S2070046609010063</arxiv:doi>
+    <link rel="related" href="https://doi.org/10.1134/S2070046609010063" title="doi"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/1504.03629v1</id>
+    <title>Application of $p$-adic analysis methods in describing Markov processes on ultrametric spaces isometrically embeddable into $\mathbb{Q}_{p}$</title>
+    <updated>2015-04-14T17:12:48Z</updated>
+    <link href="https://arxiv.org/abs/1504.03629v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/1504.03629v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We propose a method for describing stationary Markov processes on the class of ultrametric spaces $\mathbb{U}$ isometrically embeddable in the field $\mathbb{Q}_{p}$ of $p$-adic numbers. This method is capable of reducing the study of such processes to the investigation of processes on $\mathbb{Q}_{p}$. Thereby the traditional machinery of $p$-adic mathematical physics can be applied to calculate the characteristics of stationary Markov processes on such spaces. The Cauchy problem for the Kolmogorov-Feller equation of a~stationary Markov process on such spaces is shown as being reducible to the Cauchy problem for a pseudo-differential equation on $\mathbb{Q}_{p}$ with non-translation-invariant measure $m\left(x\right)d_{p}x$. The spectrum of the pseudo-differential operator of the Kolmogorov-Feller equation on $\mathbb{Q}_{p}$ with measure $m\left(x\right)d_{p}x$ is found. Orthonormal basis of real valued functions for $L^{2}\left(\mathbb{Q}_{p},m\left(x\right)d_{p}x\right)$ is constructed from the eigenfunctions of this operator.</summary>
+    <category term="math-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2015-04-14T17:12:48Z</published>
+    <arxiv:comment>14 pages</arxiv:comment>
+    <arxiv:primary_category term="math-ph"/>
+    <arxiv:journal_ref>p-Adic Numbers, Ultrametric Analysis, and Applications. - 2015. - Vol. 7, no. 2. - P. 111-122</arxiv:journal_ref>
+    <author>
+      <name>A. Kh. Bikulov</name>
+    </author>
+    <author>
+      <name>A. P. Zubarev</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/hep-th/9410058v3</id>
+    <title>p-Adic description of Higgs mechanism I: p-Adic square root and p-adic light cone</title>
+    <updated>1995-02-06T16:33:31Z</updated>
+    <link href="https://arxiv.org/abs/hep-th/9410058v3" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/hep-th/9410058v3" rel="related" type="application/pdf" title="pdf"/>
+    <summary>  This paper is the first one in the series devoted to the calculation of particle mass spectrum in Topological GeometroDynamics. TGD Universe is critical at quantum level and an attractive idea to realize criticality is via conformal invariance. Ordinary real numbers do not allow this but if one assumes that in long length scales p-adic topology replaces real topology as effective topology situation changes. The existence of square root in the vicinity of p-adic real axis implies 4-dimensional algebraic extension of p-adic numbers ($p&gt;2$), which can be regarded as padic counterpart of light cone and consists of convergence-cubes of p-adic square root function. Later work has demonstrated that convergence cubes of square root function serve as natural quantization volumes in p-adic field theory limit of TGD.</summary>
+    <category term="hep-th" scheme="http://arxiv.org/schemas/atom"/>
+    <published>1994-10-10T12:40:30Z</published>
+    <arxiv:comment>19 pages,latex. Revision: part of text is dropped as irrelevant for the construction of p-adic field theory limit of TGD</arxiv:comment>
+    <arxiv:primary_category term="hep-th"/>
+    <author>
+      <name>M. Pitkänen</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/math-ph/0512018v2</id>
+    <title>On Phase Transitions for $P$-Adic Potts Model with Competing Interactions on a Cayley Tree</title>
+    <updated>2006-02-25T16:18:37Z</updated>
+    <link href="https://arxiv.org/abs/math-ph/0512018v2" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/math-ph/0512018v2" rel="related" type="application/pdf" title="pdf"/>
+    <summary>  In the paper we considere three state $p$-adic Potts model with competing interactions on a Cayley tree of order two. We reduce a problem of describing of the $p$-adic Gibbs measures to the solution of certain recursive equation, and using it we will prove that a phase transition occurs if and only if $p=3$ for any value (non zero) of interactions. As well, we completely solve the uniqueness problem for the considered model in a $p$-adic context. Namely, if $p\neq 3$ then there is only a unique Gibbs measure the model.</summary>
+    <category term="math-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math.NT" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2005-12-07T16:47:38Z</published>
+    <arxiv:comment>12 pages, to appear in the Proceedings of the '2nd International Conference on p-Adic Mathematical Physics' (Belgrade, 15-21 September 2005) published by AIP Conference Proceedings</arxiv:comment>
+    <arxiv:primary_category term="math-ph"/>
+    <arxiv:journal_ref>Proceedings of the '2nd International Conference on p-Adic Mathematical Physics' (Belgrade, 15-21 September 2005) published by AIP Conference Proceedings, Vol. 826, 2006, pp.140-150</arxiv:journal_ref>
+    <author>
+      <name>Farrukh Mukhamedov</name>
+    </author>
+    <author>
+      <name>Utkir Rozikov</name>
+    </author>
+    <author>
+      <name>Jose Fernando F. Mendes</name>
+    </author>
+    <arxiv:doi>10.1063/1.2193118</arxiv:doi>
+    <link rel="related" href="https://doi.org/10.1063/1.2193118" title="doi"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/q-bio/0607018v1</id>
+    <title>A p-Adic Model of DNA Sequence and Genetic Code</title>
+    <updated>2006-07-13T16:41:35Z</updated>
+    <link href="https://arxiv.org/abs/q-bio/0607018v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/q-bio/0607018v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>  Using basic properties of p-adic numbers, we consider a simple new approach to describe main aspects of DNA sequence and genetic code. Central role in our investigation plays an ultrametric p-adic information space which basic elements are nucleotides, codons and genes. We show that a 5-adic model is appropriate for DNA sequence. This 5-adic model, combined with 2-adic distance, is also suitable for genetic code and for a more advanced employment in genomics. We find that genetic code degeneracy is related to the p-adic distance between codons.</summary>
+    <category term="q-bio.GN" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.IT" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.bio-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2006-07-13T16:41:35Z</published>
+    <arxiv:comment>13 pages, 2 tables</arxiv:comment>
+    <arxiv:primary_category term="q-bio.GN"/>
+    <arxiv:journal_ref>p-Adic Numbers, Ultrametric Analysis and Applications 1 (2009) 34-41</arxiv:journal_ref>
+    <author>
+      <name>Branko Dragovich</name>
+    </author>
+    <author>
+      <name>Alexandra Dragovich</name>
+    </author>
+    <arxiv:doi>10.1134/S2070046609010038</arxiv:doi>
+    <link rel="related" href="https://doi.org/10.1134/S2070046609010038" title="doi"/>
+  </entry>
+</feed>

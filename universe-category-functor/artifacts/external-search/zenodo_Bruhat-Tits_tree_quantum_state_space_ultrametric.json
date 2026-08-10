@@ -1,0 +1,1361 @@
+{
+  "hits": {
+    "hits": [
+      {
+        "created": "2023-09-14T07:27:03.972780+00:00",
+        "modified": "2024-07-11T07:27:53.282838+00:00",
+        "id": 8343670,
+        "conceptrecid": "8343669",
+        "doi": "10.1016/j.amc.2017.04.012",
+        "doi_url": "https://doi.org/10.1016/j.amc.2017.04.012",
+        "metadata": {
+          "title": "Ultrametrics in the genetic code and the genome",
+          "doi": "10.1016/j.amc.2017.04.012",
+          "publication_date": "2017-09-15",
+          "description": "<p>Ultrametric approach to the genetic code and the genome is considered and developed.&nbsp;<em>p</em>-Adic degeneracy of the genetic code is pointed out. Ultrametric tree of the codon space is presented. It is shown that codons and amino acids can be treated as&nbsp;<em>p</em>-adic ultrametric networks. Ultrametric modification of the&nbsp;<a href=\"https://www.sciencedirect.com/topics/mathematics/hamming-distance\">Hamming distance</a>&nbsp;is defined and noted how it can be useful. Ultrametric approach with&nbsp;<em>p</em>-adic distance is an attractive and promising trend towards investigation of bioinformation.</p>",
+          "access_right": "restricted",
+          "creators": [
+            {
+              "name": "Mišić, N.Ž.",
+              "affiliation": null,
+              "orcid": "0000-0002-8177-5734"
+            },
+            {
+              "name": "Khrennikov A.Yu",
+              "affiliation": null
+            },
+            {
+              "name": "Dragovich, B",
+              "affiliation": null
+            }
+          ],
+          "language": "eng",
+          "resource_type": {
+            "title": "Journal article",
+            "type": "publication",
+            "subtype": "article"
+          },
+          "communities": [
+            {
+              "id": "lola"
+            }
+          ],
+          "relations": {
+            "version": [
+              {
+                "index": 0,
+                "is_last": true,
+                "parent": {
+                  "pid_type": "recid",
+                  "pid_value": "8343669"
+                }
+              }
+            ]
+          }
+        },
+        "title": "Ultrametrics in the genetic code and the genome",
+        "links": {
+          "self": "https://zenodo.org/api/records/8343670",
+          "self_html": "https://zenodo.org/records/8343670",
+          "preview_html": "https://zenodo.org/records/8343670?preview=1",
+          "doi": "https://doi.org/10.1016/j.amc.2017.04.012",
+          "self_doi": "https://doi.org/10.1016/j.amc.2017.04.012",
+          "self_doi_html": "https://zenodo.org/doi/10.1016/j.amc.2017.04.012",
+          "reserve_doi": "https://zenodo.org/api/records/8343670/draft/pids/doi",
+          "parent": "https://zenodo.org/api/records/8343669",
+          "parent_html": "https://zenodo.org/records/8343669",
+          "self_iiif_manifest": "https://zenodo.org/api/iiif/record:8343670/manifest",
+          "self_iiif_sequence": "https://zenodo.org/api/iiif/record:8343670/sequence/default",
+          "files": "https://zenodo.org/api/records/8343670/files",
+          "media_files": "https://zenodo.org/api/records/8343670/media-files",
+          "archive": "https://zenodo.org/api/records/8343670/files-archive",
+          "archive_media": "https://zenodo.org/api/records/8343670/media-files-archive",
+          "latest": "https://zenodo.org/api/records/8343670/versions/latest",
+          "latest_html": "https://zenodo.org/records/8343670/latest",
+          "versions": "https://zenodo.org/api/records/8343670/versions",
+          "draft": "https://zenodo.org/api/records/8343670/draft",
+          "access_links": "https://zenodo.org/api/records/8343670/access/links",
+          "access_grants": "https://zenodo.org/api/records/8343670/access/grants",
+          "access_users": "https://zenodo.org/api/records/8343670/access/users",
+          "access_request": "https://zenodo.org/api/records/8343670/access/request",
+          "access": "https://zenodo.org/api/records/8343670/access",
+          "communities": "https://zenodo.org/api/records/8343670/communities",
+          "communities-suggestions": "https://zenodo.org/api/records/8343670/communities-suggestions",
+          "request_deletion": "https://zenodo.org/api/records/8343670/request-deletion",
+          "file_modification": "https://zenodo.org/api/records/8343670/file-modification",
+          "quota_increase": "https://zenodo.org/api/records/8343670/quota-increase",
+          "requests": "https://zenodo.org/api/records/8343670/requests"
+        },
+        "updated": "2024-07-11T07:27:53.282838+00:00",
+        "recid": "8343670",
+        "revision": 3,
+        "files": [],
+        "swh": null,
+        "owners": [
+          {
+            "id": "582730"
+          }
+        ],
+        "status": "published",
+        "stats": {
+          "downloads": 2,
+          "unique_downloads": 2,
+          "views": 71,
+          "unique_views": 71,
+          "version_downloads": 2,
+          "version_unique_downloads": 2,
+          "version_unique_views": 71,
+          "version_views": 71
+        },
+        "state": "done",
+        "submitted": true
+      },
+      {
+        "created": "2021-06-16T23:38:51.369707+00:00",
+        "modified": "2024-07-19T00:47:04.602228+00:00",
+        "id": 4969616,
+        "conceptrecid": "4969615",
+        "doi": "10.5061/dryad.1g2tf45",
+        "doi_url": "https://doi.org/10.5061/dryad.1g2tf45",
+        "metadata": {
+          "title": "Data from: Phylogenetic comparative analysis supports aposematic colouration–body size association in millipede assassins (Hemiptera: Reduviidae: Ectrichodiinae)",
+          "doi": "10.5061/dryad.1g2tf45",
+          "publication_date": "2018-04-17",
+          "description": "The diversity of colour patterns and its importance in interactions with the environment make colouration in animals an intriguing research focus. Aposematic colouration is positively correlated with body size in certain groups of animals, suggesting that warning colours are more effective or that crypsis is harder to achieve in larger animals. Surprisingly, this relationship has not been recovered in studies investigating insects, which may have been confounded by a focus on aposematic taxa that are also gregarious. Millipede assassin bugs (Hemiptera: Reduviidae: Ectrichodiinae) comprise species with cryptic and aposematic colour patterns across a range of body sizes, are typically solitary as adults, and are thus an excellent model for investigating a possible association between colouration and body size. Here, we use a comprehensive phylogeny for Ectrichodiinae, ancestral state reconstruction of colouration, and phylogenetic comparative methods to test for a colouration-body size association. The ancestor of Ectrichodiinae is reconstructed as cryptically coloured, with multiple subsequent transitions between aposematic and cryptic colouration. Aposematic colouration is positively associated with male body length and supports the hypothesis that selection on Ectrichodiinae body size may influence evolutionary transitions between aposematic and cryptic colouration or alternatively that selection for aposematic colouration influences body size evolution.",
+          "access_right": "open",
+          "creators": [
+            {
+              "name": "Forthman, Michael",
+              "affiliation": "University of California System"
+            },
+            {
+              "name": "Weirauch, Christiane",
+              "affiliation": "University of California, Riverside"
+            }
+          ],
+          "keywords": [
+            "Ectrichodiinae",
+            "Aposematic colouration",
+            "phylogenetic logistic regression",
+            "phylogenetic ANOVA",
+            "ancestral state reconstruction"
+          ],
+          "related_identifiers": [
+            {
+              "identifier": "10.1111/jeb.13288",
+              "relation": "isCitedBy",
+              "scheme": "doi"
+            }
+          ],
+          "resource_type": {
+            "title": "Dataset",
+            "type": "dataset"
+          },
+          "license": {
+            "id": "cc-zero"
+          },
+          "communities": [
+            {
+              "id": "dryad"
+            }
+          ],
+          "relations": {
+            "version": [
+              {
+                "index": 0,
+                "is_last": true,
+                "parent": {
+                  "pid_type": "recid",
+                  "pid_value": "4969615"
+                }
+              }
+            ]
+          },
+          "notes": "<div class=\"o-metadata__file-usage-entry\">Supporting information 1.<div class=\"o-metadata__file-description\">Species of Ectrichodiinae that were assigned to colouration categories (i.e., cryptic, aposematic, uniform metallic, or aposematic and metallic) by five independent observers. Those without an (*) were based on at least one voucher specimen. (*) indicates live images additionally available. Species in bold are those in which a majority opinion was not achieved by the independent observers, with ties broken by the senior author's assignment that was made prior to surveying the observers.</div><div class=\"o-metadata__file-name\">S1.docx<br></div></div><div class=\"o-metadata__file-usage-entry\">Supporting information 2.<div class=\"o-metadata__file-description\">Character matrix for colour characters and male body length in nexus format for ASRs</div><div class=\"o-metadata__file-name\">S2.nex<br></div></div><div class=\"o-metadata__file-usage-entry\">Supporting information 3.<div class=\"o-metadata__file-description\">Parsimony ancestral state reconstruction of colour character 1 on the ML phylogram (tree converted to cladogram for visual). Terminal taxa coded as cryptic (black) or either aposematic, metallic, or aposematic and metallic (blue).</div><div class=\"o-metadata__file-name\">S3.pdf<br></div></div><div class=\"o-metadata__file-usage-entry\">Supporting information 4.<div class=\"o-metadata__file-description\">BayesTraits MultiState ML and MCMC ancestral state reconstruction output for colour character 1 on ML phylogram and ultrametric trees. The grey panel lists internal node IDs and subtending terminal taxa. The blue panel are results from ML ancestral state reconstruction. The yellow panel are results from MCMC ancestral state reconstruction. Abbreviations: Ultra 0, ultrametric tree generated with penalty = 0; Ultra 10, ultrametric tree generated with penalty = 10; Ultra 10000, ultrametric tree generated with penalty = 10000.</div><div class=\"o-metadata__file-name\">S4.xlsx<br></div></div><div class=\"o-metadata__file-usage-entry\">Supporting information 5.<div class=\"o-metadata__file-description\">Parsimony ancestral state reconstruction of colour character 2 on the ML phylogram (tree converted to cladogram for visual). Terminal taxa coded as cryptic or metallic (black) or aposematic or aposematic and metallic (blue).</div><div class=\"o-metadata__file-name\">S5.pdf<br></div></div><div class=\"o-metadata__file-usage-entry\">Supporting information 6.<div class=\"o-metadata__file-description\">BayesTraits MultiState ML ancestral state reconstruction of colour character 2 on the ML phylogram (tree converted to cladogram for visual). Terminal taxa coded as cryptic or uniform metallic (black) or aposematic or aposematic and metallic (blue). Pie charts at select nodes show probability values from the ML reconstruc- tions; branches are coloured to reflect the highest probability of a colour state at that branch.</div><div class=\"o-metadata__file-name\">S6.pdf<br></div></div><div class=\"o-metadata__file-usage-entry\">Supporting information 7.<div class=\"o-metadata__file-description\">BayesTraits MultiState ML and MCMC ancestral state reconstruction output for colour character 2 on ML phylogram and ultrametric trees. The grey panel lists internal node IDs and subtending terminal taxa. The blue panel are results from ML ancestral state reconstruction. The yellow panel are results from MCMC ancestral state reconstruction. Abbreviations: Ultra 0, ultrametric tree generated with penalty = 0; Ultra 10, ultrametric tree generated with penalty = 10; Ultra 10000, ultrametric tree generated with penalty = 10000.</div><div class=\"o-metadata__file-name\">S7.xlsx<br></div></div><div class=\"o-metadata__file-usage-entry\">Supporting information 8.<div class=\"o-metadata__file-description\">Phylogenetic logistic regression parameter estimates for the effects of log-transformed male body length on colouration (colour character 2) in 132 Ectrichodiinae species. Parameters are phylogenetic signal (a), intercept (b0), and the regression coefficient (b1), and P &lt; 0.05 are indicated in bold. Abbreviations: Ultra0, ultrametric tree generated with penalty = 0; Ultra10, ultrametric tree generated with penalty = 10; Ultra10000, ultrametric tree generated with penalty = 10000; Par, parameter; SE, standard error; BS, bootstrap; C, converged; NC, non-converged.</div><div class=\"o-metadata__file-name\">S8.docx<br></div></div>"
+        },
+        "title": "Data from: Phylogenetic comparative analysis supports aposematic colouration–body size association in millipede assassins (Hemiptera: Reduviidae: Ectrichodiinae)",
+        "links": {
+          "self": "https://zenodo.org/api/records/4969616",
+          "self_html": "https://zenodo.org/records/4969616",
+          "preview_html": "https://zenodo.org/records/4969616?preview=1",
+          "doi": "https://doi.org/10.5061/dryad.1g2tf45",
+          "self_doi": "https://doi.org/10.5061/dryad.1g2tf45",
+          "self_doi_html": "https://zenodo.org/doi/10.5061/dryad.1g2tf45",
+          "reserve_doi": "https://zenodo.org/api/records/4969616/draft/pids/doi",
+          "parent": "https://zenodo.org/api/records/4969615",
+          "parent_html": "https://zenodo.org/records/4969615",
+          "self_iiif_manifest": "https://zenodo.org/api/iiif/record:4969616/manifest",
+          "self_iiif_sequence": "https://zenodo.org/api/iiif/record:4969616/sequence/default",
+          "files": "https://zenodo.org/api/records/4969616/files",
+          "media_files": "https://zenodo.org/api/records/4969616/media-files",
+          "thumbnails": {
+            "10": "https://zenodo.org/api/iiif/record:4969616:S5.pdf/full/%5E10,/0/default.jpg",
+            "50": "https://zenodo.org/api/iiif/record:4969616:S5.pdf/full/%5E50,/0/default.jpg",
+            "100": "https://zenodo.org/api/iiif/record:4969616:S5.pdf/full/%5E100,/0/default.jpg",
+            "250": "https://zenodo.org/api/iiif/record:4969616:S5.pdf/full/%5E250,/0/default.jpg",
+            "750": "https://zenodo.org/api/iiif/record:4969616:S5.pdf/full/%5E750,/0/default.jpg",
+            "1200": "https://zenodo.org/api/iiif/record:4969616:S5.pdf/full/%5E1200,/0/default.jpg"
+          },
+          "archive": "https://zenodo.org/api/records/4969616/files-archive",
+          "archive_media": "https://zenodo.org/api/records/4969616/media-files-archive",
+          "latest": "https://zenodo.org/api/records/4969616/versions/latest",
+          "latest_html": "https://zenodo.org/records/4969616/latest",
+          "versions": "https://zenodo.org/api/records/4969616/versions",
+          "draft": "https://zenodo.org/api/records/4969616/draft",
+          "access_links": "https://zenodo.org/api/records/4969616/access/links",
+          "access_grants": "https://zenodo.org/api/records/4969616/access/grants",
+          "access_users": "https://zenodo.org/api/records/4969616/access/users",
+          "access_request": "https://zenodo.org/api/records/4969616/access/request",
+          "access": "https://zenodo.org/api/records/4969616/access",
+          "communities": "https://zenodo.org/api/records/4969616/communities",
+          "communities-suggestions": "https://zenodo.org/api/records/4969616/communities-suggestions",
+          "request_deletion": "https://zenodo.org/api/records/4969616/request-deletion",
+          "file_modification": "https://zenodo.org/api/records/4969616/file-modification",
+          "quota_increase": "https://zenodo.org/api/records/4969616/quota-increase",
+          "requests": "https://zenodo.org/api/records/4969616/requests"
+        },
+        "updated": "2024-07-19T00:47:04.602228+00:00",
+        "recid": "4969616",
+        "revision": 6,
+        "files": [
+          {
+            "id": "06ad70aa-77ec-4dc4-9716-1818ce0742db",
+            "key": "S1.docx",
+            "size": 119177,
+            "checksum": "md5:24576aea612cc77c13554e5896fca80b",
+            "links": {
+              "self": "https://zenodo.org/api/records/4969616/files/S1.docx/content"
+            }
+          },
+          {
+            "id": "9fc89a4a-826a-4715-a897-37f8c97842c5",
+            "key": "S2.nex",
+            "size": 15663,
+            "checksum": "md5:5906b5e64ff275022f0ab3cedd816137",
+            "links": {
+              "self": "https://zenodo.org/api/records/4969616/files/S2.nex/content"
+            }
+          },
+          {
+            "id": "02617d07-edc1-429a-884a-f373908a85c5",
+            "key": "S5.pdf",
+            "size": 20418330,
+            "checksum": "md5:9a9cbfb40bbcd1111e894eb48a3e102e",
+            "links": {
+              "self": "https://zenodo.org/api/records/4969616/files/S5.pdf/content"
+            }
+          },
+          {
+            "id": "dd4a8c54-f5c1-411e-aeb0-b225fe4bc095",
+            "key": "S7.xlsx",
+            "size": 4294501,
+            "checksum": "md5:3d01adb2a0667a286195de32e958d252",
+            "links": {
+              "self": "https://zenodo.org/api/records/4969616/files/S7.xlsx/content"
+            }
+          },
+          {
+            "id": "79441192-cafd-4366-800a-755408e31e2a",
+            "key": "S3.pdf",
+            "size": 20415940,
+            "checksum": "md5:b18f287fd3051daf825c6db5fad579f0",
+            "links": {
+              "self": "https://zenodo.org/api/records/4969616/files/S3.pdf/content"
+            }
+          },
+          {
+            "id": "f2a55991-15de-4576-8991-b90e5921e0d4",
+            "key": "S4.xlsx",
+            "size": 1436878,
+            "checksum": "md5:9d4fc8728387ff79470ffde7ae1727ea",
+            "links": {
+              "self": "https://zenodo.org/api/records/4969616/files/S4.xlsx/content"
+            }
+          },
+          {
+            "id": "bd88be46-e593-4c7d-9fa3-f4c8a7c57a0b",
+            "key": "S6.pdf",
+            "size": 20368236,
+            "checksum": "md5:18412115d4d19a09174d5c393cf17dbc",
+            "links": {
+              "self": "https://zenodo.org/api/records/4969616/files/S6.pdf/content"
+            }
+          },
+          {
+            "id": "3fbcb394-d784-41b7-b35b-c1d3ac302264",
+            "key": "S8.docx",
+            "size": 21210,
+            "checksum": "md5:61decb3090d4032a15c067bca43295d2",
+            "links": {
+              "self": "https://zenodo.org/api/records/4969616/files/S8.docx/content"
+            }
+          }
+        ],
+        "swh": null,
+        "owners": [
+          {
+            "id": "90070"
+          }
+        ],
+        "status": "published",
+        "stats": {
+          "downloads": 225,
+          "unique_downloads": 225,
+          "views": 179,
+          "unique_views": 178,
+          "version_downloads": 225,
+          "version_unique_downloads": 225,
+          "version_unique_views": 178,
+          "version_views": 179
+        },
+        "state": "done",
+        "submitted": true
+      },
+      {
+        "created": "2024-07-25T20:05:53.613191+00:00",
+        "modified": "2025-12-11T10:14:08.454229+00:00",
+        "id": 12827506,
+        "conceptrecid": "12827505",
+        "doi": "10.5281/zenodo.12827506",
+        "conceptdoi": "10.5281/zenodo.12827505",
+        "doi_url": "https://doi.org/10.5281/zenodo.12827506",
+        "metadata": {
+          "title": "Fig. 3 in Biodiversity of the Buffalo Leeches Genus Hirudinaria (Arhynchobdellida, Hirudinidae) in Southern Thailand Revealed from DNA Barcoding",
+          "doi": "10.5281/zenodo.12827506",
+          "publication_date": "2022-12-26",
+          "description": "Fig. 3. BEAST ultrametric tree of buffalo leeches genus Hirudinaria. Leeches from southern Thailand are highlighted in bold. Numbers on nodes are bootstrap values from ML tree generated by IQ-TREE, Bayesian posterior probability from BI tree generated by MrBayes, and from ultrametric tree generated by BEAST, respectively. Black bars indicate morphological identification (MORPHO) and delineated OTUs suggested by four species delimitation approaches (GMYC, bPTP, BIN, and ABGD). Grey bars indicate samples that were not available for morphological identification.",
+          "access_right": "open",
+          "creators": [
+            {
+              "name": "Jiranuntskul, Putita",
+              "affiliation": "Animal Systematics and Molecular Ecology Laboratory, Department of Biology, Faculty of Science, Mahidol University, Bangkok 10400, Thailand. *Correspondence: E-mail: ekgachai.jer@mahidol.edu (Jeratthitikul). E-mail: putita.jira@gmail.com (Jiranuntskul); ausadang.boo@gmail.com (Boonporn); chalita.kon@mahidol.edu (Kongrit)"
+            },
+            {
+              "name": "Boonporn, Ausadang",
+              "affiliation": "Animal Systematics and Molecular Ecology Laboratory, Department of Biology, Faculty of Science, Mahidol University, Bangkok 10400, Thailand. *Correspondence: E-mail: ekgachai.jer@mahidol.edu (Jeratthitikul). E-mail: putita.jira@gmail.com (Jiranuntskul); ausadang.boo@gmail.com (Boonporn); chalita.kon@mahidol.edu (Kongrit)"
+            },
+            {
+              "name": "Kongrit, Chalita",
+              "affiliation": "Animal Systematics and Molecular Ecology Laboratory, Department of Biology, Faculty of Science, Mahidol University, Bangkok 10400, Thailand. *Correspondence: E-mail: ekgachai.jer@mahidol.edu (Jeratthitikul). E-mail: putita.jira@gmail.com (Jiranuntskul); ausadang.boo@gmail.com (Boonporn); chalita.kon@mahidol.edu (Kongrit)"
+            },
+            {
+              "name": "Panha, Somsak",
+              "affiliation": "Animal Systematics Research Unit, Department of Biology, Faculty of Science, Chulalongkorn University, Bangkok 10330, Thailand. E-mail: somsak.pan@chula.ac.th (Panha)"
+            },
+            {
+              "name": "Jeratthitikul, Ekgachai",
+              "affiliation": "Animal Systematics and Molecular Ecology Laboratory, Department of Biology, Faculty of Science, Mahidol University, Bangkok 10400, Thailand. *Correspondence: E-mail: ekgachai.jer@mahidol.edu (Jeratthitikul). E-mail: putita.jira@gmail.com (Jiranuntskul); ausadang.boo@gmail.com (Boonporn); chalita.kon@mahidol.edu (Kongrit)"
+            }
+          ],
+          "keywords": [
+            "Biodiversity",
+            "Taxonomy",
+            "Animalia",
+            "Mollusca",
+            "Bivalvia",
+            "Galeommatida",
+            "Galeommatidae",
+            "Hirudinaria"
+          ],
+          "related_identifiers": [
+            {
+              "identifier": "10.6620/ZS.2022.61-84",
+              "relation": "isPartOf",
+              "resource_type": "publication-article",
+              "scheme": "doi"
+            },
+            {
+              "identifier": "urn:lsid:plazi.org:pub:FF864D12DD05C54A6B23FFE7AD7FDC06",
+              "relation": "isPartOf",
+              "resource_type": "publication-article",
+              "scheme": "lsid"
+            },
+            {
+              "identifier": "http://publication.plazi.org/id/FF864D12DD05C54A6B23FFE7AD7FDC06",
+              "relation": "isPartOf",
+              "resource_type": "publication-article",
+              "scheme": "url"
+            },
+            {
+              "identifier": "https://zenodo.org/record/12827500",
+              "relation": "isPartOf",
+              "resource_type": "publication-article",
+              "scheme": "url"
+            },
+            {
+              "identifier": "http://treatment.plazi.org/id/03BF356ADD0CC541680EFDBAAFC7DD93",
+              "relation": "isCitedBy",
+              "resource_type": "publication-taxonomictreatment",
+              "scheme": "url"
+            }
+          ],
+          "resource_type": {
+            "title": "Figure",
+            "type": "image",
+            "subtype": "figure"
+          },
+          "journal": {
+            "issue": "84",
+            "pages": "1-14",
+            "title": "Zoological Studies",
+            "volume": "61"
+          },
+          "license": {
+            "id": "cc-by-4.0"
+          },
+          "communities": [
+            {
+              "id": "biosyslit"
+            }
+          ],
+          "relations": {
+            "version": [
+              {
+                "index": 0,
+                "is_last": true,
+                "parent": {
+                  "pid_type": "recid",
+                  "pid_value": "12827505"
+                }
+              }
+            ]
+          },
+          "notes": "Published as part of <i>Jiranuntskul, Putita, Boonporn, Ausadang, Kongrit, Chalita, Panha, Somsak &amp; Jeratthitikul, Ekgachai, 2022, Biodiversity of the Buffalo Leeches Genus Hirudinaria (Arhynchobdellida, Hirudinidae) in Southern Thailand Revealed from DNA Barcoding, pp. 1-14 in Zoological Studies 61 (84)</i> on page 6, DOI: 10.6620/ZS.2022.61-84, <a href=\"http://zenodo.org/record/12827500\">http://zenodo.org/record/12827500</a>"
+        },
+        "title": "Fig. 3 in Biodiversity of the Buffalo Leeches Genus Hirudinaria (Arhynchobdellida, Hirudinidae) in Southern Thailand Revealed from DNA Barcoding",
+        "links": {
+          "self": "https://zenodo.org/api/records/12827506",
+          "self_html": "https://zenodo.org/records/12827506",
+          "preview_html": "https://zenodo.org/records/12827506?preview=1",
+          "doi": "https://doi.org/10.5281/zenodo.12827506",
+          "self_doi": "https://doi.org/10.5281/zenodo.12827506",
+          "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.12827506",
+          "reserve_doi": "https://zenodo.org/api/records/12827506/draft/pids/doi",
+          "parent": "https://zenodo.org/api/records/12827505",
+          "parent_html": "https://zenodo.org/records/12827505",
+          "parent_doi": "https://doi.org/10.5281/zenodo.12827505",
+          "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.12827505",
+          "self_iiif_manifest": "https://zenodo.org/api/iiif/record:12827506/manifest",
+          "self_iiif_sequence": "https://zenodo.org/api/iiif/record:12827506/sequence/default",
+          "files": "https://zenodo.org/api/records/12827506/files",
+          "media_files": "https://zenodo.org/api/records/12827506/media-files",
+          "thumbnails": {
+            "10": "https://zenodo.org/api/iiif/record:12827506:figure.png/full/%5E10,/0/default.jpg",
+            "50": "https://zenodo.org/api/iiif/record:12827506:figure.png/full/%5E50,/0/default.jpg",
+            "100": "https://zenodo.org/api/iiif/record:12827506:figure.png/full/%5E100,/0/default.jpg",
+            "250": "https://zenodo.org/api/iiif/record:12827506:figure.png/full/%5E250,/0/default.jpg",
+            "750": "https://zenodo.org/api/iiif/record:12827506:figure.png/full/%5E750,/0/default.jpg",
+            "1200": "https://zenodo.org/api/iiif/record:12827506:figure.png/full/%5E1200,/0/default.jpg"
+          },
+          "archive": "https://zenodo.org/api/records/12827506/files-archive",
+          "archive_media": "https://zenodo.org/api/records/12827506/media-files-archive",
+          "latest": "https://zenodo.org/api/records/12827506/versions/latest",
+          "latest_html": "https://zenodo.org/records/12827506/latest",
+          "versions": "https://zenodo.org/api/records/12827506/versions",
+          "draft": "https://zenodo.org/api/records/12827506/draft",
+          "access_links": "https://zenodo.org/api/records/12827506/access/links",
+          "access_grants": "https://zenodo.org/api/records/12827506/access/grants",
+          "access_users": "https://zenodo.org/api/records/12827506/access/users",
+          "access_request": "https://zenodo.org/api/records/12827506/access/request",
+          "access": "https://zenodo.org/api/records/12827506/access",
+          "communities": "https://zenodo.org/api/records/12827506/communities",
+          "communities-suggestions": "https://zenodo.org/api/records/12827506/communities-suggestions",
+          "request_deletion": "https://zenodo.org/api/records/12827506/request-deletion",
+          "file_modification": "https://zenodo.org/api/records/12827506/file-modification",
+          "quota_increase": "https://zenodo.org/api/records/12827506/quota-increase",
+          "requests": "https://zenodo.org/api/records/12827506/requests"
+        },
+        "updated": "2025-12-11T10:14:08.454229+00:00",
+        "recid": "12827506",
+        "revision": 9,
+        "files": [
+          {
+            "id": "82444466-0770-4e32-8c17-da0cd386bb4a",
+            "key": "figure.svg",
+            "size": 3606486,
+            "checksum": "md5:4ce91ad670ea09b3d5a8a772213f2701",
+            "links": {
+              "self": "https://zenodo.org/api/records/12827506/files/figure.svg/content"
+            }
+          },
+          {
+            "id": "6ddd7812-a53c-46ec-95ef-53a933fcd273",
+            "key": "figure.png",
+            "size": 504472,
+            "checksum": "md5:dec266d3dea5a67888f6d31f968df820",
+            "links": {
+              "self": "https://zenodo.org/api/records/12827506/files/figure.png/content"
+            }
+          }
+        ],
+        "swh": null,
+        "owners": [
+          {
+            "id": "1161"
+          }
+        ],
+        "status": "published",
+        "stats": {
+          "downloads": 34,
+          "unique_downloads": 34,
+          "views": 32,
+          "unique_views": 32,
+          "version_downloads": 34,
+          "version_unique_downloads": 34,
+          "version_unique_views": 32,
+          "version_views": 32
+        },
+        "state": "done",
+        "submitted": true
+      },
+      {
+        "created": "2021-06-16T15:23:24.528506+00:00",
+        "modified": "2024-07-19T00:48:45.366011+00:00",
+        "id": 4967530,
+        "conceptrecid": "4967529",
+        "doi": "10.5281/zenodo.4967530",
+        "conceptdoi": "10.5281/zenodo.4967529",
+        "doi_url": "https://doi.org/10.5281/zenodo.4967530",
+        "metadata": {
+          "title": "On Completeness in Metric Spaces and Fixed Point Theorems",
+          "doi": "10.5281/zenodo.4967530",
+          "publication_date": "2018-10-08",
+          "description": "<p>Complete ultrametric spaces constitute a particular class of the so called, recently, G-complete metric spaces. In this paper we characterize a more general class called weak G-complete metric spaces, by means of nested sequences of closed sets. Then, we also state a general fixed point theorem for a self-mapping of a weak G-complete metric space. As a corollary, every asymptotically regular self-mapping of a weak G-Complete metric space has a fixed point.</p>",
+          "access_right": "open",
+          "creators": [
+            {
+              "name": "Valentin Gregori",
+              "affiliation": "Polytechnic University of Valencia"
+            },
+            {
+              "name": "Juan José Miñana",
+              "affiliation": "University of the Balearic Islands"
+            },
+            {
+              "name": "Bernardino Roig",
+              "affiliation": "Polytechnic University of Valencia"
+            },
+            {
+              "name": "Almanzor Sapena",
+              "affiliation": "Polytechnic University of Valencia"
+            }
+          ],
+          "keywords": [
+            "G-complete metric space",
+            "weak G-complete metric space"
+          ],
+          "resource_type": {
+            "title": "Journal article",
+            "type": "publication",
+            "subtype": "article"
+          },
+          "journal": {
+            "pages": "142",
+            "title": "Results in Mathematics",
+            "volume": "73"
+          },
+          "license": {
+            "id": "cc-by-4.0"
+          },
+          "grants": [
+            {
+              "code": "779776",
+              "internal_id": "10.13039/501100000780::779776",
+              "funder": {
+                "name": "European Commission",
+                "doi": "10.13039/501100000780",
+                "acronym": "EC"
+              },
+              "title": "Robotics Technology for Inspection of Ships",
+              "acronym": "ROBINS",
+              "program": "H2020-EU.2.1.1.",
+              "url": "https://cordis.europa.eu/projects/779776"
+            }
+          ],
+          "communities": [
+            {
+              "id": "eu"
+            }
+          ],
+          "relations": {
+            "version": [
+              {
+                "index": 0,
+                "is_last": true,
+                "parent": {
+                  "pid_type": "recid",
+                  "pid_value": "4967529"
+                }
+              }
+            ]
+          },
+          "notes": "This is a preprint of the publication available from https://link.springer.com/article/10.1007/s00025-018-0896-4. This work is also supported by project PGC2018-095709-B-C21 (MCIU/AEI/FEDER, UE), and PROCOE/4/2017 (Govern Balear, 50% P.O. FEDER 2014-2020 Illes Balears)."
+        },
+        "title": "On Completeness in Metric Spaces and Fixed Point Theorems",
+        "links": {
+          "self": "https://zenodo.org/api/records/4967530",
+          "self_html": "https://zenodo.org/records/4967530",
+          "preview_html": "https://zenodo.org/records/4967530?preview=1",
+          "doi": "https://doi.org/10.5281/zenodo.4967530",
+          "self_doi": "https://doi.org/10.5281/zenodo.4967530",
+          "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.4967530",
+          "reserve_doi": "https://zenodo.org/api/records/4967530/draft/pids/doi",
+          "parent": "https://zenodo.org/api/records/4967529",
+          "parent_html": "https://zenodo.org/records/4967529",
+          "parent_doi": "https://doi.org/10.5281/zenodo.4967529",
+          "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.4967529",
+          "self_iiif_manifest": "https://zenodo.org/api/iiif/record:4967530/manifest",
+          "self_iiif_sequence": "https://zenodo.org/api/iiif/record:4967530/sequence/default",
+          "files": "https://zenodo.org/api/records/4967530/files",
+          "media_files": "https://zenodo.org/api/records/4967530/media-files",
+          "thumbnails": {
+            "10": "https://zenodo.org/api/iiif/record:4967530:vg_results%20in%20mathematics_2018.pdf/full/%5E10,/0/default.jpg",
+            "50": "https://zenodo.org/api/iiif/record:4967530:vg_results%20in%20mathematics_2018.pdf/full/%5E50,/0/default.jpg",
+            "100": "https://zenodo.org/api/iiif/record:4967530:vg_results%20in%20mathematics_2018.pdf/full/%5E100,/0/default.jpg",
+            "250": "https://zenodo.org/api/iiif/record:4967530:vg_results%20in%20mathematics_2018.pdf/full/%5E250,/0/default.jpg",
+            "750": "https://zenodo.org/api/iiif/record:4967530:vg_results%20in%20mathematics_2018.pdf/full/%5E750,/0/default.jpg",
+            "1200": "https://zenodo.org/api/iiif/record:4967530:vg_results%20in%20mathematics_2018.pdf/full/%5E1200,/0/default.jpg"
+          },
+          "archive": "https://zenodo.org/api/records/4967530/files-archive",
+          "archive_media": "https://zenodo.org/api/records/4967530/media-files-archive",
+          "latest": "https://zenodo.org/api/records/4967530/versions/latest",
+          "latest_html": "https://zenodo.org/records/4967530/latest",
+          "versions": "https://zenodo.org/api/records/4967530/versions",
+          "draft": "https://zenodo.org/api/records/4967530/draft",
+          "access_links": "https://zenodo.org/api/records/4967530/access/links",
+          "access_grants": "https://zenodo.org/api/records/4967530/access/grants",
+          "access_users": "https://zenodo.org/api/records/4967530/access/users",
+          "access_request": "https://zenodo.org/api/records/4967530/access/request",
+          "access": "https://zenodo.org/api/records/4967530/access",
+          "communities": "https://zenodo.org/api/records/4967530/communities",
+          "communities-suggestions": "https://zenodo.org/api/records/4967530/communities-suggestions",
+          "request_deletion": "https://zenodo.org/api/records/4967530/request-deletion",
+          "file_modification": "https://zenodo.org/api/records/4967530/file-modification",
+          "quota_increase": "https://zenodo.org/api/records/4967530/quota-increase",
+          "requests": "https://zenodo.org/api/records/4967530/requests"
+        },
+        "updated": "2024-07-19T00:48:45.366011+00:00",
+        "recid": "4967530",
+        "revision": 5,
+        "files": [
+          {
+            "id": "7a580b2e-73d1-4a27-aed4-44a0383ccbac",
+            "key": "vg_results in mathematics_2018.pdf",
+            "size": 297026,
+            "checksum": "md5:0bca8bf911b729a909856d1f083ae20d",
+            "links": {
+              "self": "https://zenodo.org/api/records/4967530/files/vg_results%20in%20mathematics_2018.pdf/content"
+            }
+          }
+        ],
+        "swh": null,
+        "owners": [
+          {
+            "id": "145670"
+          }
+        ],
+        "status": "published",
+        "stats": {
+          "downloads": 218,
+          "unique_downloads": 213,
+          "views": 241,
+          "unique_views": 231,
+          "version_downloads": 218,
+          "version_unique_downloads": 213,
+          "version_unique_views": 228,
+          "version_views": 238
+        },
+        "state": "done",
+        "submitted": true
+      },
+      {
+        "created": "2023-11-09T20:25:49.455594+00:00",
+        "modified": "2024-07-10T22:52:58.676446+00:00",
+        "id": 10093298,
+        "conceptrecid": "10093297",
+        "doi": "10.5281/zenodo.10093298",
+        "conceptdoi": "10.5281/zenodo.10093297",
+        "doi_url": "https://doi.org/10.5281/zenodo.10093298",
+        "metadata": {
+          "title": "FIGURE 2. Penaeini ultrametric tree. Below a in Molecular phylogeny and divergence time estimates of Penaeid Shrimp Lineages (Decapoda: Penaeidae)",
+          "doi": "10.5281/zenodo.10093298",
+          "publication_date": "2009-05-15",
+          "description": "FIGURE 2. Penaeini ultrametric tree. Below a geological time-scale is shown.",
+          "access_right": "open",
+          "creators": [
+            {
+              "name": "Voloch, Carolina M",
+              "affiliation": null
+            },
+            {
+              "name": "Freire, Pablo R",
+              "affiliation": null
+            },
+            {
+              "name": "Russo, Claudia A M",
+              "affiliation": null
+            }
+          ],
+          "keywords": [
+            "Biodiversity",
+            "Taxonomy"
+          ],
+          "related_identifiers": [
+            {
+              "identifier": "10.11646/zootaxa.2107.1.2",
+              "relation": "isPartOf",
+              "resource_type": "publication-article",
+              "scheme": "doi"
+            },
+            {
+              "identifier": "urn:lsid:plazi.org:pub:6D550269B112FFDEFFFE4145FFF3C432",
+              "relation": "isPartOf",
+              "resource_type": "publication-article",
+              "scheme": "lsid"
+            },
+            {
+              "identifier": "https://zenodo.org/record/10093294",
+              "relation": "isPartOf",
+              "resource_type": "publication-article",
+              "scheme": "url"
+            }
+          ],
+          "resource_type": {
+            "title": "Figure",
+            "type": "image",
+            "subtype": "figure"
+          },
+          "journal": {
+            "issue": "1",
+            "pages": "41-52",
+            "title": "Zootaxa",
+            "volume": "2107"
+          },
+          "license": {
+            "id": "notspecified"
+          },
+          "communities": [
+            {
+              "id": "biosyslit"
+            }
+          ],
+          "relations": {
+            "version": [
+              {
+                "index": 0,
+                "is_last": true,
+                "parent": {
+                  "pid_type": "recid",
+                  "pid_value": "10093297"
+                }
+              }
+            ]
+          }
+        },
+        "title": "FIGURE 2. Penaeini ultrametric tree. Below a in Molecular phylogeny and divergence time estimates of Penaeid Shrimp Lineages (Decapoda: Penaeidae)",
+        "links": {
+          "self": "https://zenodo.org/api/records/10093298",
+          "self_html": "https://zenodo.org/records/10093298",
+          "preview_html": "https://zenodo.org/records/10093298?preview=1",
+          "doi": "https://doi.org/10.5281/zenodo.10093298",
+          "self_doi": "https://doi.org/10.5281/zenodo.10093298",
+          "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.10093298",
+          "reserve_doi": "https://zenodo.org/api/records/10093298/draft/pids/doi",
+          "parent": "https://zenodo.org/api/records/10093297",
+          "parent_html": "https://zenodo.org/records/10093297",
+          "parent_doi": "https://doi.org/10.5281/zenodo.10093297",
+          "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.10093297",
+          "self_iiif_manifest": "https://zenodo.org/api/iiif/record:10093298/manifest",
+          "self_iiif_sequence": "https://zenodo.org/api/iiif/record:10093298/sequence/default",
+          "files": "https://zenodo.org/api/records/10093298/files",
+          "media_files": "https://zenodo.org/api/records/10093298/media-files",
+          "thumbnails": {
+            "10": "https://zenodo.org/api/iiif/record:10093298:figure.png/full/%5E10,/0/default.jpg",
+            "50": "https://zenodo.org/api/iiif/record:10093298:figure.png/full/%5E50,/0/default.jpg",
+            "100": "https://zenodo.org/api/iiif/record:10093298:figure.png/full/%5E100,/0/default.jpg",
+            "250": "https://zenodo.org/api/iiif/record:10093298:figure.png/full/%5E250,/0/default.jpg",
+            "750": "https://zenodo.org/api/iiif/record:10093298:figure.png/full/%5E750,/0/default.jpg",
+            "1200": "https://zenodo.org/api/iiif/record:10093298:figure.png/full/%5E1200,/0/default.jpg"
+          },
+          "archive": "https://zenodo.org/api/records/10093298/files-archive",
+          "archive_media": "https://zenodo.org/api/records/10093298/media-files-archive",
+          "latest": "https://zenodo.org/api/records/10093298/versions/latest",
+          "latest_html": "https://zenodo.org/records/10093298/latest",
+          "versions": "https://zenodo.org/api/records/10093298/versions",
+          "draft": "https://zenodo.org/api/records/10093298/draft",
+          "access_links": "https://zenodo.org/api/records/10093298/access/links",
+          "access_grants": "https://zenodo.org/api/records/10093298/access/grants",
+          "access_users": "https://zenodo.org/api/records/10093298/access/users",
+          "access_request": "https://zenodo.org/api/records/10093298/access/request",
+          "access": "https://zenodo.org/api/records/10093298/access",
+          "communities": "https://zenodo.org/api/records/10093298/communities",
+          "communities-suggestions": "https://zenodo.org/api/records/10093298/communities-suggestions",
+          "request_deletion": "https://zenodo.org/api/records/10093298/request-deletion",
+          "file_modification": "https://zenodo.org/api/records/10093298/file-modification",
+          "quota_increase": "https://zenodo.org/api/records/10093298/quota-increase",
+          "requests": "https://zenodo.org/api/records/10093298/requests"
+        },
+        "updated": "2024-07-10T22:52:58.676446+00:00",
+        "recid": "10093298",
+        "revision": 7,
+        "files": [
+          {
+            "id": "7f435328-8520-4343-93f1-fb85031731a6",
+            "key": "figure.png",
+            "size": 187003,
+            "checksum": "md5:ca45924faa20c3543e67b9052e7a5a8d",
+            "links": {
+              "self": "https://zenodo.org/api/records/10093298/files/figure.png/content"
+            }
+          }
+        ],
+        "swh": null,
+        "owners": [
+          {
+            "id": "1161"
+          }
+        ],
+        "status": "published",
+        "stats": {
+          "downloads": 13,
+          "unique_downloads": 12,
+          "views": 53,
+          "unique_views": 53,
+          "version_downloads": 13,
+          "version_unique_downloads": 12,
+          "version_unique_views": 53,
+          "version_views": 53
+        },
+        "state": "done",
+        "submitted": true
+      }
+    ],
+    "total": 733447
+  },
+  "aggregations": {
+    "publication_date": {
+      "buckets": [
+        {
+          "key": "2000",
+          "doc_count": 768,
+          "label": "2000",
+          "is_selected": false
+        },
+        {
+          "key": "2001",
+          "doc_count": 670,
+          "label": "2001",
+          "is_selected": false
+        },
+        {
+          "key": "2002",
+          "doc_count": 1745,
+          "label": "2002",
+          "is_selected": false
+        },
+        {
+          "key": "2003",
+          "doc_count": 6228,
+          "label": "2003",
+          "is_selected": false
+        },
+        {
+          "key": "2004",
+          "doc_count": 1875,
+          "label": "2004",
+          "is_selected": false
+        },
+        {
+          "key": "2005",
+          "doc_count": 2720,
+          "label": "2005",
+          "is_selected": false
+        },
+        {
+          "key": "2006",
+          "doc_count": 2763,
+          "label": "2006",
+          "is_selected": false
+        },
+        {
+          "key": "2007",
+          "doc_count": 3543,
+          "label": "2007",
+          "is_selected": false
+        },
+        {
+          "key": "2008",
+          "doc_count": 4027,
+          "label": "2008",
+          "is_selected": false
+        },
+        {
+          "key": "2009",
+          "doc_count": 5226,
+          "label": "2009",
+          "is_selected": false
+        },
+        {
+          "key": "2010",
+          "doc_count": 5388,
+          "label": "2010",
+          "is_selected": false
+        },
+        {
+          "key": "2011",
+          "doc_count": 7194,
+          "label": "2011",
+          "is_selected": false
+        },
+        {
+          "key": "2012",
+          "doc_count": 7861,
+          "label": "2012",
+          "is_selected": false
+        },
+        {
+          "key": "2013",
+          "doc_count": 10878,
+          "label": "2013",
+          "is_selected": false
+        },
+        {
+          "key": "2014",
+          "doc_count": 13444,
+          "label": "2014",
+          "is_selected": false
+        },
+        {
+          "key": "2015",
+          "doc_count": 13946,
+          "label": "2015",
+          "is_selected": false
+        },
+        {
+          "key": "2016",
+          "doc_count": 17588,
+          "label": "2016",
+          "is_selected": false
+        },
+        {
+          "key": "2017",
+          "doc_count": 22277,
+          "label": "2017",
+          "is_selected": false
+        },
+        {
+          "key": "2018",
+          "doc_count": 25315,
+          "label": "2018",
+          "is_selected": false
+        },
+        {
+          "key": "2019",
+          "doc_count": 28132,
+          "label": "2019",
+          "is_selected": false
+        },
+        {
+          "key": "2020",
+          "doc_count": 35170,
+          "label": "2020",
+          "is_selected": false
+        },
+        {
+          "key": "2021",
+          "doc_count": 43092,
+          "label": "2021",
+          "is_selected": false
+        },
+        {
+          "key": "2022",
+          "doc_count": 48588,
+          "label": "2022",
+          "is_selected": false
+        },
+        {
+          "key": "2023",
+          "doc_count": 55706,
+          "label": "2023",
+          "is_selected": false
+        },
+        {
+          "key": "2024",
+          "doc_count": 68512,
+          "label": "2024",
+          "is_selected": false
+        },
+        {
+          "key": "2025",
+          "doc_count": 125776,
+          "label": "2025",
+          "is_selected": false
+        },
+        {
+          "key": "2026",
+          "doc_count": 167556,
+          "label": "2026",
+          "is_selected": false
+        }
+      ],
+      "label": "Publication date"
+    },
+    "access_status": {
+      "buckets": [
+        {
+          "key": "open",
+          "doc_count": 693204,
+          "label": "Open",
+          "is_selected": false
+        },
+        {
+          "key": "restricted",
+          "doc_count": 39160,
+          "label": "Restricted",
+          "is_selected": false
+        },
+        {
+          "key": "embargoed",
+          "doc_count": 1083,
+          "label": "Embargoed",
+          "is_selected": false
+        }
+      ],
+      "label": "Access status"
+    },
+    "resource_type": {
+      "buckets": [
+        {
+          "key": "publication",
+          "doc_count": 534719,
+          "label": "Publication",
+          "is_selected": false,
+          "inner": {
+            "buckets": [
+              {
+                "key": "publication-article",
+                "doc_count": 237269,
+                "label": "Journal article",
+                "is_selected": false
+              },
+              {
+                "key": "publication-taxonomictreatment",
+                "doc_count": 100878,
+                "label": "Taxonomic treatment",
+                "is_selected": false
+              },
+              {
+                "key": "publication-preprint",
+                "doc_count": 76755,
+                "label": "Preprint",
+                "is_selected": false
+              },
+              {
+                "key": "publication-conferencepaper",
+                "doc_count": 20396,
+                "label": "Conference paper",
+                "is_selected": false
+              },
+              {
+                "key": "publication-report",
+                "doc_count": 9113,
+                "label": "Report",
+                "is_selected": false
+              },
+              {
+                "key": "publication-section",
+                "doc_count": 9071,
+                "label": "Book chapter",
+                "is_selected": false
+              },
+              {
+                "key": "publication-journal",
+                "doc_count": 6667,
+                "label": "Journal",
+                "is_selected": false
+              },
+              {
+                "key": "publication-book",
+                "doc_count": 6259,
+                "label": "Book",
+                "is_selected": false
+              },
+              {
+                "key": "publication-workingpaper",
+                "doc_count": 5730,
+                "label": "Working paper",
+                "is_selected": false
+              },
+              {
+                "key": "publication-dissertation",
+                "doc_count": 5549,
+                "label": "Thesis",
+                "is_selected": false
+              }
+            ]
+          }
+        },
+        {
+          "key": "image",
+          "doc_count": 85623,
+          "label": "Image",
+          "is_selected": false,
+          "inner": {
+            "buckets": [
+              {
+                "key": "image-figure",
+                "doc_count": 79569,
+                "label": "Figure",
+                "is_selected": false
+              },
+              {
+                "key": "image-photo",
+                "doc_count": 4628,
+                "label": "Photo",
+                "is_selected": false
+              },
+              {
+                "key": "image-diagram",
+                "doc_count": 229,
+                "label": "Diagram",
+                "is_selected": false
+              },
+              {
+                "key": "image-other",
+                "doc_count": 185,
+                "label": "Other",
+                "is_selected": false
+              },
+              {
+                "key": "image-plot",
+                "doc_count": 120,
+                "label": "Plot",
+                "is_selected": false
+              },
+              {
+                "key": "image-drawing",
+                "doc_count": 83,
+                "label": "Drawing",
+                "is_selected": false
+              }
+            ]
+          }
+        },
+        {
+          "key": "dataset",
+          "doc_count": 69066,
+          "label": "Dataset",
+          "is_selected": false,
+          "inner": {
+            "buckets": []
+          }
+        },
+        {
+          "key": "software",
+          "doc_count": 21274,
+          "label": "Software",
+          "is_selected": false,
+          "inner": {
+            "buckets": [
+              {
+                "key": "software-computationalnotebook",
+                "doc_count": 942,
+                "label": "Computational notebook",
+                "is_selected": false
+              }
+            ]
+          }
+        },
+        {
+          "key": "presentation",
+          "doc_count": 8019,
+          "label": "Presentation",
+          "is_selected": false,
+          "inner": {
+            "buckets": []
+          }
+        },
+        {
+          "key": "other",
+          "doc_count": 5184,
+          "label": "Other",
+          "is_selected": false,
+          "inner": {
+            "buckets": []
+          }
+        },
+        {
+          "key": "poster",
+          "doc_count": 4318,
+          "label": "Poster",
+          "is_selected": false,
+          "inner": {
+            "buckets": []
+          }
+        },
+        {
+          "key": "model",
+          "doc_count": 1855,
+          "label": "Model",
+          "is_selected": false,
+          "inner": {
+            "buckets": []
+          }
+        },
+        {
+          "key": "video",
+          "doc_count": 1213,
+          "label": "Video/Audio",
+          "is_selected": false,
+          "inner": {
+            "buckets": []
+          }
+        },
+        {
+          "key": "lesson",
+          "doc_count": 1092,
+          "label": "Lesson",
+          "is_selected": false,
+          "inner": {
+            "buckets": []
+          }
+        }
+      ],
+      "label": "Resource types"
+    },
+    "subject": {
+      "buckets": [
+        {
+          "key": "Biodiversity",
+          "doc_count": 199835,
+          "label": "Biodiversity",
+          "is_selected": false
+        },
+        {
+          "key": "Taxonomy",
+          "doc_count": 194441,
+          "label": "Taxonomy",
+          "is_selected": false
+        },
+        {
+          "key": "Animalia",
+          "doc_count": 146632,
+          "label": "Animalia",
+          "is_selected": false
+        },
+        {
+          "key": "Arthropoda",
+          "doc_count": 108380,
+          "label": "Arthropoda",
+          "is_selected": false
+        },
+        {
+          "key": "Insecta",
+          "doc_count": 81314,
+          "label": "Insecta",
+          "is_selected": false
+        },
+        {
+          "key": "Chordata",
+          "doc_count": 24455,
+          "label": "Chordata",
+          "is_selected": false
+        },
+        {
+          "key": "Coleoptera",
+          "doc_count": 22487,
+          "label": "Coleoptera",
+          "is_selected": false
+        },
+        {
+          "key": "Hymenoptera",
+          "doc_count": 19706,
+          "label": "Hymenoptera",
+          "is_selected": false
+        },
+        {
+          "key": "Plantae",
+          "doc_count": 16905,
+          "label": "Plantae",
+          "is_selected": false
+        },
+        {
+          "key": "Arachnida",
+          "doc_count": 15763,
+          "label": "Arachnida",
+          "is_selected": false
+        }
+      ],
+      "label": "Subjects"
+    },
+    "file_type": {
+      "buckets": [
+        {
+          "key": "pdf",
+          "doc_count": 399306,
+          "label": "PDF",
+          "is_selected": false
+        },
+        {
+          "key": "html",
+          "doc_count": 108828,
+          "label": "HTML",
+          "is_selected": false
+        },
+        {
+          "key": "png",
+          "doc_count": 66854,
+          "label": "PNG",
+          "is_selected": false
+        },
+        {
+          "key": "zip",
+          "doc_count": 44244,
+          "label": "ZIP",
+          "is_selected": false
+        },
+        {
+          "key": "jpg",
+          "doc_count": 29481,
+          "label": "JPG",
+          "is_selected": false
+        },
+        {
+          "key": "txt",
+          "doc_count": 22322,
+          "label": "TXT",
+          "is_selected": false
+        },
+        {
+          "key": "docx",
+          "doc_count": 15756,
+          "label": "DOCX",
+          "is_selected": false
+        },
+        {
+          "key": "csv",
+          "doc_count": 12093,
+          "label": "CSV",
+          "is_selected": false
+        },
+        {
+          "key": "xlsx",
+          "doc_count": 11206,
+          "label": "XLSX",
+          "is_selected": false
+        },
+        {
+          "key": "md",
+          "doc_count": 9814,
+          "label": "MD",
+          "is_selected": false
+        }
+      ],
+      "label": "File type"
+    }
+  },
+  "links": {
+    "self": "https://zenodo.org/api/records?page=1&q=Bruhat-Tits+tree+quantum+state+space+ultrametric&size=5&sort=bestmatch",
+    "next": "https://zenodo.org/api/records?page=2&q=Bruhat-Tits+tree+quantum+state+space+ultrametric&size=5&sort=bestmatch"
+  }
+}

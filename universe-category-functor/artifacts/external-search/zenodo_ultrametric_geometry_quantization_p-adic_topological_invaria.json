@@ -1,0 +1,1151 @@
+{
+  "hits": {
+    "hits": [
+      {
+        "created": "2023-09-20T07:11:17.689230+00:00",
+        "modified": "2024-07-11T06:44:31.958633+00:00",
+        "id": 8362198,
+        "conceptrecid": "8362197",
+        "doi": "10.5281/zenodo.8362198",
+        "conceptdoi": "10.5281/zenodo.8362197",
+        "doi_url": "https://doi.org/10.5281/zenodo.8362198",
+        "metadata": {
+          "title": "On similarity related the genetic code",
+          "doi": "10.5281/zenodo.8362198",
+          "publication_date": "2016-06-20",
+          "description": "<p>We consider a few kinds of distance for description of (dis)similarity in the genetic code. We point out relevance of ultrametrics, and especially p-adic distance, for modeling the genetic code and investigation of similarity between sequences of nucleotides, codons or amino acids.</p>",
+          "access_right": "open",
+          "creators": [
+            {
+              "name": "Dragovich, B.",
+              "affiliation": null
+            },
+            {
+              "name": "Mišić, N.Ž.",
+              "affiliation": null,
+              "orcid": "0000-0002-8177-5734"
+            }
+          ],
+          "keywords": [
+            "p-genetic code",
+            "ultrametric similarity",
+            "p-adic similarity"
+          ],
+          "resource_type": {
+            "title": "Conference paper",
+            "type": "publication",
+            "subtype": "conferencepaper"
+          },
+          "meeting": {
+            "title": "Belgrade BioInformatics Conference",
+            "acronym": "BelBI2016",
+            "dates": "20 - 24 Jun 2016",
+            "place": "Belgrade, Serbia"
+          },
+          "alternate_identifiers": [
+            {
+              "identifier": "978-86-7589-124-6"
+            }
+          ],
+          "license": {
+            "id": "cc-by-4.0"
+          },
+          "communities": [
+            {
+              "id": "lola"
+            }
+          ],
+          "relations": {
+            "version": [
+              {
+                "index": 0,
+                "is_last": true,
+                "parent": {
+                  "pid_type": "recid",
+                  "pid_value": "8362197"
+                }
+              }
+            ]
+          }
+        },
+        "title": "On similarity related the genetic code",
+        "links": {
+          "self": "https://zenodo.org/api/records/8362198",
+          "self_html": "https://zenodo.org/records/8362198",
+          "preview_html": "https://zenodo.org/records/8362198?preview=1",
+          "doi": "https://doi.org/10.5281/zenodo.8362198",
+          "self_doi": "https://doi.org/10.5281/zenodo.8362198",
+          "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.8362198",
+          "reserve_doi": "https://zenodo.org/api/records/8362198/draft/pids/doi",
+          "parent": "https://zenodo.org/api/records/8362197",
+          "parent_html": "https://zenodo.org/records/8362197",
+          "parent_doi": "https://doi.org/10.5281/zenodo.8362197",
+          "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.8362197",
+          "self_iiif_manifest": "https://zenodo.org/api/iiif/record:8362198/manifest",
+          "self_iiif_sequence": "https://zenodo.org/api/iiif/record:8362198/sequence/default",
+          "files": "https://zenodo.org/api/records/8362198/files",
+          "media_files": "https://zenodo.org/api/records/8362198/media-files",
+          "thumbnails": {
+            "10": "https://zenodo.org/api/iiif/record:8362198:On%20similarity%20related%20the%20genetic%20code.%20Belgrade%20BioInformatics%20Conference%20(BelBI2016).pdf/full/%5E10,/0/default.jpg",
+            "50": "https://zenodo.org/api/iiif/record:8362198:On%20similarity%20related%20the%20genetic%20code.%20Belgrade%20BioInformatics%20Conference%20(BelBI2016).pdf/full/%5E50,/0/default.jpg",
+            "100": "https://zenodo.org/api/iiif/record:8362198:On%20similarity%20related%20the%20genetic%20code.%20Belgrade%20BioInformatics%20Conference%20(BelBI2016).pdf/full/%5E100,/0/default.jpg",
+            "250": "https://zenodo.org/api/iiif/record:8362198:On%20similarity%20related%20the%20genetic%20code.%20Belgrade%20BioInformatics%20Conference%20(BelBI2016).pdf/full/%5E250,/0/default.jpg",
+            "750": "https://zenodo.org/api/iiif/record:8362198:On%20similarity%20related%20the%20genetic%20code.%20Belgrade%20BioInformatics%20Conference%20(BelBI2016).pdf/full/%5E750,/0/default.jpg",
+            "1200": "https://zenodo.org/api/iiif/record:8362198:On%20similarity%20related%20the%20genetic%20code.%20Belgrade%20BioInformatics%20Conference%20(BelBI2016).pdf/full/%5E1200,/0/default.jpg"
+          },
+          "archive": "https://zenodo.org/api/records/8362198/files-archive",
+          "archive_media": "https://zenodo.org/api/records/8362198/media-files-archive",
+          "latest": "https://zenodo.org/api/records/8362198/versions/latest",
+          "latest_html": "https://zenodo.org/records/8362198/latest",
+          "versions": "https://zenodo.org/api/records/8362198/versions",
+          "draft": "https://zenodo.org/api/records/8362198/draft",
+          "access_links": "https://zenodo.org/api/records/8362198/access/links",
+          "access_grants": "https://zenodo.org/api/records/8362198/access/grants",
+          "access_users": "https://zenodo.org/api/records/8362198/access/users",
+          "access_request": "https://zenodo.org/api/records/8362198/access/request",
+          "access": "https://zenodo.org/api/records/8362198/access",
+          "communities": "https://zenodo.org/api/records/8362198/communities",
+          "communities-suggestions": "https://zenodo.org/api/records/8362198/communities-suggestions",
+          "request_deletion": "https://zenodo.org/api/records/8362198/request-deletion",
+          "file_modification": "https://zenodo.org/api/records/8362198/file-modification",
+          "quota_increase": "https://zenodo.org/api/records/8362198/quota-increase",
+          "requests": "https://zenodo.org/api/records/8362198/requests"
+        },
+        "updated": "2024-07-11T06:44:31.958633+00:00",
+        "recid": "8362198",
+        "revision": 5,
+        "files": [
+          {
+            "id": "53ad0a61-6e27-400f-a6e3-cf6818b6b07e",
+            "key": "On similarity related the genetic code. Belgrade BioInformatics Conference (BelBI2016).pdf",
+            "size": 22553141,
+            "checksum": "md5:f2162a26b497d17c541e5e7fcfcc0a72",
+            "links": {
+              "self": "https://zenodo.org/api/records/8362198/files/On%20similarity%20related%20the%20genetic%20code.%20Belgrade%20BioInformatics%20Conference%20(BelBI2016).pdf/content"
+            }
+          }
+        ],
+        "swh": null,
+        "owners": [
+          {
+            "id": "582730"
+          }
+        ],
+        "status": "published",
+        "stats": {
+          "downloads": 75,
+          "unique_downloads": 72,
+          "views": 102,
+          "unique_views": 102,
+          "version_downloads": 75,
+          "version_unique_downloads": 72,
+          "version_unique_views": 102,
+          "version_views": 102
+        },
+        "state": "done",
+        "submitted": true
+      },
+      {
+        "created": "2025-08-03T01:19:33.564570+00:00",
+        "modified": "2025-08-03T01:19:34.033389+00:00",
+        "id": 16730165,
+        "conceptrecid": "15578747",
+        "doi": "10.5281/zenodo.16730165",
+        "conceptdoi": "10.5281/zenodo.15578747",
+        "doi_url": "https://doi.org/10.5281/zenodo.16730165",
+        "metadata": {
+          "title": "Photon Quantization from Geometric Invariants in Spatial-Causal Geometry (SCG)",
+          "doi": "10.5281/zenodo.16730165",
+          "publication_date": "2025-08-02",
+          "description": "<p>This paper presents a first-principles derivation of photon quantization using spatial-curvature invariants within the Spatial-Causal Geometry (SCG) framework. The photon is modeled not as a point particle or wavefunction excitation, but as a finite, transverse field structure constrained by causal curvature and the invariant ratio $\\gamma_{\\text{cause}} = r_\\gamma / \\lambda$. Quantized energy arises naturally from geometric boundary conditions, with Planck&rsquo;s constant emerging as a derived consequence of field coherence&mdash;not an imposed axiom.</p>\n<p>The SCG model eliminates the need for gauge symmetry and rejects the attribution of spin-1 to individual photons. All observed angular momentum phenomena are explained as ensemble-level Maxwell tension reorientations, not intrinsic rotation. Classical polarization effects&mdash;including linear, circular, and elliptical states&mdash;are rederived as field projection geometries rather than probabilistic state collapses.</p>\n<p>Malus&rsquo;s Law is shown to hold deterministically at the single-photon level, directly contradicting the binary premises underlying Bell&rsquo;s inequality. Beth&rsquo;s torque measurements are resolved as continuous field alignment effects, not evidence of photon spin. Experimental observations traditionally cited as proof of quantum nonlocality or spin angular momentum are re-explained as coherent, causal interactions governed by curvature dynamics.</p>\n<p>This geometric model offers a unified interpretation of photon structure, energy quantization, and polarization without resorting to wavefunction formalism, probabilistic collapse, or internal degrees of freedom. It redefines the photon as a causal topological entity&mdash;real, finite, and rotationless&mdash;providing a new foundation for both classical and quantum optics.</p>\n<p>Keywords<br>Spatial-Causal Geometry (SCG); photon quantization; polarization geometry; $\\gamma_{\\text{cause}}$; causal curvature; Maxwell tension; Beth experiment; Malus&rsquo;s Law; spin-1 photon rejection; gauge-free electrodynamics; structured photon; angular momentum reinterpretation; geometric optics; field coherence; nonlocality refutation; topological quantization</p>",
+          "access_right": "open",
+          "creators": [
+            {
+              "name": "Hallman, D. J.",
+              "affiliation": null,
+              "orcid": "0009-0000-1710-3549"
+            }
+          ],
+          "resource_type": {
+            "title": "Preprint",
+            "type": "publication",
+            "subtype": "preprint"
+          },
+          "license": {
+            "id": "cc-by-4.0"
+          },
+          "communities": [
+            {
+              "id": "scg"
+            }
+          ],
+          "relations": {
+            "version": [
+              {
+                "index": 2,
+                "is_last": true,
+                "parent": {
+                  "pid_type": "recid",
+                  "pid_value": "15578747"
+                }
+              }
+            ]
+          }
+        },
+        "title": "Photon Quantization from Geometric Invariants in Spatial-Causal Geometry (SCG)",
+        "links": {
+          "self": "https://zenodo.org/api/records/16730165",
+          "self_html": "https://zenodo.org/records/16730165",
+          "preview_html": "https://zenodo.org/records/16730165?preview=1",
+          "doi": "https://doi.org/10.5281/zenodo.16730165",
+          "self_doi": "https://doi.org/10.5281/zenodo.16730165",
+          "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.16730165",
+          "reserve_doi": "https://zenodo.org/api/records/16730165/draft/pids/doi",
+          "parent": "https://zenodo.org/api/records/15578747",
+          "parent_html": "https://zenodo.org/records/15578747",
+          "parent_doi": "https://doi.org/10.5281/zenodo.15578747",
+          "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.15578747",
+          "self_iiif_manifest": "https://zenodo.org/api/iiif/record:16730165/manifest",
+          "self_iiif_sequence": "https://zenodo.org/api/iiif/record:16730165/sequence/default",
+          "files": "https://zenodo.org/api/records/16730165/files",
+          "media_files": "https://zenodo.org/api/records/16730165/media-files",
+          "thumbnails": {
+            "10": "https://zenodo.org/api/iiif/record:16730165:Photon%20Quantization%20from%20Geometric%20Invariants%20in%20Spatial-Causal%20Geometry%20(SCG).pdf/full/%5E10,/0/default.jpg",
+            "50": "https://zenodo.org/api/iiif/record:16730165:Photon%20Quantization%20from%20Geometric%20Invariants%20in%20Spatial-Causal%20Geometry%20(SCG).pdf/full/%5E50,/0/default.jpg",
+            "100": "https://zenodo.org/api/iiif/record:16730165:Photon%20Quantization%20from%20Geometric%20Invariants%20in%20Spatial-Causal%20Geometry%20(SCG).pdf/full/%5E100,/0/default.jpg",
+            "250": "https://zenodo.org/api/iiif/record:16730165:Photon%20Quantization%20from%20Geometric%20Invariants%20in%20Spatial-Causal%20Geometry%20(SCG).pdf/full/%5E250,/0/default.jpg",
+            "750": "https://zenodo.org/api/iiif/record:16730165:Photon%20Quantization%20from%20Geometric%20Invariants%20in%20Spatial-Causal%20Geometry%20(SCG).pdf/full/%5E750,/0/default.jpg",
+            "1200": "https://zenodo.org/api/iiif/record:16730165:Photon%20Quantization%20from%20Geometric%20Invariants%20in%20Spatial-Causal%20Geometry%20(SCG).pdf/full/%5E1200,/0/default.jpg"
+          },
+          "archive": "https://zenodo.org/api/records/16730165/files-archive",
+          "archive_media": "https://zenodo.org/api/records/16730165/media-files-archive",
+          "latest": "https://zenodo.org/api/records/16730165/versions/latest",
+          "latest_html": "https://zenodo.org/records/16730165/latest",
+          "versions": "https://zenodo.org/api/records/16730165/versions",
+          "draft": "https://zenodo.org/api/records/16730165/draft",
+          "access_links": "https://zenodo.org/api/records/16730165/access/links",
+          "access_grants": "https://zenodo.org/api/records/16730165/access/grants",
+          "access_users": "https://zenodo.org/api/records/16730165/access/users",
+          "access_request": "https://zenodo.org/api/records/16730165/access/request",
+          "access": "https://zenodo.org/api/records/16730165/access",
+          "communities": "https://zenodo.org/api/records/16730165/communities",
+          "communities-suggestions": "https://zenodo.org/api/records/16730165/communities-suggestions",
+          "request_deletion": "https://zenodo.org/api/records/16730165/request-deletion",
+          "file_modification": "https://zenodo.org/api/records/16730165/file-modification",
+          "quota_increase": "https://zenodo.org/api/records/16730165/quota-increase",
+          "requests": "https://zenodo.org/api/records/16730165/requests"
+        },
+        "updated": "2025-08-03T01:19:34.033389+00:00",
+        "recid": "16730165",
+        "revision": 4,
+        "files": [
+          {
+            "id": "1aec00c8-b226-479d-b282-d02fae883ddf",
+            "key": "Photon Quantization from Geometric Invariants in Spatial-Causal Geometry (SCG).pdf",
+            "size": 311195,
+            "checksum": "md5:fee174008bc43df3e32dd4928ccade9d",
+            "links": {
+              "self": "https://zenodo.org/api/records/16730165/files/Photon%20Quantization%20from%20Geometric%20Invariants%20in%20Spatial-Causal%20Geometry%20(SCG).pdf/content"
+            }
+          }
+        ],
+        "swh": null,
+        "owners": [
+          {
+            "id": "1221008"
+          }
+        ],
+        "status": "published",
+        "stats": {
+          "downloads": 132,
+          "unique_downloads": 117,
+          "views": 121,
+          "unique_views": 114,
+          "version_downloads": 84,
+          "version_unique_downloads": 80,
+          "version_unique_views": 64,
+          "version_views": 65
+        },
+        "state": "done",
+        "submitted": true
+      },
+      {
+        "created": "2024-09-19T08:00:36.106413+00:00",
+        "modified": "2024-09-19T08:00:36.259002+00:00",
+        "id": 13788920,
+        "conceptrecid": "13788919",
+        "doi": "10.1016/j.biosystems.2024.105322",
+        "doi_url": "https://doi.org/10.1016/j.biosystems.2024.105322",
+        "metadata": {
+          "title": "The genetic code and its p-adic ultrametric modelling",
+          "doi": "10.1016/j.biosystems.2024.105322",
+          "publication_date": "2024-09-02",
+          "description": "<div>\n<div>\n<div>\n<div>\n<p>The genetic code plays a central role in all living organisms and its modeling is important for describing and understanding involved the coding rules. There are many approaches to modeling various aspects of the genetic code. One of the simple and successful mathematical tools for modeling the similarity both between codons and between amino acids, is the ultrametrics and especially the&nbsp;<span><span><span>p</span></span></span>-adic distance. This article contains an overview of ultrametric (<span><span><span>p</span></span></span>-adic) modeling of genetic information, and its translation to proteins using the genetic code.</p>\n</div>\n</div>\n</div>\n</div>\n<div></div>",
+          "access_right": "restricted",
+          "creators": [
+            {
+              "name": "B. Dragovich",
+              "affiliation": null
+            },
+            {
+              "name": "N.Ž. Misić",
+              "affiliation": null,
+              "orcid": "0000-0002-8177-5734"
+            }
+          ],
+          "language": "eng",
+          "resource_type": {
+            "title": "Journal article",
+            "type": "publication",
+            "subtype": "article"
+          },
+          "journal": {
+            "title": "Biosystems",
+            "volume": "246"
+          },
+          "alternate_identifiers": [
+            {
+              "identifier": "0303-2647"
+            }
+          ],
+          "license": {
+            "id": "cc-by-4.0"
+          },
+          "communities": [
+            {
+              "id": "lola"
+            }
+          ],
+          "relations": {
+            "version": [
+              {
+                "index": 0,
+                "is_last": true,
+                "parent": {
+                  "pid_type": "recid",
+                  "pid_value": "13788919"
+                }
+              }
+            ]
+          }
+        },
+        "title": "The genetic code and its p-adic ultrametric modelling",
+        "links": {
+          "self": "https://zenodo.org/api/records/13788920",
+          "self_html": "https://zenodo.org/records/13788920",
+          "preview_html": "https://zenodo.org/records/13788920?preview=1",
+          "doi": "https://doi.org/10.1016/j.biosystems.2024.105322",
+          "self_doi": "https://doi.org/10.1016/j.biosystems.2024.105322",
+          "self_doi_html": "https://zenodo.org/doi/10.1016/j.biosystems.2024.105322",
+          "reserve_doi": "https://zenodo.org/api/records/13788920/draft/pids/doi",
+          "parent": "https://zenodo.org/api/records/13788919",
+          "parent_html": "https://zenodo.org/records/13788919",
+          "self_iiif_manifest": "https://zenodo.org/api/iiif/record:13788920/manifest",
+          "self_iiif_sequence": "https://zenodo.org/api/iiif/record:13788920/sequence/default",
+          "files": "https://zenodo.org/api/records/13788920/files",
+          "media_files": "https://zenodo.org/api/records/13788920/media-files",
+          "archive": "https://zenodo.org/api/records/13788920/files-archive",
+          "archive_media": "https://zenodo.org/api/records/13788920/media-files-archive",
+          "latest": "https://zenodo.org/api/records/13788920/versions/latest",
+          "latest_html": "https://zenodo.org/records/13788920/latest",
+          "versions": "https://zenodo.org/api/records/13788920/versions",
+          "draft": "https://zenodo.org/api/records/13788920/draft",
+          "access_links": "https://zenodo.org/api/records/13788920/access/links",
+          "access_grants": "https://zenodo.org/api/records/13788920/access/grants",
+          "access_users": "https://zenodo.org/api/records/13788920/access/users",
+          "access_request": "https://zenodo.org/api/records/13788920/access/request",
+          "access": "https://zenodo.org/api/records/13788920/access",
+          "communities": "https://zenodo.org/api/records/13788920/communities",
+          "communities-suggestions": "https://zenodo.org/api/records/13788920/communities-suggestions",
+          "request_deletion": "https://zenodo.org/api/records/13788920/request-deletion",
+          "file_modification": "https://zenodo.org/api/records/13788920/file-modification",
+          "quota_increase": "https://zenodo.org/api/records/13788920/quota-increase",
+          "requests": "https://zenodo.org/api/records/13788920/requests"
+        },
+        "updated": "2024-09-19T08:00:36.259002+00:00",
+        "recid": "13788920",
+        "revision": 4,
+        "files": [],
+        "swh": null,
+        "owners": [
+          {
+            "id": "582730"
+          }
+        ],
+        "status": "published",
+        "stats": {
+          "downloads": 3,
+          "unique_downloads": 3,
+          "views": 24,
+          "unique_views": 24,
+          "version_downloads": 3,
+          "version_unique_downloads": 3,
+          "version_unique_views": 24,
+          "version_views": 24
+        },
+        "state": "done",
+        "submitted": true
+      },
+      {
+        "created": "2026-08-07T09:31:46.580868+00:00",
+        "modified": "2026-08-07T09:31:46.809086+00:00",
+        "id": 21835961,
+        "conceptrecid": "21835960",
+        "doi": "10.5281/zenodo.21835961",
+        "conceptdoi": "10.5281/zenodo.21835960",
+        "doi_url": "https://doi.org/10.5281/zenodo.21835961",
+        "metadata": {
+          "title": "Topological Quantization of Mathematical Structures (TQMS)",
+          "doi": "10.5281/zenodo.21835961",
+          "publication_date": "2026-08-07",
+          "description": "<p class=\"15\"><span>This paper introduces the theoretical framework of Topological Quantization of Mathematical Structures (TQMS), a novel paradigm that bridges continuous abstract spaces and discrete algebraic invariants. The core philosophy of TQMS rests on the systematic mapping of general mathematical structures into discrete quantities, denoted as Q(X), thereby translating continuous structural variations into distinct quantum-like spectral shifts. By establishing a rigorous quantization operator, we investigate the underlying phenomena of structural mutations, topological phase transitions, and discrete deformations within abstract spaces. Furthermore, this framework yields a new class of invariant theories that extend traditional topological and algebraic classifications. We present the foundational axioms, construct the operator mechanics, analyze structural quantization phenomena, and outline prospective directions for abstract structural analysis without relying on empirical or experimental validations, keeping the discourse purely within theoretical mathematics.</span></p>",
+          "access_right": "open",
+          "creators": [
+            {
+              "name": "Zhang, Jincheng",
+              "affiliation": null,
+              "orcid": "0009-0005-1860-0009"
+            }
+          ],
+          "resource_type": {
+            "title": "Preprint",
+            "type": "publication",
+            "subtype": "preprint"
+          },
+          "license": {
+            "id": "cc-by-4.0"
+          },
+          "relations": {
+            "version": [
+              {
+                "index": 0,
+                "is_last": true,
+                "parent": {
+                  "pid_type": "recid",
+                  "pid_value": "21835960"
+                }
+              }
+            ]
+          }
+        },
+        "title": "Topological Quantization of Mathematical Structures (TQMS)",
+        "links": {
+          "self": "https://zenodo.org/api/records/21835961",
+          "self_html": "https://zenodo.org/records/21835961",
+          "preview_html": "https://zenodo.org/records/21835961?preview=1",
+          "doi": "https://doi.org/10.5281/zenodo.21835961",
+          "self_doi": "https://doi.org/10.5281/zenodo.21835961",
+          "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.21835961",
+          "reserve_doi": "https://zenodo.org/api/records/21835961/draft/pids/doi",
+          "parent": "https://zenodo.org/api/records/21835960",
+          "parent_html": "https://zenodo.org/records/21835960",
+          "parent_doi": "https://doi.org/10.5281/zenodo.21835960",
+          "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.21835960",
+          "self_iiif_manifest": "https://zenodo.org/api/iiif/record:21835961/manifest",
+          "self_iiif_sequence": "https://zenodo.org/api/iiif/record:21835961/sequence/default",
+          "files": "https://zenodo.org/api/records/21835961/files",
+          "media_files": "https://zenodo.org/api/records/21835961/media-files",
+          "thumbnails": {
+            "10": "https://zenodo.org/api/iiif/record:21835961:Topological%20Quantization%20of%20Mathematical%20Structures%20(TQMS).pdf/full/%5E10,/0/default.jpg",
+            "50": "https://zenodo.org/api/iiif/record:21835961:Topological%20Quantization%20of%20Mathematical%20Structures%20(TQMS).pdf/full/%5E50,/0/default.jpg",
+            "100": "https://zenodo.org/api/iiif/record:21835961:Topological%20Quantization%20of%20Mathematical%20Structures%20(TQMS).pdf/full/%5E100,/0/default.jpg",
+            "250": "https://zenodo.org/api/iiif/record:21835961:Topological%20Quantization%20of%20Mathematical%20Structures%20(TQMS).pdf/full/%5E250,/0/default.jpg",
+            "750": "https://zenodo.org/api/iiif/record:21835961:Topological%20Quantization%20of%20Mathematical%20Structures%20(TQMS).pdf/full/%5E750,/0/default.jpg",
+            "1200": "https://zenodo.org/api/iiif/record:21835961:Topological%20Quantization%20of%20Mathematical%20Structures%20(TQMS).pdf/full/%5E1200,/0/default.jpg"
+          },
+          "archive": "https://zenodo.org/api/records/21835961/files-archive",
+          "archive_media": "https://zenodo.org/api/records/21835961/media-files-archive",
+          "latest": "https://zenodo.org/api/records/21835961/versions/latest",
+          "latest_html": "https://zenodo.org/records/21835961/latest",
+          "versions": "https://zenodo.org/api/records/21835961/versions",
+          "draft": "https://zenodo.org/api/records/21835961/draft",
+          "access_links": "https://zenodo.org/api/records/21835961/access/links",
+          "access_grants": "https://zenodo.org/api/records/21835961/access/grants",
+          "access_users": "https://zenodo.org/api/records/21835961/access/users",
+          "access_request": "https://zenodo.org/api/records/21835961/access/request",
+          "access": "https://zenodo.org/api/records/21835961/access",
+          "communities": "https://zenodo.org/api/records/21835961/communities",
+          "communities-suggestions": "https://zenodo.org/api/records/21835961/communities-suggestions",
+          "request_deletion": "https://zenodo.org/api/records/21835961/request-deletion",
+          "file_modification": "https://zenodo.org/api/records/21835961/file-modification",
+          "quota_increase": "https://zenodo.org/api/records/21835961/quota-increase",
+          "requests": "https://zenodo.org/api/records/21835961/requests"
+        },
+        "updated": "2026-08-07T09:31:46.809086+00:00",
+        "recid": "21835961",
+        "revision": 4,
+        "files": [
+          {
+            "id": "3ce54813-5ca4-43b5-901b-9e5d48b5806a",
+            "key": "Topological Quantization of Mathematical Structures (TQMS).pdf",
+            "size": 131349,
+            "checksum": "md5:470d1d5143855008a48a6a544c9a3e59",
+            "links": {
+              "self": "https://zenodo.org/api/records/21835961/files/Topological%20Quantization%20of%20Mathematical%20Structures%20(TQMS).pdf/content"
+            }
+          }
+        ],
+        "swh": null,
+        "owners": [
+          {
+            "id": "1352438"
+          }
+        ],
+        "status": "published",
+        "stats": {
+          "downloads": 1,
+          "unique_downloads": 1,
+          "views": 2,
+          "unique_views": 2,
+          "version_downloads": 1,
+          "version_unique_downloads": 1,
+          "version_unique_views": 2,
+          "version_views": 2
+        },
+        "state": "done",
+        "submitted": true
+      },
+      {
+        "created": "2023-09-14T08:05:38.956724+00:00",
+        "modified": "2024-07-11T07:27:33.476741+00:00",
+        "id": 8343816,
+        "conceptrecid": "8343815",
+        "doi": "10.1016/j.biosystems.2019.104017",
+        "doi_url": "https://doi.org/10.1016/j.biosystems.2019.104017",
+        "metadata": {
+          "title": "p-Adic hierarchical properties of the genetic code",
+          "doi": "10.1016/j.biosystems.2019.104017",
+          "publication_date": "2019-08-27",
+          "description": "<p>In this article, we consider&nbsp;<em>p</em>-adic modeling of the standard&nbsp;<a href=\"https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/genetics\">genetic</a>&nbsp;code and the vertebrate mitochondrial one. To this end, we use 5-adic and 2-adic distance as a mathematical tool to describe closeness (nearness, similarity) between codons as elements of a bioinformation space. Codons which are simultaneously at the smallest 5-adic and 2-adic distance code the same (or similar)&nbsp;<a href=\"https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/amino-acids\">amino acid</a>&nbsp;or stop signal. The set of codons is presented as an ultrametric tree as well as a fractal and&nbsp;<em>p</em>-adic network. It is shown that&nbsp;<a href=\"https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/genetics\">genetic</a>&nbsp;code can be treated as sequential translation between genetic languages. This&nbsp;<em>p</em>-adic approach gives possibility to be applied to sequences of nucleotides of an arbitrary finite length. We present an overview of published and some new results on various&nbsp;<em>p</em>-adic properties of the genetic code.</p>",
+          "access_right": "restricted",
+          "creators": [
+            {
+              "name": "Dragovich, B.",
+              "affiliation": null
+            },
+            {
+              "name": "Mišić, N.Ž.",
+              "affiliation": null,
+              "orcid": "0000-0002-8177-5734"
+            }
+          ],
+          "keywords": [
+            "Amino acids",
+            "Bioinformation",
+            "Genetic code",
+            "Genetic language",
+            "Ultrametric codon tree",
+            "p-Adic distance",
+            "p-Adic network"
+          ],
+          "language": "eng",
+          "resource_type": {
+            "title": "Journal article",
+            "type": "publication",
+            "subtype": "article"
+          },
+          "communities": [
+            {
+              "id": "lola"
+            }
+          ],
+          "relations": {
+            "version": [
+              {
+                "index": 0,
+                "is_last": true,
+                "parent": {
+                  "pid_type": "recid",
+                  "pid_value": "8343815"
+                }
+              }
+            ]
+          }
+        },
+        "title": "p-Adic hierarchical properties of the genetic code",
+        "links": {
+          "self": "https://zenodo.org/api/records/8343816",
+          "self_html": "https://zenodo.org/records/8343816",
+          "preview_html": "https://zenodo.org/records/8343816?preview=1",
+          "doi": "https://doi.org/10.1016/j.biosystems.2019.104017",
+          "self_doi": "https://doi.org/10.1016/j.biosystems.2019.104017",
+          "self_doi_html": "https://zenodo.org/doi/10.1016/j.biosystems.2019.104017",
+          "reserve_doi": "https://zenodo.org/api/records/8343816/draft/pids/doi",
+          "parent": "https://zenodo.org/api/records/8343815",
+          "parent_html": "https://zenodo.org/records/8343815",
+          "self_iiif_manifest": "https://zenodo.org/api/iiif/record:8343816/manifest",
+          "self_iiif_sequence": "https://zenodo.org/api/iiif/record:8343816/sequence/default",
+          "files": "https://zenodo.org/api/records/8343816/files",
+          "media_files": "https://zenodo.org/api/records/8343816/media-files",
+          "archive": "https://zenodo.org/api/records/8343816/files-archive",
+          "archive_media": "https://zenodo.org/api/records/8343816/media-files-archive",
+          "latest": "https://zenodo.org/api/records/8343816/versions/latest",
+          "latest_html": "https://zenodo.org/records/8343816/latest",
+          "versions": "https://zenodo.org/api/records/8343816/versions",
+          "draft": "https://zenodo.org/api/records/8343816/draft",
+          "access_links": "https://zenodo.org/api/records/8343816/access/links",
+          "access_grants": "https://zenodo.org/api/records/8343816/access/grants",
+          "access_users": "https://zenodo.org/api/records/8343816/access/users",
+          "access_request": "https://zenodo.org/api/records/8343816/access/request",
+          "access": "https://zenodo.org/api/records/8343816/access",
+          "communities": "https://zenodo.org/api/records/8343816/communities",
+          "communities-suggestions": "https://zenodo.org/api/records/8343816/communities-suggestions",
+          "request_deletion": "https://zenodo.org/api/records/8343816/request-deletion",
+          "file_modification": "https://zenodo.org/api/records/8343816/file-modification",
+          "quota_increase": "https://zenodo.org/api/records/8343816/quota-increase",
+          "requests": "https://zenodo.org/api/records/8343816/requests"
+        },
+        "updated": "2024-07-11T07:27:33.476741+00:00",
+        "recid": "8343816",
+        "revision": 4,
+        "files": [],
+        "swh": null,
+        "owners": [
+          {
+            "id": "582730"
+          }
+        ],
+        "status": "published",
+        "stats": {
+          "downloads": 3,
+          "unique_downloads": 2,
+          "views": 82,
+          "unique_views": 80,
+          "version_downloads": 3,
+          "version_unique_downloads": 2,
+          "version_unique_views": 80,
+          "version_views": 82
+        },
+        "state": "done",
+        "submitted": true
+      }
+    ],
+    "total": 829758
+  },
+  "aggregations": {
+    "publication_date": {
+      "buckets": [
+        {
+          "key": "2000",
+          "doc_count": 1450,
+          "label": "2000",
+          "is_selected": false
+        },
+        {
+          "key": "2001",
+          "doc_count": 1544,
+          "label": "2001",
+          "is_selected": false
+        },
+        {
+          "key": "2002",
+          "doc_count": 2225,
+          "label": "2002",
+          "is_selected": false
+        },
+        {
+          "key": "2003",
+          "doc_count": 2891,
+          "label": "2003",
+          "is_selected": false
+        },
+        {
+          "key": "2004",
+          "doc_count": 3202,
+          "label": "2004",
+          "is_selected": false
+        },
+        {
+          "key": "2005",
+          "doc_count": 6515,
+          "label": "2005",
+          "is_selected": false
+        },
+        {
+          "key": "2006",
+          "doc_count": 4763,
+          "label": "2006",
+          "is_selected": false
+        },
+        {
+          "key": "2007",
+          "doc_count": 8103,
+          "label": "2007",
+          "is_selected": false
+        },
+        {
+          "key": "2008",
+          "doc_count": 7529,
+          "label": "2008",
+          "is_selected": false
+        },
+        {
+          "key": "2009",
+          "doc_count": 8522,
+          "label": "2009",
+          "is_selected": false
+        },
+        {
+          "key": "2010",
+          "doc_count": 9448,
+          "label": "2010",
+          "is_selected": false
+        },
+        {
+          "key": "2011",
+          "doc_count": 11267,
+          "label": "2011",
+          "is_selected": false
+        },
+        {
+          "key": "2012",
+          "doc_count": 13186,
+          "label": "2012",
+          "is_selected": false
+        },
+        {
+          "key": "2013",
+          "doc_count": 14847,
+          "label": "2013",
+          "is_selected": false
+        },
+        {
+          "key": "2014",
+          "doc_count": 18905,
+          "label": "2014",
+          "is_selected": false
+        },
+        {
+          "key": "2015",
+          "doc_count": 20525,
+          "label": "2015",
+          "is_selected": false
+        },
+        {
+          "key": "2016",
+          "doc_count": 25827,
+          "label": "2016",
+          "is_selected": false
+        },
+        {
+          "key": "2017",
+          "doc_count": 25454,
+          "label": "2017",
+          "is_selected": false
+        },
+        {
+          "key": "2018",
+          "doc_count": 29552,
+          "label": "2018",
+          "is_selected": false
+        },
+        {
+          "key": "2019",
+          "doc_count": 28179,
+          "label": "2019",
+          "is_selected": false
+        },
+        {
+          "key": "2020",
+          "doc_count": 38454,
+          "label": "2020",
+          "is_selected": false
+        },
+        {
+          "key": "2021",
+          "doc_count": 50788,
+          "label": "2021",
+          "is_selected": false
+        },
+        {
+          "key": "2022",
+          "doc_count": 49389,
+          "label": "2022",
+          "is_selected": false
+        },
+        {
+          "key": "2023",
+          "doc_count": 60086,
+          "label": "2023",
+          "is_selected": false
+        },
+        {
+          "key": "2024",
+          "doc_count": 72706,
+          "label": "2024",
+          "is_selected": false
+        },
+        {
+          "key": "2025",
+          "doc_count": 100730,
+          "label": "2025",
+          "is_selected": false
+        },
+        {
+          "key": "2026",
+          "doc_count": 131195,
+          "label": "2026",
+          "is_selected": false
+        }
+      ],
+      "label": "Publication date"
+    },
+    "access_status": {
+      "buckets": [
+        {
+          "key": "open",
+          "doc_count": 772619,
+          "label": "Open",
+          "is_selected": false
+        },
+        {
+          "key": "restricted",
+          "doc_count": 56114,
+          "label": "Restricted",
+          "is_selected": false
+        },
+        {
+          "key": "embargoed",
+          "doc_count": 1025,
+          "label": "Embargoed",
+          "is_selected": false
+        }
+      ],
+      "label": "Access status"
+    },
+    "resource_type": {
+      "buckets": [
+        {
+          "key": "publication",
+          "doc_count": 671545,
+          "label": "Publication",
+          "is_selected": false,
+          "inner": {
+            "buckets": [
+              {
+                "key": "publication-article",
+                "doc_count": 344848,
+                "label": "Journal article",
+                "is_selected": false
+              },
+              {
+                "key": "publication-taxonomictreatment",
+                "doc_count": 180807,
+                "label": "Taxonomic treatment",
+                "is_selected": false
+              },
+              {
+                "key": "publication-preprint",
+                "doc_count": 60093,
+                "label": "Preprint",
+                "is_selected": false
+              },
+              {
+                "key": "publication-conferencepaper",
+                "doc_count": 17731,
+                "label": "Conference paper",
+                "is_selected": false
+              },
+              {
+                "key": "publication-section",
+                "doc_count": 6959,
+                "label": "Book chapter",
+                "is_selected": false
+              },
+              {
+                "key": "publication-report",
+                "doc_count": 6679,
+                "label": "Report",
+                "is_selected": false
+              },
+              {
+                "key": "publication-book",
+                "doc_count": 5757,
+                "label": "Book",
+                "is_selected": false
+              },
+              {
+                "key": "publication-journal",
+                "doc_count": 4539,
+                "label": "Journal",
+                "is_selected": false
+              },
+              {
+                "key": "publication-workingpaper",
+                "doc_count": 4414,
+                "label": "Working paper",
+                "is_selected": false
+              },
+              {
+                "key": "publication-dissertation",
+                "doc_count": 3895,
+                "label": "Thesis",
+                "is_selected": false
+              }
+            ]
+          }
+        },
+        {
+          "key": "dataset",
+          "doc_count": 69720,
+          "label": "Dataset",
+          "is_selected": false,
+          "inner": {
+            "buckets": []
+          }
+        },
+        {
+          "key": "image",
+          "doc_count": 58699,
+          "label": "Image",
+          "is_selected": false,
+          "inner": {
+            "buckets": [
+              {
+                "key": "image-figure",
+                "doc_count": 56323,
+                "label": "Figure",
+                "is_selected": false
+              },
+              {
+                "key": "image-photo",
+                "doc_count": 1501,
+                "label": "Photo",
+                "is_selected": false
+              },
+              {
+                "key": "image-other",
+                "doc_count": 221,
+                "label": "Other",
+                "is_selected": false
+              },
+              {
+                "key": "image-diagram",
+                "doc_count": 151,
+                "label": "Diagram",
+                "is_selected": false
+              },
+              {
+                "key": "image-plot",
+                "doc_count": 45,
+                "label": "Plot",
+                "is_selected": false
+              },
+              {
+                "key": "image-drawing",
+                "doc_count": 39,
+                "label": "Drawing",
+                "is_selected": false
+              }
+            ]
+          }
+        },
+        {
+          "key": "software",
+          "doc_count": 13742,
+          "label": "Software",
+          "is_selected": false,
+          "inner": {
+            "buckets": [
+              {
+                "key": "software-computationalnotebook",
+                "doc_count": 489,
+                "label": "Computational notebook",
+                "is_selected": false
+              }
+            ]
+          }
+        },
+        {
+          "key": "other",
+          "doc_count": 4812,
+          "label": "Other",
+          "is_selected": false,
+          "inner": {
+            "buckets": []
+          }
+        },
+        {
+          "key": "presentation",
+          "doc_count": 4386,
+          "label": "Presentation",
+          "is_selected": false,
+          "inner": {
+            "buckets": []
+          }
+        },
+        {
+          "key": "poster",
+          "doc_count": 2454,
+          "label": "Poster",
+          "is_selected": false,
+          "inner": {
+            "buckets": []
+          }
+        },
+        {
+          "key": "video",
+          "doc_count": 1260,
+          "label": "Video/Audio",
+          "is_selected": false,
+          "inner": {
+            "buckets": []
+          }
+        },
+        {
+          "key": "model",
+          "doc_count": 1086,
+          "label": "Model",
+          "is_selected": false,
+          "inner": {
+            "buckets": []
+          }
+        },
+        {
+          "key": "lesson",
+          "doc_count": 974,
+          "label": "Lesson",
+          "is_selected": false,
+          "inner": {
+            "buckets": []
+          }
+        }
+      ],
+      "label": "Resource types"
+    },
+    "subject": {
+      "buckets": [
+        {
+          "key": "Biodiversity",
+          "doc_count": 356827,
+          "label": "Biodiversity",
+          "is_selected": false
+        },
+        {
+          "key": "Taxonomy",
+          "doc_count": 297166,
+          "label": "Taxonomy",
+          "is_selected": false
+        },
+        {
+          "key": "Animalia",
+          "doc_count": 231259,
+          "label": "Animalia",
+          "is_selected": false
+        },
+        {
+          "key": "Arthropoda",
+          "doc_count": 157728,
+          "label": "Arthropoda",
+          "is_selected": false
+        },
+        {
+          "key": "Insecta",
+          "doc_count": 113513,
+          "label": "Insecta",
+          "is_selected": false
+        },
+        {
+          "key": "BHL-Corpus",
+          "doc_count": 57451,
+          "label": "BHL-Corpus",
+          "is_selected": false
+        },
+        {
+          "key": "Source: BHL",
+          "doc_count": 57451,
+          "label": "Source: BHL",
+          "is_selected": false
+        },
+        {
+          "key": "Source: Biodiversity Heritage Library",
+          "doc_count": 57451,
+          "label": "Source: Biodiversity Heritage Library",
+          "is_selected": false
+        },
+        {
+          "key": "Source: https://biodiversitylibrary.org",
+          "doc_count": 57451,
+          "label": "Source: https://biodiversitylibrary.org",
+          "is_selected": false
+        },
+        {
+          "key": "Chordata",
+          "doc_count": 42760,
+          "label": "Chordata",
+          "is_selected": false
+        }
+      ],
+      "label": "Subjects"
+    },
+    "file_type": {
+      "buckets": [
+        {
+          "key": "pdf",
+          "doc_count": 439549,
+          "label": "PDF",
+          "is_selected": false
+        },
+        {
+          "key": "html",
+          "doc_count": 187015,
+          "label": "HTML",
+          "is_selected": false
+        },
+        {
+          "key": "png",
+          "doc_count": 42642,
+          "label": "PNG",
+          "is_selected": false
+        },
+        {
+          "key": "zip",
+          "doc_count": 33052,
+          "label": "ZIP",
+          "is_selected": false
+        },
+        {
+          "key": "txt",
+          "doc_count": 24828,
+          "label": "TXT",
+          "is_selected": false
+        },
+        {
+          "key": "jpg",
+          "doc_count": 22754,
+          "label": "JPG",
+          "is_selected": false
+        },
+        {
+          "key": "csv",
+          "doc_count": 15197,
+          "label": "CSV",
+          "is_selected": false
+        },
+        {
+          "key": "xlsx",
+          "doc_count": 14255,
+          "label": "XLSX",
+          "is_selected": false
+        },
+        {
+          "key": "docx",
+          "doc_count": 13778,
+          "label": "DOCX",
+          "is_selected": false
+        },
+        {
+          "key": "md",
+          "doc_count": 13625,
+          "label": "MD",
+          "is_selected": false
+        }
+      ],
+      "label": "File type"
+    }
+  },
+  "links": {
+    "self": "https://zenodo.org/api/records?page=1&q=ultrametric+geometry+quantization+p-adic+topological+invariants&size=5&sort=bestmatch",
+    "next": "https://zenodo.org/api/records?page=2&q=ultrametric+geometry+quantization+p-adic+topological+invariants&size=5&sort=bestmatch"
+  }
+}

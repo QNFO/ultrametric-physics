@@ -1,0 +1,1261 @@
+{
+  "hits": {
+    "hits": [
+      {
+        "created": "2026-07-31T06:26:07.021203+00:00",
+        "modified": "2026-07-31T06:26:07.319418+00:00",
+        "id": 21715129,
+        "conceptrecid": "21715128",
+        "doi": "10.5281/zenodo.21715129",
+        "conceptdoi": "10.5281/zenodo.21715128",
+        "doi_url": "https://doi.org/10.5281/zenodo.21715129",
+        "metadata": {
+          "title": "Axiomatic Node Locking: Deriving Coronal Thermal Inversion, Planetary Scale-Equivariance, and Trans-Neptunian Regulators from the ZIP-Einston Metric",
+          "doi": "10.5281/zenodo.21715129",
+          "publication_date": "2026-07-31",
+          "description": "<p>This paper introduces a unified discrete geometric framework to resolve two foundational<br>paradoxes in astrophysics: the solar coronal heating problem and the non-arbitrary mathematical taxonomy of planetary bodies. Utilizing a specialized linear coordinate transformation engine rooted in the singular initialization of a localized boundary inversion (1/0 = 1),<br>we show that planetary semi-major axes are not stochastically distributed but are locked<br>onto discrete integer nodes (x &isin; Z) with asymptotic error decay approaching zero. Furthermore, we demonstrate that the sub-surface coordinate at x = 0 (Orbit 0) establishes a<br>180-degree phase-reversed boundary condition inside the stellar core. This geometric anchor<br>yields an unhindered upward wave transport that completely bypasses the stellar surface and<br>violently manifests at the outer corona (Orbit 2), offering a structural, parameter-free solution to the solar thermal inversion paradox. Lastly, we establish an exact mathematical<br>boundary classification utilizing the Darkon Homotopy Corrector over equivariant cohomology rings to settle the planetary status of Pluto, Ceres, and Eris, while explicitly predicting<br>the precise coordinates of hidden intra-mercurial and outer-system regulatory bodies (Planet<br>IX).</p>",
+          "access_right": "open",
+          "creators": [
+            {
+              "name": "Asare-Darko, Matthias",
+              "affiliation": "Darkon Research Laboratory (DRL)",
+              "orcid": "0000-0003-1542-2209"
+            }
+          ],
+          "keywords": [
+            "Big Boot Gauge Theory (BBGT), ZIP-Einston Metric, Generative Zero, Darkon Homotopy Corrector, Coronal Heating Problem, Solar Thermal Inversion, Photosphere Isolation Node, Planetary Node Locking, Ceres Gatekeeper, Pluto-Orcus Disambiguation, Planet IX Prediction, Equivariant Cohomology Ring, Trans-Neptunian Objects, Scale Invariance"
+          ],
+          "language": "eng",
+          "resource_type": {
+            "title": "Preprint",
+            "type": "publication",
+            "subtype": "preprint"
+          },
+          "license": {
+            "id": "cc-by-4.0"
+          },
+          "relations": {
+            "version": [
+              {
+                "index": 0,
+                "is_last": true,
+                "parent": {
+                  "pid_type": "recid",
+                  "pid_value": "21715128"
+                }
+              }
+            ]
+          }
+        },
+        "title": "Axiomatic Node Locking: Deriving Coronal Thermal Inversion, Planetary Scale-Equivariance, and Trans-Neptunian Regulators from the ZIP-Einston Metric",
+        "links": {
+          "self": "https://zenodo.org/api/records/21715129",
+          "self_html": "https://zenodo.org/records/21715129",
+          "preview_html": "https://zenodo.org/records/21715129?preview=1",
+          "doi": "https://doi.org/10.5281/zenodo.21715129",
+          "self_doi": "https://doi.org/10.5281/zenodo.21715129",
+          "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.21715129",
+          "reserve_doi": "https://zenodo.org/api/records/21715129/draft/pids/doi",
+          "parent": "https://zenodo.org/api/records/21715128",
+          "parent_html": "https://zenodo.org/records/21715128",
+          "parent_doi": "https://doi.org/10.5281/zenodo.21715128",
+          "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.21715128",
+          "self_iiif_manifest": "https://zenodo.org/api/iiif/record:21715129/manifest",
+          "self_iiif_sequence": "https://zenodo.org/api/iiif/record:21715129/sequence/default",
+          "files": "https://zenodo.org/api/records/21715129/files",
+          "media_files": "https://zenodo.org/api/records/21715129/media-files",
+          "thumbnails": {
+            "10": "https://zenodo.org/api/iiif/record:21715129:BBGT_Coronal_Heating_Planet_X'tics.pdf/full/%5E10,/0/default.jpg",
+            "50": "https://zenodo.org/api/iiif/record:21715129:BBGT_Coronal_Heating_Planet_X'tics.pdf/full/%5E50,/0/default.jpg",
+            "100": "https://zenodo.org/api/iiif/record:21715129:BBGT_Coronal_Heating_Planet_X'tics.pdf/full/%5E100,/0/default.jpg",
+            "250": "https://zenodo.org/api/iiif/record:21715129:BBGT_Coronal_Heating_Planet_X'tics.pdf/full/%5E250,/0/default.jpg",
+            "750": "https://zenodo.org/api/iiif/record:21715129:BBGT_Coronal_Heating_Planet_X'tics.pdf/full/%5E750,/0/default.jpg",
+            "1200": "https://zenodo.org/api/iiif/record:21715129:BBGT_Coronal_Heating_Planet_X'tics.pdf/full/%5E1200,/0/default.jpg"
+          },
+          "archive": "https://zenodo.org/api/records/21715129/files-archive",
+          "archive_media": "https://zenodo.org/api/records/21715129/media-files-archive",
+          "latest": "https://zenodo.org/api/records/21715129/versions/latest",
+          "latest_html": "https://zenodo.org/records/21715129/latest",
+          "versions": "https://zenodo.org/api/records/21715129/versions",
+          "draft": "https://zenodo.org/api/records/21715129/draft",
+          "access_links": "https://zenodo.org/api/records/21715129/access/links",
+          "access_grants": "https://zenodo.org/api/records/21715129/access/grants",
+          "access_users": "https://zenodo.org/api/records/21715129/access/users",
+          "access_request": "https://zenodo.org/api/records/21715129/access/request",
+          "access": "https://zenodo.org/api/records/21715129/access",
+          "communities": "https://zenodo.org/api/records/21715129/communities",
+          "communities-suggestions": "https://zenodo.org/api/records/21715129/communities-suggestions",
+          "request_deletion": "https://zenodo.org/api/records/21715129/request-deletion",
+          "file_modification": "https://zenodo.org/api/records/21715129/file-modification",
+          "quota_increase": "https://zenodo.org/api/records/21715129/quota-increase",
+          "requests": "https://zenodo.org/api/records/21715129/requests"
+        },
+        "updated": "2026-07-31T06:26:07.319418+00:00",
+        "recid": "21715129",
+        "revision": 4,
+        "files": [
+          {
+            "id": "50c8675d-1548-4fb7-a96d-af098dbd05df",
+            "key": "BBGT_Coronal_Heating_Planet_X'tics.pdf",
+            "size": 193417,
+            "checksum": "md5:eb0f62ead2f773f4bd6f83ad5511e64d",
+            "links": {
+              "self": "https://zenodo.org/api/records/21715129/files/BBGT_Coronal_Heating_Planet_X'tics.pdf/content"
+            }
+          }
+        ],
+        "swh": null,
+        "owners": [
+          {
+            "id": "235017"
+          }
+        ],
+        "status": "published",
+        "stats": {
+          "downloads": 6,
+          "unique_downloads": 6,
+          "views": 8,
+          "unique_views": 8,
+          "version_downloads": 6,
+          "version_unique_downloads": 6,
+          "version_unique_views": 8,
+          "version_views": 8
+        },
+        "state": "done",
+        "submitted": true
+      },
+      {
+        "created": "2026-06-03T19:51:14.367343+00:00",
+        "modified": "2026-06-03T20:16:40.387092+00:00",
+        "id": 20532810,
+        "conceptrecid": "20532809",
+        "doi": "10.5281/zenodo.20532810",
+        "conceptdoi": "10.5281/zenodo.20532809",
+        "doi_url": "https://doi.org/10.5281/zenodo.20532810",
+        "metadata": {
+          "title": "13. Quantum Reflection Amplitude for the Double Sine-Gordon Kink-Antikink System: From the geometric subsystem programme to the Born approximation",
+          "doi": "10.5281/zenodo.20532810",
+          "publication_date": "2026-06-03",
+          "description": "<p>We apply the geometric subsystem quantisation programme to the double&nbsp;sine&ndash;Gordon (DSG) model and derive the first Born approximation for the quantum reflection amplitude of a kink&ndash;antikink pair in the asymptotic regime. The exact canonical symplectic form and Hamiltonian on the two‑body collective‑coordinate ansatz are taken from the companion paper~\\cite{CCsymplectic}. The perturbative Darboux transformation constructed in~\\cite{Darboux} is used to diagonalise the off‑diagonal symplectic couplings. We prove that, to leading order in the small parameter $\\varepsilon = e^{-\\mu s}$ ($s$ is the kink&ndash;antikink separation), the Darboux correction does not alter the static interaction potential. In the non‑relativistic limit, the relative motion reduces to a one‑dimensional Schr\\\"odinger equation with the exact static potential $V_{\\rm int}(r)$. The first Born approximation yields the reflection amplitude expressed as an integral involving this potential. The low‑energy limit of the amplitude is determined by the total integrated strength of the interaction. The derivation provides the first Born approximation for the quantum reflection amplitude of DSG kink&ndash;antikink scattering within the geometric subsystem programme.</p>\n<p>&nbsp;</p>",
+          "access_right": "open",
+          "creators": [
+            {
+              "name": "Timmermans, Alexander",
+              "affiliation": null,
+              "orcid": "0009-0007-1942-3934"
+            },
+            {
+              "name": "Kalmykov, Anton",
+              "affiliation": null,
+              "orcid": "0009-0001-7185-4367"
+            }
+          ],
+          "keywords": [
+            "Double sign-Gordon equation",
+            "kink",
+            "antikink",
+            "kink-antikink",
+            "QFT",
+            "quantum reflection"
+          ],
+          "dates": [
+            {
+              "type": "issued",
+              "description": "v.1.0"
+            }
+          ],
+          "version": "1.0",
+          "references": [
+            "A.  Timmermans, A. Y. Kalmykov, Quantization of the Kink Moduli Space in the Sine-Gordon Model and a Programme for the General Time-Shared Object, 2026, https://doi.org/10.5281/zenodo.20521839",
+            "A.  Timmermans, A. Y. Kalmykov, Geometric Subsystem Quantization of the Sine-Gordon Breather, 2026, Zenodo, https://doi.org/10.5281/zenodo.20523914",
+            "A. Timmermans, A. Y. Kalmykov, Quantization of the Sine--Gordon Kink--Breather Bound State (Wobble) via the Inverse Scattering Transform with an analysis of geometric pullback and Backlund methods, 2026, Zenodo, https://doi.org/10.5281/zenodo.20525003",
+            "A.  Timmermans, A. Y. Kalmykov, Classification of Symplectic Moduli Spaces in the Geometric Subsystem Quantization of Sine-Gordon Solitons, 2026, Zenodo, https://doi.org/10.5281/zenodo.20527173",
+            "A. Timmermans, A. Y. Kalmykov, Geometric Subsystem Quantization of the Double Sine-Gordon Kink, 2026, Zenodo, https://doi.org/10.5281/zenodo.20522116",
+            "A. Timmermans, A. Y. Kalmykov, Geometric Subsystem Quantization of Double Sine-Gordon Multi-Kinks, 2026, Zenodo, https://doi.org/10.5281/zenodo.20524848",
+            "A. Timmermans, A. Y. Kalmykov, Universal Quantization of the Translational Mode of Relativistic Kinks - a geometric pullback theorem for scalar field theories with vacuum degeneracy, 2026, Zenodo, https://doi.org/10.5281/zenodo.20523372",
+            "A.  Timmermans, A. Y. Kalmykov, Exact Symplectic Form for the Kink-Antikink Superposition Ansatz - a rigorous geometric foundation for collective-coordinate approximations, 2026, Zenodo https://doi.org/10.5281/zenodo.20529996",
+            "A. Timmermans, A. Y. Kalmykov, Perturbative Darboux Transformation and Deformation Quantization of the Kink-Antikink System, 2026, Zenodo, https://doi.org/10.5281/zenodo.20532145",
+            "A.  Timmermans, A. Y. Kalmykov, Reduced Quantum Scattering of the Double Sine-Gordon Kink-Antikink System: Non‑perturbative treatment within the collective‑coordinate model, 2026, Zenodo, https://doi.org/10.5281/zenodo.20532541"
+          ],
+          "language": "eng",
+          "resource_type": {
+            "title": "Publication",
+            "type": "publication"
+          },
+          "license": {
+            "id": "cc-by-4.0"
+          },
+          "communities": [
+            {
+              "id": "geometry_mathematics_physics"
+            }
+          ],
+          "relations": {
+            "version": [
+              {
+                "index": 0,
+                "is_last": true,
+                "parent": {
+                  "pid_type": "recid",
+                  "pid_value": "20532809"
+                }
+              }
+            ]
+          }
+        },
+        "title": "13. Quantum Reflection Amplitude for the Double Sine-Gordon Kink-Antikink System: From the geometric subsystem programme to the Born approximation",
+        "links": {
+          "self": "https://zenodo.org/api/records/20532810",
+          "self_html": "https://zenodo.org/records/20532810",
+          "preview_html": "https://zenodo.org/records/20532810?preview=1",
+          "doi": "https://doi.org/10.5281/zenodo.20532810",
+          "self_doi": "https://doi.org/10.5281/zenodo.20532810",
+          "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.20532810",
+          "reserve_doi": "https://zenodo.org/api/records/20532810/draft/pids/doi",
+          "parent": "https://zenodo.org/api/records/20532809",
+          "parent_html": "https://zenodo.org/records/20532809",
+          "parent_doi": "https://doi.org/10.5281/zenodo.20532809",
+          "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.20532809",
+          "self_iiif_manifest": "https://zenodo.org/api/iiif/record:20532810/manifest",
+          "self_iiif_sequence": "https://zenodo.org/api/iiif/record:20532810/sequence/default",
+          "files": "https://zenodo.org/api/records/20532810/files",
+          "media_files": "https://zenodo.org/api/records/20532810/media-files",
+          "thumbnails": {
+            "10": "https://zenodo.org/api/iiif/record:20532810:13%20Quantum%20Reflection%20Amplitude%20for%20the%20Double%20Sine-Gordon%20Kink-Antikink%20System.pdf/full/%5E10,/0/default.jpg",
+            "50": "https://zenodo.org/api/iiif/record:20532810:13%20Quantum%20Reflection%20Amplitude%20for%20the%20Double%20Sine-Gordon%20Kink-Antikink%20System.pdf/full/%5E50,/0/default.jpg",
+            "100": "https://zenodo.org/api/iiif/record:20532810:13%20Quantum%20Reflection%20Amplitude%20for%20the%20Double%20Sine-Gordon%20Kink-Antikink%20System.pdf/full/%5E100,/0/default.jpg",
+            "250": "https://zenodo.org/api/iiif/record:20532810:13%20Quantum%20Reflection%20Amplitude%20for%20the%20Double%20Sine-Gordon%20Kink-Antikink%20System.pdf/full/%5E250,/0/default.jpg",
+            "750": "https://zenodo.org/api/iiif/record:20532810:13%20Quantum%20Reflection%20Amplitude%20for%20the%20Double%20Sine-Gordon%20Kink-Antikink%20System.pdf/full/%5E750,/0/default.jpg",
+            "1200": "https://zenodo.org/api/iiif/record:20532810:13%20Quantum%20Reflection%20Amplitude%20for%20the%20Double%20Sine-Gordon%20Kink-Antikink%20System.pdf/full/%5E1200,/0/default.jpg"
+          },
+          "archive": "https://zenodo.org/api/records/20532810/files-archive",
+          "archive_media": "https://zenodo.org/api/records/20532810/media-files-archive",
+          "latest": "https://zenodo.org/api/records/20532810/versions/latest",
+          "latest_html": "https://zenodo.org/records/20532810/latest",
+          "versions": "https://zenodo.org/api/records/20532810/versions",
+          "draft": "https://zenodo.org/api/records/20532810/draft",
+          "access_links": "https://zenodo.org/api/records/20532810/access/links",
+          "access_grants": "https://zenodo.org/api/records/20532810/access/grants",
+          "access_users": "https://zenodo.org/api/records/20532810/access/users",
+          "access_request": "https://zenodo.org/api/records/20532810/access/request",
+          "access": "https://zenodo.org/api/records/20532810/access",
+          "communities": "https://zenodo.org/api/records/20532810/communities",
+          "communities-suggestions": "https://zenodo.org/api/records/20532810/communities-suggestions",
+          "request_deletion": "https://zenodo.org/api/records/20532810/request-deletion",
+          "file_modification": "https://zenodo.org/api/records/20532810/file-modification",
+          "quota_increase": "https://zenodo.org/api/records/20532810/quota-increase",
+          "requests": "https://zenodo.org/api/records/20532810/requests"
+        },
+        "updated": "2026-06-03T20:16:40.387092+00:00",
+        "recid": "20532810",
+        "revision": 8,
+        "files": [
+          {
+            "id": "77c2a35d-98a4-4043-9907-b62e857e3ecf",
+            "key": "13 Quantum Reflection Amplitude for the Double Sine-Gordon Kink-Antikink System.tex",
+            "size": 21092,
+            "checksum": "md5:8e96b0a91c952d2ff0eb3345b4a8167c",
+            "links": {
+              "self": "https://zenodo.org/api/records/20532810/files/13%20Quantum%20Reflection%20Amplitude%20for%20the%20Double%20Sine-Gordon%20Kink-Antikink%20System.tex/content"
+            }
+          },
+          {
+            "id": "c7870f94-75ed-47b5-a75b-4009d51ae9c0",
+            "key": "13 Quantum Reflection Amplitude for the Double Sine-Gordon Kink-Antikink System.pdf",
+            "size": 270839,
+            "checksum": "md5:7cf9619ceababb8fa953ca972373fe73",
+            "links": {
+              "self": "https://zenodo.org/api/records/20532810/files/13%20Quantum%20Reflection%20Amplitude%20for%20the%20Double%20Sine-Gordon%20Kink-Antikink%20System.pdf/content"
+            }
+          }
+        ],
+        "swh": null,
+        "owners": [
+          {
+            "id": "1511919"
+          }
+        ],
+        "status": "published",
+        "stats": {
+          "downloads": 34,
+          "unique_downloads": 25,
+          "views": 53,
+          "unique_views": 47,
+          "version_downloads": 34,
+          "version_unique_downloads": 25,
+          "version_unique_views": 47,
+          "version_views": 53
+        },
+        "state": "done",
+        "submitted": true
+      },
+      {
+        "created": "2026-06-03T21:01:05.174095+00:00",
+        "modified": "2026-06-03T21:10:59.538110+00:00",
+        "id": 20533266,
+        "conceptrecid": "20533265",
+        "doi": "10.5281/zenodo.20533266",
+        "conceptdoi": "10.5281/zenodo.20533265",
+        "doi_url": "https://doi.org/10.5281/zenodo.20533266",
+        "metadata": {
+          "title": "15. Numerical Framework for the Quantum S‑Matrix of the Double Sine-Gordon Kink-Antikink System: Semi‑analytic method and physical expectations",
+          "doi": "10.5281/zenodo.20533266",
+          "publication_date": "2026-06-03",
+          "description": "<p>We present a detailed numerical framework for computing the full quantum S‑matrix of the kink&ndash;antikink pair in the double sine&ndash;Gordon model, building on the non‑perturbative scattering formalism. The exact static interaction potential, obtained from the geometric subsystem programme, is evaluated numerically from the static kink profile. The half‑line Schrodinger equation with Neumann boundary condition is integrated outward and matched to the exactly solvable exponential tail using Bessel functions of purely imaginary order. We describe the shooting method for the static kink, the numerical quadrature for the potential, the ODE integration algorithm, and the matching procedure. The method is complete and ready for implementation; the expected qualitative behaviour of the reflection amplitude, scattering phase shift, and low‑energy parameters is discussed based on known properties of the potential. Numerical results will be reported in a separate publication.</p>\n<p>&nbsp;</p>",
+          "access_right": "open",
+          "creators": [
+            {
+              "name": "Timmermans, Alexander",
+              "affiliation": null,
+              "orcid": "0009-0007-1942-3934"
+            },
+            {
+              "name": "Kalmykov, Anton",
+              "affiliation": null,
+              "orcid": "0009-0001-7185-4367"
+            }
+          ],
+          "keywords": [
+            "quantum S-matrix",
+            "kink",
+            "antikink",
+            "kink-antikink",
+            "quantization",
+            "QFT",
+            "Double sign-Gordon equation"
+          ],
+          "dates": [
+            {
+              "type": "submitted",
+              "description": "v.1.0"
+            }
+          ],
+          "version": "1.0",
+          "references": [
+            "A. Timmermans, A. Y. Kalmykov, Quantization of the Kink Moduli Space in the Sine-Gordon Model and a Programme for the General Time-Shared Object}, 2026, https://doi.org/10.5281/zenodo.20521839",
+            "A. Timmermans, A. Y. Kalmykov, Geometric Subsystem Quantization of the Sine-Gordon Breather, 2026, Zenodo, https://doi.org/10.5281/zenodo.20523914",
+            "A.  Timmermans, A. Y. Kalmykov, \\emph{Quantization of the Sine--Gordon Kink--Breather Bound State (Wobble) via the Inverse Scattering Transform with an analysis of geometric pullback and Backlund methods, 2026, Zenodo, https://doi.org/10.5281/zenodo.20525003",
+            "A.  Timmermans, A. Y. Kalmykov, Classification of Symplectic Moduli Spaces in the Geometric Subsystem Quantization of Sine-Gordon Solitons, 2026, Zenodo, https://doi.org/10.5281/zenodo.20527173",
+            "A. Timmermans, A. Y. Kalmykov, Geometric Subsystem Quantization of the Double Sine-Gordon Kink, 2026, Zenodo, https://doi.org/10.5281/zenodo.20522116",
+            "A.  Timmermans, A. Y. Kalmykov, Geometric Subsystem Quantization of Double Sine-Gordon Multi-Kinks, 2026, Zenodo, https://doi.org/10.5281/zenodo.20524848",
+            "A.  Timmermans, A. Y. Kalmykov, Universal Quantization of the Translational Mode of Relativistic Kinks - a geometric pullback theorem for scalar field theories with vacuum degeneracy, 2026, Zenodo, https://doi.org/10.5281/zenodo.20523372",
+            "A. Timmermans, A. Y. Kalmykov, Exact Symplectic Form for the Kink-Antikink Superposition Ansatz - a rigorous geometric foundation for collective-coordinate approximations, 2026, Zenodo https://doi.org/10.5281/zenodo.20529996",
+            "A.  Timmermans, A. Y. Kalmykov, Perturbative Darboux Transformation and Deformation Quantization of the Kink-Antikink System, 2026, Zenodo, https://doi.org/10.5281/zenodo.20532145",
+            "A. Timmermans, A. Y. Kalmykov, Reduced Quantum Scattering of the Double Sine-Gordon Kink-Antikink System: Non‑perturbative treatment within the collective‑coordinate effective mode, 2026, https://doi.org/10.5281/zenodo.20532541",
+            "A. Timmermans, A. Y.  Kalmykov, Quantum Reflection Amplitude for the Double Sine-Gordon Kink-Antikink System: From the geometric subsystem programme to the Born approximation, 2026, https://doi.org/10.5281/zenodo.20532810"
+          ],
+          "language": "eng",
+          "resource_type": {
+            "title": "Publication",
+            "type": "publication"
+          },
+          "license": {
+            "id": "cc-by-4.0"
+          },
+          "communities": [
+            {
+              "id": "geometry_mathematics_physics"
+            }
+          ],
+          "relations": {
+            "version": [
+              {
+                "index": 0,
+                "is_last": true,
+                "parent": {
+                  "pid_type": "recid",
+                  "pid_value": "20533265"
+                }
+              }
+            ]
+          }
+        },
+        "title": "15. Numerical Framework for the Quantum S‑Matrix of the Double Sine-Gordon Kink-Antikink System: Semi‑analytic method and physical expectations",
+        "links": {
+          "self": "https://zenodo.org/api/records/20533266",
+          "self_html": "https://zenodo.org/records/20533266",
+          "preview_html": "https://zenodo.org/records/20533266?preview=1",
+          "doi": "https://doi.org/10.5281/zenodo.20533266",
+          "self_doi": "https://doi.org/10.5281/zenodo.20533266",
+          "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.20533266",
+          "reserve_doi": "https://zenodo.org/api/records/20533266/draft/pids/doi",
+          "parent": "https://zenodo.org/api/records/20533265",
+          "parent_html": "https://zenodo.org/records/20533265",
+          "parent_doi": "https://doi.org/10.5281/zenodo.20533265",
+          "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.20533265",
+          "self_iiif_manifest": "https://zenodo.org/api/iiif/record:20533266/manifest",
+          "self_iiif_sequence": "https://zenodo.org/api/iiif/record:20533266/sequence/default",
+          "files": "https://zenodo.org/api/records/20533266/files",
+          "media_files": "https://zenodo.org/api/records/20533266/media-files",
+          "thumbnails": {
+            "10": "https://zenodo.org/api/iiif/record:20533266:15%20Numerical%20Framework%20for%20the%20Quantum%20S%E2%80%91Matrix%20of%20the%20Double%20Sine-Gordon%20Kink-Antikink%20System.pdf/full/%5E10,/0/default.jpg",
+            "50": "https://zenodo.org/api/iiif/record:20533266:15%20Numerical%20Framework%20for%20the%20Quantum%20S%E2%80%91Matrix%20of%20the%20Double%20Sine-Gordon%20Kink-Antikink%20System.pdf/full/%5E50,/0/default.jpg",
+            "100": "https://zenodo.org/api/iiif/record:20533266:15%20Numerical%20Framework%20for%20the%20Quantum%20S%E2%80%91Matrix%20of%20the%20Double%20Sine-Gordon%20Kink-Antikink%20System.pdf/full/%5E100,/0/default.jpg",
+            "250": "https://zenodo.org/api/iiif/record:20533266:15%20Numerical%20Framework%20for%20the%20Quantum%20S%E2%80%91Matrix%20of%20the%20Double%20Sine-Gordon%20Kink-Antikink%20System.pdf/full/%5E250,/0/default.jpg",
+            "750": "https://zenodo.org/api/iiif/record:20533266:15%20Numerical%20Framework%20for%20the%20Quantum%20S%E2%80%91Matrix%20of%20the%20Double%20Sine-Gordon%20Kink-Antikink%20System.pdf/full/%5E750,/0/default.jpg",
+            "1200": "https://zenodo.org/api/iiif/record:20533266:15%20Numerical%20Framework%20for%20the%20Quantum%20S%E2%80%91Matrix%20of%20the%20Double%20Sine-Gordon%20Kink-Antikink%20System.pdf/full/%5E1200,/0/default.jpg"
+          },
+          "archive": "https://zenodo.org/api/records/20533266/files-archive",
+          "archive_media": "https://zenodo.org/api/records/20533266/media-files-archive",
+          "latest": "https://zenodo.org/api/records/20533266/versions/latest",
+          "latest_html": "https://zenodo.org/records/20533266/latest",
+          "versions": "https://zenodo.org/api/records/20533266/versions",
+          "draft": "https://zenodo.org/api/records/20533266/draft",
+          "access_links": "https://zenodo.org/api/records/20533266/access/links",
+          "access_grants": "https://zenodo.org/api/records/20533266/access/grants",
+          "access_users": "https://zenodo.org/api/records/20533266/access/users",
+          "access_request": "https://zenodo.org/api/records/20533266/access/request",
+          "access": "https://zenodo.org/api/records/20533266/access",
+          "communities": "https://zenodo.org/api/records/20533266/communities",
+          "communities-suggestions": "https://zenodo.org/api/records/20533266/communities-suggestions",
+          "request_deletion": "https://zenodo.org/api/records/20533266/request-deletion",
+          "file_modification": "https://zenodo.org/api/records/20533266/file-modification",
+          "quota_increase": "https://zenodo.org/api/records/20533266/quota-increase",
+          "requests": "https://zenodo.org/api/records/20533266/requests"
+        },
+        "updated": "2026-06-03T21:10:59.538110+00:00",
+        "recid": "20533266",
+        "revision": 8,
+        "files": [
+          {
+            "id": "9d0c03e6-f272-4045-b38d-19cbff766f5e",
+            "key": "15 Numerical Framework for the Quantum S‑Matrix of the Double Sine-Gordon Kink-Antikink System.tex",
+            "size": 14569,
+            "checksum": "md5:fa328b7314908f0e04371528b9240035",
+            "links": {
+              "self": "https://zenodo.org/api/records/20533266/files/15%20Numerical%20Framework%20for%20the%20Quantum%20S%E2%80%91Matrix%20of%20the%20Double%20Sine-Gordon%20Kink-Antikink%20System.tex/content"
+            }
+          },
+          {
+            "id": "da50382e-d810-4002-91af-ea1ab423da54",
+            "key": "15 Numerical Framework for the Quantum S‑Matrix of the Double Sine-Gordon Kink-Antikink System.pdf",
+            "size": 231656,
+            "checksum": "md5:ae6262dcb75d67ed5e6750191d3f4b07",
+            "links": {
+              "self": "https://zenodo.org/api/records/20533266/files/15%20Numerical%20Framework%20for%20the%20Quantum%20S%E2%80%91Matrix%20of%20the%20Double%20Sine-Gordon%20Kink-Antikink%20System.pdf/content"
+            }
+          }
+        ],
+        "swh": null,
+        "owners": [
+          {
+            "id": "1511919"
+          }
+        ],
+        "status": "published",
+        "stats": {
+          "downloads": 26,
+          "unique_downloads": 22,
+          "views": 26,
+          "unique_views": 20,
+          "version_downloads": 26,
+          "version_unique_downloads": 22,
+          "version_unique_views": 20,
+          "version_views": 26
+        },
+        "state": "done",
+        "submitted": true
+      },
+      {
+        "created": "2026-03-21T22:53:20.693322+00:00",
+        "modified": "2026-04-12T22:22:40.934577+00:00",
+        "id": 19154553,
+        "conceptrecid": "18909973",
+        "doi": "10.5281/zenodo.19154553",
+        "conceptdoi": "10.5281/zenodo.18909973",
+        "doi_url": "https://doi.org/10.5281/zenodo.19154553",
+        "metadata": {
+          "title": "The Symmetry Coordinate of Polynomial Integer Sequences",
+          "doi": "10.5281/zenodo.19154553",
+          "publication_date": "2026-03-21",
+          "description": "<p><strong>(Internal code: C002852)</strong></p>\n<p><strong>Abstract</strong>: This study introduces the concept of a symmetry coordinate for integer sequences generated by real polynomials. For a polynomial written in the form x=Y_d [y]=a_d y^d+a_(d-1) y^(d-1)+⋯+a_1 y+a_0 with integer index y&isin;Z, we show that there exists a unique real number y_sp=-a_(d-1)/(da_d ) determined solely by the two leading coefficients. This coordinate serves as a structural reference organizing the polynomial sequence {Y_d [y]}. We analyze how the arithmetic position of y_sp relative to the integer lattice determines the discrete symmetry properties of the sequence. A reflection mapping y_ref=2y_sp-y is introduced, and it is shown that this mapping restricts to a bijection on Z if and only if 2y_sp&isin;Z. This criterion yields a natural classification of polynomial integer sequences into three structural regimes depending on whether the symmetry coordinate lies in Z, Z+1/2, or elsewhere in R. The symmetry coordinate also coincides with the arithmetic mean of the roots of the polynomial through the classical Vi&egrave;te relations. By combining classical coefficient identities with a discrete geometric viewpoint on polynomial sequences indexed by integers, the framework developed here connects the algebraic structure of polynomials with the global organization of the integer sequences they generate.</p>\n<p><strong>Keywords</strong>: polynomial integer sequences; symmetry coordinate; integer lattice; discrete symmetry; polynomial transformations; structural classification.</p>\n<p><strong>2020 Mathematics Subject Classification</strong>: 11B83; 11B37; 11C08 ; 12D10; 05A19.</p>",
+          "access_right": "open",
+          "creators": [
+            {
+              "name": "Kusniec, Charles",
+              "affiliation": null,
+              "orcid": "0009-0006-1146-7847"
+            }
+          ],
+          "resource_type": {
+            "title": "Preprint",
+            "type": "publication",
+            "subtype": "preprint"
+          },
+          "license": {
+            "id": "cc-by-4.0"
+          },
+          "relations": {
+            "version": [
+              {
+                "index": 1,
+                "is_last": true,
+                "parent": {
+                  "pid_type": "recid",
+                  "pid_value": "18909973"
+                }
+              }
+            ]
+          }
+        },
+        "title": "The Symmetry Coordinate of Polynomial Integer Sequences",
+        "links": {
+          "self": "https://zenodo.org/api/records/19154553",
+          "self_html": "https://zenodo.org/records/19154553",
+          "preview_html": "https://zenodo.org/records/19154553?preview=1",
+          "doi": "https://doi.org/10.5281/zenodo.19154553",
+          "self_doi": "https://doi.org/10.5281/zenodo.19154553",
+          "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.19154553",
+          "reserve_doi": "https://zenodo.org/api/records/19154553/draft/pids/doi",
+          "parent": "https://zenodo.org/api/records/18909973",
+          "parent_html": "https://zenodo.org/records/18909973",
+          "parent_doi": "https://doi.org/10.5281/zenodo.18909973",
+          "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.18909973",
+          "self_iiif_manifest": "https://zenodo.org/api/iiif/record:19154553/manifest",
+          "self_iiif_sequence": "https://zenodo.org/api/iiif/record:19154553/sequence/default",
+          "files": "https://zenodo.org/api/records/19154553/files",
+          "media_files": "https://zenodo.org/api/records/19154553/media-files",
+          "thumbnails": {
+            "10": "https://zenodo.org/api/iiif/record:19154553:C002852%20The%20Symmetry%20Coordinate%20of%20Polynomial%20Integer%20Sequences.pdf/full/%5E10,/0/default.jpg",
+            "50": "https://zenodo.org/api/iiif/record:19154553:C002852%20The%20Symmetry%20Coordinate%20of%20Polynomial%20Integer%20Sequences.pdf/full/%5E50,/0/default.jpg",
+            "100": "https://zenodo.org/api/iiif/record:19154553:C002852%20The%20Symmetry%20Coordinate%20of%20Polynomial%20Integer%20Sequences.pdf/full/%5E100,/0/default.jpg",
+            "250": "https://zenodo.org/api/iiif/record:19154553:C002852%20The%20Symmetry%20Coordinate%20of%20Polynomial%20Integer%20Sequences.pdf/full/%5E250,/0/default.jpg",
+            "750": "https://zenodo.org/api/iiif/record:19154553:C002852%20The%20Symmetry%20Coordinate%20of%20Polynomial%20Integer%20Sequences.pdf/full/%5E750,/0/default.jpg",
+            "1200": "https://zenodo.org/api/iiif/record:19154553:C002852%20The%20Symmetry%20Coordinate%20of%20Polynomial%20Integer%20Sequences.pdf/full/%5E1200,/0/default.jpg"
+          },
+          "archive": "https://zenodo.org/api/records/19154553/files-archive",
+          "archive_media": "https://zenodo.org/api/records/19154553/media-files-archive",
+          "latest": "https://zenodo.org/api/records/19154553/versions/latest",
+          "latest_html": "https://zenodo.org/records/19154553/latest",
+          "versions": "https://zenodo.org/api/records/19154553/versions",
+          "draft": "https://zenodo.org/api/records/19154553/draft",
+          "access_links": "https://zenodo.org/api/records/19154553/access/links",
+          "access_grants": "https://zenodo.org/api/records/19154553/access/grants",
+          "access_users": "https://zenodo.org/api/records/19154553/access/users",
+          "access_request": "https://zenodo.org/api/records/19154553/access/request",
+          "access": "https://zenodo.org/api/records/19154553/access",
+          "communities": "https://zenodo.org/api/records/19154553/communities",
+          "communities-suggestions": "https://zenodo.org/api/records/19154553/communities-suggestions",
+          "request_deletion": "https://zenodo.org/api/records/19154553/request-deletion",
+          "file_modification": "https://zenodo.org/api/records/19154553/file-modification",
+          "quota_increase": "https://zenodo.org/api/records/19154553/quota-increase",
+          "requests": "https://zenodo.org/api/records/19154553/requests"
+        },
+        "updated": "2026-04-12T22:22:40.934577+00:00",
+        "recid": "19154553",
+        "revision": 6,
+        "files": [
+          {
+            "id": "c6ea458d-fac4-4247-b4c4-2d11d8fc4985",
+            "key": "C002852 The Symmetry Coordinate of Polynomial Integer Sequences.pdf",
+            "size": 600274,
+            "checksum": "md5:4b8683a77276ba77394b0027b09e2d88",
+            "links": {
+              "self": "https://zenodo.org/api/records/19154553/files/C002852%20The%20Symmetry%20Coordinate%20of%20Polynomial%20Integer%20Sequences.pdf/content"
+            }
+          }
+        ],
+        "swh": null,
+        "owners": [
+          {
+            "id": "619453"
+          }
+        ],
+        "status": "published",
+        "stats": {
+          "downloads": 39,
+          "unique_downloads": 32,
+          "views": 81,
+          "unique_views": 72,
+          "version_downloads": 26,
+          "version_unique_downloads": 24,
+          "version_unique_views": 31,
+          "version_views": 35
+        },
+        "state": "done",
+        "submitted": true
+      },
+      {
+        "created": "2026-02-20T07:11:55.840298+00:00",
+        "modified": "2026-02-20T07:11:56.250918+00:00",
+        "id": 18708725,
+        "conceptrecid": "18708724",
+        "doi": "10.5281/zenodo.18708725",
+        "conceptdoi": "10.5281/zenodo.18708724",
+        "doi_url": "https://doi.org/10.5281/zenodo.18708725",
+        "metadata": {
+          "title": "BIR BIRLIKKA YETISHMAYDIGAN KO'PAYTUVCHINI ANIQLASHGA ASOSLANGAN SONLARNI TUBLIKKA TEKSHIRISH USULINING QO'LLANILISHI",
+          "doi": "10.5281/zenodo.18708725",
+          "publication_date": "2026-02-20",
+          "description": "Ushbu maqolada keltirilgan usul kompyuter fanlarida qo'llanish imkoniyatiga ega bo'lib, sonlarni ko'paytuvchilarga ajratish uchun yangi algoritm yaratishga yoki mavjud algoritmlarning samaradorligini yanada oshirishga xizmat qilishi mumkin.\nBuning uchun ushbu juft son tub sonlar 𝑝 p bo'yicha o'sish tartibida bo'linadi va bo'lish natijasining kasr qismi kuzatiladi. Agar kasr qismi (𝑝−1)/𝑝 nisbatiga teng bo'lsa (bu yerda 𝑝 — ixtiyoriy tub ko'paytuvchi), u holda tekshirilayotgan son tub emas bo'ladi va aynan shu nisbatni hosil qilgan tub son uning tub ko'paytuvchisi hisoblanadi.",
+          "access_right": "open",
+          "creators": [
+            {
+              "name": "Bekzod Mamaraimov",
+              "affiliation": "Termiz davlat universiteti akademik litseyi o'qituvchisi"
+            },
+            {
+              "name": "O'g'iloy  Axadova",
+              "affiliation": "Mirzo Ulug'bek nomidagi O'zbekiston milliy universiteti tayanch doktoranti"
+            }
+          ],
+          "keywords": [
+            "o'nlik son",
+            "ajratish (dekompozitsiya)",
+            "juft son",
+            "faktorizatsiya",
+            "irratsional son",
+            "toq son",
+            "tublik testi",
+            "tub ko'paytuvchi"
+          ],
+          "references": [
+            "Agarwal, R. P., & Agarwal, H. (2021). Origin of irrational numbers and their approximations. Computation, 9(3), 29. https://doi.org/10.3390/computation9030029",
+            "Balasubramanian,  K.,  &  Abbas,  A.  M.  (2018).  Integer  factoring  algorithms.  In  Algorithmic  Strategies  for  Solving Complex Problems in Cryptography. 228-240. IGI Global. https://doi.org/10.4018/978-1-5225-2915-6.ch017",
+            "Decker, W., Greuel, G. M., Pfister, G. (1999). Primary Decomposition: Algorithms and Comparisons. In: Matzat, B.H., Greuel,  GM.,  Hiss,  G.  (eds)  Algorithmic  Algebra  and  Number  Theory.  Springer,  Berlin,  Heidelberg. https://doi.org/10.1007/978-3-642-59932-3_10",
+            "Duta,  C.  L.,  Gheorghe,  L.,  Tapus,  N.  (2016).  Framework  for  evaluation  and  comparison  of  integer  factorization algorithms. SAI Computing Conference (SAI), London, UK, 1047-1053. https://doi.org/10.1109/SAI.2016.7556107",
+            "Hegde,  N.,  &  Deepthi,  P.  (2015).  Pollard  RHO  algorithm  for  integer  factorization  and  discrete  logarithm  problem. International Journal of Computer Applications, 121(18), 14-17. https://doi.org/10.5120/21639-4969",
+            "Ndiaye, M. (2017). The Prime Numbers. International Journal for Innovation Education and Research, 5(6), 41-66. https://doi.org/10.31686/ijier.vol5.iss6.672",
+            "Sahin, M. (2011). Generalized Trial Division. Int. J. Contemp. Math. Sciences, 6(2), 59-64.",
+            "Shiver,  J.,  &  Klosterman,  P.  (2022).  Making  irrational  numbers  real.  Middle  School  Journal,  53(1),  36-42. https://doi.org/10.1080/00940771.2021.1997534"
+          ],
+          "language": "uzb",
+          "resource_type": {
+            "title": "Journal article",
+            "type": "publication",
+            "subtype": "article"
+          },
+          "journal": {
+            "issue": "1",
+            "title": "Al-Farg'oniy avlodlari",
+            "volume": "1"
+          },
+          "imprint": {},
+          "license": {
+            "id": "cc-by-4.0"
+          },
+          "communities": [
+            {
+              "id": "alfargoniyavlodlarieij"
+            }
+          ],
+          "relations": {
+            "version": [
+              {
+                "index": 0,
+                "is_last": true,
+                "parent": {
+                  "pid_type": "recid",
+                  "pid_value": "18708724"
+                }
+              }
+            ]
+          }
+        },
+        "title": "BIR BIRLIKKA YETISHMAYDIGAN KO'PAYTUVCHINI ANIQLASHGA ASOSLANGAN SONLARNI TUBLIKKA TEKSHIRISH USULINING QO'LLANILISHI",
+        "links": {
+          "self": "https://zenodo.org/api/records/18708725",
+          "self_html": "https://zenodo.org/records/18708725",
+          "preview_html": "https://zenodo.org/records/18708725?preview=1",
+          "doi": "https://doi.org/10.5281/zenodo.18708725",
+          "self_doi": "https://doi.org/10.5281/zenodo.18708725",
+          "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.18708725",
+          "reserve_doi": "https://zenodo.org/api/records/18708725/draft/pids/doi",
+          "parent": "https://zenodo.org/api/records/18708724",
+          "parent_html": "https://zenodo.org/records/18708724",
+          "parent_doi": "https://doi.org/10.5281/zenodo.18708724",
+          "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.18708724",
+          "self_iiif_manifest": "https://zenodo.org/api/iiif/record:18708725/manifest",
+          "self_iiif_sequence": "https://zenodo.org/api/iiif/record:18708725/sequence/default",
+          "files": "https://zenodo.org/api/records/18708725/files",
+          "media_files": "https://zenodo.org/api/records/18708725/media-files",
+          "thumbnails": {
+            "10": "https://zenodo.org/api/iiif/record:18708725:9_1019-49-59-Mamaraimov.pdf/full/%5E10,/0/default.jpg",
+            "50": "https://zenodo.org/api/iiif/record:18708725:9_1019-49-59-Mamaraimov.pdf/full/%5E50,/0/default.jpg",
+            "100": "https://zenodo.org/api/iiif/record:18708725:9_1019-49-59-Mamaraimov.pdf/full/%5E100,/0/default.jpg",
+            "250": "https://zenodo.org/api/iiif/record:18708725:9_1019-49-59-Mamaraimov.pdf/full/%5E250,/0/default.jpg",
+            "750": "https://zenodo.org/api/iiif/record:18708725:9_1019-49-59-Mamaraimov.pdf/full/%5E750,/0/default.jpg",
+            "1200": "https://zenodo.org/api/iiif/record:18708725:9_1019-49-59-Mamaraimov.pdf/full/%5E1200,/0/default.jpg"
+          },
+          "archive": "https://zenodo.org/api/records/18708725/files-archive",
+          "archive_media": "https://zenodo.org/api/records/18708725/media-files-archive",
+          "latest": "https://zenodo.org/api/records/18708725/versions/latest",
+          "latest_html": "https://zenodo.org/records/18708725/latest",
+          "versions": "https://zenodo.org/api/records/18708725/versions",
+          "draft": "https://zenodo.org/api/records/18708725/draft",
+          "access_links": "https://zenodo.org/api/records/18708725/access/links",
+          "access_grants": "https://zenodo.org/api/records/18708725/access/grants",
+          "access_users": "https://zenodo.org/api/records/18708725/access/users",
+          "access_request": "https://zenodo.org/api/records/18708725/access/request",
+          "access": "https://zenodo.org/api/records/18708725/access",
+          "communities": "https://zenodo.org/api/records/18708725/communities",
+          "communities-suggestions": "https://zenodo.org/api/records/18708725/communities-suggestions",
+          "request_deletion": "https://zenodo.org/api/records/18708725/request-deletion",
+          "file_modification": "https://zenodo.org/api/records/18708725/file-modification",
+          "quota_increase": "https://zenodo.org/api/records/18708725/quota-increase",
+          "requests": "https://zenodo.org/api/records/18708725/requests"
+        },
+        "updated": "2026-02-20T07:11:56.250918+00:00",
+        "recid": "18708725",
+        "revision": 5,
+        "files": [
+          {
+            "id": "756bd493-0f60-45e2-96df-a489bcd7a64b",
+            "key": "9_1019-49-59-Mamaraimov.pdf",
+            "size": 759677,
+            "checksum": "md5:deb03d02f80a930ea5d07dc45c401e7b",
+            "links": {
+              "self": "https://zenodo.org/api/records/18708725/files/9_1019-49-59-Mamaraimov.pdf/content"
+            }
+          }
+        ],
+        "swh": null,
+        "owners": [
+          {
+            "id": "475976"
+          }
+        ],
+        "status": "published",
+        "stats": {
+          "downloads": 19,
+          "unique_downloads": 19,
+          "views": 24,
+          "unique_views": 24,
+          "version_downloads": 19,
+          "version_unique_downloads": 19,
+          "version_unique_views": 24,
+          "version_views": 24
+        },
+        "state": "done",
+        "submitted": true
+      }
+    ],
+    "total": 153336
+  },
+  "aggregations": {
+    "publication_date": {
+      "buckets": [
+        {
+          "key": "2000",
+          "doc_count": 61,
+          "label": "2000",
+          "is_selected": false
+        },
+        {
+          "key": "2001",
+          "doc_count": 66,
+          "label": "2001",
+          "is_selected": false
+        },
+        {
+          "key": "2002",
+          "doc_count": 96,
+          "label": "2002",
+          "is_selected": false
+        },
+        {
+          "key": "2003",
+          "doc_count": 96,
+          "label": "2003",
+          "is_selected": false
+        },
+        {
+          "key": "2004",
+          "doc_count": 130,
+          "label": "2004",
+          "is_selected": false
+        },
+        {
+          "key": "2005",
+          "doc_count": 179,
+          "label": "2005",
+          "is_selected": false
+        },
+        {
+          "key": "2006",
+          "doc_count": 217,
+          "label": "2006",
+          "is_selected": false
+        },
+        {
+          "key": "2007",
+          "doc_count": 378,
+          "label": "2007",
+          "is_selected": false
+        },
+        {
+          "key": "2008",
+          "doc_count": 387,
+          "label": "2008",
+          "is_selected": false
+        },
+        {
+          "key": "2009",
+          "doc_count": 443,
+          "label": "2009",
+          "is_selected": false
+        },
+        {
+          "key": "2010",
+          "doc_count": 438,
+          "label": "2010",
+          "is_selected": false
+        },
+        {
+          "key": "2011",
+          "doc_count": 559,
+          "label": "2011",
+          "is_selected": false
+        },
+        {
+          "key": "2012",
+          "doc_count": 633,
+          "label": "2012",
+          "is_selected": false
+        },
+        {
+          "key": "2013",
+          "doc_count": 788,
+          "label": "2013",
+          "is_selected": false
+        },
+        {
+          "key": "2014",
+          "doc_count": 1000,
+          "label": "2014",
+          "is_selected": false
+        },
+        {
+          "key": "2015",
+          "doc_count": 1432,
+          "label": "2015",
+          "is_selected": false
+        },
+        {
+          "key": "2016",
+          "doc_count": 1434,
+          "label": "2016",
+          "is_selected": false
+        },
+        {
+          "key": "2017",
+          "doc_count": 1894,
+          "label": "2017",
+          "is_selected": false
+        },
+        {
+          "key": "2018",
+          "doc_count": 2395,
+          "label": "2018",
+          "is_selected": false
+        },
+        {
+          "key": "2019",
+          "doc_count": 2952,
+          "label": "2019",
+          "is_selected": false
+        },
+        {
+          "key": "2020",
+          "doc_count": 3401,
+          "label": "2020",
+          "is_selected": false
+        },
+        {
+          "key": "2021",
+          "doc_count": 4464,
+          "label": "2021",
+          "is_selected": false
+        },
+        {
+          "key": "2022",
+          "doc_count": 5178,
+          "label": "2022",
+          "is_selected": false
+        },
+        {
+          "key": "2023",
+          "doc_count": 7331,
+          "label": "2023",
+          "is_selected": false
+        },
+        {
+          "key": "2024",
+          "doc_count": 9250,
+          "label": "2024",
+          "is_selected": false
+        },
+        {
+          "key": "2025",
+          "doc_count": 35902,
+          "label": "2025",
+          "is_selected": false
+        },
+        {
+          "key": "2026",
+          "doc_count": 71556,
+          "label": "2026",
+          "is_selected": false
+        }
+      ],
+      "label": "Publication date"
+    },
+    "access_status": {
+      "buckets": [
+        {
+          "key": "open",
+          "doc_count": 146550,
+          "label": "Open",
+          "is_selected": false
+        },
+        {
+          "key": "restricted",
+          "doc_count": 6357,
+          "label": "Restricted",
+          "is_selected": false
+        },
+        {
+          "key": "embargoed",
+          "doc_count": 429,
+          "label": "Embargoed",
+          "is_selected": false
+        }
+      ],
+      "label": "Access status"
+    },
+    "resource_type": {
+      "buckets": [
+        {
+          "key": "publication",
+          "doc_count": 126217,
+          "label": "Publication",
+          "is_selected": false,
+          "inner": {
+            "buckets": [
+              {
+                "key": "publication-article",
+                "doc_count": 46910,
+                "label": "Journal article",
+                "is_selected": false
+              },
+              {
+                "key": "publication-preprint",
+                "doc_count": 39913,
+                "label": "Preprint",
+                "is_selected": false
+              },
+              {
+                "key": "publication-conferencepaper",
+                "doc_count": 4662,
+                "label": "Conference paper",
+                "is_selected": false
+              },
+              {
+                "key": "publication-report",
+                "doc_count": 3365,
+                "label": "Report",
+                "is_selected": false
+              },
+              {
+                "key": "publication-workingpaper",
+                "doc_count": 2499,
+                "label": "Working paper",
+                "is_selected": false
+              },
+              {
+                "key": "publication-book",
+                "doc_count": 2403,
+                "label": "Book",
+                "is_selected": false
+              },
+              {
+                "key": "publication-dissertation",
+                "doc_count": 2027,
+                "label": "Thesis",
+                "is_selected": false
+              },
+              {
+                "key": "publication-journal",
+                "doc_count": 1674,
+                "label": "Journal",
+                "is_selected": false
+              },
+              {
+                "key": "publication-section",
+                "doc_count": 1674,
+                "label": "Book chapter",
+                "is_selected": false
+              },
+              {
+                "key": "publication-other",
+                "doc_count": 1354,
+                "label": "Other",
+                "is_selected": false
+              }
+            ]
+          }
+        },
+        {
+          "key": "dataset",
+          "doc_count": 14168,
+          "label": "Dataset",
+          "is_selected": false,
+          "inner": {
+            "buckets": []
+          }
+        },
+        {
+          "key": "software",
+          "doc_count": 4453,
+          "label": "Software",
+          "is_selected": false,
+          "inner": {
+            "buckets": [
+              {
+                "key": "software-computationalnotebook",
+                "doc_count": 243,
+                "label": "Computational notebook",
+                "is_selected": false
+              }
+            ]
+          }
+        },
+        {
+          "key": "image",
+          "doc_count": 2809,
+          "label": "Image",
+          "is_selected": false,
+          "inner": {
+            "buckets": [
+              {
+                "key": "image-figure",
+                "doc_count": 2318,
+                "label": "Figure",
+                "is_selected": false
+              },
+              {
+                "key": "image-diagram",
+                "doc_count": 59,
+                "label": "Diagram",
+                "is_selected": false
+              },
+              {
+                "key": "image-photo",
+                "doc_count": 43,
+                "label": "Photo",
+                "is_selected": false
+              },
+              {
+                "key": "image-other",
+                "doc_count": 37,
+                "label": "Other",
+                "is_selected": false
+              },
+              {
+                "key": "image-plot",
+                "doc_count": 22,
+                "label": "Plot",
+                "is_selected": false
+              },
+              {
+                "key": "image-drawing",
+                "doc_count": 10,
+                "label": "Drawing",
+                "is_selected": false
+              }
+            ]
+          }
+        },
+        {
+          "key": "presentation",
+          "doc_count": 2004,
+          "label": "Presentation",
+          "is_selected": false,
+          "inner": {
+            "buckets": []
+          }
+        },
+        {
+          "key": "other",
+          "doc_count": 1162,
+          "label": "Other",
+          "is_selected": false,
+          "inner": {
+            "buckets": []
+          }
+        },
+        {
+          "key": "poster",
+          "doc_count": 680,
+          "label": "Poster",
+          "is_selected": false,
+          "inner": {
+            "buckets": []
+          }
+        },
+        {
+          "key": "model",
+          "doc_count": 629,
+          "label": "Model",
+          "is_selected": false,
+          "inner": {
+            "buckets": []
+          }
+        },
+        {
+          "key": "lesson",
+          "doc_count": 495,
+          "label": "Lesson",
+          "is_selected": false,
+          "inner": {
+            "buckets": []
+          }
+        },
+        {
+          "key": "event",
+          "doc_count": 289,
+          "label": "Event",
+          "is_selected": false,
+          "inner": {
+            "buckets": []
+          }
+        }
+      ],
+      "label": "Resource types"
+    },
+    "subject": {
+      "buckets": [
+        {
+          "key": "Biodiversity",
+          "doc_count": 5165,
+          "label": "Biodiversity",
+          "is_selected": false
+        },
+        {
+          "key": "Taxonomy",
+          "doc_count": 4922,
+          "label": "Taxonomy",
+          "is_selected": false
+        },
+        {
+          "key": "artificial intelligence",
+          "doc_count": 3060,
+          "label": "artificial intelligence",
+          "is_selected": false
+        },
+        {
+          "key": "independent research",
+          "doc_count": 2718,
+          "label": "independent research",
+          "is_selected": false
+        },
+        {
+          "key": "quantum computing",
+          "doc_count": 2699,
+          "label": "quantum computing",
+          "is_selected": false
+        },
+        {
+          "key": "E8 lattice",
+          "doc_count": 2677,
+          "label": "E8 lattice",
+          "is_selected": false
+        },
+        {
+          "key": "E8 geometry",
+          "doc_count": 2661,
+          "label": "E8 geometry",
+          "is_selected": false
+        },
+        {
+          "key": "ASC",
+          "doc_count": 2642,
+          "label": "ASC",
+          "is_selected": false
+        },
+        {
+          "key": "breakthrough discovery",
+          "doc_count": 2640,
+          "label": "breakthrough discovery",
+          "is_selected": false
+        },
+        {
+          "key": "Animalia",
+          "doc_count": 2462,
+          "label": "Animalia",
+          "is_selected": false
+        }
+      ],
+      "label": "Subjects"
+    },
+    "file_type": {
+      "buckets": [
+        {
+          "key": "pdf",
+          "doc_count": 117767,
+          "label": "PDF",
+          "is_selected": false
+        },
+        {
+          "key": "zip",
+          "doc_count": 11631,
+          "label": "ZIP",
+          "is_selected": false
+        },
+        {
+          "key": "txt",
+          "doc_count": 6191,
+          "label": "TXT",
+          "is_selected": false
+        },
+        {
+          "key": "docx",
+          "doc_count": 4863,
+          "label": "DOCX",
+          "is_selected": false
+        },
+        {
+          "key": "png",
+          "doc_count": 4076,
+          "label": "PNG",
+          "is_selected": false
+        },
+        {
+          "key": "md",
+          "doc_count": 2901,
+          "label": "MD",
+          "is_selected": false
+        },
+        {
+          "key": "tex",
+          "doc_count": 2584,
+          "label": "TEX",
+          "is_selected": false
+        },
+        {
+          "key": "jpg",
+          "doc_count": 2449,
+          "label": "JPG",
+          "is_selected": false
+        },
+        {
+          "key": "csv",
+          "doc_count": 2187,
+          "label": "CSV",
+          "is_selected": false
+        },
+        {
+          "key": "html",
+          "doc_count": 2175,
+          "label": "HTML",
+          "is_selected": false
+        }
+      ],
+      "label": "File type"
+    }
+  },
+  "links": {
+    "self": "https://zenodo.org/api/records?page=1&q=integer+factorization+geometric+coordinate+transformation&size=5&sort=bestmatch",
+    "next": "https://zenodo.org/api/records?page=2&q=integer+factorization+geometric+coordinate+transformation&size=5&sort=bestmatch"
+  }
+}

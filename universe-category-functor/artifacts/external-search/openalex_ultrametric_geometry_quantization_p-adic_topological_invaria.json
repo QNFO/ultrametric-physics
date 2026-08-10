@@ -1,0 +1,7076 @@
+{
+  "meta": {
+    "count": 87,
+    "db_response_time_ms": 174,
+    "page": 1,
+    "per_page": 5,
+    "groups_count": null,
+    "x_query": {
+      "oql": "works where full text has (ultrametric geometry quantization p-adic topological invariants)",
+      "oqo": {
+        "get_rows": "works",
+        "filter_rows": [
+          {
+            "column_id": "fulltext.search",
+            "value": "ultrametric geometry quantization p-adic topological invariants",
+            "operator": "has"
+          }
+        ]
+      },
+      "url": "/works?filter=fulltext.search:ultrametric geometry quantization p-adic topological invariants&per_page=5"
+    },
+    "cost_usd": 0.001
+  },
+  "results": [
+    {
+      "id": "https://openalex.org/W2460179520",
+      "doi": "https://doi.org/10.3390/e18070249",
+      "title": "Modeling Fluid’s Dynamics with Master Equations in Ultrametric Spaces Representing the Treelike Structure of Capillary Networks",
+      "display_name": "Modeling Fluid’s Dynamics with Master Equations in Ultrametric Spaces Representing the Treelike Structure of Capillary Networks",
+      "relevance_score": 176.77255,
+      "publication_year": 2016,
+      "publication_date": "2016-07-07",
+      "ids": {
+        "openalex": "https://openalex.org/W2460179520",
+        "doi": "https://doi.org/10.3390/e18070249",
+        "mag": "2460179520"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.3390/e18070249",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.3390/e18070249",
+        "pdf_url": "https://www.mdpi.com/1099-4300/18/7/249/pdf?version=1467871584",
+        "source": {
+          "id": "https://openalex.org/S195231649",
+          "display_name": "Entropy",
+          "issn_l": "1099-4300",
+          "issn": [
+            "1099-4300"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310310987",
+          "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310310987"
+          ],
+          "host_organization_lineage_names": [
+            "Multidisciplinary Digital Publishing Institute"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Entropy",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref",
+        "doaj"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.mdpi.com/1099-4300/18/7/249/pdf?version=1467871584",
+        "any_repository_has_fulltext": true
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5113609115",
+            "display_name": "Andrei Khrennikov",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I223464139",
+              "display_name": "Linnaeus University",
+              "ror": "https://ror.org/00j9qag85",
+              "country_code": "SE",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I223464139"
+              ]
+            }
+          ],
+          "countries": [
+            "SE"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Andrei Khrennikov",
+          "raw_affiliation_strings": [
+            "International Center for Mathematical Modelling in Physics and Cognitive Sciences, Mathematical Institute, Linnaeus University, Vaxjo SE-351 95, Sweden"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "International Center for Mathematical Modelling in Physics and Cognitive Sciences, Mathematical Institute, Linnaeus University, Vaxjo SE-351 95, Sweden",
+              "institution_ids": [
+                "https://openalex.org/I223464139"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5035230143",
+            "display_name": "Klaudia Oleschko",
+            "orcid": "https://orcid.org/0000-0003-4683-8653"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I8961855",
+              "display_name": "Universidad Nacional Autónoma de México",
+              "ror": "https://ror.org/01tmp8f25",
+              "country_code": "MX",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I8961855"
+              ]
+            }
+          ],
+          "countries": [
+            "MX"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Klaudia Oleschko",
+          "raw_affiliation_strings": [
+            "Centro de Geociencias, Universidad Nacional Autonoma de Mexico (UNAM), Campus UNAM Juriquilla, Blvd. Juriquilla 3001, Queretaro, Qro. 76230, Mexico"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Centro de Geociencias, Universidad Nacional Autonoma de Mexico (UNAM), Campus UNAM Juriquilla, Blvd. Juriquilla 3001, Queretaro, Qro. 76230, Mexico",
+              "institution_ids": [
+                "https://openalex.org/I8961855"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5112343569",
+            "display_name": "María Correa López",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "María Correa López",
+          "raw_affiliation_strings": [
+            "Coordinación del Grupo Multidisciplinario de Especialistas Técnicos de Diseño de Proyectos, Suptcia de caracterizacion de Yacimientos, Activo de Produccion Ku-Maloob-Zaap, Ed. Kaxan, Av. Contadores, Carretera Carmen Puerto Real, Cd. Del Carmen, Camp. 24150, Mexico"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Coordinación del Grupo Multidisciplinario de Especialistas Técnicos de Diseño de Proyectos, Suptcia de caracterizacion de Yacimientos, Activo de Produccion Ku-Maloob-Zaap, Ed. Kaxan, Av. Contadores, Carretera Carmen Puerto Real, Cd. Del Carmen, Camp. 24150, Mexico",
+              "institution_ids": []
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 2,
+      "institutions_distinct_count": 2,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5113609115"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I223464139"
+      ],
+      "apc_list": {
+        "value": 2000,
+        "currency": "CHF",
+        "value_usd": 2227
+      },
+      "apc_paid": {
+        "value": 2000,
+        "currency": "CHF",
+        "value_usd": 2227
+      },
+      "fwci": 9.3085,
+      "has_fulltext": true,
+      "cited_by_count": 50,
+      "citation_normalized_percentile": {
+        "value": 0.98858003,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": true
+      },
+      "cited_by_percentile_year": {
+        "min": 89,
+        "max": 99
+      },
+      "biblio": {
+        "volume": "18",
+        "issue": "7",
+        "first_page": "249",
+        "last_page": "249"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T13234",
+        "display_name": "advanced mathematical theories",
+        "score": 0.9998999834060669,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2610",
+          "display_name": "Mathematical Physics"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/26",
+          "display_name": "Mathematics"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T13234",
+          "display_name": "advanced mathematical theories",
+          "score": 0.9998999834060669,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2610",
+            "display_name": "Mathematical Physics"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/26",
+            "display_name": "Mathematics"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T12536",
+          "display_name": "Topological and Geometric Data Analysis",
+          "score": 0.9205999970436096,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1703",
+            "display_name": "Computational Theory and Mathematics"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/17",
+            "display_name": "Computer Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T13283",
+          "display_name": "Mental Health Research Topics",
+          "score": 0.9139999747276306,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3205",
+            "display_name": "Experimental and Cognitive Psychology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/32",
+            "display_name": "Psychology"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/ultrametric-space",
+          "display_name": "Ultrametric space",
+          "score": 0.9412251710891724
+        },
+        {
+          "id": "https://openalex.org/keywords/scaling",
+          "display_name": "Scaling",
+          "score": 0.6242254972457886
+        },
+        {
+          "id": "https://openalex.org/keywords/euclidean-space",
+          "display_name": "Euclidean space",
+          "score": 0.5761752128601074
+        },
+        {
+          "id": "https://openalex.org/keywords/porous-medium",
+          "display_name": "Porous medium",
+          "score": 0.5117440223693848
+        },
+        {
+          "id": "https://openalex.org/keywords/space",
+          "display_name": "Space (punctuation)",
+          "score": 0.4965572953224182
+        },
+        {
+          "id": "https://openalex.org/keywords/partial-differential-equation",
+          "display_name": "Partial differential equation",
+          "score": 0.4769517481327057
+        },
+        {
+          "id": "https://openalex.org/keywords/statistical-physics",
+          "display_name": "Statistical physics",
+          "score": 0.4632962644100189
+        },
+        {
+          "id": "https://openalex.org/keywords/euclidean-geometry",
+          "display_name": "Euclidean geometry",
+          "score": 0.46241188049316406
+        },
+        {
+          "id": "https://openalex.org/keywords/mathematics",
+          "display_name": "Mathematics",
+          "score": 0.4560007154941559
+        },
+        {
+          "id": "https://openalex.org/keywords/diffusion",
+          "display_name": "Diffusion",
+          "score": 0.4155842959880829
+        },
+        {
+          "id": "https://openalex.org/keywords/computer-science",
+          "display_name": "Computer science",
+          "score": 0.3579069674015045
+        },
+        {
+          "id": "https://openalex.org/keywords/mathematical-analysis",
+          "display_name": "Mathematical analysis",
+          "score": 0.2845214605331421
+        },
+        {
+          "id": "https://openalex.org/keywords/geometry",
+          "display_name": "Geometry",
+          "score": 0.2535046339035034
+        },
+        {
+          "id": "https://openalex.org/keywords/metric-space",
+          "display_name": "Metric space",
+          "score": 0.24815163016319275
+        },
+        {
+          "id": "https://openalex.org/keywords/physics",
+          "display_name": "Physics",
+          "score": 0.17489802837371826
+        },
+        {
+          "id": "https://openalex.org/keywords/geology",
+          "display_name": "Geology",
+          "score": 0.16146624088287354
+        },
+        {
+          "id": "https://openalex.org/keywords/porosity",
+          "display_name": "Porosity",
+          "score": 0.15274077653884888
+        },
+        {
+          "id": "https://openalex.org/keywords/thermodynamics",
+          "display_name": "Thermodynamics",
+          "score": 0.09197422862052917
+        },
+        {
+          "id": "https://openalex.org/keywords/geotechnical-engineering",
+          "display_name": "Geotechnical engineering",
+          "score": 0.09114480018615723
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C61067352",
+          "wikidata": "https://www.wikidata.org/wiki/Q1897429",
+          "display_name": "Ultrametric space",
+          "level": 3,
+          "score": 0.9412251710891724
+        },
+        {
+          "id": "https://openalex.org/C99844830",
+          "wikidata": "https://www.wikidata.org/wiki/Q102441924",
+          "display_name": "Scaling",
+          "level": 2,
+          "score": 0.6242254972457886
+        },
+        {
+          "id": "https://openalex.org/C186450821",
+          "wikidata": "https://www.wikidata.org/wiki/Q17295",
+          "display_name": "Euclidean space",
+          "level": 2,
+          "score": 0.5761752128601074
+        },
+        {
+          "id": "https://openalex.org/C105569014",
+          "wikidata": "https://www.wikidata.org/wiki/Q3271208",
+          "display_name": "Porous medium",
+          "level": 3,
+          "score": 0.5117440223693848
+        },
+        {
+          "id": "https://openalex.org/C2778572836",
+          "wikidata": "https://www.wikidata.org/wiki/Q380933",
+          "display_name": "Space (punctuation)",
+          "level": 2,
+          "score": 0.4965572953224182
+        },
+        {
+          "id": "https://openalex.org/C93779851",
+          "wikidata": "https://www.wikidata.org/wiki/Q271977",
+          "display_name": "Partial differential equation",
+          "level": 2,
+          "score": 0.4769517481327057
+        },
+        {
+          "id": "https://openalex.org/C121864883",
+          "wikidata": "https://www.wikidata.org/wiki/Q677916",
+          "display_name": "Statistical physics",
+          "level": 1,
+          "score": 0.4632962644100189
+        },
+        {
+          "id": "https://openalex.org/C129782007",
+          "wikidata": "https://www.wikidata.org/wiki/Q162886",
+          "display_name": "Euclidean geometry",
+          "level": 2,
+          "score": 0.46241188049316406
+        },
+        {
+          "id": "https://openalex.org/C33923547",
+          "wikidata": "https://www.wikidata.org/wiki/Q395",
+          "display_name": "Mathematics",
+          "level": 0,
+          "score": 0.4560007154941559
+        },
+        {
+          "id": "https://openalex.org/C69357855",
+          "wikidata": "https://www.wikidata.org/wiki/Q163214",
+          "display_name": "Diffusion",
+          "level": 2,
+          "score": 0.4155842959880829
+        },
+        {
+          "id": "https://openalex.org/C41008148",
+          "wikidata": "https://www.wikidata.org/wiki/Q21198",
+          "display_name": "Computer science",
+          "level": 0,
+          "score": 0.3579069674015045
+        },
+        {
+          "id": "https://openalex.org/C134306372",
+          "wikidata": "https://www.wikidata.org/wiki/Q7754",
+          "display_name": "Mathematical analysis",
+          "level": 1,
+          "score": 0.2845214605331421
+        },
+        {
+          "id": "https://openalex.org/C2524010",
+          "wikidata": "https://www.wikidata.org/wiki/Q8087",
+          "display_name": "Geometry",
+          "level": 1,
+          "score": 0.2535046339035034
+        },
+        {
+          "id": "https://openalex.org/C198043062",
+          "wikidata": "https://www.wikidata.org/wiki/Q180953",
+          "display_name": "Metric space",
+          "level": 2,
+          "score": 0.24815163016319275
+        },
+        {
+          "id": "https://openalex.org/C121332964",
+          "wikidata": "https://www.wikidata.org/wiki/Q413",
+          "display_name": "Physics",
+          "level": 0,
+          "score": 0.17489802837371826
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.16146624088287354
+        },
+        {
+          "id": "https://openalex.org/C6648577",
+          "wikidata": "https://www.wikidata.org/wiki/Q622669",
+          "display_name": "Porosity",
+          "level": 2,
+          "score": 0.15274077653884888
+        },
+        {
+          "id": "https://openalex.org/C97355855",
+          "wikidata": "https://www.wikidata.org/wiki/Q11473",
+          "display_name": "Thermodynamics",
+          "level": 1,
+          "score": 0.09197422862052917
+        },
+        {
+          "id": "https://openalex.org/C187320778",
+          "wikidata": "https://www.wikidata.org/wiki/Q1349130",
+          "display_name": "Geotechnical engineering",
+          "level": 1,
+          "score": 0.09114480018615723
+        },
+        {
+          "id": "https://openalex.org/C111919701",
+          "wikidata": "https://www.wikidata.org/wiki/Q9135",
+          "display_name": "Operating system",
+          "level": 1,
+          "score": 0.0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 4,
+      "locations": [
+        {
+          "id": "doi:10.3390/e18070249",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.3390/e18070249",
+          "pdf_url": "https://www.mdpi.com/1099-4300/18/7/249/pdf?version=1467871584",
+          "source": {
+            "id": "https://openalex.org/S195231649",
+            "display_name": "Entropy",
+            "issn_l": "1099-4300",
+            "issn": [
+              "1099-4300"
+            ],
+            "is_oa": true,
+            "is_in_doaj": true,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310310987",
+            "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310310987"
+            ],
+            "host_organization_lineage_names": [
+              "Multidisciplinary Digital Publishing Institute"
+            ],
+            "type": "journal"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Entropy",
+          "raw_type": "journal-article"
+        },
+        {
+          "id": "pmh:oai:DiVA.org:lnu-56619",
+          "is_oa": true,
+          "landing_page_url": "http://urn.kb.se/resolve?urn=urn:nbn:se:lnu:diva-56619",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306401598",
+            "display_name": "DiVA (Linnaeus University)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I223464139",
+            "host_organization_name": "Linnaeus University",
+            "host_organization_lineage": [
+              "https://openalex.org/I223464139"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "other-oa",
+          "license_id": "https://openalex.org/licenses/other-oa",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "",
+          "raw_type": "info:eu-repo/semantics/article"
+        },
+        {
+          "id": "pmh:oai:doaj.org/article:cad4c8f3bad5434fa4b3024b528b1d9e",
+          "is_oa": true,
+          "landing_page_url": "https://doaj.org/article/cad4c8f3bad5434fa4b3024b528b1d9e",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306401280",
+            "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by-sa",
+          "license_id": "https://openalex.org/licenses/cc-by-sa",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "Entropy, Vol 18, Iss 7, p 249 (2016)",
+          "raw_type": "article"
+        },
+        {
+          "id": "pmh:oai:mdpi.com:/1099-4300/18/7/249/",
+          "is_oa": true,
+          "landing_page_url": "https://dx.doi.org/10.3390/e18070249",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306400947",
+            "display_name": "MDPI (MDPI AG)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": true,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I4210097602",
+            "host_organization_name": "Multidisciplinary Digital Publishing Institute (Switzerland)",
+            "host_organization_lineage": [
+              "https://openalex.org/I4210097602"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "Entropy; Volume 18; Issue 7; Pages: 249",
+          "raw_type": "Text"
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.3390/e18070249",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.3390/e18070249",
+        "pdf_url": "https://www.mdpi.com/1099-4300/18/7/249/pdf?version=1467871584",
+        "source": {
+          "id": "https://openalex.org/S195231649",
+          "display_name": "Entropy",
+          "issn_l": "1099-4300",
+          "issn": [
+            "1099-4300"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310310987",
+          "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310310987"
+          ],
+          "host_organization_lineage_names": [
+            "Multidisciplinary Digital Publishing Institute"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Entropy",
+        "raw_type": "journal-article"
+      },
+      "sustainable_development_goals": [],
+      "awards": [
+        {
+          "id": "https://openalex.org/G2941421720",
+          "display_name": null,
+          "funder_award_id": "168638",
+          "funder_id": "https://openalex.org/F4320321739",
+          "funder_display_name": "Consejo Nacional de Ciencia y Tecnología"
+        },
+        {
+          "id": "https://openalex.org/G8885905688",
+          "display_name": null,
+          "funder_award_id": "312-2015",
+          "funder_id": "https://openalex.org/F4320321739",
+          "funder_display_name": "Consejo Nacional de Ciencia y Tecnología"
+        }
+      ],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320321739",
+          "display_name": "Consejo Nacional de Ciencia y Tecnología",
+          "ror": "https://ror.org/059ex5q34"
+        }
+      ],
+      "has_content": {
+        "pdf": true,
+        "grobid_xml": true
+      },
+      "content_urls": {
+        "pdf": "https://content.openalex.org/works/W2460179520.pdf",
+        "grobid_xml": "https://content.openalex.org/works/W2460179520.grobid-xml"
+      },
+      "referenced_works_count": 86,
+      "referenced_works": [
+        "https://openalex.org/W86414248",
+        "https://openalex.org/W149541213",
+        "https://openalex.org/W650089466",
+        "https://openalex.org/W652510464",
+        "https://openalex.org/W1484644522",
+        "https://openalex.org/W1509639721",
+        "https://openalex.org/W1545752796",
+        "https://openalex.org/W1555294121",
+        "https://openalex.org/W1591297299",
+        "https://openalex.org/W1625053451",
+        "https://openalex.org/W1965702664",
+        "https://openalex.org/W1967367977",
+        "https://openalex.org/W1967418346",
+        "https://openalex.org/W1968060847",
+        "https://openalex.org/W1970011743",
+        "https://openalex.org/W1970339085",
+        "https://openalex.org/W1974037599",
+        "https://openalex.org/W1977360274",
+        "https://openalex.org/W1979381060",
+        "https://openalex.org/W1980993919",
+        "https://openalex.org/W1983422627",
+        "https://openalex.org/W1989635879",
+        "https://openalex.org/W1992747571",
+        "https://openalex.org/W1995477801",
+        "https://openalex.org/W2000277052",
+        "https://openalex.org/W2013452064",
+        "https://openalex.org/W2015805989",
+        "https://openalex.org/W2017523332",
+        "https://openalex.org/W2018550203",
+        "https://openalex.org/W2023129091",
+        "https://openalex.org/W2023792300",
+        "https://openalex.org/W2025843255",
+        "https://openalex.org/W2029483703",
+        "https://openalex.org/W2032600630",
+        "https://openalex.org/W2037719166",
+        "https://openalex.org/W2037888706",
+        "https://openalex.org/W2040378814",
+        "https://openalex.org/W2042494923",
+        "https://openalex.org/W2043768787",
+        "https://openalex.org/W2044586796",
+        "https://openalex.org/W2046149102",
+        "https://openalex.org/W2046722426",
+        "https://openalex.org/W2047620748",
+        "https://openalex.org/W2048100532",
+        "https://openalex.org/W2049046063",
+        "https://openalex.org/W2056526893",
+        "https://openalex.org/W2057519227",
+        "https://openalex.org/W2071021029",
+        "https://openalex.org/W2073443047",
+        "https://openalex.org/W2073895504",
+        "https://openalex.org/W2078067760",
+        "https://openalex.org/W2078120449",
+        "https://openalex.org/W2078694548",
+        "https://openalex.org/W2080694893",
+        "https://openalex.org/W2082768291",
+        "https://openalex.org/W2083488564",
+        "https://openalex.org/W2085675636",
+        "https://openalex.org/W2087528562",
+        "https://openalex.org/W2103765370",
+        "https://openalex.org/W2107823820",
+        "https://openalex.org/W2111271983",
+        "https://openalex.org/W2132831991",
+        "https://openalex.org/W2151630852",
+        "https://openalex.org/W2155820407",
+        "https://openalex.org/W2161374678",
+        "https://openalex.org/W2162604832",
+        "https://openalex.org/W2296624815",
+        "https://openalex.org/W2300256293",
+        "https://openalex.org/W2383118385",
+        "https://openalex.org/W2538143896",
+        "https://openalex.org/W2592778379",
+        "https://openalex.org/W2963103307",
+        "https://openalex.org/W3098100324",
+        "https://openalex.org/W3098366422",
+        "https://openalex.org/W3099707769",
+        "https://openalex.org/W3099850716",
+        "https://openalex.org/W3102052320",
+        "https://openalex.org/W3102058873",
+        "https://openalex.org/W3102733371",
+        "https://openalex.org/W3104826644",
+        "https://openalex.org/W3105303806",
+        "https://openalex.org/W4233497874",
+        "https://openalex.org/W4243009835",
+        "https://openalex.org/W6603574253",
+        "https://openalex.org/W6656236821",
+        "https://openalex.org/W6697041266"
+      ],
+      "related_works": [
+        "https://openalex.org/W2229712010",
+        "https://openalex.org/W2962846049",
+        "https://openalex.org/W1996199544",
+        "https://openalex.org/W3102043001",
+        "https://openalex.org/W2913859214",
+        "https://openalex.org/W2052784806",
+        "https://openalex.org/W2610298398",
+        "https://openalex.org/W4281992692",
+        "https://openalex.org/W2145396827",
+        "https://openalex.org/W2279239548"
+      ],
+      "abstract_inverted_index": {
+        "We": [
+          0,
+          184
+        ],
+        "present": [
+          1,
+          186
+        ],
+        "a": [
+          2,
+          187
+        ],
+        "new": [
+          3
+        ],
+        "conceptual": [
+          4
+        ],
+        "approach": [
+          5,
+          159,
+          178
+        ],
+        "for": [
+          6,
+          105
+        ],
+        "modeling": [
+          7,
+          151
+        ],
+        "of": [
+          8,
+          19,
+          23,
+          39,
+          46,
+          78,
+          139,
+          147,
+          152,
+          191
+        ],
+        "fluid": [
+          9
+        ],
+        "flows": [
+          10
+        ],
+        "in": [
+          11,
+          101,
+          130
+        ],
+        "random": [
+          12
+        ],
+        "porous": [
+          13,
+          67
+        ],
+        "media": [
+          14
+        ],
+        "based": [
+          15
+        ],
+        "on": [
+          16,
+          150,
+          199
+        ],
+        "explicit": [
+          17
+        ],
+        "exploration": [
+          18
+        ],
+        "the": [
+          20,
+          37,
+          51,
+          66,
+          72,
+          76,
+          82,
+          125,
+          145,
+          156,
+          166,
+          176
+        ],
+        "treelike": [
+          21
+        ],
+        "geometry": [
+          22
+        ],
+        "complex": [
+          24
+        ],
+        "capillary": [
+          25
+        ],
+        "networks.": [
+          26
+        ],
+        "Such": [
+          27
+        ],
+        "patterns": [
+          28
+        ],
+        "can": [
+          29
+        ],
+        "be": [
+          30
+        ],
+        "represented": [
+          31
+        ],
+        "mathematically": [
+          32
+        ],
+        "as": [
+          33,
+          71
+        ],
+        "ultrametric": [
+          34,
+          42,
+          194
+        ],
+        "spaces": [
+          35,
+          195
+        ],
+        "and": [
+          36,
+          56,
+          117,
+          160,
+          170,
+          182,
+          193,
+          196
+        ],
+        "dynamics": [
+          38
+        ],
+        "fluids": [
+          40
+        ],
+        "by": [
+          41
+        ],
+        "diffusion.": [
+          43
+        ],
+        "The": [
+          44,
+          136
+        ],
+        "images": [
+          45
+        ],
+        "p-adic": [
+          47,
+          177
+        ],
+        "fields,": [
+          48
+        ],
+        "extracted": [
+          49
+        ],
+        "from": [
+          50,
+          57,
+          165
+        ],
+        "real": [
+          52
+        ],
+        "multiscale": [
+          53
+        ],
+        "rock": [
+          54
+        ],
+        "samples": [
+          55
+        ],
+        "some": [
+          58,
+          106,
+          163
+        ],
+        "reference": [
+          59
+        ],
+        "images,": [
+          60
+        ],
+        "are": [
+          61,
+          87,
+          98
+        ],
+        "depicted.": [
+          62
+        ],
+        "In": [
+          63
+        ],
+        "this": [
+          64,
+          140
+        ],
+        "model": [
+          65
+        ],
+        "background": [
+          68
+        ],
+        "is": [
+          69,
+          121,
+          142
+        ],
+        "treated": [
+          70
+        ],
+        "environment": [
+          73
+        ],
+        "contributing": [
+          74
+        ],
+        "to": [
+          75,
+          109,
+          123,
+          132,
+          143,
+          155,
+          161,
+          174
+        ],
+        "coefficients": [
+          77
+        ],
+        "evolutionary": [
+          79
+        ],
+        "equations.": [
+          80
+        ],
+        "For": [
+          81
+        ],
+        "simplest": [
+          83
+        ],
+        "trees,": [
+          84
+        ],
+        "these": [
+          85
+        ],
+        "equations": [
+          86
+        ],
+        "essentially": [
+          88
+        ],
+        "less": [
+          89
+        ],
+        "complicated": [
+          90
+        ],
+        "than": [
+          91
+        ],
+        "those": [
+          92
+        ],
+        "with": [
+          93,
+          114,
+          179
+        ],
+        "fractional": [
+          94,
+          107
+        ],
+        "differential": [
+          95
+        ],
+        "operators": [
+          96,
+          198
+        ],
+        "which": [
+          97
+        ],
+        "commonly": [
+          99
+        ],
+        "applied": [
+          100
+        ],
+        "geological": [
+          102,
+          153
+        ],
+        "studies": [
+          103
+        ],
+        "looking": [
+          104
+        ],
+        "analogs": [
+          108
+        ],
+        "conventional": [
+          110
+        ],
+        "Euclidean": [
+          111
+        ],
+        "space": [
+          112
+        ],
+        "but": [
+          113
+        ],
+        "anomalous": [
+          115
+        ],
+        "scaling": [
+          116
+        ],
+        "diffusion": [
+          118
+        ],
+        "properties.": [
+          119
+        ],
+        "It": [
+          120
+        ],
+        "possible": [
+          122
+        ],
+        "solve": [
+          124
+        ],
+        "former": [
+          126
+        ],
+        "equation": [
+          127
+        ],
+        "analytically": [
+          128
+        ],
+        "and,": [
+          129
+        ],
+        "particular,": [
+          131
+        ],
+        "find": [
+          133
+        ],
+        "stationary": [
+          134
+        ],
+        "solutions.": [
+          135
+        ],
+        "main": [
+          137
+        ],
+        "aim": [
+          138
+        ],
+        "paper": [
+          141
+        ],
+        "attract": [
+          144
+        ],
+        "attention": [
+          146
+        ],
+        "researchers": [
+          148
+        ],
+        "working": [
+          149
+        ],
+        "processes": [
+          154
+        ],
+        "novel": [
+          157
+        ],
+        "utrametric": [
+          158
+        ],
+        "show": [
+          162
+        ],
+        "examples": [
+          164
+        ],
+        "petroleum": [
+          167
+        ],
+        "reservoir": [
+          168
+        ],
+        "static": [
+          169
+        ],
+        "dynamic": [
+          171
+        ],
+        "characterization,": [
+          172
+        ],
+        "able": [
+          173
+        ],
+        "integrate": [
+          175
+        ],
+        "multifractals,": [
+          180
+        ],
+        "thermodynamics": [
+          181
+        ],
+        "scaling.": [
+          183
+        ],
+        "also": [
+          185
+        ],
+        "non-mathematician": [
+          188
+        ],
+        "friendly": [
+          189
+        ],
+        "review": [
+          190
+        ],
+        "trees": [
+          192
+        ],
+        "pseudo-differential": [
+          197
+        ],
+        "such": [
+          200
+        ],
+        "spaces.": [
+          201
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 4
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 5
+        },
+        {
+          "year": 2023,
+          "cited_by_count": 4
+        },
+        {
+          "year": 2022,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2021,
+          "cited_by_count": 5
+        },
+        {
+          "year": 2020,
+          "cited_by_count": 8
+        },
+        {
+          "year": 2019,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2018,
+          "cited_by_count": 7
+        },
+        {
+          "year": 2017,
+          "cited_by_count": 9
+        },
+        {
+          "year": 2016,
+          "cited_by_count": 3
+        }
+      ],
+      "updated_date": "2026-07-30T17:31:21.811387",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W2911516310",
+      "doi": "https://doi.org/10.1007/jhep04(2019)170",
+      "title": "p-adic CFT is a holographic tensor network",
+      "display_name": "p-adic CFT is a holographic tensor network",
+      "relevance_score": 166.86293,
+      "publication_year": 2019,
+      "publication_date": "2019-04-01",
+      "ids": {
+        "openalex": "https://openalex.org/W2911516310",
+        "doi": "https://doi.org/10.1007/jhep04(2019)170",
+        "mag": "2911516310"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1007/jhep04(2019)170",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1007/jhep04(2019)170",
+        "pdf_url": "https://link.springer.com/content/pdf/10.1007/JHEP04(2019)170.pdf",
+        "source": {
+          "id": "https://openalex.org/S187585107",
+          "display_name": "Journal of High Energy Physics",
+          "issn_l": "1029-8479",
+          "issn": [
+            "1029-8479",
+            "1126-6708",
+            "1127-2236"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310319965",
+          "host_organization_name": "Springer Nature",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319965"
+          ],
+          "host_organization_lineage_names": [
+            "Springer Nature"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Journal of High Energy Physics",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref",
+        "doaj"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007/JHEP04(2019)170.pdf",
+        "any_repository_has_fulltext": true
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5070604559",
+            "display_name": "Ling-Yan Hung",
+            "orcid": "https://orcid.org/0000-0002-0040-553X"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I24943067",
+              "display_name": "Fudan University",
+              "ror": "https://ror.org/013q1eq08",
+              "country_code": "CN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I24943067"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210105767",
+              "display_name": "Quantum Devices (United States)",
+              "ror": "https://ror.org/01pz1d457",
+              "country_code": "US",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210105767"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4391768224",
+              "display_name": "State Key Laboratory of Surface Physics",
+              "ror": "https://ror.org/000nbq540",
+              "country_code": null,
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I24943067",
+                "https://openalex.org/I4391768224"
+              ]
+            }
+          ],
+          "countries": [
+            "CN",
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Ling-Yan Hung",
+          "raw_affiliation_strings": [
+            "Department of Physics and Center for Field Theory and Particle Physics, Fudan University, Handan Road, 200433, Shanghai, P.R. China",
+            "Institute for Nanoelectronic devices and Quantum computing, Fudan University, 200433, Shanghai, China",
+            "State Key Laboratory of Surface Physics and Department of Physics, Fudan University, 220 Handan Road, 200433, Shanghai, P.R. China"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Physics and Center for Field Theory and Particle Physics, Fudan University, Handan Road, 200433, Shanghai, P.R. China",
+              "institution_ids": [
+                "https://openalex.org/I24943067"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Institute for Nanoelectronic devices and Quantum computing, Fudan University, 200433, Shanghai, China",
+              "institution_ids": [
+                "https://openalex.org/I24943067",
+                "https://openalex.org/I4210105767"
+              ]
+            },
+            {
+              "raw_affiliation_string": "State Key Laboratory of Surface Physics and Department of Physics, Fudan University, 220 Handan Road, 200433, Shanghai, P.R. China",
+              "institution_ids": [
+                "https://openalex.org/I24943067",
+                "https://openalex.org/I4391768224"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5100318360",
+            "display_name": "Wei Li",
+            "orcid": "https://orcid.org/0000-0003-0852-7993"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I19820366",
+              "display_name": "Chinese Academy of Sciences",
+              "ror": "https://ror.org/034t30j35",
+              "country_code": "CN",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I19820366"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210125404",
+              "display_name": "Institute of Theoretical Physics",
+              "ror": "https://ror.org/02xtbq882",
+              "country_code": "CN",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I19820366",
+                "https://openalex.org/I4210125404"
+              ]
+            }
+          ],
+          "countries": [
+            "CN"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Wei Li",
+          "raw_affiliation_strings": [
+            "Institute of Theoretical Physics, Chinese Academy of Sciences, 100190, Beijing, P.R. China"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Institute of Theoretical Physics, Chinese Academy of Sciences, 100190, Beijing, P.R. China",
+              "institution_ids": [
+                "https://openalex.org/I19820366",
+                "https://openalex.org/I4210125404"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5036744721",
+            "display_name": "Charles M. Melby–Thompson",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I25974101",
+              "display_name": "University of Würzburg",
+              "ror": "https://ror.org/00fbnyb24",
+              "country_code": "DE",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I25974101"
+              ]
+            }
+          ],
+          "countries": [
+            "DE"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Charles M. Melby-Thompson",
+          "raw_affiliation_strings": [
+            "Institut für Theoretische Physik und Astrophysik, Julius-Maximilians-Universität Würzburg, Am Hubland, 97074, Würzburg, Germany"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Institut für Theoretische Physik und Astrophysik, Julius-Maximilians-Universität Würzburg, Am Hubland, 97074, Würzburg, Germany",
+              "institution_ids": [
+                "https://openalex.org/I25974101"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 3,
+      "institutions_distinct_count": 6,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5100318360"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I19820366",
+        "https://openalex.org/I4210125404"
+      ],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 6.9709,
+      "has_fulltext": true,
+      "cited_by_count": 43,
+      "citation_normalized_percentile": {
+        "value": 0.98342711,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": true
+      },
+      "cited_by_percentile_year": {
+        "min": 96,
+        "max": 99
+      },
+      "biblio": {
+        "volume": "2019",
+        "issue": "4",
+        "first_page": null,
+        "last_page": null
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T13234",
+        "display_name": "advanced mathematical theories",
+        "score": 0.9998999834060669,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2610",
+          "display_name": "Mathematical Physics"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/26",
+          "display_name": "Mathematics"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T13234",
+          "display_name": "advanced mathematical theories",
+          "score": 0.9998999834060669,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2610",
+            "display_name": "Mathematical Physics"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/26",
+            "display_name": "Mathematics"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T12536",
+          "display_name": "Topological and Geometric Data Analysis",
+          "score": 0.9955000281333923,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1703",
+            "display_name": "Computational Theory and Mathematics"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/17",
+            "display_name": "Computer Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T13283",
+          "display_name": "Mental Health Research Topics",
+          "score": 0.9502999782562256,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3205",
+            "display_name": "Experimental and Cognitive Psychology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/32",
+            "display_name": "Psychology"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/tensor",
+          "display_name": "Tensor (intrinsic definition)",
+          "score": 0.6582748293876648
+        },
+        {
+          "id": "https://openalex.org/keywords/physics",
+          "display_name": "Physics",
+          "score": 0.6502351760864258
+        },
+        {
+          "id": "https://openalex.org/keywords/realization",
+          "display_name": "Realization (probability)",
+          "score": 0.5577528476715088
+        },
+        {
+          "id": "https://openalex.org/keywords/pure-mathematics",
+          "display_name": "Pure mathematics",
+          "score": 0.5228779315948486
+        },
+        {
+          "id": "https://openalex.org/keywords/mathematical-physics",
+          "display_name": "Mathematical physics",
+          "score": 0.5083574652671814
+        },
+        {
+          "id": "https://openalex.org/keywords/tree",
+          "display_name": "Tree (set theory)",
+          "score": 0.489315003156662
+        },
+        {
+          "id": "https://openalex.org/keywords/mathematics",
+          "display_name": "Mathematics",
+          "score": 0.3264043927192688
+        },
+        {
+          "id": "https://openalex.org/keywords/combinatorics",
+          "display_name": "Combinatorics",
+          "score": 0.230873703956604
+        },
+        {
+          "id": "https://openalex.org/keywords/statistics",
+          "display_name": "Statistics",
+          "score": 0.06131857633590698
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C155281189",
+          "wikidata": "https://www.wikidata.org/wiki/Q3518150",
+          "display_name": "Tensor (intrinsic definition)",
+          "level": 2,
+          "score": 0.6582748293876648
+        },
+        {
+          "id": "https://openalex.org/C121332964",
+          "wikidata": "https://www.wikidata.org/wiki/Q413",
+          "display_name": "Physics",
+          "level": 0,
+          "score": 0.6502351760864258
+        },
+        {
+          "id": "https://openalex.org/C2781089630",
+          "wikidata": "https://www.wikidata.org/wiki/Q21856745",
+          "display_name": "Realization (probability)",
+          "level": 2,
+          "score": 0.5577528476715088
+        },
+        {
+          "id": "https://openalex.org/C202444582",
+          "wikidata": "https://www.wikidata.org/wiki/Q837863",
+          "display_name": "Pure mathematics",
+          "level": 1,
+          "score": 0.5228779315948486
+        },
+        {
+          "id": "https://openalex.org/C37914503",
+          "wikidata": "https://www.wikidata.org/wiki/Q156495",
+          "display_name": "Mathematical physics",
+          "level": 1,
+          "score": 0.5083574652671814
+        },
+        {
+          "id": "https://openalex.org/C113174947",
+          "wikidata": "https://www.wikidata.org/wiki/Q2859736",
+          "display_name": "Tree (set theory)",
+          "level": 2,
+          "score": 0.489315003156662
+        },
+        {
+          "id": "https://openalex.org/C33923547",
+          "wikidata": "https://www.wikidata.org/wiki/Q395",
+          "display_name": "Mathematics",
+          "level": 0,
+          "score": 0.3264043927192688
+        },
+        {
+          "id": "https://openalex.org/C114614502",
+          "wikidata": "https://www.wikidata.org/wiki/Q76592",
+          "display_name": "Combinatorics",
+          "level": 1,
+          "score": 0.230873703956604
+        },
+        {
+          "id": "https://openalex.org/C105795698",
+          "wikidata": "https://www.wikidata.org/wiki/Q12483",
+          "display_name": "Statistics",
+          "level": 1,
+          "score": 0.06131857633590698
+        }
+      ],
+      "mesh": [],
+      "locations_count": 2,
+      "locations": [
+        {
+          "id": "doi:10.1007/jhep04(2019)170",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.1007/jhep04(2019)170",
+          "pdf_url": "https://link.springer.com/content/pdf/10.1007/JHEP04(2019)170.pdf",
+          "source": {
+            "id": "https://openalex.org/S187585107",
+            "display_name": "Journal of High Energy Physics",
+            "issn_l": "1029-8479",
+            "issn": [
+              "1029-8479",
+              "1126-6708",
+              "1127-2236"
+            ],
+            "is_oa": true,
+            "is_in_doaj": true,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310319965",
+            "host_organization_name": "Springer Nature",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310319965"
+            ],
+            "host_organization_lineage_names": [
+              "Springer Nature"
+            ],
+            "type": "journal"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Journal of High Energy Physics",
+          "raw_type": "journal-article"
+        },
+        {
+          "id": "pmh:oai:doaj.org/article:9e4fa1b9c8b14e1cbd44c2e997e397de",
+          "is_oa": true,
+          "landing_page_url": "https://doaj.org/article/9e4fa1b9c8b14e1cbd44c2e997e397de",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306401280",
+            "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by-sa",
+          "license_id": "https://openalex.org/licenses/cc-by-sa",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "Journal of High Energy Physics, Vol 2019, Iss 4, Pp 1-39 (2019)",
+          "raw_type": "article"
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.1007/jhep04(2019)170",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1007/jhep04(2019)170",
+        "pdf_url": "https://link.springer.com/content/pdf/10.1007/JHEP04(2019)170.pdf",
+        "source": {
+          "id": "https://openalex.org/S187585107",
+          "display_name": "Journal of High Energy Physics",
+          "issn_l": "1029-8479",
+          "issn": [
+            "1029-8479",
+            "1126-6708",
+            "1127-2236"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310319965",
+          "host_organization_name": "Springer Nature",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319965"
+          ],
+          "host_organization_lineage_names": [
+            "Springer Nature"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Journal of High Energy Physics",
+        "raw_type": "journal-article"
+      },
+      "sustainable_development_goals": [],
+      "awards": [
+        {
+          "id": "https://openalex.org/G2907828672",
+          "display_name": null,
+          "funder_award_id": "11875111",
+          "funder_id": "https://openalex.org/F4320321001",
+          "funder_display_name": "National Natural Science Foundation of China"
+        },
+        {
+          "id": "https://openalex.org/G3177714796",
+          "display_name": null,
+          "funder_award_id": "11875064",
+          "funder_id": "https://openalex.org/F4320321001",
+          "funder_display_name": "National Natural Science Foundation of China"
+        }
+      ],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320321001",
+          "display_name": "National Natural Science Foundation of China",
+          "ror": "https://ror.org/01h0zpd94"
+        },
+        {
+          "id": "https://openalex.org/F4320321851",
+          "display_name": "Fudan University",
+          "ror": "https://ror.org/013q1eq08"
+        }
+      ],
+      "has_content": {
+        "pdf": true,
+        "grobid_xml": true
+      },
+      "content_urls": {
+        "pdf": "https://content.openalex.org/works/W2911516310.pdf",
+        "grobid_xml": "https://content.openalex.org/works/W2911516310.grobid-xml"
+      },
+      "referenced_works_count": 46,
+      "referenced_works": [
+        "https://openalex.org/W157418060",
+        "https://openalex.org/W197438820",
+        "https://openalex.org/W1531177993",
+        "https://openalex.org/W1930886120",
+        "https://openalex.org/W1934222401",
+        "https://openalex.org/W1963594657",
+        "https://openalex.org/W1979199694",
+        "https://openalex.org/W1995596360",
+        "https://openalex.org/W1997823082",
+        "https://openalex.org/W2008982490",
+        "https://openalex.org/W2025148421",
+        "https://openalex.org/W2040883357",
+        "https://openalex.org/W2046292142",
+        "https://openalex.org/W2057491063",
+        "https://openalex.org/W2068629287",
+        "https://openalex.org/W2081618704",
+        "https://openalex.org/W2098066898",
+        "https://openalex.org/W2114561881",
+        "https://openalex.org/W2193054720",
+        "https://openalex.org/W2203759264",
+        "https://openalex.org/W2224517465",
+        "https://openalex.org/W2304053570",
+        "https://openalex.org/W2326591937",
+        "https://openalex.org/W2345923978",
+        "https://openalex.org/W2593174005",
+        "https://openalex.org/W2601486110",
+        "https://openalex.org/W2605733983",
+        "https://openalex.org/W2614662766",
+        "https://openalex.org/W2804949786",
+        "https://openalex.org/W2951687238",
+        "https://openalex.org/W2963917554",
+        "https://openalex.org/W2982992841",
+        "https://openalex.org/W3037108023",
+        "https://openalex.org/W3098119005",
+        "https://openalex.org/W3099758804",
+        "https://openalex.org/W3101859025",
+        "https://openalex.org/W3102284075",
+        "https://openalex.org/W3102352811",
+        "https://openalex.org/W3103345357",
+        "https://openalex.org/W3103758373",
+        "https://openalex.org/W3104057828",
+        "https://openalex.org/W3104514885",
+        "https://openalex.org/W3106258702",
+        "https://openalex.org/W3207212243",
+        "https://openalex.org/W6600903635",
+        "https://openalex.org/W6608904351"
+      ],
+      "related_works": [
+        "https://openalex.org/W4391375266",
+        "https://openalex.org/W2022544890",
+        "https://openalex.org/W2394097730",
+        "https://openalex.org/W2043523297",
+        "https://openalex.org/W2475378634",
+        "https://openalex.org/W2113405914",
+        "https://openalex.org/W4312353617",
+        "https://openalex.org/W2260963831",
+        "https://openalex.org/W4235249401",
+        "https://openalex.org/W2331305369"
+      ],
+      "abstract_inverted_index": {
+        "A": [
+          0
+        ],
+        "bstract": [
+          1
+        ],
+        "The": [
+          2
+        ],
+        "p": [
+          3,
+          34,
+          45,
+          71,
+          83,
+          98,
+          111,
+          125,
+          139
+        ],
+        "-adic": [
+          4,
+          35,
+          46,
+          72,
+          84,
+          99,
+          112,
+          126,
+          140
+        ],
+        "AdS/CFT": [
+          5
+        ],
+        "correspondence": [
+          6
+        ],
+        "relates": [
+          7
+        ],
+        "a": [
+          8,
+          16,
+          29,
+          44,
+          51,
+          138
+        ],
+        "CFT": [
+          9,
+          47,
+          85
+        ],
+        "living": [
+          10,
+          18
+        ],
+        "on": [
+          11,
+          19,
+          54,
+          108
+        ],
+        "the": [
+          12,
+          20,
+          40,
+          55,
+          59,
+          62,
+          70,
+          97
+        ],
+        "p-adic": [
+          13
+        ],
+        "numbers": [
+          14
+        ],
+        "to": [
+          15,
+          50,
+          96,
+          103,
+          118
+        ],
+        "system": [
+          17
+        ],
+        "Bruhat-Tits": [
+          21,
+          56
+        ],
+        "tree.": [
+          22
+        ],
+        "Modifying": [
+          23
+        ],
+        "our": [
+          24
+        ],
+        "earlier": [
+          25
+        ],
+        "proposal": [
+          26
+        ],
+        "[1]": [
+          27
+        ],
+        "for": [
+          28,
+          81
+        ],
+        "tensor": [
+          30,
+          52,
+          63,
+          79
+        ],
+        "network": [
+          31,
+          53,
+          64,
+          80
+        ],
+        "realization": [
+          32
+        ],
+        "of": [
+          33,
+          43,
+          69
+        ],
+        "AdS/CFT,": [
+          36
+        ],
+        "we": [
+          37,
+          115
+        ],
+        "prove": [
+          38
+        ],
+        "that": [
+          39,
+          61,
+          131
+        ],
+        "path": [
+          41
+        ],
+        "integral": [
+          42
+        ],
+        "is": [
+          48,
+          136
+        ],
+        "equivalent": [
+          49
+        ],
+        "tree,": [
+          57
+        ],
+        "in": [
+          58,
+          124,
+          129
+        ],
+        "sense": [
+          60
+        ],
+        "reproduces": [
+          65
+        ],
+        "all": [
+          66
+        ],
+        "correlation": [
+          67,
+          106
+        ],
+        "functions": [
+          68,
+          107
+        ],
+        "CFT.": [
+          73,
+          141
+        ],
+        "Our": [
+          74
+        ],
+        "rules": [
+          75
+        ],
+        "give": [
+          76
+        ],
+        "an": [
+          77
+        ],
+        "explicit": [
+          78
+        ],
+        "any": [
+          82,
+          105,
+          132
+        ],
+        "(as": [
+          86
+        ],
+        "axiomatized": [
+          87
+        ],
+        "by": [
+          88
+        ],
+        "Melzer),": [
+          89
+        ],
+        "and": [
+          90,
+          120
+        ],
+        "can": [
+          91
+        ],
+        "be": [
+          92
+        ],
+        "applied": [
+          93
+        ],
+        "not": [
+          94
+        ],
+        "only": [
+          95
+        ],
+        "plane,": [
+          100
+        ],
+        "but": [
+          101
+        ],
+        "also": [
+          102
+        ],
+        "compute": [
+          104
+        ],
+        "higher": [
+          109
+        ],
+        "genus": [
+          110
+        ],
+        "curves.": [
+          113
+        ],
+        "Finally,": [
+          114
+        ],
+        "apply": [
+          116
+        ],
+        "them": [
+          117
+        ],
+        "define": [
+          119
+        ],
+        "study": [
+          121
+        ],
+        "RG": [
+          122
+        ],
+        "flows": [
+          123
+        ],
+        "CFTs,": [
+          127
+        ],
+        "establishing": [
+          128
+        ],
+        "particular": [
+          130
+        ],
+        "IR": [
+          133
+        ],
+        "fixed": [
+          134
+        ],
+        "point": [
+          135
+        ],
+        "itself": [
+          137
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 8
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 5
+        },
+        {
+          "year": 2023,
+          "cited_by_count": 8
+        },
+        {
+          "year": 2022,
+          "cited_by_count": 8
+        },
+        {
+          "year": 2021,
+          "cited_by_count": 6
+        },
+        {
+          "year": 2020,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2019,
+          "cited_by_count": 3
+        }
+      ],
+      "updated_date": "2026-08-01T09:00:35.917206",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W4399412858",
+      "doi": "https://doi.org/10.1007/s11005-024-01826-8",
+      "title": "Invariant measures on p-adic Lie groups: the p-adic quaternion algebra and the Haar integral on the p-adic rotation groups",
+      "display_name": "Invariant measures on p-adic Lie groups: the p-adic quaternion algebra and the Haar integral on the p-adic rotation groups",
+      "relevance_score": 95.774155,
+      "publication_year": 2024,
+      "publication_date": "2024-06-06",
+      "ids": {
+        "openalex": "https://openalex.org/W4399412858",
+        "doi": "https://doi.org/10.1007/s11005-024-01826-8"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1007/s11005-024-01826-8",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1007/s11005-024-01826-8",
+        "pdf_url": "https://link.springer.com/content/pdf/10.1007/s11005-024-01826-8.pdf",
+        "source": {
+          "id": "https://openalex.org/S99746170",
+          "display_name": "Letters in Mathematical Physics",
+          "issn_l": "0377-9017",
+          "issn": [
+            "0377-9017",
+            "1573-0530"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310319900",
+          "host_organization_name": "Springer Science+Business Media",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319900",
+            "https://openalex.org/P4310319965"
+          ],
+          "host_organization_lineage_names": [
+            "Springer Science+Business Media",
+            "Springer Nature"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Letters in Mathematical Physics",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007/s11005-024-01826-8.pdf",
+        "any_repository_has_fulltext": true
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5011849754",
+            "display_name": "Paolo Aniello",
+            "orcid": "https://orcid.org/0000-0003-4298-8275"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210108560",
+              "display_name": "Istituto Nazionale di Fisica Nucleare, Sezione di Napoli",
+              "ror": "https://ror.org/015kcdd40",
+              "country_code": "IT",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I160013858",
+                "https://openalex.org/I4210108560"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I71267560",
+              "display_name": "University of Naples Federico II",
+              "ror": "https://ror.org/05290cv24",
+              "country_code": "IT",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I71267560"
+              ]
+            }
+          ],
+          "countries": [
+            "IT"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Paolo Aniello",
+          "raw_affiliation_strings": [
+            "Dipartimento di Fisica “Ettore Pancini”, Università di Napoli “Federico II”, Complesso Universitario di Monte S. Angelo, via Cintia, 80126, Naples, Italy",
+            "Istituto Nazionale di Fisica Nucleare, Sezione di Napoli, Complesso Universitario di Monte S. Angelo, via Cintia, 80126, Naples, Italy",
+            "Dipartimento di Fisica \"Ettore Pancini\", Università di Napoli \"Federico II\", Complesso Universitario di Monte S. Angelo, via Cintia, 80126, Naples, Italy"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0003-4298-8275",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Dipartimento di Fisica “Ettore Pancini”, Università di Napoli “Federico II”, Complesso Universitario di Monte S. Angelo, via Cintia, 80126, Naples, Italy",
+              "institution_ids": [
+                "https://openalex.org/I4210108560",
+                "https://openalex.org/I71267560"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Istituto Nazionale di Fisica Nucleare, Sezione di Napoli, Complesso Universitario di Monte S. Angelo, via Cintia, 80126, Naples, Italy",
+              "institution_ids": [
+                "https://openalex.org/I4210108560"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Dipartimento di Fisica \"Ettore Pancini\", Università di Napoli \"Federico II\", Complesso Universitario di Monte S. Angelo, via Cintia, 80126, Naples, Italy",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5040541892",
+            "display_name": "Sonia L’Innocente",
+            "orcid": "https://orcid.org/0000-0002-9224-7451"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I112859197",
+              "display_name": "Università di Camerino",
+              "ror": "https://ror.org/0005w8d69",
+              "country_code": "IT",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I112859197"
+              ]
+            }
+          ],
+          "countries": [
+            "IT"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Sonia L’Innocente",
+          "raw_affiliation_strings": [
+            "School of Science and Technology, University of Camerino, Via Madonna delle Carceri, 9, Camerino, 62032, Italy"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-9224-7451",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "School of Science and Technology, University of Camerino, Via Madonna delle Carceri, 9, Camerino, 62032, Italy",
+              "institution_ids": [
+                "https://openalex.org/I112859197"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5056419860",
+            "display_name": "Stefano Mancini",
+            "orcid": "https://orcid.org/0000-0002-3797-3987"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I112859197",
+              "display_name": "Università di Camerino",
+              "ror": "https://ror.org/0005w8d69",
+              "country_code": "IT",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I112859197"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210163778",
+              "display_name": "Istituto Nazionale di Fisica Nucleare, Sezione di Perugia",
+              "ror": "https://ror.org/05478fx36",
+              "country_code": "IT",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I160013858",
+                "https://openalex.org/I4210163778"
+              ]
+            }
+          ],
+          "countries": [
+            "IT"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Stefano Mancini",
+          "raw_affiliation_strings": [
+            "Istituto Nazionale di Fisica Nucleare, Sezione di Perugia, Via A. Pascoli, 06123, Perugia, Italy",
+            "School of Science and Technology, University of Camerino, Via Madonna delle Carceri, 9, Camerino, 62032, Italy"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-3797-3987",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Istituto Nazionale di Fisica Nucleare, Sezione di Perugia, Via A. Pascoli, 06123, Perugia, Italy",
+              "institution_ids": [
+                "https://openalex.org/I4210163778"
+              ]
+            },
+            {
+              "raw_affiliation_string": "School of Science and Technology, University of Camerino, Via Madonna delle Carceri, 9, Camerino, 62032, Italy",
+              "institution_ids": [
+                "https://openalex.org/I112859197"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5086378885",
+            "display_name": "Vincenzo Parisi",
+            "orcid": "https://orcid.org/0000-0001-9563-6471"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I112859197",
+              "display_name": "Università di Camerino",
+              "ror": "https://ror.org/0005w8d69",
+              "country_code": "IT",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I112859197"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210163778",
+              "display_name": "Istituto Nazionale di Fisica Nucleare, Sezione di Perugia",
+              "ror": "https://ror.org/05478fx36",
+              "country_code": "IT",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I160013858",
+                "https://openalex.org/I4210163778"
+              ]
+            }
+          ],
+          "countries": [
+            "IT"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Vincenzo Parisi",
+          "raw_affiliation_strings": [
+            "Istituto Nazionale di Fisica Nucleare, Sezione di Perugia, Via A. Pascoli, 06123, Perugia, Italy",
+            "School of Science and Technology, University of Camerino, Via Madonna delle Carceri, 9, Camerino, 62032, Italy"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0001-9563-6471",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Istituto Nazionale di Fisica Nucleare, Sezione di Perugia, Via A. Pascoli, 06123, Perugia, Italy",
+              "institution_ids": [
+                "https://openalex.org/I4210163778"
+              ]
+            },
+            {
+              "raw_affiliation_string": "School of Science and Technology, University of Camerino, Via Madonna delle Carceri, 9, Camerino, 62032, Italy",
+              "institution_ids": [
+                "https://openalex.org/I112859197"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5066920066",
+            "display_name": "Ilaria Svampa",
+            "orcid": "https://orcid.org/0000-0002-1389-0319"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I112859197",
+              "display_name": "Università di Camerino",
+              "ror": "https://ror.org/0005w8d69",
+              "country_code": "IT",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I112859197"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I123044942",
+              "display_name": "Universitat Autònoma de Barcelona",
+              "ror": "https://ror.org/052g8jq94",
+              "country_code": "ES",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I123044942"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210163778",
+              "display_name": "Istituto Nazionale di Fisica Nucleare, Sezione di Perugia",
+              "ror": "https://ror.org/05478fx36",
+              "country_code": "IT",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I160013858",
+                "https://openalex.org/I4210163778"
+              ]
+            }
+          ],
+          "countries": [
+            "ES",
+            "IT"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Ilaria Svampa",
+          "raw_affiliation_strings": [
+            "Departament de Física: Grup d’Informació Quàntica, Universitat Autònoma de Barcelona, 08193, Bellaterra, Barcelona, Spain",
+            "Istituto Nazionale di Fisica Nucleare, Sezione di Perugia, Via A. Pascoli, 06123, Perugia, Italy",
+            "School of Science and Technology, University of Camerino, Via Madonna delle Carceri, 9, Camerino, 62032, Italy"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-1389-0319",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Departament de Física: Grup d’Informació Quàntica, Universitat Autònoma de Barcelona, 08193, Bellaterra, Barcelona, Spain",
+              "institution_ids": [
+                "https://openalex.org/I123044942"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Istituto Nazionale di Fisica Nucleare, Sezione di Perugia, Via A. Pascoli, 06123, Perugia, Italy",
+              "institution_ids": [
+                "https://openalex.org/I4210163778"
+              ]
+            },
+            {
+              "raw_affiliation_string": "School of Science and Technology, University of Camerino, Via Madonna delle Carceri, 9, Camerino, 62032, Italy",
+              "institution_ids": [
+                "https://openalex.org/I112859197"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5010503984",
+            "display_name": "Andreas Winter",
+            "orcid": "https://orcid.org/0000-0001-6344-4870"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I11932220",
+              "display_name": "Institució Catalana de Recerca i Estudis Avançats",
+              "ror": "https://ror.org/0371hy230",
+              "country_code": "ES",
+              "type": "nonprofit",
+              "lineage": [
+                "https://openalex.org/I11932220"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I123044942",
+              "display_name": "Universitat Autònoma de Barcelona",
+              "ror": "https://ror.org/052g8jq94",
+              "country_code": "ES",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I123044942"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210137766",
+              "display_name": "Institute for Advanced Study",
+              "ror": "https://ror.org/03xg85719",
+              "country_code": "DE",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I4210137766"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I62916508",
+              "display_name": "Technical University of Munich",
+              "ror": "https://ror.org/02kkvpp62",
+              "country_code": "DE",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I62916508"
+              ]
+            }
+          ],
+          "countries": [
+            "DE",
+            "ES"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Andreas Winter",
+          "raw_affiliation_strings": [
+            "Departament de Física: Grup d’Informació Quàntica, Universitat Autònoma de Barcelona, 08193, Bellaterra, Barcelona, Spain",
+            "ICREA—Institució Catalana de la Recerca i Estudis Avançats, Pg. Lluís Companys, 23, 08010, Barcelona, Spain",
+            "Institute for Advanced Study, Technische Universität München, Lichtenbergstraße 2a, 85748, Garching, Germany",
+            "Departament de Física: Grup d'Informació Quàntica, Universitat Autònoma de Barcelona, 08193, Bellaterra, Barcelona, Spain"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0001-6344-4870",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Departament de Física: Grup d’Informació Quàntica, Universitat Autònoma de Barcelona, 08193, Bellaterra, Barcelona, Spain",
+              "institution_ids": [
+                "https://openalex.org/I123044942"
+              ]
+            },
+            {
+              "raw_affiliation_string": "ICREA—Institució Catalana de la Recerca i Estudis Avançats, Pg. Lluís Companys, 23, 08010, Barcelona, Spain",
+              "institution_ids": [
+                "https://openalex.org/I11932220"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Institute for Advanced Study, Technische Universität München, Lichtenbergstraße 2a, 85748, Garching, Germany",
+              "institution_ids": [
+                "https://openalex.org/I4210137766",
+                "https://openalex.org/I62916508"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Departament de Física: Grup d'Informació Quàntica, Universitat Autònoma de Barcelona, 08193, Bellaterra, Barcelona, Spain",
+              "institution_ids": [
+                "https://openalex.org/I123044942"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 3,
+      "institutions_distinct_count": 8,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5010503984"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I11932220",
+        "https://openalex.org/I123044942",
+        "https://openalex.org/I4210137766",
+        "https://openalex.org/I62916508"
+      ],
+      "apc_list": {
+        "value": 2690,
+        "currency": "USD",
+        "value_usd": 2690
+      },
+      "apc_paid": {
+        "value": 2690,
+        "currency": "USD",
+        "value_usd": 2690
+      },
+      "fwci": 2.1131,
+      "has_fulltext": true,
+      "cited_by_count": 4,
+      "citation_normalized_percentile": {
+        "value": 0.84712565,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 90,
+        "max": 97
+      },
+      "biblio": {
+        "volume": "114",
+        "issue": "3",
+        "first_page": null,
+        "last_page": null
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T13234",
+        "display_name": "advanced mathematical theories",
+        "score": 0.9998999834060669,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2610",
+          "display_name": "Mathematical Physics"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/26",
+          "display_name": "Mathematics"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T13234",
+          "display_name": "advanced mathematical theories",
+          "score": 0.9998999834060669,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2610",
+            "display_name": "Mathematical Physics"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/26",
+            "display_name": "Mathematics"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T12536",
+          "display_name": "Topological and Geometric Data Analysis",
+          "score": 0.9704999923706055,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1703",
+            "display_name": "Computational Theory and Mathematics"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/17",
+            "display_name": "Computer Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10061",
+          "display_name": "Algebraic Geometry and Number Theory",
+          "score": 0.9258000254631042,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2608",
+            "display_name": "Geometry and Topology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/26",
+            "display_name": "Mathematics"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/algorithm",
+          "display_name": "Algorithm",
+          "score": 0.44597509503364563
+        },
+        {
+          "id": "https://openalex.org/keywords/measure",
+          "display_name": "Measure (data warehouse)",
+          "score": 0.4194556772708893
+        },
+        {
+          "id": "https://openalex.org/keywords/artificial-intelligence",
+          "display_name": "Artificial intelligence",
+          "score": 0.3503265380859375
+        },
+        {
+          "id": "https://openalex.org/keywords/mathematics",
+          "display_name": "Mathematics",
+          "score": 0.3028179407119751
+        },
+        {
+          "id": "https://openalex.org/keywords/computer-science",
+          "display_name": "Computer science",
+          "score": 0.22878992557525635
+        },
+        {
+          "id": "https://openalex.org/keywords/database",
+          "display_name": "Database",
+          "score": 0.1971905529499054
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C11413529",
+          "wikidata": "https://www.wikidata.org/wiki/Q8366",
+          "display_name": "Algorithm",
+          "level": 1,
+          "score": 0.44597509503364563
+        },
+        {
+          "id": "https://openalex.org/C2780009758",
+          "wikidata": "https://www.wikidata.org/wiki/Q6804172",
+          "display_name": "Measure (data warehouse)",
+          "level": 2,
+          "score": 0.4194556772708893
+        },
+        {
+          "id": "https://openalex.org/C154945302",
+          "wikidata": "https://www.wikidata.org/wiki/Q11660",
+          "display_name": "Artificial intelligence",
+          "level": 1,
+          "score": 0.3503265380859375
+        },
+        {
+          "id": "https://openalex.org/C33923547",
+          "wikidata": "https://www.wikidata.org/wiki/Q395",
+          "display_name": "Mathematics",
+          "level": 0,
+          "score": 0.3028179407119751
+        },
+        {
+          "id": "https://openalex.org/C41008148",
+          "wikidata": "https://www.wikidata.org/wiki/Q21198",
+          "display_name": "Computer science",
+          "level": 0,
+          "score": 0.22878992557525635
+        },
+        {
+          "id": "https://openalex.org/C77088390",
+          "wikidata": "https://www.wikidata.org/wiki/Q8513",
+          "display_name": "Database",
+          "level": 1,
+          "score": 0.1971905529499054
+        }
+      ],
+      "mesh": [],
+      "locations_count": 3,
+      "locations": [
+        {
+          "id": "doi:10.1007/s11005-024-01826-8",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.1007/s11005-024-01826-8",
+          "pdf_url": "https://link.springer.com/content/pdf/10.1007/s11005-024-01826-8.pdf",
+          "source": {
+            "id": "https://openalex.org/S99746170",
+            "display_name": "Letters in Mathematical Physics",
+            "issn_l": "0377-9017",
+            "issn": [
+              "0377-9017",
+              "1573-0530"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310319900",
+            "host_organization_name": "Springer Science+Business Media",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310319900",
+              "https://openalex.org/P4310319965"
+            ],
+            "host_organization_lineage_names": [
+              "Springer Science+Business Media",
+              "Springer Nature"
+            ],
+            "type": "journal"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Letters in Mathematical Physics",
+          "raw_type": "journal-article"
+        },
+        {
+          "id": "pmh:oai:ddd.uab.cat:293993",
+          "is_oa": true,
+          "landing_page_url": "https://ddd.uab.cat/record/293993",
+          "pdf_url": "https://ddd.uab.cat/pub/artpub/2024/293993/LetMatPhy_a2024v114p78iENG.pdf",
+          "source": {
+            "id": "https://openalex.org/S4306400380",
+            "display_name": "Dipòsit Digital de Documents de la UAB (Universitat Autònoma de Barcelona)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I123044942",
+            "host_organization_name": "Universitat Autònoma de Barcelona",
+            "host_organization_lineage": [
+              "https://openalex.org/I123044942"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "",
+          "raw_type": "Article"
+        },
+        {
+          "id": "pmh:oai:pubblicazioni.unicam.it:11581/482363",
+          "is_oa": true,
+          "landing_page_url": "https://link.springer.com/article/10.1007/s11005-024-01826-8",
+          "pdf_url": "https://pubblicazioni.unicam.it/bitstream/11581/482363/1/LMP114.pdf",
+          "source": {
+            "id": "https://openalex.org/S4306400819",
+            "display_name": "Unicam Scientific Publications (University of Camerino)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I112859197",
+            "host_organization_name": "Università di Camerino",
+            "host_organization_lineage": [
+              "https://openalex.org/I112859197"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": null,
+          "raw_type": "info:eu-repo/semantics/article"
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.1007/s11005-024-01826-8",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1007/s11005-024-01826-8",
+        "pdf_url": "https://link.springer.com/content/pdf/10.1007/s11005-024-01826-8.pdf",
+        "source": {
+          "id": "https://openalex.org/S99746170",
+          "display_name": "Letters in Mathematical Physics",
+          "issn_l": "0377-9017",
+          "issn": [
+            "0377-9017",
+            "1573-0530"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310319900",
+          "host_organization_name": "Springer Science+Business Media",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319900",
+            "https://openalex.org/P4310319965"
+          ],
+          "host_organization_lineage_names": [
+            "Springer Science+Business Media",
+            "Springer Nature"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Letters in Mathematical Physics",
+        "raw_type": "journal-article"
+      },
+      "sustainable_development_goals": [],
+      "awards": [
+        {
+          "id": "https://openalex.org/G120905174",
+          "display_name": null,
+          "funder_award_id": "PRTRC17",
+          "funder_id": "https://openalex.org/F4320320300",
+          "funder_display_name": "European Commission"
+        },
+        {
+          "id": "https://openalex.org/G2988934680",
+          "display_name": null,
+          "funder_award_id": "PRTR-C17.I1",
+          "funder_id": "https://openalex.org/F4320321505",
+          "funder_display_name": "Generalitat de Catalunya"
+        },
+        {
+          "id": "https://openalex.org/G357246561",
+          "display_name": null,
+          "funder_award_id": "PRTR C17.I1",
+          "funder_id": "https://openalex.org/F4320320300",
+          "funder_display_name": "European Commission"
+        },
+        {
+          "id": "https://openalex.org/G42194784",
+          "display_name": null,
+          "funder_award_id": "PCI2022-132965",
+          "funder_id": "https://openalex.org/F4320330828",
+          "funder_display_name": "QuantERA"
+        },
+        {
+          "id": "https://openalex.org/G531036588",
+          "display_name": null,
+          "funder_award_id": "C17.I1",
+          "funder_id": "https://openalex.org/F4320320300",
+          "funder_display_name": "European Commission"
+        },
+        {
+          "id": "https://openalex.org/G8210619067",
+          "display_name": null,
+          "funder_award_id": "PCI2022-132965",
+          "funder_id": "https://openalex.org/F4320320300",
+          "funder_display_name": "European Commission"
+        }
+      ],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320308269",
+          "display_name": "Alexander von Humboldt-Stiftung",
+          "ror": "https://ror.org/012kf4317"
+        },
+        {
+          "id": "https://openalex.org/F4320320300",
+          "display_name": "European Commission",
+          "ror": "https://ror.org/00k4n6c32"
+        },
+        {
+          "id": "https://openalex.org/F4320321505",
+          "display_name": "Generalitat de Catalunya",
+          "ror": "https://ror.org/01bg62x04"
+        },
+        {
+          "id": "https://openalex.org/F4320326826",
+          "display_name": "Universitat Autònoma de Barcelona",
+          "ror": "https://ror.org/052g8jq94"
+        },
+        {
+          "id": "https://openalex.org/F4320327843",
+          "display_name": "Istituto Nazionale di Fisica Nucleare",
+          "ror": null
+        },
+        {
+          "id": "https://openalex.org/F4320330828",
+          "display_name": "QuantERA",
+          "ror": null
+        }
+      ],
+      "has_content": {
+        "pdf": true,
+        "grobid_xml": false
+      },
+      "content_urls": {
+        "pdf": "https://content.openalex.org/works/W4399412858.pdf"
+      },
+      "referenced_works_count": 53,
+      "referenced_works": [
+        "https://openalex.org/W149541213",
+        "https://openalex.org/W359122452",
+        "https://openalex.org/W404551799",
+        "https://openalex.org/W1508945579",
+        "https://openalex.org/W1539382740",
+        "https://openalex.org/W1558239788",
+        "https://openalex.org/W1567275116",
+        "https://openalex.org/W1963594657",
+        "https://openalex.org/W1965702664",
+        "https://openalex.org/W1966860733",
+        "https://openalex.org/W1979199694",
+        "https://openalex.org/W1983894121",
+        "https://openalex.org/W1992215910",
+        "https://openalex.org/W2002092716",
+        "https://openalex.org/W2002155758",
+        "https://openalex.org/W2026324081",
+        "https://openalex.org/W2027175116",
+        "https://openalex.org/W2030389702",
+        "https://openalex.org/W2034025841",
+        "https://openalex.org/W2039599616",
+        "https://openalex.org/W2040378814",
+        "https://openalex.org/W2046060383",
+        "https://openalex.org/W2047620748",
+        "https://openalex.org/W2061553106",
+        "https://openalex.org/W2067785008",
+        "https://openalex.org/W2073443047",
+        "https://openalex.org/W2080611428",
+        "https://openalex.org/W2087502041",
+        "https://openalex.org/W2087528562",
+        "https://openalex.org/W2095571141",
+        "https://openalex.org/W2101641159",
+        "https://openalex.org/W2123484489",
+        "https://openalex.org/W2130218886",
+        "https://openalex.org/W2130795870",
+        "https://openalex.org/W2139239332",
+        "https://openalex.org/W2151630211",
+        "https://openalex.org/W2567165719",
+        "https://openalex.org/W2578107452",
+        "https://openalex.org/W2614662766",
+        "https://openalex.org/W2806055964",
+        "https://openalex.org/W3091777723",
+        "https://openalex.org/W3103345357",
+        "https://openalex.org/W3106306806",
+        "https://openalex.org/W3138488704",
+        "https://openalex.org/W4226247364",
+        "https://openalex.org/W4229923956",
+        "https://openalex.org/W4234494334",
+        "https://openalex.org/W4250641627",
+        "https://openalex.org/W4254278630",
+        "https://openalex.org/W4313472762",
+        "https://openalex.org/W4377832113",
+        "https://openalex.org/W4387316225",
+        "https://openalex.org/W6604308508"
+      ],
+      "related_works": [
+        "https://openalex.org/W4391375266",
+        "https://openalex.org/W1979597421",
+        "https://openalex.org/W2007980826",
+        "https://openalex.org/W2051487156",
+        "https://openalex.org/W2061531152",
+        "https://openalex.org/W3002753104",
+        "https://openalex.org/W2077600819",
+        "https://openalex.org/W2142036596",
+        "https://openalex.org/W2072657027",
+        "https://openalex.org/W2962838298"
+      ],
+      "abstract_inverted_index": {
+        "Abstract": [
+          0
+        ],
+        "We": [
+          1,
+          21
+        ],
+        "provide": [
+          2
+        ],
+        "a": [
+          3,
+          16,
+          47,
+          113,
+          194
+        ],
+        "general": [
+          4,
+          118
+        ],
+        "expression": [
+          5
+        ],
+        "of": [
+          6,
+          63,
+          116,
+          213,
+          217,
+          231
+        ],
+        "the": [
+          7,
+          11,
+          31,
+          36,
+          41,
+          52,
+          61,
+          65,
+          69,
+          89,
+          183,
+          199,
+          214,
+          218,
+          226,
+          229,
+          235,
+          251
+        ],
+        "Haar": [
+          8,
+          66,
+          90,
+          162,
+          173
+        ],
+        "measure—that": [
+          9
+        ],
+        "is,": [
+          10
+        ],
+        "essentially": [
+          12
+        ],
+        "unique": [
+          13
+        ],
+        "translation-invariant": [
+          14
+        ],
+        "measure—on": [
+          15
+        ],
+        "p": [
+          17,
+          70,
+          85,
+          177,
+          236,
+          245,
+          254
+        ],
+        "-adic": [
+          18,
+          71,
+          178,
+          237,
+          246,
+          255
+        ],
+        "Lie": [
+          19,
+          49,
+          179
+        ],
+        "group.": [
+          20
+        ],
+        "then": [
+          22
+        ],
+        "argue": [
+          23
+        ],
+        "that": [
+          24,
+          161
+        ],
+        "this": [
+          25
+        ],
+        "measure": [
+          26,
+          32,
+          67,
+          91
+        ],
+        "can": [
+          27,
+          168
+        ],
+        "be": [
+          28,
+          170
+        ],
+        "regarded": [
+          29
+        ],
+        "as": [
+          30,
+          43,
+          189
+        ],
+        "naturally": [
+          33
+        ],
+        "induced": [
+          34
+        ],
+        "by": [
+          35,
+          112
+        ],
+        "invariant": [
+          37
+        ],
+        "volume": [
+          38
+        ],
+        "form": [
+          39
+        ],
+        "on": [
+          40,
+          68,
+          92,
+          164,
+          175,
+          234
+        ],
+        "group,": [
+          42
+        ],
+        "it": [
+          44
+        ],
+        "happens": [
+          45
+        ],
+        "for": [
+          46,
+          121
+        ],
+        "standard": [
+          48
+        ],
+        "group": [
+          50
+        ],
+        "over": [
+          51,
+          198
+        ],
+        "reals.": [
+          53
+        ],
+        "As": [
+          54,
+          120
+        ],
+        "an": [
+          55
+        ],
+        "important": [
+          56
+        ],
+        "application,": [
+          57
+        ],
+        "we": [
+          58,
+          159
+        ],
+        "next": [
+          59
+        ],
+        "consider": [
+          60
+        ],
+        "problem": [
+          62
+        ],
+        "determining": [
+          64
+        ],
+        "special": [
+          72,
+          184,
+          238
+        ],
+        "orthogonal": [
+          73,
+          185,
+          239
+        ],
+        "groups": [
+          74,
+          167,
+          180,
+          186
+        ],
+        "in": [
+          75,
+          244,
+          250
+        ],
+        "dimension": [
+          76
+        ],
+        "two,": [
+          77
+        ],
+        "three": [
+          78
+        ],
+        "and": [
+          79,
+          139,
+          210,
+          249
+        ],
+        "four": [
+          80
+        ],
+        "(for": [
+          81
+        ],
+        "every": [
+          82
+        ],
+        "prime": [
+          83
+        ],
+        "number": [
+          84
+        ],
+        ").": [
+          86
+        ],
+        "In": [
+          87
+        ],
+        "particular,": [
+          88
+        ],
+        "$$\\text": [
+          93,
+          122,
+          140
+        ],
+        "{SO}(2,\\mathbb": [
+          94
+        ],
+        "{Q}_p)$$": [
+          95,
+          124,
+          142
+        ],
+        "<mml:math": [
+          96,
+          125,
+          143,
+          203
+        ],
+        "xmlns:mml=\"http://www.w3.org/1998/Math/MathML\">": [
+          97,
+          126,
+          144,
+          204
+        ],
+        "<mml:mrow>": [
+          98,
+          127,
+          145
+        ],
+        "<mml:mtext>SO</mml:mtext>": [
+          99,
+          128,
+          146
+        ],
+        "<mml:mo>(</mml:mo>": [
+          100,
+          129,
+          147
+        ],
+        "<mml:mn>2</mml:mn>": [
+          101
+        ],
+        "<mml:mo>,</mml:mo>": [
+          102,
+          131,
+          149
+        ],
+        "<mml:msub>": [
+          103,
+          132,
+          150,
+          205
+        ],
+        "<mml:mi>Q</mml:mi>": [
+          104,
+          133,
+          151,
+          206
+        ],
+        "<mml:mi>p</mml:mi>": [
+          105,
+          134,
+          152,
+          207
+        ],
+        "</mml:msub>": [
+          106,
+          135,
+          153,
+          208
+        ],
+        "<mml:mo>)</mml:mo>": [
+          107,
+          136,
+          154
+        ],
+        "</mml:mrow>": [
+          108,
+          137,
+          155
+        ],
+        "</mml:math>": [
+          109,
+          138,
+          156,
+          209
+        ],
+        "is": [
+          110,
+          211
+        ],
+        "obtained": [
+          111,
+          188
+        ],
+        "direct": [
+          114
+        ],
+        "application": [
+          115
+        ],
+        "our": [
+          117
+        ],
+        "formula.": [
+          119
+        ],
+        "{SO}(3,\\mathbb": [
+          123
+        ],
+        "<mml:mn>3</mml:mn>": [
+          130
+        ],
+        "{SO}(4,\\mathbb": [
+          141
+        ],
+        "<mml:mn>4</mml:mn>": [
+          148
+        ],
+        ",": [
+          157
+        ],
+        "instead,": [
+          158
+        ],
+        "show": [
+          160
+        ],
+        "integrals": [
+          163,
+          174
+        ],
+        "these": [
+          165
+        ],
+        "two": [
+          166
+        ],
+        "conveniently": [
+          169
+        ],
+        "lifted": [
+          171
+        ],
+        "to": [
+          172,
+          228
+        ],
+        "certain": [
+          176
+        ],
+        "from": [
+          181
+        ],
+        "which": [
+          182
+        ],
+        "are": [
+          187
+        ],
+        "quotients.": [
+          190
+        ],
+        "This": [
+          191
+        ],
+        "construction": [
+          192
+        ],
+        "involves": [
+          193
+        ],
+        "suitable": [
+          195
+        ],
+        "quaternion": [
+          196
+        ],
+        "algebra": [
+          197
+        ],
+        "field": [
+          200
+        ],
+        "$$\\mathbb": [
+          201
+        ],
+        "{Q}_p$$": [
+          202
+        ],
+        "reminiscent": [
+          212
+        ],
+        "quaternionic": [
+          215
+        ],
+        "realization": [
+          216
+        ],
+        "real": [
+          219
+        ],
+        "rotation": [
+          220
+        ],
+        "groups.": [
+          221
+        ],
+        "Our": [
+          222
+        ],
+        "results": [
+          223
+        ],
+        "should": [
+          224
+        ],
+        "pave": [
+          225
+        ],
+        "way": [
+          227
+        ],
+        "development": [
+          230
+        ],
+        "harmonic": [
+          232
+        ],
+        "analysis": [
+          233
+        ],
+        "groups,": [
+          240
+        ],
+        "with": [
+          241
+        ],
+        "potential": [
+          242
+        ],
+        "applications": [
+          243
+        ],
+        "quantum": [
+          247,
+          256
+        ],
+        "mechanics": [
+          248
+        ],
+        "recently": [
+          252
+        ],
+        "proposed": [
+          253
+        ],
+        "information": [
+          257
+        ],
+        "theory.": [
+          258
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2023,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2026-08-01T09:00:35.917206",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W225865089",
+      "doi": null,
+      "title": "What p-adic icosahedron could mean? And what about p-adic manifold?",
+      "display_name": "What p-adic icosahedron could mean? And what about p-adic manifold?",
+      "relevance_score": 94.46972,
+      "publication_year": 2013,
+      "publication_date": "2013-02-01",
+      "ids": {
+        "openalex": "https://openalex.org/W225865089",
+        "mag": "225865089"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "mag:225865089",
+        "is_oa": false,
+        "landing_page_url": "https://vixra.org/pdf/1302.0110v1.pdf",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S2883122597",
+          "display_name": "viXra",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "viXra",
+        "raw_type": null
+      },
+      "type": "preprint",
+      "indexed_in": [],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5079866489",
+            "display_name": "Matti Pitkänen",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": true,
+          "raw_author_name": "Matti Pitkänen",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 0,
+      "institutions_distinct_count": 1,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5079866489"
+      ],
+      "corresponding_institution_ids": [],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": null,
+      "has_fulltext": false,
+      "cited_by_count": 2,
+      "citation_normalized_percentile": null,
+      "cited_by_percentile_year": null,
+      "biblio": {
+        "volume": null,
+        "issue": null,
+        "first_page": null,
+        "last_page": null
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T13234",
+        "display_name": "advanced mathematical theories",
+        "score": 0.9998999834060669,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2610",
+          "display_name": "Mathematical Physics"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/26",
+          "display_name": "Mathematics"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T13234",
+          "display_name": "advanced mathematical theories",
+          "score": 0.9998999834060669,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2610",
+            "display_name": "Mathematical Physics"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/26",
+            "display_name": "Mathematics"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T13283",
+          "display_name": "Mental Health Research Topics",
+          "score": 0.9785000085830688,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3205",
+            "display_name": "Experimental and Cognitive Psychology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/32",
+            "display_name": "Psychology"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T13044",
+          "display_name": "Biofield Effects and Biophysics",
+          "score": 0.9781000018119812,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2737",
+            "display_name": "Physiology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/27",
+            "display_name": "Medicine"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/4",
+            "display_name": "Health Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/mathematics",
+          "display_name": "Mathematics",
+          "score": 0.7138566374778748
+        },
+        {
+          "id": "https://openalex.org/keywords/disjoint-sets",
+          "display_name": "Disjoint sets",
+          "score": 0.677834153175354
+        },
+        {
+          "id": "https://openalex.org/keywords/ultrametric-space",
+          "display_name": "Ultrametric space",
+          "score": 0.6420402526855469
+        },
+        {
+          "id": "https://openalex.org/keywords/manifold",
+          "display_name": "Manifold (fluid mechanics)",
+          "score": 0.5854601860046387
+        },
+        {
+          "id": "https://openalex.org/keywords/context",
+          "display_name": "Context (archaeology)",
+          "score": 0.5700926780700684
+        },
+        {
+          "id": "https://openalex.org/keywords/algebraic-number",
+          "display_name": "Algebraic number",
+          "score": 0.5115604996681213
+        },
+        {
+          "id": "https://openalex.org/keywords/pure-mathematics",
+          "display_name": "Pure mathematics",
+          "score": 0.5101032853126526
+        },
+        {
+          "id": "https://openalex.org/keywords/interpretation",
+          "display_name": "Interpretation (philosophy)",
+          "score": 0.46405449509620667
+        },
+        {
+          "id": "https://openalex.org/keywords/focus",
+          "display_name": "Focus (optics)",
+          "score": 0.45344218611717224
+        },
+        {
+          "id": "https://openalex.org/keywords/resolution",
+          "display_name": "Resolution (logic)",
+          "score": 0.44783687591552734
+        },
+        {
+          "id": "https://openalex.org/keywords/topology",
+          "display_name": "Topology (electrical circuits)",
+          "score": 0.32366710901260376
+        },
+        {
+          "id": "https://openalex.org/keywords/discrete-mathematics",
+          "display_name": "Discrete mathematics",
+          "score": 0.3049165606498718
+        },
+        {
+          "id": "https://openalex.org/keywords/combinatorics",
+          "display_name": "Combinatorics",
+          "score": 0.24979162216186523
+        },
+        {
+          "id": "https://openalex.org/keywords/mathematical-analysis",
+          "display_name": "Mathematical analysis",
+          "score": 0.20899394154548645
+        },
+        {
+          "id": "https://openalex.org/keywords/computer-science",
+          "display_name": "Computer science",
+          "score": 0.150132954120636
+        },
+        {
+          "id": "https://openalex.org/keywords/metric-space",
+          "display_name": "Metric space",
+          "score": 0.08926704525947571
+        },
+        {
+          "id": "https://openalex.org/keywords/physics",
+          "display_name": "Physics",
+          "score": 0.08802798390388489
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C33923547",
+          "wikidata": "https://www.wikidata.org/wiki/Q395",
+          "display_name": "Mathematics",
+          "level": 0,
+          "score": 0.7138566374778748
+        },
+        {
+          "id": "https://openalex.org/C45340560",
+          "wikidata": "https://www.wikidata.org/wiki/Q215382",
+          "display_name": "Disjoint sets",
+          "level": 2,
+          "score": 0.677834153175354
+        },
+        {
+          "id": "https://openalex.org/C61067352",
+          "wikidata": "https://www.wikidata.org/wiki/Q1897429",
+          "display_name": "Ultrametric space",
+          "level": 3,
+          "score": 0.6420402526855469
+        },
+        {
+          "id": "https://openalex.org/C529865628",
+          "wikidata": "https://www.wikidata.org/wiki/Q1790740",
+          "display_name": "Manifold (fluid mechanics)",
+          "level": 2,
+          "score": 0.5854601860046387
+        },
+        {
+          "id": "https://openalex.org/C2779343474",
+          "wikidata": "https://www.wikidata.org/wiki/Q3109175",
+          "display_name": "Context (archaeology)",
+          "level": 2,
+          "score": 0.5700926780700684
+        },
+        {
+          "id": "https://openalex.org/C9376300",
+          "wikidata": "https://www.wikidata.org/wiki/Q168817",
+          "display_name": "Algebraic number",
+          "level": 2,
+          "score": 0.5115604996681213
+        },
+        {
+          "id": "https://openalex.org/C202444582",
+          "wikidata": "https://www.wikidata.org/wiki/Q837863",
+          "display_name": "Pure mathematics",
+          "level": 1,
+          "score": 0.5101032853126526
+        },
+        {
+          "id": "https://openalex.org/C527412718",
+          "wikidata": "https://www.wikidata.org/wiki/Q855395",
+          "display_name": "Interpretation (philosophy)",
+          "level": 2,
+          "score": 0.46405449509620667
+        },
+        {
+          "id": "https://openalex.org/C192209626",
+          "wikidata": "https://www.wikidata.org/wiki/Q190909",
+          "display_name": "Focus (optics)",
+          "level": 2,
+          "score": 0.45344218611717224
+        },
+        {
+          "id": "https://openalex.org/C138268822",
+          "wikidata": "https://www.wikidata.org/wiki/Q1051925",
+          "display_name": "Resolution (logic)",
+          "level": 2,
+          "score": 0.44783687591552734
+        },
+        {
+          "id": "https://openalex.org/C184720557",
+          "wikidata": "https://www.wikidata.org/wiki/Q7825049",
+          "display_name": "Topology (electrical circuits)",
+          "level": 2,
+          "score": 0.32366710901260376
+        },
+        {
+          "id": "https://openalex.org/C118615104",
+          "wikidata": "https://www.wikidata.org/wiki/Q121416",
+          "display_name": "Discrete mathematics",
+          "level": 1,
+          "score": 0.3049165606498718
+        },
+        {
+          "id": "https://openalex.org/C114614502",
+          "wikidata": "https://www.wikidata.org/wiki/Q76592",
+          "display_name": "Combinatorics",
+          "level": 1,
+          "score": 0.24979162216186523
+        },
+        {
+          "id": "https://openalex.org/C134306372",
+          "wikidata": "https://www.wikidata.org/wiki/Q7754",
+          "display_name": "Mathematical analysis",
+          "level": 1,
+          "score": 0.20899394154548645
+        },
+        {
+          "id": "https://openalex.org/C41008148",
+          "wikidata": "https://www.wikidata.org/wiki/Q21198",
+          "display_name": "Computer science",
+          "level": 0,
+          "score": 0.150132954120636
+        },
+        {
+          "id": "https://openalex.org/C198043062",
+          "wikidata": "https://www.wikidata.org/wiki/Q180953",
+          "display_name": "Metric space",
+          "level": 2,
+          "score": 0.08926704525947571
+        },
+        {
+          "id": "https://openalex.org/C121332964",
+          "wikidata": "https://www.wikidata.org/wiki/Q413",
+          "display_name": "Physics",
+          "level": 0,
+          "score": 0.08802798390388489
+        },
+        {
+          "id": "https://openalex.org/C78519656",
+          "wikidata": "https://www.wikidata.org/wiki/Q101333",
+          "display_name": "Mechanical engineering",
+          "level": 1,
+          "score": 0.0
+        },
+        {
+          "id": "https://openalex.org/C86803240",
+          "wikidata": "https://www.wikidata.org/wiki/Q420",
+          "display_name": "Biology",
+          "level": 0,
+          "score": 0.0
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.0
+        },
+        {
+          "id": "https://openalex.org/C120665830",
+          "wikidata": "https://www.wikidata.org/wiki/Q14620",
+          "display_name": "Optics",
+          "level": 1,
+          "score": 0.0
+        },
+        {
+          "id": "https://openalex.org/C199360897",
+          "wikidata": "https://www.wikidata.org/wiki/Q9143",
+          "display_name": "Programming language",
+          "level": 1,
+          "score": 0.0
+        },
+        {
+          "id": "https://openalex.org/C154945302",
+          "wikidata": "https://www.wikidata.org/wiki/Q11660",
+          "display_name": "Artificial intelligence",
+          "level": 1,
+          "score": 0.0
+        },
+        {
+          "id": "https://openalex.org/C127413603",
+          "wikidata": "https://www.wikidata.org/wiki/Q11023",
+          "display_name": "Engineering",
+          "level": 0,
+          "score": 0.0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "mag:225865089",
+          "is_oa": false,
+          "landing_page_url": "https://vixra.org/pdf/1302.0110v1.pdf",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S2883122597",
+            "display_name": "viXra",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "viXra",
+          "raw_type": null
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "pdf": false,
+        "grobid_xml": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 5,
+      "referenced_works": [
+        "https://openalex.org/W95661117",
+        "https://openalex.org/W151754911",
+        "https://openalex.org/W2059785306",
+        "https://openalex.org/W3037268115",
+        "https://openalex.org/W3037293421"
+      ],
+      "related_works": [
+        "https://openalex.org/W433383793",
+        "https://openalex.org/W2529041177",
+        "https://openalex.org/W106150244",
+        "https://openalex.org/W2291407375",
+        "https://openalex.org/W1789097125",
+        "https://openalex.org/W2952252691",
+        "https://openalex.org/W1559684310",
+        "https://openalex.org/W1662494735",
+        "https://openalex.org/W2417866356",
+        "https://openalex.org/W1537203304",
+        "https://openalex.org/W2952643377",
+        "https://openalex.org/W2033832865",
+        "https://openalex.org/W3092947285",
+        "https://openalex.org/W1676662448",
+        "https://openalex.org/W1672379550",
+        "https://openalex.org/W2166939753",
+        "https://openalex.org/W2010164470",
+        "https://openalex.org/W1544137434",
+        "https://openalex.org/W2005515483",
+        "https://openalex.org/W2183329983"
+      ],
+      "abstract_inverted_index": {
+        "The": [
+          0,
+          9,
+          186,
+          267,
+          450,
+          523,
+          617,
+          649
+        ],
+        "original": [
+          1
+        ],
+        "focus": [
+          2
+        ],
+        "of": [
+          3,
+          11,
+          22,
+          26,
+          33,
+          44,
+          50,
+          54,
+          65,
+          110,
+          151,
+          168,
+          170,
+          180,
+          214,
+          221,
+          241,
+          260,
+          275,
+          330,
+          344,
+          363,
+          396,
+          399,
+          401,
+          431,
+          447,
+          456,
+          475,
+          530,
+          552,
+          566,
+          586,
+          624,
+          635,
+          723,
+          736,
+          753,
+          776,
+          789,
+          802,
+          808,
+          832
+        ],
+        "this": [
+          4,
+          15,
+          37
+        ],
+        "article": [
+          5
+        ],
+        "was": [
+          6,
+          654
+        ],
+        "p-adic": [
+          7,
+          27,
+          34,
+          69,
+          88,
+          132,
+          184,
+          191,
+          222,
+          231,
+          263,
+          273,
+          281,
+          378,
+          420,
+          442,
+          459,
+          466,
+          483,
+          509,
+          521,
+          524,
+          567,
+          587,
+          628,
+          673
+        ],
+        "icosahedron.": [
+          8
+        ],
+        "discussion": [
+          10
+        ],
+        "attempt": [
+          12
+        ],
+        "to": [
+          13,
+          19,
+          102,
+          118,
+          176,
+          183,
+          211,
+          247,
+          303,
+          368,
+          434,
+          494,
+          501,
+          604,
+          613,
+          621,
+          640,
+          668,
+          672,
+          686,
+          696,
+          701,
+          773
+        ],
+        "define": [
+          14
+        ],
+        "notion": [
+          16,
+          150,
+          164,
+          213,
+          254,
+          268,
+          634
+        ],
+        "however": [
+          17,
+          100,
+          492
+        ],
+        "leads": [
+          18,
+          210
+        ],
+        "the": [
+          20,
+          24,
+          41,
+          51,
+          63,
+          93,
+          149,
+          166,
+          178,
+          200,
+          212,
+          239,
+          242,
+          272,
+          301,
+          345,
+          370,
+          394,
+          412,
+          429,
+          454,
+          527,
+          531,
+          579,
+          583,
+          596,
+          602,
+          622,
+          633,
+          698,
+          724,
+          750,
+          774,
+          787,
+          813,
+          841
+        ],
+        "challenge": [
+          21
+        ],
+        "defining": [
+          23,
+          258
+        ],
+        "concept": [
+          25,
+          372
+        ],
+        "sphere,": [
+          28
+        ],
+        "and": [
+          29,
+          36,
+          68,
+          72,
+          87,
+          105,
+          120,
+          229,
+          285,
+          299,
+          376,
+          383,
+          398,
+          419,
+          441,
+          458,
+          642,
+          661,
+          688,
+          691,
+          713,
+          743,
+          769,
+          795,
+          821
+        ],
+        "more": [
+          30
+        ],
+        "generally,": [
+          31
+        ],
+        "that": [
+          32,
+          145,
+          190,
+          199,
+          280,
+          350,
+          578,
+          595,
+          655,
+          711,
+          817
+        ],
+        "manifold,": [
+          35
+        ],
+        "problem": [
+          38,
+          188
+        ],
+        "soon": [
+          39
+        ],
+        "became": [
+          40
+        ],
+        "main": [
+          42
+        ],
+        "target": [
+          43
+        ],
+        "attention": [
+          45
+        ],
+        "since": [
+          46
+        ],
+        "it": [
+          47,
+          576
+        ],
+        "is": [
+          48,
+          99,
+          128,
+          155,
+          189,
+          244,
+          255,
+          297,
+          360,
+          411,
+          461,
+          589,
+          630,
+          836,
+          844
+        ],
+        "one": [
+          49,
+          138,
+          843
+        ],
+        "key": [
+          52,
+          413
+        ],
+        "challenges": [
+          53
+        ],
+        "also": [
+          55,
+          308,
+          355,
+          392,
+          731,
+          758
+        ],
+        "TGD.": [
+          56,
+          364
+        ],
+        "There": [
+          57
+        ],
+        "exists": [
+          58
+        ],
+        "two": [
+          59
+        ],
+        "basic": [
+          60,
+          187
+        ],
+        "philosophies": [
+          61
+        ],
+        "concerning": [
+          62
+        ],
+        "construction": [
+          64,
+          202,
+          243,
+          565,
+          623
+        ],
+        "both": [
+          66,
+          158,
+          438
+        ],
+        "real": [
+          67,
+          86,
+          181,
+          418,
+          440,
+          457,
+          471,
+          497,
+          547,
+          561,
+          670
+        ],
+        "manifolds:": [
+          70
+        ],
+        "algebraic": [
+          71,
+          83,
+          298,
+          304,
+          312,
+          386,
+          451,
+          714
+        ],
+        "topological": [
+          73,
+          309,
+          712,
+          767
+        ],
+        "approach.": [
+          74
+        ],
+        "Also": [
+          75
+        ],
+        "in": [
+          76,
+          108,
+          123,
+          157,
+          287,
+          319,
+          340,
+          546,
+          573,
+          592,
+          645,
+          734,
+          810,
+          830
+        ],
+        "TGD": [
+          77,
+          288,
+          320,
+          574,
+          591,
+          618,
+          814
+        ],
+        "these": [
+          78
+        ],
+        "approaches": [
+          79,
+          609
+        ],
+        "have": [
+          80,
+          311,
+          732
+        ],
+        "been": [
+          81
+        ],
+        "competing:": [
+          82
+        ],
+        "approach": [
+          84,
+          296,
+          315,
+          715
+        ],
+        "relates": [
+          85
+        ],
+        "space-time": [
+          89,
+          397,
+          498,
+          703,
+          824
+        ],
+        "points": [
+          90
+        ],
+        "by": [
+          91,
+          203,
+          373,
+          519,
+          541,
+          582
+        ],
+        "identifying": [
+          92
+        ],
+        "common": [
+          94,
+          385
+        ],
+        "rationals.": [
+          95
+        ],
+        "Finite": [
+          96,
+          718
+        ],
+        "pinary": [
+          97,
+          141,
+          146
+        ],
+        "cutoff": [
+          98,
+          147
+        ],
+        "required": [
+          101
+        ],
+        "achieve": [
+          103
+        ],
+        "continuity": [
+          104
+        ],
+        "has": [
+          106
+        ],
+        "interpretation": [
+          107,
+          437,
+          733
+        ],
+        "terms": [
+          109,
+          735,
+          831
+        ],
+        "finite": [
+          111,
+          152,
+          678,
+          707
+        ],
+        "measurement": [
+          112,
+          153,
+          679,
+          708
+        ],
+        "resolution.": [
+          113
+        ],
+        "Canonical": [
+          114,
+          675
+        ],
+        "identification": [
+          115,
+          637,
+          657,
+          676
+        ],
+        "maps": [
+          116,
+          683,
+          740
+        ],
+        "p-adics": [
+          117,
+          641,
+          685
+        ],
+        "reals": [
+          119,
+          375,
+          639,
+          687
+        ],
+        "vice": [
+          121,
+          643,
+          689
+        ],
+        "versa": [
+          122,
+          644,
+          690
+        ],
+        "a": [
+          124,
+          140,
+          162,
+          219,
+          234,
+          341,
+          605,
+          646,
+          761,
+          803,
+          828,
+          837
+        ],
+        "continuous": [
+          125,
+          647
+        ],
+        "manner": [
+          126,
+          342
+        ],
+        "but": [
+          127,
+          651
+        ],
+        "not": [
+          129,
+          462,
+          478,
+          556,
+          570
+        ],
+        "consistent": [
+          130
+        ],
+        "with": [
+          131,
+          677,
+          812
+        ],
+        "analyticity": [
+          133
+        ],
+        "nor": [
+          134
+        ],
+        "field": [
+          135
+        ],
+        "equations": [
+          136
+        ],
+        "unless": [
+          137
+        ],
+        "poses": [
+          139
+        ],
+        "cutoff.": [
+          142
+        ],
+        "It": [
+          143
+        ],
+        "seems": [
+          144
+        ],
+        "reflecting": [
+          148
+        ],
+        "resolution": [
+          154,
+          680,
+          709,
+          719
+        ],
+        "necessary": [
+          156
+        ],
+        "approaches.": [
+          159
+        ],
+        "This": [
+          160,
+          209,
+          237,
+          314,
+          388,
+          486,
+          511,
+          834
+        ],
+        "represents": [
+          161
+        ],
+        "new": [
+          163
+        ],
+        "from": [
+          165,
+          453,
+          684
+        ],
+        "point": [
+          167
+        ],
+        "view": [
+          169
+        ],
+        "mathematics.": [
+          171
+        ],
+        "a)": [
+          172,
+          616
+        ],
+        "One": [
+          173,
+          746
+        ],
+        "can": [
+          174,
+          333,
+          490,
+          504,
+          747
+        ],
+        "try": [
+          175
+        ],
+        "generalize": [
+          177,
+          369
+        ],
+        "theory": [
+          179,
+          729
+        ],
+        "manifolds": [
+          182
+        ],
+        "context.": [
+          185,
+          674
+        ],
+        "balls": [
+          192
+        ],
+        "are": [
+          193,
+          290,
+          517,
+          716
+        ],
+        "either": [
+          194
+        ],
+        "disjoint": [
+          195
+        ],
+        "or": [
+          196
+        ],
+        "nested": [
+          197
+        ],
+        "so": [
+          198,
+          349,
+          710
+        ],
+        "usual": [
+          201
+        ],
+        "gluing": [
+          204,
+          374
+        ],
+        "partially": [
+          205
+        ],
+        "overlapping": [
+          206
+        ],
+        "spheres": [
+          207
+        ],
+        "fails.": [
+          208
+        ],
+        "Berkovich": [
+          215,
+          564
+        ],
+        "disk": [
+          216,
+          223,
+          232,
+          568
+        ],
+        "obtained": [
+          217
+        ],
+        "as": [
+          218,
+          233,
+          439,
+          473,
+          739,
+          760
+        ],
+        "completion": [
+          220,
+          603
+        ],
+        "having": [
+          224
+        ],
+        "path": [
+          225,
+          265,
+          625,
+          754
+        ],
+        "connected": [
+          226,
+          626
+        ],
+        "topology": [
+          227,
+          588,
+          629,
+          671
+        ],
+        "(non-ultrametric)": [
+          228
+        ],
+        "containing": [
+          230
+        ],
+        "dense": [
+          235
+        ],
+        "subset.": [
+          236
+        ],
+        "plus": [
+          238
+        ],
+        "complexity": [
+          240
+        ],
+        "heavy": [
+          245
+        ],
+        "price": [
+          246
+        ],
+        "be": [
+          248,
+          334,
+          491,
+          535,
+          599,
+          614,
+          757
+        ],
+        "paid": [
+          249
+        ],
+        "for": [
+          250,
+          271,
+          306,
+          325,
+          444,
+          464,
+          481,
+          779,
+          786
+        ],
+        "path-connectedness.": [
+          251
+        ],
+        "A": [
+          252
+        ],
+        "related": [
+          253
+        ],
+        "Bruhat-Tits": [
+          256
+        ],
+        "tree": [
+          257
+        ],
+        "kind": [
+          259
+        ],
+        "skeleton": [
+          261
+        ],
+        "making": [
+          262
+        ],
+        "manifold": [
+          264,
+          725,
+          728,
+          809
+        ],
+        "connected.": [
+          266
+        ],
+        "makes": [
+          269,
+          390
+        ],
+        "sense": [
+          270,
+          354,
+          391,
+          480
+        ],
+        "counterparts": [
+          274
+        ],
+        "projective": [
+          276,
+          282
+        ],
+        "spaces,": [
+          277
+        ],
+        "which": [
+          278,
+          307,
+          427,
+          611
+        ],
+        "suggests": [
+          279,
+          577,
+          594
+        ],
+        "spaces": [
+          283
+        ],
+        "(S2": [
+          284
+        ],
+        "CP2": [
+          286
+        ],
+        "framework)": [
+          289
+        ],
+        "physically": [
+          291
+        ],
+        "very": [
+          292,
+          317
+        ],
+        "special.": [
+          293
+        ],
+        "b)": [
+          294,
+          745
+        ],
+        "Second": [
+          295
+        ],
+        "restricts": [
+          300
+        ],
+        "consideration": [
+          302
+        ],
+        "varieties": [
+          305
+        ],
+        "invariants": [
+          310
+        ],
+        "counterparts.": [
+          313
+        ],
+        "looks": [
+          316
+        ],
+        "natural": [
+          318
+        ],
+        "framework": [
+          321
+        ],
+        "-": [
+          322,
+          338,
+          348,
+          820,
+          826
+        ],
+        "at": [
+          323,
+          393,
+          428
+        ],
+        "least": [
+          324
+        ],
+        "imbedding": [
+          326
+        ],
+        "space.": [
+          327
+        ],
+        "Preferred": [
+          328
+        ],
+        "extremals": [
+          329
+        ],
+        "Kahler": [
+          331
+        ],
+        "action": [
+          332,
+          346
+        ],
+        "characterized": [
+          335,
+          518
+        ],
+        "purely": [
+          336
+        ],
+        "algebraically": [
+          337
+        ],
+        "even": [
+          339,
+          823
+        ],
+        "independent": [
+          343
+        ],
+        "principle": [
+          347,
+          544
+        ],
+        "they": [
+          351
+        ],
+        "might": [
+          352
+        ],
+        "make": [
+          353,
+          479
+        ],
+        "p-adically.": [
+          356
+        ],
+        "Number": [
+          357
+        ],
+        "theoretical": [
+          358
+        ],
+        "universality": [
+          359
+        ],
+        "central": [
+          361
+        ],
+        "element": [
+          362
+        ],
+        "Physical": [
+          365
+        ],
+        "considerations": [
+          366
+        ],
+        "force": [
+          367
+        ],
+        "number": [
+          371,
+          379,
+          409,
+          467,
+          484,
+          537,
+          554,
+          804
+        ],
+        "various": [
+          377
+        ],
+        "fields": [
+          380,
+          410,
+          784,
+          794
+        ],
+        "along": [
+          381,
+          424
+        ],
+        "rationals": [
+          382
+        ],
+        "possible": [
+          384,
+          463
+        ],
+        "numbers.": [
+          387
+        ],
+        "idea": [
+          389
+        ],
+        "level": [
+          395,
+          430
+        ],
+        "world": [
+          400
+        ],
+        "classical": [
+          402
+        ],
+        "worlds": [
+          403
+        ],
+        "(WCW).": [
+          404
+        ],
+        "Algebraic": [
+          405,
+          415
+        ],
+        "continuation": [
+          406,
+          416,
+          452
+        ],
+        "between": [
+          407,
+          417,
+          741
+        ],
+        "different": [
+          408
+        ],
+        "notion.": [
+          414
+        ],
+        "sectors": [
+          421
+        ],
+        "takes": [
+          422
+        ],
+        "place": [
+          423
+        ],
+        "their": [
+          425,
+          796
+        ],
+        "intersection": [
+          426,
+          455
+        ],
+        "WCW": [
+          432,
+          790,
+          818
+        ],
+        "correspond": [
+          433,
+          505
+        ],
+        "surfaces": [
+          435,
+          443,
+          499
+        ],
+        "allowing": [
+          436,
+          667
+        ],
+        "some": [
+          445,
+          507,
+          542
+        ],
+        "value(s)": [
+          446
+        ],
+        "prime": [
+          448,
+          525
+        ],
+        "p.": [
+          449
+        ],
+        "WCWs": [
+          460
+        ],
+        "all": [
+          465,
+          482
+        ],
+        "fields.": [
+          468,
+          485
+        ],
+        "For": [
+          469
+        ],
+        "instance,": [
+          470
+        ],
+        "integrals": [
+          472
+        ],
+        "functions": [
+          474,
+          778,
+          798
+        ],
+        "parameters": [
+          476
+        ],
+        "need": [
+          477
+        ],
+        "apparent": [
+          487
+        ],
+        "mathematical": [
+          488
+        ],
+        "weakness": [
+          489
+        ],
+        "turned": [
+          493
+        ],
+        "physical": [
+          495,
+          751,
+          763
+        ],
+        "strength:": [
+          496
+        ],
+        "assignable": [
+          500
+        ],
+        "elementary": [
+          502,
+          515,
+          532
+        ],
+        "particles": [
+          503,
+          516
+        ],
+        "only": [
+          506
+        ],
+        "particular": [
+          508
+        ],
+        "primes.": [
+          510,
+          522
+        ],
+        "would": [
+          512,
+          720,
+          730
+        ],
+        "explain": [
+          513
+        ],
+        "why": [
+          514
+        ],
+        "preferred": [
+          520,
+          692
+        ],
+        "determining": [
+          526
+        ],
+        "mass": [
+          528
+        ],
+        "scale": [
+          529
+        ],
+        "particle": [
+          533
+        ],
+        "could": [
+          534,
+          598,
+          756,
+          770,
+          799
+        ],
+        "fixed": [
+          536
+        ],
+        "theoretically": [
+          538,
+          805
+        ],
+        "rather": [
+          539,
+          764
+        ],
+        "than": [
+          540,
+          765
+        ],
+        "dynamical": [
+          543
+        ],
+        "formulated": [
+          545,
+          759
+        ],
+        "context": [
+          548
+        ],
+        "(number": [
+          549
+        ],
+        "theoretic": [
+          550
+        ],
+        "anatomy": [
+          551
+        ],
+        "rational": [
+          553
+        ],
+        "does": [
+          555,
+          569
+        ],
+        "depend": [
+          557
+        ],
+        "smoothly": [
+          558
+        ],
+        "on": [
+          559,
+          632,
+          845
+        ],
+        "its": [
+          560
+        ],
+        "magnitude!).": [
+          562
+        ],
+        "Although": [
+          563
+        ],
+        "look": [
+          571
+        ],
+        "promising": [
+          572
+        ],
+        "framework,": [
+          575
+        ],
+        "difficulty": [
+          580,
+          597
+        ],
+        "posed": [
+          581
+        ],
+        "total": [
+          584
+        ],
+        "disconnectedness": [
+          585
+        ],
+        "real.": [
+          590
+        ],
+        "turn": [
+          593
+        ],
+        "overcome": [
+          600
+        ],
+        "without": [
+          601
+        ],
+        "non-ultrametric": [
+          606
+        ],
+        "topology.": [
+          607
+        ],
+        "Two": [
+          608
+        ],
+        "emerge,": [
+          610
+        ],
+        "ought": [
+          612
+        ],
+        "equivalent.": [
+          615
+        ],
+        "inspired": [
+          619,
+          815
+        ],
+        "solution": [
+          620
+        ],
+        "effective": [
+          627
+        ],
+        "based": [
+          631
+        ],
+        "canonical": [
+          636,
+          656
+        ],
+        "mapping": [
+          638
+        ],
+        "manner.": [
+          648
+        ],
+        "trivial": [
+          650
+        ],
+        "striking": [
+          652
+        ],
+        "observation": [
+          653
+        ],
+        "satisfies": [
+          658
+        ],
+        "triangle": [
+          659
+        ],
+        "inequality": [
+          660
+        ],
+        "thus": [
+          662
+        ],
+        "defines": [
+          663,
+          681
+        ],
+        "an": [
+          664
+        ],
+        "Archimedean": [
+          665
+        ],
+        "norm": [
+          666
+        ],
+        "induce": [
+          669
+        ],
+        "chart": [
+          682
+        ],
+        "extremal": [
+          693
+        ],
+        "property": [
+          694
+        ],
+        "allows": [
+          695
+        ],
+        "complete": [
+          697
+        ],
+        "discrete": [
+          699
+        ],
+        "image": [
+          700
+        ],
+        "hopefully": [
+          702
+        ],
+        "surface": [
+          704
+        ],
+        "unique": [
+          705
+        ],
+        "within": [
+          706
+        ],
+        "combined.": [
+          717
+        ],
+        "become": [
+          721,
+          800
+        ],
+        "part": [
+          722,
+          801
+        ],
+        "theory.": [
+          726
+        ],
+        "p-Adic": [
+          727
+        ],
+        "cognitive": [
+          737
+        ],
+        "representations": [
+          738
+        ],
+        "realities": [
+          742
+        ],
+        "p-adicities.": [
+          744
+        ],
+        "ask": [
+          748
+        ],
+        "whether": [
+          749
+        ],
+        "content": [
+          752
+        ],
+        "connectedness": [
+          755
+        ],
+        "quantum": [
+          762
+        ],
+        "primarily": [
+          766
+        ],
+        "notion,": [
+          768
+        ],
+        "boil": [
+          771
+        ],
+        "down": [
+          772
+        ],
+        "non-triviality": [
+          775
+        ],
+        "correlation": [
+          777
+        ],
+        "second": [
+          780
+        ],
+        "quantized": [
+          781
+        ],
+        "induced": [
+          782
+        ],
+        "spinor": [
+          783,
+          791
+        ],
+        "essential": [
+          785
+        ],
+        "formulation": [
+          788,
+          829
+        ],
+        "structure.": [
+          792
+        ],
+        "Fermion": [
+          793
+        ],
+        "n-point": [
+          797
+        ],
+        "universal": [
+          806
+        ],
+        "definition": [
+          807
+        ],
+        "accordance": [
+          811
+        ],
+        "vision": [
+          816
+        ],
+        "geometry": [
+          819,
+          825
+        ],
+        "perhaps": [
+          822
+        ],
+        "allow": [
+          827
+        ],
+        "fermions.": [
+          833
+        ],
+        "option": [
+          835
+        ],
+        "mere": [
+          838
+        ],
+        "conjecture": [
+          839
+        ],
+        "whereas": [
+          840
+        ],
+        "first": [
+          842
+        ],
+        "rigorous": [
+          846
+        ],
+        "basis.": [
+          847
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2016,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2013,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2025-10-10T17:16:08.811792",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W1982449754",
+      "doi": "https://doi.org/10.1088/0264-9381/27/20/205025",
+      "title": "Spin foams and noncommutative geometry",
+      "display_name": "Spin foams and noncommutative geometry",
+      "relevance_score": 80.94561,
+      "publication_year": 2010,
+      "publication_date": "2010-09-22",
+      "ids": {
+        "openalex": "https://openalex.org/W1982449754",
+        "doi": "https://doi.org/10.1088/0264-9381/27/20/205025",
+        "mag": "1982449754"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1088/0264-9381/27/20/205025",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1088/0264-9381/27/20/205025",
+        "pdf_url": "https://iopscience.iop.org/article/10.1088/0264-9381/27/20/205025/pdf",
+        "source": {
+          "id": "https://openalex.org/S171172751",
+          "display_name": "Classical and Quantum Gravity",
+          "issn_l": "0264-9381",
+          "issn": [
+            "0264-9381",
+            "1361-6382"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320083",
+          "host_organization_name": "IOP Publishing",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320083",
+            "https://openalex.org/P4310311669"
+          ],
+          "host_organization_lineage_names": [
+            "IOP Publishing",
+            "Institute of Physics"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Classical and Quantum Gravity",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "arxiv",
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://iopscience.iop.org/article/10.1088/0264-9381/27/20/205025/pdf",
+        "any_repository_has_fulltext": true
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": null,
+            "display_name": "Domenic Denicola",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I122411786",
+              "display_name": "California Institute of Technology",
+              "ror": "https://ror.org/05dxps055",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I122411786"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Domenic Denicola",
+          "raw_affiliation_strings": [
+            "MSC No 240, California Institute of Technology, 1200 E California Blvd, Pasadena, CA 91126, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "MSC No 240, California Institute of Technology, 1200 E California Blvd, Pasadena, CA 91126, USA",
+              "institution_ids": [
+                "https://openalex.org/I122411786"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": null,
+            "display_name": "Matilde Marcolli",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I122411786",
+              "display_name": "California Institute of Technology",
+              "ror": "https://ror.org/05dxps055",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I122411786"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Matilde Marcolli",
+          "raw_affiliation_strings": [
+            "Division of Physics, Mathematics, and Astronomy, California Institute of Technology, 1200 E California Blvd, Pasadena, CA 91125, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Division of Physics, Mathematics, and Astronomy, California Institute of Technology, 1200 E California Blvd, Pasadena, CA 91125, USA",
+              "institution_ids": [
+                "https://openalex.org/I122411786"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": null,
+            "display_name": "Ahmad Zainy al-Yasry",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I12323705",
+              "display_name": "The Abdus Salam International Centre for Theoretical Physics (ICTP)",
+              "ror": "https://ror.org/009gyvm78",
+              "country_code": "IT",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I12323705",
+                "https://openalex.org/I1286959531",
+                "https://openalex.org/I1293226324",
+                "https://openalex.org/I2801247003"
+              ]
+            }
+          ],
+          "countries": [
+            "IT"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Ahmad Zainy al-Yasry",
+          "raw_affiliation_strings": [
+            "Abdus Salam International Center for Theoretical Physics, Strada Costiera 11, Trieste, I-34151, Italy"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Abdus Salam International Center for Theoretical Physics, Strada Costiera 11, Trieste, I-34151, Italy",
+              "institution_ids": [
+                "https://openalex.org/I12323705"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 2,
+      "institutions_distinct_count": 2,
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 1.8373,
+      "has_fulltext": true,
+      "cited_by_count": 17,
+      "citation_normalized_percentile": {
+        "value": 0.8161595,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 89,
+        "max": 98
+      },
+      "biblio": {
+        "volume": "27",
+        "issue": "20",
+        "first_page": "205025",
+        "last_page": "205025"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10896",
+        "display_name": "Homotopy and Cohomology in Algebraic Topology",
+        "score": 0.37940001487731934,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2610",
+          "display_name": "Mathematical Physics"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/26",
+          "display_name": "Mathematics"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10896",
+          "display_name": "Homotopy and Cohomology in Algebraic Topology",
+          "score": 0.37940001487731934,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2610",
+            "display_name": "Mathematical Physics"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/26",
+            "display_name": "Mathematics"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T11415",
+          "display_name": "Noncommutative and Quantum Gravity Theories",
+          "score": 0.2606000006198883,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3109",
+            "display_name": "Statistical and Nonlinear Physics"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/31",
+            "display_name": "Physics and Astronomy"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10899",
+          "display_name": "Advanced Operator Algebra Research",
+          "score": 0.08030000329017639,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2610",
+            "display_name": "Mathematical Physics"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/26",
+            "display_name": "Mathematics"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/noncommutative-geometry",
+          "display_name": "Noncommutative geometry",
+          "score": 0.8023999929428101
+        },
+        {
+          "id": "https://openalex.org/keywords/spin-network",
+          "display_name": "Spin network",
+          "score": 0.7971000075340271
+        },
+        {
+          "id": "https://openalex.org/keywords/spin-foam",
+          "display_name": "Spin foam",
+          "score": 0.7738000154495239
+        },
+        {
+          "id": "https://openalex.org/keywords/formalism",
+          "display_name": "Formalism (music)",
+          "score": 0.5026999711990356
+        },
+        {
+          "id": "https://openalex.org/keywords/invariant",
+          "display_name": "Invariant (physics)",
+          "score": 0.4180000126361847
+        },
+        {
+          "id": "https://openalex.org/keywords/topology",
+          "display_name": "Topology (electrical circuits)",
+          "score": 0.41019999980926514
+        },
+        {
+          "id": "https://openalex.org/keywords/spin",
+          "display_name": "Spin (aerodynamics)",
+          "score": 0.38019999861717224
+        },
+        {
+          "id": "https://openalex.org/keywords/morita-equivalence",
+          "display_name": "Morita equivalence",
+          "score": 0.35409998893737793
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C121332964",
+          "wikidata": "https://www.wikidata.org/wiki/Q413",
+          "display_name": "Physics",
+          "level": 0,
+          "score": 0.8044000267982483
+        },
+        {
+          "id": "https://openalex.org/C68797384",
+          "wikidata": "https://www.wikidata.org/wiki/Q2746792",
+          "display_name": "Noncommutative geometry",
+          "level": 2,
+          "score": 0.8023999929428101
+        },
+        {
+          "id": "https://openalex.org/C68562976",
+          "wikidata": "https://www.wikidata.org/wiki/Q654081",
+          "display_name": "Spin network",
+          "level": 5,
+          "score": 0.7971000075340271
+        },
+        {
+          "id": "https://openalex.org/C204572665",
+          "wikidata": "https://www.wikidata.org/wiki/Q914299",
+          "display_name": "Spin foam",
+          "level": 5,
+          "score": 0.7738000154495239
+        },
+        {
+          "id": "https://openalex.org/C73301696",
+          "wikidata": "https://www.wikidata.org/wiki/Q5469984",
+          "display_name": "Formalism (music)",
+          "level": 3,
+          "score": 0.5026999711990356
+        },
+        {
+          "id": "https://openalex.org/C190470478",
+          "wikidata": "https://www.wikidata.org/wiki/Q2370229",
+          "display_name": "Invariant (physics)",
+          "level": 2,
+          "score": 0.4180000126361847
+        },
+        {
+          "id": "https://openalex.org/C184720557",
+          "wikidata": "https://www.wikidata.org/wiki/Q7825049",
+          "display_name": "Topology (electrical circuits)",
+          "level": 2,
+          "score": 0.41019999980926514
+        },
+        {
+          "id": "https://openalex.org/C42704618",
+          "wikidata": "https://www.wikidata.org/wiki/Q910917",
+          "display_name": "Spin (aerodynamics)",
+          "level": 2,
+          "score": 0.38019999861717224
+        },
+        {
+          "id": "https://openalex.org/C134941585",
+          "wikidata": "https://www.wikidata.org/wiki/Q6912366",
+          "display_name": "Morita equivalence",
+          "level": 2,
+          "score": 0.35409998893737793
+        },
+        {
+          "id": "https://openalex.org/C45347329",
+          "wikidata": "https://www.wikidata.org/wiki/Q5166604",
+          "display_name": "Convolution (computer science)",
+          "level": 3,
+          "score": 0.3537999987602234
+        },
+        {
+          "id": "https://openalex.org/C527218924",
+          "wikidata": "https://www.wikidata.org/wiki/Q964053",
+          "display_name": "Topological algebra",
+          "level": 3,
+          "score": 0.3425999879837036
+        },
+        {
+          "id": "https://openalex.org/C2781204021",
+          "wikidata": "https://www.wikidata.org/wiki/Q6497091",
+          "display_name": "Lattice (music)",
+          "level": 2,
+          "score": 0.3416000008583069
+        },
+        {
+          "id": "https://openalex.org/C33332235",
+          "wikidata": "https://www.wikidata.org/wiki/Q18362",
+          "display_name": "Theoretical physics",
+          "level": 1,
+          "score": 0.3199999928474426
+        },
+        {
+          "id": "https://openalex.org/C99679407",
+          "wikidata": "https://www.wikidata.org/wiki/Q56761637",
+          "display_name": "Substructure",
+          "level": 2,
+          "score": 0.30959999561309814
+        },
+        {
+          "id": "https://openalex.org/C21690051",
+          "wikidata": "https://www.wikidata.org/wiki/Q962347",
+          "display_name": "Spin polarization",
+          "level": 3,
+          "score": 0.30550000071525574
+        },
+        {
+          "id": "https://openalex.org/C79118098",
+          "wikidata": "https://www.wikidata.org/wiki/Q43101",
+          "display_name": "Boson",
+          "level": 2,
+          "score": 0.2969000041484833
+        },
+        {
+          "id": "https://openalex.org/C156103551",
+          "wikidata": "https://www.wikidata.org/wiki/Q130998",
+          "display_name": "Equivalence relation",
+          "level": 2,
+          "score": 0.29440000653266907
+        },
+        {
+          "id": "https://openalex.org/C195800304",
+          "wikidata": "https://www.wikidata.org/wiki/Q7601281",
+          "display_name": "Star product",
+          "level": 2,
+          "score": 0.28949999809265137
+        },
+        {
+          "id": "https://openalex.org/C183778304",
+          "wikidata": "https://www.wikidata.org/wiki/Q165474",
+          "display_name": "Commutative property",
+          "level": 2,
+          "score": 0.28870001435279846
+        },
+        {
+          "id": "https://openalex.org/C202444582",
+          "wikidata": "https://www.wikidata.org/wiki/Q837863",
+          "display_name": "Pure mathematics",
+          "level": 1,
+          "score": 0.2858000099658966
+        },
+        {
+          "id": "https://openalex.org/C62520636",
+          "wikidata": "https://www.wikidata.org/wiki/Q944",
+          "display_name": "Quantum mechanics",
+          "level": 1,
+          "score": 0.28369998931884766
+        },
+        {
+          "id": "https://openalex.org/C199793620",
+          "wikidata": "https://www.wikidata.org/wiki/Q7825030",
+          "display_name": "Topological degeneracy",
+          "level": 5,
+          "score": 0.2773999869823456
+        },
+        {
+          "id": "https://openalex.org/C180987920",
+          "wikidata": "https://www.wikidata.org/wiki/Q922339",
+          "display_name": "Topological ring",
+          "level": 4,
+          "score": 0.2732999920845032
+        },
+        {
+          "id": "https://openalex.org/C37914503",
+          "wikidata": "https://www.wikidata.org/wiki/Q156495",
+          "display_name": "Mathematical physics",
+          "level": 1,
+          "score": 0.25839999318122864
+        },
+        {
+          "id": "https://openalex.org/C2780069185",
+          "wikidata": "https://www.wikidata.org/wiki/Q7977945",
+          "display_name": "Equivalence (formal languages)",
+          "level": 2,
+          "score": 0.2533999979496002
+        }
+      ],
+      "mesh": [],
+      "locations_count": 3,
+      "locations": [
+        {
+          "id": "doi:10.1088/0264-9381/27/20/205025",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.1088/0264-9381/27/20/205025",
+          "pdf_url": "https://iopscience.iop.org/article/10.1088/0264-9381/27/20/205025/pdf",
+          "source": {
+            "id": "https://openalex.org/S171172751",
+            "display_name": "Classical and Quantum Gravity",
+            "issn_l": "0264-9381",
+            "issn": [
+              "0264-9381",
+              "1361-6382"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310320083",
+            "host_organization_name": "IOP Publishing",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320083",
+              "https://openalex.org/P4310311669"
+            ],
+            "host_organization_lineage_names": [
+              "IOP Publishing",
+              "Institute of Physics"
+            ],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Classical and Quantum Gravity",
+          "raw_type": "journal-article"
+        },
+        {
+          "id": "pmh:oai:arXiv.org:1005.1057",
+          "is_oa": true,
+          "landing_page_url": "http://arxiv.org/abs/1005.1057",
+          "pdf_url": "https://arxiv.org/pdf/1005.1057",
+          "source": {
+            "id": "https://openalex.org/S4306400194",
+            "display_name": "arXiv (Cornell University)",
+            "issn_l": "2331-8422",
+            "issn": [
+              "2331-8422"
+            ],
+            "is_oa": true,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I205783295",
+            "host_organization_name": "Cornell University",
+            "host_organization_lineage": [
+              "https://openalex.org/I205783295"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": null,
+          "raw_type": "text"
+        },
+        {
+          "id": "pmh:oai:authors.library.caltech.edu:20410",
+          "is_oa": false,
+          "landing_page_url": "https://resolver.caltech.edu/CaltechAUTHORS:20101012-141717687",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306402161",
+            "display_name": "CaltechAUTHORS (California Institute of Technology)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I122411786",
+            "host_organization_name": "California Institute of Technology",
+            "host_organization_lineage": [
+              "https://openalex.org/I122411786"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "",
+          "raw_type": "Article"
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.1088/0264-9381/27/20/205025",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1088/0264-9381/27/20/205025",
+        "pdf_url": "https://iopscience.iop.org/article/10.1088/0264-9381/27/20/205025/pdf",
+        "source": {
+          "id": "https://openalex.org/S171172751",
+          "display_name": "Classical and Quantum Gravity",
+          "issn_l": "0264-9381",
+          "issn": [
+            "0264-9381",
+            "1361-6382"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320083",
+          "host_organization_name": "IOP Publishing",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320083",
+            "https://openalex.org/P4310311669"
+          ],
+          "host_organization_lineage_names": [
+            "IOP Publishing",
+            "Institute of Physics"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Classical and Quantum Gravity",
+        "raw_type": "journal-article"
+      },
+      "sustainable_development_goals": [],
+      "awards": [],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320306076",
+          "display_name": "National Science Foundation",
+          "ror": "https://ror.org/021nxhr62"
+        },
+        {
+          "id": "https://openalex.org/F4320309398",
+          "display_name": "California Institute of Technology",
+          "ror": "https://ror.org/05dxps055"
+        }
+      ],
+      "has_content": {
+        "pdf": true,
+        "grobid_xml": true
+      },
+      "content_urls": {
+        "pdf": "https://content.openalex.org/works/W1982449754.pdf",
+        "grobid_xml": "https://content.openalex.org/works/W1982449754.grobid-xml"
+      },
+      "referenced_works_count": 27,
+      "referenced_works": [
+        "https://openalex.org/W1973160176",
+        "https://openalex.org/W1995550298",
+        "https://openalex.org/W1997771880",
+        "https://openalex.org/W1999499627",
+        "https://openalex.org/W1999896625",
+        "https://openalex.org/W2015765968",
+        "https://openalex.org/W2021711616",
+        "https://openalex.org/W2025790379",
+        "https://openalex.org/W2025895595",
+        "https://openalex.org/W2027992356",
+        "https://openalex.org/W2031112977",
+        "https://openalex.org/W2031712988",
+        "https://openalex.org/W2055031154",
+        "https://openalex.org/W2058248235",
+        "https://openalex.org/W2061910265",
+        "https://openalex.org/W2063452657",
+        "https://openalex.org/W2071641860",
+        "https://openalex.org/W2082005880",
+        "https://openalex.org/W2137409288",
+        "https://openalex.org/W2148984222",
+        "https://openalex.org/W2152000114",
+        "https://openalex.org/W2154194758",
+        "https://openalex.org/W2169520391",
+        "https://openalex.org/W2320714199",
+        "https://openalex.org/W2489640507",
+        "https://openalex.org/W2963039223",
+        "https://openalex.org/W2963556685"
+      ],
+      "related_works": [],
+      "abstract_inverted_index": {
+        "We": [
+          0,
+          45,
+          84,
+          172
+        ],
+        "extend": [
+          1
+        ],
+        "the": [
+          2,
+          17,
+          37,
+          40,
+          58,
+          63,
+          86,
+          89,
+          93,
+          120,
+          124,
+          142,
+          150,
+          158,
+          181,
+          191
+        ],
+        "formalism": [
+          3,
+          187
+        ],
+        "of": [
+          4,
+          39,
+          50,
+          88,
+          92,
+          108,
+          119,
+          126,
+          144,
+          149,
+          160,
+          163,
+          193
+        ],
+        "embedded": [
+          5,
+          164,
+          167
+        ],
+        "spin": [
+          6,
+          9,
+          51,
+          54,
+          82,
+          109,
+          129,
+          182,
+          185
+        ],
+        "networks": [
+          7,
+          52
+        ],
+        "and": [
+          8,
+          53,
+          76,
+          100,
+          123,
+          141,
+          166,
+          184
+        ],
+        "foams": [
+          10,
+          110
+        ],
+        "to": [
+          11,
+          36,
+          115,
+          135,
+          155,
+          179
+        ],
+        "include": [
+          12
+        ],
+        "topological": [
+          13,
+          161
+        ],
+        "data": [
+          14,
+          27
+        ],
+        "that": [
+          15
+        ],
+        "encode": [
+          16
+        ],
+        "underlying": [
+          18
+        ],
+        "three-manifold": [
+          19
+        ],
+        "or": [
+          20
+        ],
+        "four-manifold": [
+          21
+        ],
+        "as": [
+          22,
+          30,
+          69
+        ],
+        "a": [
+          23,
+          33,
+          70,
+          101,
+          106,
+          116,
+          176
+        ],
+        "branched": [
+          24,
+          71,
+          121
+        ],
+        "cover.": [
+          25
+        ],
+        "These": [
+          26
+        ],
+        "are": [
+          28
+        ],
+        "expressed": [
+          29
+        ],
+        "monodromies,": [
+          31
+        ],
+        "in": [
+          32,
+          61,
+          196
+        ],
+        "way": [
+          34
+        ],
+        "similar": [
+          35
+        ],
+        "encoding": [
+          38
+        ],
+        "gravitational": [
+          41
+        ],
+        "field": [
+          42
+        ],
+        "via": [
+          43,
+          73
+        ],
+        "holonomies.": [
+          44
+        ],
+        "then": [
+          46,
+          132
+        ],
+        "describe": [
+          47
+        ],
+        "convolution": [
+          48
+        ],
+        "algebras": [
+          49
+        ],
+        "foams,": [
+          55
+        ],
+        "based": [
+          56
+        ],
+        "on": [
+          57,
+          77,
+          81,
+          138,
+          157
+        ],
+        "different": [
+          59
+        ],
+        "ways": [
+          60
+        ],
+        "which": [
+          62
+        ],
+        "same": [
+          64
+        ],
+        "topology": [
+          65
+        ],
+        "can": [
+          66
+        ],
+        "be": [
+          67
+        ],
+        "realized": [
+          68
+        ],
+        "covering": [
+          72,
+          74,
+          98
+        ],
+        "moves,": [
+          75
+        ],
+        "possible": [
+          78,
+          177
+        ],
+        "composition": [
+          79,
+          112
+        ],
+        "operations": [
+          80,
+          113
+        ],
+        "foams.": [
+          83
+        ],
+        "illustrate": [
+          85
+        ],
+        "case": [
+          87
+        ],
+        "groupoid": [
+          90
+        ],
+        "algebra": [
+          91,
+          103
+        ],
+        "equivalence": [
+          94
+        ],
+        "relation": [
+          95
+        ],
+        "determined": [
+          96
+        ],
+        "by": [
+          97,
+          174
+        ],
+        "moves": [
+          99
+        ],
+        "2-semigroupoid": [
+          102
+        ],
+        "arising": [
+          104
+        ],
+        "from": [
+          105
+        ],
+        "2-category": [
+          107
+        ],
+        "with": [
+          111,
+          169,
+          188
+        ],
+        "corresponding": [
+          114
+        ],
+        "fibered": [
+          117
+        ],
+        "product": [
+          118
+        ],
+        "coverings": [
+          122
+        ],
+        "gluing": [
+          125
+        ],
+        "cobordisms.": [
+          127
+        ],
+        "The": [
+          128
+        ],
+        "foam": [
+          130,
+          186
+        ],
+        "amplitudes": [
+          131
+        ],
+        "give": [
+          133
+        ],
+        "rise": [
+          134
+        ],
+        "dynamical": [
+          136
+        ],
+        "flows": [
+          137
+        ],
+        "these": [
+          139
+        ],
+        "algebras,": [
+          140
+        ],
+        "existence": [
+          143,
+          159
+        ],
+        "low": [
+          145
+        ],
+        "temperature": [
+          146
+        ],
+        "equilibrium": [
+          147
+        ],
+        "states": [
+          148
+        ],
+        "Gibbs": [
+          151
+        ],
+        "form": [
+          152
+        ],
+        "is": [
+          153
+        ],
+        "related": [
+          154
+        ],
+        "questions": [
+          156
+        ],
+        "invariants": [
+          162
+        ],
+        "graphs": [
+          165
+        ],
+        "two-complexes": [
+          168
+        ],
+        "given": [
+          170
+        ],
+        "properties.": [
+          171
+        ],
+        "end": [
+          173
+        ],
+        "sketching": [
+          175
+        ],
+        "approach": [
+          178
+        ],
+        "combining": [
+          180
+        ],
+        "network": [
+          183
+        ],
+        "matter": [
+          189
+        ],
+        "within": [
+          190
+        ],
+        "framework": [
+          192
+        ],
+        "spectral": [
+          194
+        ],
+        "triples": [
+          195
+        ],
+        "noncommutative": [
+          197
+        ],
+        "geometry.": [
+          198
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2021,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2020,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2019,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2018,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2017,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2015,
+          "cited_by_count": 4
+        },
+        {
+          "year": 2013,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2012,
+          "cited_by_count": 3
+        }
+      ],
+      "updated_date": "2026-08-05T07:39:15.569665",
+      "created_date": "2016-06-24T00:00:00"
+    }
+  ],
+  "group_by": []
+}

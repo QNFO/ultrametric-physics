@@ -1,0 +1,6177 @@
+{
+  "meta": {
+    "count": 391,
+    "db_response_time_ms": 191,
+    "page": 1,
+    "per_page": 5,
+    "groups_count": null,
+    "x_query": {
+      "oql": "works where full text has (prime numbers functor smooth manifolds Morse theory)",
+      "oqo": {
+        "get_rows": "works",
+        "filter_rows": [
+          {
+            "column_id": "fulltext.search",
+            "value": "prime numbers functor smooth manifolds Morse theory",
+            "operator": "has"
+          }
+        ]
+      },
+      "url": "/works?filter=fulltext.search:prime numbers functor smooth manifolds Morse theory&per_page=5"
+    },
+    "cost_usd": 0.001
+  },
+  "results": [
+    {
+      "id": "https://openalex.org/W1499253417",
+      "doi": "https://doi.org/10.4310/jdg/1214438424",
+      "title": "Equivariant Morse theory and closed geodesics",
+      "display_name": "Equivariant Morse theory and closed geodesics",
+      "relevance_score": 285.93552,
+      "publication_year": 1984,
+      "publication_date": "1984-01-01",
+      "ids": {
+        "openalex": "https://openalex.org/W1499253417",
+        "doi": "https://doi.org/10.4310/jdg/1214438424",
+        "mag": "1499253417"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.4310/jdg/1214438424",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.4310/jdg/1214438424",
+        "pdf_url": "https://projecteuclid.org/journals/journal-of-differential-geometry/volume-19/issue-1/Equivariant-Morse-theory-and-closed-geodesics/10.4310/jdg/1214438424.pdf",
+        "source": {
+          "id": "https://openalex.org/S23326474",
+          "display_name": "Journal of Differential Geometry",
+          "issn_l": "0022-040X",
+          "issn": [
+            "0022-040X",
+            "1945-743X"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310316281",
+          "host_organization_name": "Lehigh University",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310316281"
+          ],
+          "host_organization_lineage_names": [
+            "Lehigh University"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Journal of Differential Geometry",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://projecteuclid.org/journals/journal-of-differential-geometry/volume-19/issue-1/Equivariant-Morse-theory-and-closed-geodesics/10.4310/jdg/1214438424.pdf",
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5043959775",
+            "display_name": "Nancy Hingston",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": true,
+          "raw_author_name": "N. Hingston",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 0,
+      "institutions_distinct_count": 0,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5043959775"
+      ],
+      "corresponding_institution_ids": [],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 2.2449,
+      "has_fulltext": true,
+      "cited_by_count": 111,
+      "citation_normalized_percentile": {
+        "value": 0.85784032,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 89,
+        "max": 99
+      },
+      "biblio": {
+        "volume": "19",
+        "issue": "1",
+        "first_page": null,
+        "last_page": null
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10896",
+        "display_name": "Homotopy and Cohomology in Algebraic Topology",
+        "score": 0.9988999962806702,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2610",
+          "display_name": "Mathematical Physics"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/26",
+          "display_name": "Mathematics"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10896",
+          "display_name": "Homotopy and Cohomology in Algebraic Topology",
+          "score": 0.9988999962806702,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2610",
+            "display_name": "Mathematical Physics"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/26",
+            "display_name": "Mathematics"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T11673",
+          "display_name": "Advanced Topics in Algebra",
+          "score": 0.9832000136375427,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2602",
+            "display_name": "Algebra and Number Theory"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/26",
+            "display_name": "Mathematics"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10304",
+          "display_name": "Geometric and Algebraic Topology",
+          "score": 0.9829999804496765,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2608",
+            "display_name": "Geometry and Topology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/26",
+            "display_name": "Mathematics"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/equivariant-map",
+          "display_name": "Equivariant map",
+          "score": 0.9299091100692749
+        },
+        {
+          "id": "https://openalex.org/keywords/mathematics",
+          "display_name": "Mathematics",
+          "score": 0.8360980749130249
+        },
+        {
+          "id": "https://openalex.org/keywords/geodesic",
+          "display_name": "Geodesic",
+          "score": 0.7639031410217285
+        },
+        {
+          "id": "https://openalex.org/keywords/morse-theory",
+          "display_name": "Morse theory",
+          "score": 0.5874871611595154
+        },
+        {
+          "id": "https://openalex.org/keywords/morse-code",
+          "display_name": "Morse code",
+          "score": 0.5632972717285156
+        },
+        {
+          "id": "https://openalex.org/keywords/pure-mathematics",
+          "display_name": "Pure mathematics",
+          "score": 0.5345895290374756
+        },
+        {
+          "id": "https://openalex.org/keywords/circle-valued-morse-theory",
+          "display_name": "Circle-valued Morse theory",
+          "score": 0.41754281520843506
+        },
+        {
+          "id": "https://openalex.org/keywords/mathematical-analysis",
+          "display_name": "Mathematical analysis",
+          "score": 0.2794567942619324
+        },
+        {
+          "id": "https://openalex.org/keywords/computer-science",
+          "display_name": "Computer science",
+          "score": 0.06558483839035034
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C171036898",
+          "wikidata": "https://www.wikidata.org/wiki/Q256355",
+          "display_name": "Equivariant map",
+          "level": 2,
+          "score": 0.9299091100692749
+        },
+        {
+          "id": "https://openalex.org/C33923547",
+          "wikidata": "https://www.wikidata.org/wiki/Q395",
+          "display_name": "Mathematics",
+          "level": 0,
+          "score": 0.8360980749130249
+        },
+        {
+          "id": "https://openalex.org/C165818556",
+          "wikidata": "https://www.wikidata.org/wiki/Q213488",
+          "display_name": "Geodesic",
+          "level": 2,
+          "score": 0.7639031410217285
+        },
+        {
+          "id": "https://openalex.org/C156730297",
+          "wikidata": "https://www.wikidata.org/wiki/Q2296951",
+          "display_name": "Morse theory",
+          "level": 2,
+          "score": 0.5874871611595154
+        },
+        {
+          "id": "https://openalex.org/C140031139",
+          "wikidata": "https://www.wikidata.org/wiki/Q79897",
+          "display_name": "Morse code",
+          "level": 2,
+          "score": 0.5632972717285156
+        },
+        {
+          "id": "https://openalex.org/C202444582",
+          "wikidata": "https://www.wikidata.org/wiki/Q837863",
+          "display_name": "Pure mathematics",
+          "level": 1,
+          "score": 0.5345895290374756
+        },
+        {
+          "id": "https://openalex.org/C24296071",
+          "wikidata": "https://www.wikidata.org/wiki/Q5121372",
+          "display_name": "Circle-valued Morse theory",
+          "level": 3,
+          "score": 0.41754281520843506
+        },
+        {
+          "id": "https://openalex.org/C134306372",
+          "wikidata": "https://www.wikidata.org/wiki/Q7754",
+          "display_name": "Mathematical analysis",
+          "level": 1,
+          "score": 0.2794567942619324
+        },
+        {
+          "id": "https://openalex.org/C41008148",
+          "wikidata": "https://www.wikidata.org/wiki/Q21198",
+          "display_name": "Computer science",
+          "level": 0,
+          "score": 0.06558483839035034
+        },
+        {
+          "id": "https://openalex.org/C76155785",
+          "wikidata": "https://www.wikidata.org/wiki/Q418",
+          "display_name": "Telecommunications",
+          "level": 1,
+          "score": 0.0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 2,
+      "locations": [
+        {
+          "id": "doi:10.4310/jdg/1214438424",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.4310/jdg/1214438424",
+          "pdf_url": "https://projecteuclid.org/journals/journal-of-differential-geometry/volume-19/issue-1/Equivariant-Morse-theory-and-closed-geodesics/10.4310/jdg/1214438424.pdf",
+          "source": {
+            "id": "https://openalex.org/S23326474",
+            "display_name": "Journal of Differential Geometry",
+            "issn_l": "0022-040X",
+            "issn": [
+              "0022-040X",
+              "1945-743X"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310316281",
+            "host_organization_name": "Lehigh University",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310316281"
+            ],
+            "host_organization_lineage_names": [
+              "Lehigh University"
+            ],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Journal of Differential Geometry",
+          "raw_type": "journal-article"
+        },
+        {
+          "id": "pmh:oai:CULeuclid:euclid.jdg/1214438424",
+          "is_oa": false,
+          "landing_page_url": "http://projecteuclid.org/euclid.jdg/1214438424",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306400787",
+            "display_name": "Project Euclid (Cornell University)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I205783295",
+            "host_organization_name": "Cornell University",
+            "host_organization_lineage": [
+              "https://openalex.org/I205783295"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "",
+          "raw_type": "Text"
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.4310/jdg/1214438424",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.4310/jdg/1214438424",
+        "pdf_url": "https://projecteuclid.org/journals/journal-of-differential-geometry/volume-19/issue-1/Equivariant-Morse-theory-and-closed-geodesics/10.4310/jdg/1214438424.pdf",
+        "source": {
+          "id": "https://openalex.org/S23326474",
+          "display_name": "Journal of Differential Geometry",
+          "issn_l": "0022-040X",
+          "issn": [
+            "0022-040X",
+            "1945-743X"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310316281",
+          "host_organization_name": "Lehigh University",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310316281"
+          ],
+          "host_organization_lineage_names": [
+            "Lehigh University"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Journal of Differential Geometry",
+        "raw_type": "journal-article"
+      },
+      "sustainable_development_goals": [],
+      "awards": [],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320306076",
+          "display_name": "National Science Foundation",
+          "ror": "https://ror.org/021nxhr62"
+        }
+      ],
+      "has_content": {
+        "grobid_xml": true,
+        "pdf": true
+      },
+      "content_urls": {
+        "pdf": "https://content.openalex.org/works/W1499253417.pdf",
+        "grobid_xml": "https://content.openalex.org/works/W1499253417.grobid-xml"
+      },
+      "referenced_works_count": 32,
+      "referenced_works": [
+        "https://openalex.org/W112410570",
+        "https://openalex.org/W134086229",
+        "https://openalex.org/W1486721501",
+        "https://openalex.org/W1509364003",
+        "https://openalex.org/W1542072625",
+        "https://openalex.org/W1555724280",
+        "https://openalex.org/W1563989300",
+        "https://openalex.org/W1572115049",
+        "https://openalex.org/W1572461065",
+        "https://openalex.org/W1583799621",
+        "https://openalex.org/W1601237022",
+        "https://openalex.org/W1973448804",
+        "https://openalex.org/W2023969170",
+        "https://openalex.org/W2039934664",
+        "https://openalex.org/W2043445128",
+        "https://openalex.org/W2078025243",
+        "https://openalex.org/W2078393607",
+        "https://openalex.org/W2078591780",
+        "https://openalex.org/W2094494636",
+        "https://openalex.org/W2146747536",
+        "https://openalex.org/W2147365621",
+        "https://openalex.org/W2312601802",
+        "https://openalex.org/W2313142064",
+        "https://openalex.org/W2319346282",
+        "https://openalex.org/W2321799662",
+        "https://openalex.org/W2323885924",
+        "https://openalex.org/W2526605305",
+        "https://openalex.org/W2561916656",
+        "https://openalex.org/W4230646996",
+        "https://openalex.org/W4231043281",
+        "https://openalex.org/W4237540580",
+        "https://openalex.org/W4256251334"
+      ],
+      "related_works": [
+        "https://openalex.org/W2548670722",
+        "https://openalex.org/W1680973157",
+        "https://openalex.org/W2074817568",
+        "https://openalex.org/W1595332435",
+        "https://openalex.org/W116914732",
+        "https://openalex.org/W1966769279",
+        "https://openalex.org/W126261173",
+        "https://openalex.org/W3164824131",
+        "https://openalex.org/W4389768470",
+        "https://openalex.org/W2106662121"
+      ],
+      "abstract_inverted_index": {
+        "In": [
+          0
+        ],
+        "this": [
+          1
+        ],
+        "paper": [
+          2
+        ],
+        "we": [
+          3,
+          39,
+          94
+        ],
+        "use": [
+          4
+        ],
+        "the": [
+          5,
+          11,
+          23,
+          41,
+          60,
+          67,
+          70,
+          76,
+          79,
+          107,
+          124,
+          140,
+          147,
+          165,
+          197,
+          225,
+          237,
+          240,
+          260,
+          272,
+          288,
+          294
+        ],
+        "equivariant": [
+          6
+        ],
+        "Morse": [
+          7
+        ],
+        "theory": [
+          8
+        ],
+        "to": [
+          9,
+          59,
+          212
+        ],
+        "investigate": [
+          10
+        ],
+        "existence": [
+          12,
+          42,
+          148,
+          166,
+          226
+        ],
+        "of": [
+          13,
+          43,
+          69,
+          72,
+          111,
+          126,
+          130,
+          146,
+          149,
+          167,
+          188,
+          196,
+          224,
+          227,
+          239,
+          267,
+          269,
+          296
+        ],
+        "closed": [
+          14,
+          49,
+          117,
+          128,
+          153,
+          169,
+          229,
+          280
+        ],
+        "geodesies": [
+          15,
+          50,
+          74,
+          118,
+          129,
+          170,
+          187,
+          206,
+          230,
+          281
+        ],
+        "on": [
+          16,
+          53,
+          75,
+          119,
+          134,
+          155,
+          176,
+          202,
+          231,
+          282
+        ],
+        "simply": [
+          17,
+          24,
+          101
+        ],
+        "connected": [
+          18,
+          25,
+          102
+        ],
+        "compact": [
+          19,
+          26,
+          103
+        ],
+        "Riemannian": [
+          20,
+          104
+        ],
+        "manifolds,": [
+          21
+        ],
+        "particularly": [
+          22
+        ],
+        "rank": [
+          27
+        ],
+        "1": [
+          28
+        ],
+        "symmetric": [
+          29
+        ],
+        "spaces": [
+          30
+        ],
+        "(CROSS'S)": [
+          31
+        ],
+        "S\\": [
+          32
+        ],
+        "CP\\": [
+          33
+        ],
+        "YίP\\": [
+          34
+        ],
+        "CaP": [
+          35
+        ],
+        "2": [
+          36
+        ],
+        ".In": [
+          37
+        ],
+        "§5": [
+          38
+        ],
+        "show": [
+          40
+        ],
+        "at": [
+          44,
+          137,
+          150
+        ],
+        "least": [
+          45,
+          138,
+          151
+        ],
+        "g(λ,": [
+          46,
+          64
+        ],
+        "n)": [
+          47,
+          65
+        ],
+        "\"short\"": [
+          48
+        ],
+        "without": [
+          51,
+          171
+        ],
+        "self-intersection": [
+          52,
+          172
+        ],
+        "a": [
+          54,
+          100,
+          112,
+          144,
+          177,
+          203,
+          222,
+          248,
+          283
+        ],
+        "homotopy": [
+          55,
+          109
+        ],
+        "CROSS": [
+          56,
+          113
+        ],
+        "sufficiently": [
+          57
+        ],
+        "close": [
+          58
+        ],
+        "standard": [
+          61,
+          77
+        ],
+        "metric,": [
+          62
+        ],
+        "where": [
+          63,
+          234
+        ],
+        "is": [
+          66,
+          99,
+          236,
+          291
+        ],
+        "cuplength": [
+          68,
+          238
+        ],
+        "space": [
+          71
+        ],
+        "unparameterized": [
+          73
+        ],
+        "CROSS.In": [
+          78
+        ],
+        "nondegenerate": [
+          80,
+          273
+        ],
+        "case": [
+          81,
+          274
+        ],
+        "there": [
+          82
+        ],
+        "will": [
+          83,
+          305
+        ],
+        "be": [
+          84,
+          208
+        ],
+        "λ(λ": [
+          85
+        ],
+        "+": [
+          86,
+          88,
+          244,
+          278
+        ],
+        "\\)n(n": [
+          87
+        ],
+        "l)/4": [
+          89
+        ],
+        "(λ": [
+          90
+        ],
+        "=": [
+          91
+        ],
+        "1,2,4,8).In": [
+          92
+        ],
+        "§6": [
+          93
+        ],
+        "prove": [
+          95
+        ],
+        "that": [
+          96,
+          287
+        ],
+        "if": [
+          97,
+          115
+        ],
+        "M": [
+          98,
+          120,
+          135
+        ],
+        "manifold": [
+          105
+        ],
+        "with": [
+          106,
+          293,
+          299
+        ],
+        "rational": [
+          108
+        ],
+        "type": [
+          110
+        ],
+        "and": [
+          114,
+          162,
+          199,
+          254,
+          259
+        ],
+        "all": [
+          116
+        ],
+        "are": [
+          121,
+          191
+        ],
+        "hyperbolic,": [
+          122
+        ],
+        "then": [
+          123
+        ],
+        "number": [
+          125,
+          290
+        ],
+        "distinct": [
+          127
+        ],
+        "length": [
+          131
+        ],
+        "^": [
+          132
+        ],
+        "/": [
+          133
+        ],
+        "grows": [
+          136
+        ],
+        "like": [
+          139
+        ],
+        "prime": [
+          141
+        ],
+        "numbers.Birkhoff": [
+          142
+        ],
+        "gave": [
+          143,
+          221,
+          264
+        ],
+        "proof": [
+          145,
+          179,
+          223
+        ],
+        "one": [
+          152,
+          275
+        ],
+        "geodesic": [
+          154
+        ],
+        "an": [
+          156,
+          232,
+          297,
+          303
+        ],
+        "^-sphere": [
+          157
+        ],
+        "in": [
+          158,
+          250
+        ],
+        "1927.In": [
+          159
+        ],
+        "1929": [
+          160
+        ],
+        "Lusternik": [
+          161
+        ],
+        "Schnirelmann": [
+          163
+        ],
+        "claimed": [
+          164
+        ],
+        "three": [
+          168
+        ],
+        "for": [
+          173
+        ],
+        "any": [
+          174
+        ],
+        "metric": [
+          175
+        ],
+        "2-sphere.The": [
+          178
+        ],
+        "however": [
+          180
+        ],
+        "was": [
+          181,
+          216
+        ],
+        "only": [
+          182
+        ],
+        "completed": [
+          183
+        ],
+        "recently": [
+          184
+        ],
+        "by": [
+          185,
+          193,
+          218
+        ],
+        "Ballmann.The": [
+          186
+        ],
+        "these": [
+          189
+        ],
+        "theorems": [
+          190
+        ],
+        "obtained": [
+          192
+        ],
+        "shortening": [
+          194
+        ],
+        "deformations": [
+          195
+        ],
+        "great": [
+          198
+        ],
+        "small": [
+          200
+        ],
+        "\"circles\"": [
+          201
+        ],
+        "sphere;": [
+          204
+        ],
+        "such": [
+          205,
+          302
+        ],
+        "can": [
+          207
+        ],
+        "considered": [
+          209
+        ],
+        "\"short\".The": [
+          210
+        ],
+        "generalization": [
+          211
+        ],
+        "higher": [
+          213
+        ],
+        "dimensional": [
+          214
+        ],
+        "spheres": [
+          215
+        ],
+        "attempted": [
+          217
+        ],
+        "Alber,": [
+          219
+        ],
+        "who": [
+          220
+        ],
+        "g(n)": [
+          228,
+          235
+        ],
+        "^-sphere,": [
+          233
+        ],
+        "Grassmannian": [
+          241
+        ],
+        "G(2,": [
+          242
+        ],
+        "n": [
+          243
+        ],
+        "1).But": [
+          245
+        ],
+        "Ballmann": [
+          246
+        ],
+        "found": [
+          247
+        ],
+        "mistake": [
+          249
+        ],
+        "Alber's": [
+          251,
+          270
+        ],
+        "proof.Ballmann,": [
+          252
+        ],
+        "Thorbergsson": [
+          253
+        ],
+        "Ziller": [
+          255
+        ],
+        "([11],[12]),": [
+          256
+        ],
+        "Anosov": [
+          257
+        ],
+        "[2]": [
+          258
+        ],
+        "author": [
+          261
+        ],
+        "[28]": [
+          262
+        ],
+        "independently": [
+          263
+        ],
+        "complete": [
+          265
+        ],
+        "proofs": [
+          266
+        ],
+        "versions": [
+          268
+        ],
+        "theorem.In": [
+          271
+        ],
+        "obtains": [
+          276
+        ],
+        "n((n": [
+          277
+        ],
+        "l)/2)": [
+          279
+        ],
+        "sphere.Morse": [
+          284
+        ],
+        "[37]": [
+          285
+        ],
+        "showed": [
+          286
+        ],
+        "latter": [
+          289
+        ],
+        "optimal": [
+          292
+        ],
+        "example": [
+          295
+        ],
+        "ellipsoid": [
+          298,
+          304
+        ],
+        "unequal": [
+          300
+        ],
+        "axes.While": [
+          301
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2023,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2022,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2021,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2020,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2019,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2018,
+          "cited_by_count": 9
+        },
+        {
+          "year": 2017,
+          "cited_by_count": 5
+        },
+        {
+          "year": 2016,
+          "cited_by_count": 10
+        },
+        {
+          "year": 2015,
+          "cited_by_count": 9
+        },
+        {
+          "year": 2014,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2013,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2012,
+          "cited_by_count": 3
+        }
+      ],
+      "updated_date": "2026-08-08T01:25:22.217667",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W1572461065",
+      "doi": "https://doi.org/10.4310/jdg/1214429070",
+      "title": "Periodic geodesics on compact riemannian manifolds",
+      "display_name": "Periodic geodesics on compact riemannian manifolds",
+      "relevance_score": 255.09433,
+      "publication_year": 1969,
+      "publication_date": "1969-01-01",
+      "ids": {
+        "openalex": "https://openalex.org/W1572461065",
+        "doi": "https://doi.org/10.4310/jdg/1214429070",
+        "mag": "1572461065"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.4310/jdg/1214429070",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.4310/jdg/1214429070",
+        "pdf_url": "https://projecteuclid.org/journals/journal-of-differential-geometry/volume-3/issue-3-4/Periodic-geodesics-on-compact-riemannian-manifolds/10.4310/jdg/1214429070.pdf",
+        "source": {
+          "id": "https://openalex.org/S23326474",
+          "display_name": "Journal of Differential Geometry",
+          "issn_l": "0022-040X",
+          "issn": [
+            "0022-040X",
+            "1945-743X"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310316281",
+          "host_organization_name": "Lehigh University",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310316281"
+          ],
+          "host_organization_lineage_names": [
+            "Lehigh University"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Journal of Differential Geometry",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://projecteuclid.org/journals/journal-of-differential-geometry/volume-3/issue-3-4/Periodic-geodesics-on-compact-riemannian-manifolds/10.4310/jdg/1214429070.pdf",
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5009883280",
+            "display_name": "Detlef Gromoll",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Detlef Gromoll",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5111449696",
+            "display_name": "Wolfgang Meyer",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Wolfgang Meyer",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 0,
+      "institutions_distinct_count": 0,
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 0.5608,
+      "has_fulltext": true,
+      "cited_by_count": 218,
+      "citation_normalized_percentile": {
+        "value": 0.56309795,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 94,
+        "max": 100
+      },
+      "biblio": {
+        "volume": "3",
+        "issue": "3-4",
+        "first_page": null,
+        "last_page": null
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10588",
+        "display_name": "Mathematical Dynamics and Fractals",
+        "score": 0.9997000098228455,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2610",
+          "display_name": "Mathematical Physics"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/26",
+          "display_name": "Mathematics"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10588",
+          "display_name": "Mathematical Dynamics and Fractals",
+          "score": 0.9997000098228455,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2610",
+            "display_name": "Mathematical Physics"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/26",
+            "display_name": "Mathematics"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T13234",
+          "display_name": "advanced mathematical theories",
+          "score": 0.9589999914169312,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2610",
+            "display_name": "Mathematical Physics"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/26",
+            "display_name": "Mathematics"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T12516",
+          "display_name": "Advanced Mathematical Theories and Applications",
+          "score": 0.9405999779701233,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3109",
+            "display_name": "Statistical and Nonlinear Physics"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/31",
+            "display_name": "Physics and Astronomy"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/mathematics",
+          "display_name": "Mathematics",
+          "score": 0.8364779949188232
+        },
+        {
+          "id": "https://openalex.org/keywords/geodesic",
+          "display_name": "Geodesic",
+          "score": 0.7752801179885864
+        },
+        {
+          "id": "https://openalex.org/keywords/geodesic-map",
+          "display_name": "Geodesic map",
+          "score": 0.5665914416313171
+        },
+        {
+          "id": "https://openalex.org/keywords/pure-mathematics",
+          "display_name": "Pure mathematics",
+          "score": 0.5286759734153748
+        },
+        {
+          "id": "https://openalex.org/keywords/riemannian-geometry",
+          "display_name": "Riemannian geometry",
+          "score": 0.5239441394805908
+        },
+        {
+          "id": "https://openalex.org/keywords/ricci-flat-manifold",
+          "display_name": "Ricci-flat manifold",
+          "score": 0.4645995795726776
+        },
+        {
+          "id": "https://openalex.org/keywords/mathematical-analysis",
+          "display_name": "Mathematical analysis",
+          "score": 0.3983575403690338
+        },
+        {
+          "id": "https://openalex.org/keywords/geometry",
+          "display_name": "Geometry",
+          "score": 0.2526189684867859
+        },
+        {
+          "id": "https://openalex.org/keywords/scalar-curvature",
+          "display_name": "Scalar curvature",
+          "score": 0.21138757467269897
+        },
+        {
+          "id": "https://openalex.org/keywords/curvature",
+          "display_name": "Curvature",
+          "score": 0.07749465107917786
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C33923547",
+          "wikidata": "https://www.wikidata.org/wiki/Q395",
+          "display_name": "Mathematics",
+          "level": 0,
+          "score": 0.8364779949188232
+        },
+        {
+          "id": "https://openalex.org/C165818556",
+          "wikidata": "https://www.wikidata.org/wiki/Q213488",
+          "display_name": "Geodesic",
+          "level": 2,
+          "score": 0.7752801179885864
+        },
+        {
+          "id": "https://openalex.org/C162269530",
+          "wikidata": "https://www.wikidata.org/wiki/Q17100560",
+          "display_name": "Geodesic map",
+          "level": 3,
+          "score": 0.5665914416313171
+        },
+        {
+          "id": "https://openalex.org/C202444582",
+          "wikidata": "https://www.wikidata.org/wiki/Q837863",
+          "display_name": "Pure mathematics",
+          "level": 1,
+          "score": 0.5286759734153748
+        },
+        {
+          "id": "https://openalex.org/C181104567",
+          "wikidata": "https://www.wikidata.org/wiki/Q761383",
+          "display_name": "Riemannian geometry",
+          "level": 2,
+          "score": 0.5239441394805908
+        },
+        {
+          "id": "https://openalex.org/C203934109",
+          "wikidata": "https://www.wikidata.org/wiki/Q7322952",
+          "display_name": "Ricci-flat manifold",
+          "level": 4,
+          "score": 0.4645995795726776
+        },
+        {
+          "id": "https://openalex.org/C134306372",
+          "wikidata": "https://www.wikidata.org/wiki/Q7754",
+          "display_name": "Mathematical analysis",
+          "level": 1,
+          "score": 0.3983575403690338
+        },
+        {
+          "id": "https://openalex.org/C2524010",
+          "wikidata": "https://www.wikidata.org/wiki/Q8087",
+          "display_name": "Geometry",
+          "level": 1,
+          "score": 0.2526189684867859
+        },
+        {
+          "id": "https://openalex.org/C12520029",
+          "wikidata": "https://www.wikidata.org/wiki/Q1147161",
+          "display_name": "Scalar curvature",
+          "level": 3,
+          "score": 0.21138757467269897
+        },
+        {
+          "id": "https://openalex.org/C195065555",
+          "wikidata": "https://www.wikidata.org/wiki/Q214881",
+          "display_name": "Curvature",
+          "level": 2,
+          "score": 0.07749465107917786
+        }
+      ],
+      "mesh": [],
+      "locations_count": 2,
+      "locations": [
+        {
+          "id": "doi:10.4310/jdg/1214429070",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.4310/jdg/1214429070",
+          "pdf_url": "https://projecteuclid.org/journals/journal-of-differential-geometry/volume-3/issue-3-4/Periodic-geodesics-on-compact-riemannian-manifolds/10.4310/jdg/1214429070.pdf",
+          "source": {
+            "id": "https://openalex.org/S23326474",
+            "display_name": "Journal of Differential Geometry",
+            "issn_l": "0022-040X",
+            "issn": [
+              "0022-040X",
+              "1945-743X"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310316281",
+            "host_organization_name": "Lehigh University",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310316281"
+            ],
+            "host_organization_lineage_names": [
+              "Lehigh University"
+            ],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Journal of Differential Geometry",
+          "raw_type": "journal-article"
+        },
+        {
+          "id": "pmh:oai:CULeuclid:euclid.jdg/1214429070",
+          "is_oa": false,
+          "landing_page_url": "http://projecteuclid.org/euclid.jdg/1214429070",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306400787",
+            "display_name": "Project Euclid (Cornell University)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I205783295",
+            "host_organization_name": "Cornell University",
+            "host_organization_lineage": [
+              "https://openalex.org/I205783295"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "",
+          "raw_type": "Text"
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.4310/jdg/1214429070",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.4310/jdg/1214429070",
+        "pdf_url": "https://projecteuclid.org/journals/journal-of-differential-geometry/volume-3/issue-3-4/Periodic-geodesics-on-compact-riemannian-manifolds/10.4310/jdg/1214429070.pdf",
+        "source": {
+          "id": "https://openalex.org/S23326474",
+          "display_name": "Journal of Differential Geometry",
+          "issn_l": "0022-040X",
+          "issn": [
+            "0022-040X",
+            "1945-743X"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310316281",
+          "host_organization_name": "Lehigh University",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310316281"
+          ],
+          "host_organization_lineage_names": [
+            "Lehigh University"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Journal of Differential Geometry",
+        "raw_type": "journal-article"
+      },
+      "sustainable_development_goals": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": true,
+        "pdf": true
+      },
+      "content_urls": {
+        "pdf": "https://content.openalex.org/works/W1572461065.pdf",
+        "grobid_xml": "https://content.openalex.org/works/W1572461065.grobid-xml"
+      },
+      "referenced_works_count": 16,
+      "referenced_works": [
+        "https://openalex.org/W1486721501",
+        "https://openalex.org/W1539499617",
+        "https://openalex.org/W1972719530",
+        "https://openalex.org/W2011559269",
+        "https://openalex.org/W2031960096",
+        "https://openalex.org/W2037904087",
+        "https://openalex.org/W2039934664",
+        "https://openalex.org/W2062427814",
+        "https://openalex.org/W2078025243",
+        "https://openalex.org/W2078591780",
+        "https://openalex.org/W2086204165",
+        "https://openalex.org/W2094494636",
+        "https://openalex.org/W2319725995",
+        "https://openalex.org/W4212928962",
+        "https://openalex.org/W4237540580",
+        "https://openalex.org/W4245150243"
+      ],
+      "related_works": [
+        "https://openalex.org/W4205738851",
+        "https://openalex.org/W4285546169",
+        "https://openalex.org/W2963915068",
+        "https://openalex.org/W3160303433",
+        "https://openalex.org/W2950151809",
+        "https://openalex.org/W4353080937",
+        "https://openalex.org/W2993273879",
+        "https://openalex.org/W2136677191",
+        "https://openalex.org/W1174261969",
+        "https://openalex.org/W1505933821"
+      ],
+      "abstract_inverted_index": {
+        "The": [
+          0
+        ],
+        "interest": [
+          1
+        ],
+        "in": [
+          2,
+          49,
+          109,
+          186,
+          211,
+          307
+        ],
+        "periodic": [
+          3,
+          31,
+          54,
+          105,
+          137,
+          150,
+          196,
+          243,
+          284,
+          333,
+          351
+        ],
+        "geodesies": [
+          4,
+          32,
+          55,
+          151,
+          244,
+          285,
+          334,
+          352
+        ],
+        "arose": [
+          5
+        ],
+        "at": [
+          6,
+          102,
+          226
+        ],
+        "a": [
+          7,
+          21,
+          44,
+          145,
+          195
+        ],
+        "very": [
+          8,
+          140
+        ],
+        "early": [
+          9
+        ],
+        "stage": [
+          10
+        ],
+        "of": [
+          11,
+          29,
+          51,
+          101,
+          127,
+          144,
+          148,
+          158,
+          237,
+          241,
+          249,
+          259,
+          272,
+          348
+        ],
+        "differential": [
+          12
+        ],
+        "geometry,": [
+          13
+        ],
+        "and": [
+          14,
+          62,
+          119,
+          139,
+          167,
+          214,
+          265
+        ],
+        "has": [
+          15
+        ],
+        "grown": [
+          16
+        ],
+        "rapidly": [
+          17
+        ],
+        "since": [
+          18
+        ],
+        "then.It": [
+          19
+        ],
+        "is": [
+          20,
+          87,
+          91,
+          117,
+          171,
+          176,
+          230,
+          321
+        ],
+        "basic": [
+          22
+        ],
+        "general": [
+          23
+        ],
+        "problem": [
+          24,
+          175
+        ],
+        "to": [
+          25,
+          59,
+          73,
+          94,
+          136,
+          203,
+          317
+        ],
+        "estimate": [
+          26
+        ],
+        "the": [
+          27,
+          99,
+          110,
+          128,
+          142,
+          174,
+          181,
+          204,
+          217,
+          235,
+          257,
+          342
+        ],
+        "number": [
+          28,
+          147
+        ],
+        "distinct": [
+          30,
+          75,
+          149,
+          242,
+          283,
+          332
+        ],
+        "c:": [
+          33
+        ],
+        "R": [
+          34
+        ],
+        "-•": [
+          35
+        ],
+        "Λί,": [
+          36
+        ],
+        "c(t": [
+          37
+        ],
+        "+": [
+          38
+        ],
+        "1)": [
+          39
+        ],
+        "=": [
+          40
+        ],
+        "c(t)": [
+          41
+        ],
+        "9": [
+          42
+        ],
+        "on": [
+          43,
+          198,
+          220,
+          286,
+          339
+        ],
+        "complete": [
+          45
+        ],
+        "riemannian": [
+          46,
+          223,
+          337
+        ],
+        "manifold": [
+          47,
+          224,
+          327
+        ],
+        "M": [
+          48,
+          86,
+          170,
+          225,
+          328
+        ],
+        "terms": [
+          50
+        ],
+        "topological": [
+          52,
+          247,
+          294
+        ],
+        "invariants.Here": [
+          53
+        ],
+        "are": [
+          56,
+          78,
+          115
+        ],
+        "always": [
+          57,
+          279
+        ],
+        "understood": [
+          58
+        ],
+        "be": [
+          60,
+          71,
+          74,
+          153,
+          304
+        ],
+        "non-constant,": [
+          61
+        ],
+        "two": [
+          63
+        ],
+        "such": [
+          64
+        ],
+        "curves": [
+          65
+        ],
+        "c": [
+          66,
+          68,
+          81
+        ],
+        "l9": [
+          67
+        ],
+        "2": [
+          69
+        ],
+        "will": [
+          70,
+          303
+        ],
+        "said": [
+          72
+        ],
+        "if": [
+          76
+        ],
+        "they": [
+          77
+        ],
+        "geometrically": [
+          79
+        ],
+        "different,": [
+          80
+        ],
+        "x": [
+          82,
+          132,
+          160
+        ],
+        "(R)": [
+          83
+        ],
+        "Φ": [
+          84
+        ],
+        "c£R).If": [
+          85
+        ],
+        "non-compact,": [
+          88
+        ],
+        "then": [
+          89
+        ],
+        "it": [
+          90,
+          298,
+          312
+        ],
+        "even": [
+          92,
+          315
+        ],
+        "difficult": [
+          93
+        ],
+        "find": [
+          95
+        ],
+        "reasonable": [
+          96
+        ],
+        "conditions": [
+          97
+        ],
+        "for": [
+          98,
+          245,
+          267,
+          335
+        ],
+        "existence": [
+          100,
+          143,
+          236
+        ],
+        "least": [
+          103,
+          227
+        ],
+        "one": [
+          104,
+          228
+        ],
+        "geodesic,": [
+          106
+        ],
+        "see": [
+          107,
+          269
+        ],
+        "§4.However,": [
+          108
+        ],
+        "compact": [
+          111,
+          222,
+          289,
+          323
+        ],
+        "case": [
+          112
+        ],
+        "many": [
+          113,
+          282,
+          331
+        ],
+        "results": [
+          114
+        ],
+        "available.It": [
+          116
+        ],
+        "classical": [
+          118
+        ],
+        "rather": [
+          120,
+          209
+        ],
+        "elementary": [
+          121
+        ],
+        "that": [
+          122,
+          192,
+          219,
+          300
+        ],
+        "any": [
+          123,
+          221
+        ],
+        "non-trivial": [
+          124
+        ],
+        "conjugacy": [
+          125
+        ],
+        "class": [
+          126
+        ],
+        "fundamental": [
+          129
+        ],
+        "group": [
+          130
+        ],
+        "n": [
+          131
+        ],
+        "{M)": [
+          133
+        ],
+        "gives": [
+          134
+        ],
+        "rise": [
+          135
+        ],
+        "geodesies,": [
+          138
+        ],
+        "often": [
+          141
+        ],
+        "larger": [
+          146
+        ],
+        "can": [
+          152
+        ],
+        "deduced": [
+          154
+        ],
+        "from": [
+          155
+        ],
+        "further": [
+          156
+        ],
+        "properties": [
+          157
+        ],
+        "π": [
+          159
+        ],
+        "(M)": [
+          161
+        ],
+        "compare": [
+          162
+        ],
+        "[4,": [
+          163
+        ],
+        "p.": [
+          164
+        ],
+        "240],": [
+          165
+        ],
+        "[7],": [
+          166
+        ],
+        "also": [
+          168
+        ],
+        "§4.When": [
+          169
+        ],
+        "simply": [
+          172,
+          324
+        ],
+        "connected*": [
+          173
+        ],
+        "getting": [
+          177
+        ],
+        "much": [
+          178
+        ],
+        "more": [
+          179
+        ],
+        "delicate.Here": [
+          180
+        ],
+        "first": [
+          182
+        ],
+        "result": [
+          183
+        ],
+        "was": [
+          184,
+          313
+        ],
+        "obtained": [
+          185
+        ],
+        "1905": [
+          187
+        ],
+        "by": [
+          188
+        ],
+        "Poincare,": [
+          189
+        ],
+        "who": [
+          190
+        ],
+        "proved": [
+          191,
+          234
+        ],
+        "there": [
+          193,
+          320
+        ],
+        "exists": [
+          194
+        ],
+        "geodesic": [
+          197,
+          229
+        ],
+        "every": [
+          199
+        ],
+        "surface": [
+          200
+        ],
+        "analytically": [
+          201
+        ],
+        "equivalent": [
+          202
+        ],
+        "euclidean": [
+          205
+        ],
+        "sphere": [
+          206
+        ],
+        "S2": [
+          207
+        ],
+        ".Yet": [
+          208
+        ],
+        "late,": [
+          210
+        ],
+        "1952,": [
+          212
+        ],
+        "Fet": [
+          213
+        ],
+        "Lusternik": [
+          215
+        ],
+        "established": [
+          216
+        ],
+        "theorem": [
+          218
+        ],
+        "periodic.Several": [
+          231
+        ],
+        "authors": [
+          232
+        ],
+        "have": [
+          233
+        ],
+        "certain": [
+          238
+        ],
+        "finite": [
+          239
+        ],
+        "numbers": [
+          240
+        ],
+        "special": [
+          246
+        ],
+        "types": [
+          248
+        ],
+        "manifolds,": [
+          250
+        ],
+        "partly": [
+          251
+        ],
+        "under": [
+          252
+        ],
+        "restrictive": [
+          253
+        ],
+        "metric": [
+          254
+        ],
+        "conditions.We": [
+          255
+        ],
+        "mention": [
+          256
+        ],
+        "work": [
+          258
+        ],
+        "Lusternik,": [
+          260
+        ],
+        "Schnirelmann,": [
+          261
+        ],
+        "Morse,": [
+          262
+        ],
+        "Fet,": [
+          263
+        ],
+        "Alber,": [
+          264
+        ],
+        "Klingenberg;": [
+          266
+        ],
+        "references": [
+          268
+        ],
+        "[11].In": [
+          270
+        ],
+        "§4": [
+          271
+        ],
+        "this": [
+          273
+        ],
+        "paper": [
+          274
+        ],
+        "we": [
+          275
+        ],
+        "shall": [
+          276
+        ],
+        "prove:": [
+          277
+        ],
+        "There": [
+          278
+        ],
+        "exist": [
+          280
+        ],
+        "infinitely": [
+          281,
+          330
+        ],
+        "an": [
+          287
+        ],
+        "arbitrary": [
+          288
+        ],
+        "manifold,": [
+          290
+        ],
+        "provided": [
+          291
+        ],
+        "some": [
+          292,
+          322
+        ],
+        "weak": [
+          293
+        ],
+        "condition": [
+          295,
+          302
+        ],
+        "holds.In": [
+          296
+        ],
+        "fact,": [
+          297
+        ],
+        "seems": [
+          299
+        ],
+        "our": [
+          301
+        ],
+        "satisfied": [
+          305
+        ],
+        "except": [
+          306
+        ],
+        "comparatively": [
+          308
+        ],
+        "few": [
+          309
+        ],
+        "cases.Until": [
+          310
+        ],
+        "now": [
+          311
+        ],
+        "not": [
+          314
+        ],
+        "possible": [
+          316
+        ],
+        "decide": [
+          318
+        ],
+        "whether": [
+          319
+        ],
+        "connected": [
+          325
+        ],
+        "differentiable": [
+          326
+        ],
+        "with": [
+          329,
+          350
+        ],
+        "all": [
+          336
+        ],
+        "structures": [
+          338
+        ],
+        "M.As": [
+          340
+        ],
+        "yet": [
+          341
+        ],
+        "mast": [
+          343
+        ],
+        "natural": [
+          344
+        ],
+        "ami": [
+          345
+        ],
+        "successful": [
+          346
+        ],
+        "way": [
+          347
+        ],
+        "dealing": [
+          349
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2025,
+          "cited_by_count": 6
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2023,
+          "cited_by_count": 6
+        },
+        {
+          "year": 2022,
+          "cited_by_count": 6
+        },
+        {
+          "year": 2021,
+          "cited_by_count": 5
+        },
+        {
+          "year": 2020,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2019,
+          "cited_by_count": 6
+        },
+        {
+          "year": 2018,
+          "cited_by_count": 10
+        },
+        {
+          "year": 2017,
+          "cited_by_count": 11
+        },
+        {
+          "year": 2016,
+          "cited_by_count": 13
+        },
+        {
+          "year": 2015,
+          "cited_by_count": 13
+        },
+        {
+          "year": 2014,
+          "cited_by_count": 11
+        },
+        {
+          "year": 2013,
+          "cited_by_count": 5
+        },
+        {
+          "year": 2012,
+          "cited_by_count": 3
+        }
+      ],
+      "updated_date": "2026-08-05T07:39:15.569665",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W2081208693",
+      "doi": "https://doi.org/10.1007/bf02684593",
+      "title": "Equivariant <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\"> <mml:mi>K</mml:mi> </mml:math> -theory",
+      "display_name": "Equivariant <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\"> <mml:mi>K</mml:mi> </mml:math> -theory",
+      "relevance_score": 202.3981,
+      "publication_year": 1968,
+      "publication_date": "1968-01-07",
+      "ids": {
+        "openalex": "https://openalex.org/W2081208693",
+        "doi": "https://doi.org/10.1007/bf02684593",
+        "mag": "2081208693"
+      },
+      "language": "fr",
+      "primary_location": {
+        "id": "doi:10.1007/bf02684593",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1007/bf02684593",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S25010850",
+          "display_name": "Publications mathématiques de l IHÉS",
+          "issn_l": "0073-8301",
+          "issn": [
+            "0073-8301",
+            "1618-1913"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310319965",
+          "host_organization_name": "Springer Nature",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319965"
+          ],
+          "host_organization_lineage_names": [
+            "Springer Nature"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Publications Mathématiques de l'IHÉS",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://ora.ox.ac.uk/objects/uuid:ca444f35-c203-4a13-b819-67d26aaca032",
+        "any_repository_has_fulltext": true
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5068921170",
+            "display_name": "Graeme Segal",
+            "orcid": "https://orcid.org/0009-0009-7943-0954"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210146410",
+              "display_name": "Science Oxford",
+              "ror": "https://ror.org/04j8yhy50",
+              "country_code": "GB",
+              "type": "nonprofit",
+              "lineage": [
+                "https://openalex.org/I4210146410"
+              ]
+            }
+          ],
+          "countries": [
+            "GB"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Graeme Segal",
+          "raw_affiliation_strings": [
+            "Oxford"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Oxford",
+              "institution_ids": [
+                "https://openalex.org/I4210146410"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 1,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5068921170"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I4210146410"
+      ],
+      "apc_list": {
+        "value": 3290,
+        "currency": "USD",
+        "value_usd": 3290
+      },
+      "apc_paid": null,
+      "fwci": 8.2632,
+      "has_fulltext": true,
+      "cited_by_count": 582,
+      "citation_normalized_percentile": {
+        "value": 0.96862348,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": true
+      },
+      "cited_by_percentile_year": {
+        "min": 99,
+        "max": 100
+      },
+      "biblio": {
+        "volume": "34",
+        "issue": null,
+        "first_page": "129",
+        "last_page": "151"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T11673",
+        "display_name": "Advanced Topics in Algebra",
+        "score": 0.9878000020980835,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2602",
+          "display_name": "Algebra and Number Theory"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/26",
+          "display_name": "Mathematics"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T11673",
+          "display_name": "Advanced Topics in Algebra",
+          "score": 0.9878000020980835,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2602",
+            "display_name": "Algebra and Number Theory"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/26",
+            "display_name": "Mathematics"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10896",
+          "display_name": "Homotopy and Cohomology in Algebraic Topology",
+          "score": 0.9715999960899353,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2610",
+            "display_name": "Mathematical Physics"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/26",
+            "display_name": "Mathematics"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T12504",
+          "display_name": "Mathematics and Applications",
+          "score": 0.9560999870300293,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2608",
+            "display_name": "Geometry and Topology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/26",
+            "display_name": "Mathematics"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/equivariant-map",
+          "display_name": "Equivariant map",
+          "score": 0.867668867111206
+        },
+        {
+          "id": "https://openalex.org/keywords/mathematics",
+          "display_name": "Mathematics",
+          "score": 0.4853214621543884
+        },
+        {
+          "id": "https://openalex.org/keywords/pure-mathematics",
+          "display_name": "Pure mathematics",
+          "score": 0.45930278301239014
+        },
+        {
+          "id": "https://openalex.org/keywords/algebra-over-a-field",
+          "display_name": "Algebra over a field",
+          "score": 0.36858367919921875
+        },
+        {
+          "id": "https://openalex.org/keywords/linguistics",
+          "display_name": "Linguistics",
+          "score": 0.3374512791633606
+        },
+        {
+          "id": "https://openalex.org/keywords/philosophy",
+          "display_name": "Philosophy",
+          "score": 0.2096998691558838
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C171036898",
+          "wikidata": "https://www.wikidata.org/wiki/Q256355",
+          "display_name": "Equivariant map",
+          "level": 2,
+          "score": 0.867668867111206
+        },
+        {
+          "id": "https://openalex.org/C33923547",
+          "wikidata": "https://www.wikidata.org/wiki/Q395",
+          "display_name": "Mathematics",
+          "level": 0,
+          "score": 0.4853214621543884
+        },
+        {
+          "id": "https://openalex.org/C202444582",
+          "wikidata": "https://www.wikidata.org/wiki/Q837863",
+          "display_name": "Pure mathematics",
+          "level": 1,
+          "score": 0.45930278301239014
+        },
+        {
+          "id": "https://openalex.org/C136119220",
+          "wikidata": "https://www.wikidata.org/wiki/Q1000660",
+          "display_name": "Algebra over a field",
+          "level": 2,
+          "score": 0.36858367919921875
+        },
+        {
+          "id": "https://openalex.org/C41895202",
+          "wikidata": "https://www.wikidata.org/wiki/Q8162",
+          "display_name": "Linguistics",
+          "level": 1,
+          "score": 0.3374512791633606
+        },
+        {
+          "id": "https://openalex.org/C138885662",
+          "wikidata": "https://www.wikidata.org/wiki/Q5891",
+          "display_name": "Philosophy",
+          "level": 0,
+          "score": 0.2096998691558838
+        }
+      ],
+      "mesh": [],
+      "locations_count": 4,
+      "locations": [
+        {
+          "id": "doi:10.1007/bf02684593",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1007/bf02684593",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S25010850",
+            "display_name": "Publications mathématiques de l IHÉS",
+            "issn_l": "0073-8301",
+            "issn": [
+              "0073-8301",
+              "1618-1913"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310319965",
+            "host_organization_name": "Springer Nature",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310319965"
+            ],
+            "host_organization_lineage_names": [
+              "Springer Nature"
+            ],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Publications Mathématiques de l'IHÉS",
+          "raw_type": "journal-article"
+        },
+        {
+          "id": "pmh:oai:ora.ox.ac.uk:uuid:ca444f35-c203-4a13-b819-67d26aaca032",
+          "is_oa": true,
+          "landing_page_url": "https://ora.ox.ac.uk/objects/uuid:ca444f35-c203-4a13-b819-67d26aaca032",
+          "pdf_url": "https://ora.ox.ac.uk/objects/uuid:ca444f35-c203-4a13-b819-67d26aaca032",
+          "source": {
+            "id": "https://openalex.org/S4306402636",
+            "display_name": "Oxford University Research Archive (ORA) (University of Oxford)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I40120149",
+            "host_organization_name": "University of Oxford",
+            "host_organization_lineage": [
+              "https://openalex.org/I40120149"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "Dr Leonard Polonsky thesis digitisation",
+          "raw_type": "Thesis"
+        },
+        {
+          "id": "pmh:oai:numdam.org:PMIHES_1968__34__129_0",
+          "is_oa": false,
+          "landing_page_url": "https://www.numdam.org/articles/10.1007/BF02684593/",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306402264",
+            "display_name": "French digital mathematics library (Numdam)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I70900168",
+            "host_organization_name": "Université Savoie Mont Blanc",
+            "host_organization_lineage": [
+              "https://openalex.org/I70900168"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": null,
+          "raw_type": "Text"
+        },
+        {
+          "id": "pmh:oai:numdam.org:PMIHES_1968__34__129_0",
+          "is_oa": false,
+          "landing_page_url": "https://www.numdam.org/item/PMIHES_1968__34__129_0/",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306402264",
+            "display_name": "French digital mathematics library (Numdam)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I70900168",
+            "host_organization_name": "Université Savoie Mont Blanc",
+            "host_organization_lineage": [
+              "https://openalex.org/I70900168"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": null,
+          "raw_type": "Text"
+        }
+      ],
+      "best_oa_location": {
+        "id": "pmh:oai:ora.ox.ac.uk:uuid:ca444f35-c203-4a13-b819-67d26aaca032",
+        "is_oa": true,
+        "landing_page_url": "https://ora.ox.ac.uk/objects/uuid:ca444f35-c203-4a13-b819-67d26aaca032",
+        "pdf_url": "https://ora.ox.ac.uk/objects/uuid:ca444f35-c203-4a13-b819-67d26aaca032",
+        "source": {
+          "id": "https://openalex.org/S4306402636",
+          "display_name": "Oxford University Research Archive (ORA) (University of Oxford)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": "https://openalex.org/I40120149",
+          "host_organization_name": "University of Oxford",
+          "host_organization_lineage": [
+            "https://openalex.org/I40120149"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "Dr Leonard Polonsky thesis digitisation",
+        "raw_type": "Thesis"
+      },
+      "sustainable_development_goals": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": true,
+        "pdf": true
+      },
+      "content_urls": {
+        "pdf": "https://content.openalex.org/works/W2081208693.pdf",
+        "grobid_xml": "https://content.openalex.org/works/W2081208693.grobid-xml"
+      },
+      "referenced_works_count": 16,
+      "referenced_works": [
+        "https://openalex.org/W1500527815",
+        "https://openalex.org/W1535294931",
+        "https://openalex.org/W1597501008",
+        "https://openalex.org/W2023969170",
+        "https://openalex.org/W2030999116",
+        "https://openalex.org/W2035929732",
+        "https://openalex.org/W2037832049",
+        "https://openalex.org/W2043445128",
+        "https://openalex.org/W2047740017",
+        "https://openalex.org/W2063707910",
+        "https://openalex.org/W2078552289",
+        "https://openalex.org/W2526605305",
+        "https://openalex.org/W2566424455",
+        "https://openalex.org/W4210592614",
+        "https://openalex.org/W4214508989",
+        "https://openalex.org/W4234839857"
+      ],
+      "related_works": [
+        "https://openalex.org/W3148895720",
+        "https://openalex.org/W2393913406",
+        "https://openalex.org/W30258475",
+        "https://openalex.org/W2356579025",
+        "https://openalex.org/W2736697936",
+        "https://openalex.org/W3211835374",
+        "https://openalex.org/W2548611373",
+        "https://openalex.org/W1601809778",
+        "https://openalex.org/W3169304289",
+        "https://openalex.org/W2952187993"
+      ],
+      "abstract_inverted_index": {
+        "&lt;p&gt;The": [
+          0
+        ],
+        "purpose": [
+          1
+        ],
+        "of": [
+          2,
+          12,
+          23,
+          33,
+          65,
+          77,
+          121,
+          124,
+          168,
+          232,
+          234,
+          256,
+          266,
+          305,
+          311,
+          320,
+          327,
+          341,
+          361,
+          381,
+          413,
+          418,
+          443,
+          457,
+          468,
+          470,
+          483,
+          521,
+          534,
+          550,
+          554,
+          679,
+          682,
+          690
+        ],
+        "this": [
+          3,
+          96,
+          224
+        ],
+        "thesis": [
+          4,
+          97,
+          610
+        ],
+        "is": [
+          5,
+          20,
+          43,
+          57,
+          62,
+          163,
+          173,
+          180,
+          211,
+          261,
+          371,
+          416,
+          427,
+          464,
+          480,
+          531,
+          563,
+          568,
+          577
+        ],
+        "to": [
+          6,
+          127,
+          134,
+          150,
+          158,
+          165,
+          227,
+          324,
+          344,
+          389,
+          511,
+          513,
+          579,
+          592
+        ],
+        "present": [
+          7
+        ],
+        "a": [
+          8,
+          21,
+          25,
+          37,
+          47,
+          58,
+          66,
+          90,
+          102,
+          136,
+          174,
+          176,
+          182,
+          193,
+          212,
+          235,
+          262,
+          333,
+          354,
+          374,
+          428,
+          474,
+          523,
+          548,
+          564,
+          569,
+          616,
+          619,
+          630,
+          635,
+          650
+        ],
+        "fairly": [
+          9
+        ],
+        "complete": [
+          10,
+          673
+        ],
+        "account": [
+          11
+        ],
+        "equivariant": [
+          13,
+          283,
+          289
+        ],
+        "K-theory": [
+          14,
+          19
+        ],
+        "on": [
+          15,
+          36,
+          46,
+          50,
+          70,
+          79,
+          83,
+          178,
+          373,
+          621,
+          632,
+          637
+        ],
+        "compact": [
+          16,
+          103,
+          169,
+          213,
+          236
+        ],
+        "spaces.": [
+          17
+        ],
+        "Equivariant": [
+          18,
+          39
+        ],
+        "generalisation": [
+          22,
+          549
+        ],
+        "K-theory,": [
+          24,
+          40
+        ],
+        "rather": [
+          26,
+          263
+        ],
+        "well-known": [
+          27
+        ],
+        "cohomology": [
+          28
+        ],
+        "theory": [
+          29,
+          412
+        ],
+        "arising": [
+          30
+        ],
+        "from": [
+          31,
+          75,
+          250
+        ],
+        "consideration": [
+          32,
+          76
+        ],
+        "the": [
+          34,
+          111,
+          128,
+          140,
+          154,
+          166,
+          187,
+          230,
+          282,
+          318,
+          329,
+          336,
+          339,
+          366,
+          393,
+          405,
+          411,
+          419,
+          431,
+          440,
+          458,
+          465,
+          481,
+          492,
+          532,
+          535,
+          551,
+          557,
+          580,
+          594,
+          605,
+          622,
+          638,
+          680,
+          688
+        ],
+        "vector-bundles": [
+          35,
+          82
+        ],
+        "space.": [
+          38
+        ],
+        "or": [
+          41,
+          144,
+          189
+        ],
+        "K&lt;sub&gt;G&lt;/sub&gt;-theory,": [
+          42
+        ],
+        "defined": [
+          44,
+          297
+        ],
+        "not": [
+          45,
+          108,
+          255,
+          278
+        ],
+        "space": [
+          48,
+          59,
+          86,
+          231,
+          367,
+          387,
+          639
+        ],
+        "but": [
+          49,
+          130,
+          276,
+          363,
+          541
+        ],
+        "G-spaces,": [
+          51,
+          328
+        ],
+        "i.e.": [
+          52,
+          81
+        ],
+        "pairs": [
+          53
+        ],
+        "(X,α),": [
+          54
+        ],
+        "where": [
+          55,
+          485
+        ],
+        "X": [
+          56,
+          172,
+          179,
+          382,
+          390,
+          397,
+          484,
+          518,
+          633
+        ],
+        "and": [
+          60,
+          72,
+          153,
+          206,
+          239,
+          307,
+          335,
+          338,
+          356,
+          453,
+          477,
+          588,
+          662,
+          674
+        ],
+        "α": [
+          61,
+          652,
+          675
+        ],
+        "an": [
+          63,
+          241,
+          385,
+          499,
+          677
+        ],
+        "action": [
+          64
+        ],
+        "fixed": [
+          67
+        ],
+        "group": [
+          68,
+          215
+        ],
+        "G": [
+          69,
+          87,
+          98,
+          210,
+          249,
+          471,
+          626
+        ],
+        "X,": [
+          71,
+          80
+        ],
+        "it": [
+          73,
+          294,
+          438,
+          542
+        ],
+        "arises": [
+          74
+        ],
+        "G-vector-bundles": [
+          78
+        ],
+        "whose": [
+          84,
+          566
+        ],
+        "total": [
+          85
+        ],
+        "acts": [
+          88
+        ],
+        "in": [
+          89,
+          110,
+          139,
+          196,
+          207,
+          281,
+          298,
+          400,
+          423,
+          449,
+          487,
+          538,
+          600,
+          669
+        ],
+        "suitable": [
+          91,
+          253,
+          666
+        ],
+        "way": [
+          92
+        ],
+        "(of": [
+          93,
+          627
+        ],
+        "3.1).": [
+          94
+        ],
+        "In": [
+          95,
+          198,
+          556
+        ],
+        "will": [
+          99
+        ],
+        "always": [
+          100
+        ],
+        "be": [
+          101,
+          151,
+          296,
+          545
+        ],
+        "group.&lt;/p&gt;": [
+          104
+        ],
+        "&lt;p&gt;But": [
+          105
+        ],
+        "K&lt;sub&gt;G&lt;/sub&gt;-theory": [
+          106
+        ],
+        "does": [
+          107
+        ],
+        "appear": [
+          109
+        ],
+        "first": [
+          112,
+          229
+        ],
+        "three": [
+          113,
+          299
+        ],
+        "chapters,": [
+          114
+        ],
+        "which": [
+          115,
+          131,
+          391,
+          445,
+          608
+        ],
+        "are": [
+          116,
+          272,
+          664
+        ],
+        "introductory.": [
+          117
+        ],
+        "Chapter": [
+          118
+        ],
+        "1": [
+          119
+        ],
+        "consists": [
+          120
+        ],
+        "preliminary": [
+          122
+        ],
+        "discussions": [
+          123
+        ],
+        "little": [
+          125
+        ],
+        "relevance": [
+          126
+        ],
+        "sequel,": [
+          129
+        ],
+        "permit": [
+          132
+        ],
+        "me": [
+          133
+        ],
+        "make": [
+          135
+        ],
+        "few": [
+          137
+        ],
+        "propositions": [
+          138
+        ],
+        "later": [
+          141
+        ],
+        "chapters": [
+          142
+        ],
+        "shorter": [
+          143
+        ],
+        "more": [
+          145
+        ],
+        "elegant.": [
+          146
+        ],
+        "It": [
+          147,
+          530
+        ],
+        "was": [
+          148,
+          611
+        ],
+        "intended": [
+          149
+        ],
+        "amusing,": [
+          152
+        ],
+        "reader": [
+          155
+        ],
+        "may": [
+          156
+        ],
+        "prefer": [
+          157
+        ],
+        "omit": [
+          159
+        ],
+        "it.&lt;/p&gt;": [
+          160
+        ],
+        "&lt;p&gt;Chapter": [
+          161,
+          259,
+          285
+        ],
+        "2": [
+          162,
+          200
+        ],
+        "devoted": [
+          164
+        ],
+        "representation-theory": [
+          167
+        ],
+        "groups.": [
+          170
+        ],
+        "When": [
+          171
+        ],
+        "point": [
+          175
+        ],
+        "G-vector-bundle": [
+          177,
+          334
+        ],
+        "just": [
+          181
+        ],
+        "representation-module": [
+          183
+        ],
+        "for": [
+          184,
+          244,
+          248,
+          252,
+          332,
+          352,
+          377,
+          625
+        ],
+        "G,": [
+          185
+        ],
+        "so": [
+          186,
+          434,
+          629
+        ],
+        "representation-ring,": [
+          188
+        ],
+        "character-ring,": [
+          190
+        ],
+        "R(G)": [
+          191
+        ],
+        "plays": [
+          192
+        ],
+        "fundamental": [
+          194
+        ],
+        "role": [
+          195
+        ],
+        "K&lt;sub&gt;G&lt;/sub&gt;-theory.": [
+          197,
+          425
+        ],
+        "chapter": [
+          199,
+          315,
+          348,
+          401,
+          414,
+          506,
+          601
+        ],
+        "I": [
+          201,
+          216,
+          225,
+          291,
+          350,
+          383,
+          403,
+          446,
+          508,
+          573,
+          589,
+          603,
+          657
+        ],
+        "investigate": [
+          202
+        ],
+        "its": [
+          203,
+          219
+        ],
+        "algebraic": [
+          204,
+          571
+        ],
+        "structure,": [
+          205
+        ],
+        "particular": [
+          208
+        ],
+        "when": [
+          209,
+          501,
+          561
+        ],
+        "Lie": [
+          214,
+          237
+        ],
+        "determine": [
+          217
+        ],
+        "completely": [
+          218
+        ],
+        "prime": [
+          220,
+          441,
+          466
+        ],
+        "ideals.": [
+          221
+        ],
+        "To": [
+          222
+        ],
+        "do": [
+          223
+        ],
+        "have": [
+          226,
+          277,
+          447,
+          489
+        ],
+        "discuss": [
+          228
+        ],
+        "conjugacy-classes": [
+          233
+        ],
+        "group,": [
+          238
+        ],
+        "outline": [
+          240
+        ],
+        "induced-representation": [
+          242,
+          552
+        ],
+        "construction": [
+          243,
+          553
+        ],
+        "obtaining": [
+          245
+        ],
+        "finite-dimensional": [
+          246
+        ],
+        "modules": [
+          247,
+          251
+        ],
+        "subgroups": [
+          254
+        ],
+        "finite": [
+          257
+        ],
+        "index.&lt;/p&gt;": [
+          258
+        ],
+        "3": [
+          260
+        ],
+        "full": [
+          264
+        ],
+        "collection": [
+          265
+        ],
+        "technical": [
+          267
+        ],
+        "results": [
+          268
+        ],
+        "concerning": [
+          269
+        ],
+        "G-vector-bundles:": [
+          270
+        ],
+        "they": [
+          271
+        ],
+        "all": [
+          273
+        ],
+        "essentially": [
+          274
+        ],
+        "well-known,": [
+          275
+        ],
+        "been": [
+          279
+        ],
+        "stated": [
+          280
+        ],
+        "case.&lt;/p&gt;": [
+          284
+        ],
+        "4": [
+          286
+        ],
+        "presents": [
+          287
+        ],
+        "basic": [
+          288
+        ],
+        "K-theory.": [
+          290
+        ],
+        "show": [
+          292,
+          509
+        ],
+        "that": [
+          293,
+          396,
+          575,
+          591,
+          659,
+          692
+        ],
+        "can": [
+          295,
+          436,
+          543
+        ],
+        "ways:": [
+          300
+        ],
+        "by": [
+          301,
+          303,
+          308
+        ],
+        "G-vector-bundles,": [
+          302,
+          306
+        ],
+        "complexes": [
+          304,
+          310
+        ],
+        "Fredholm": [
+          309
+        ],
+        "infinite-dimensional": [
+          312
+        ],
+        "G-vector-bundles.": [
+          313
+        ],
+        "This": [
+          314,
+          686
+        ],
+        "also": [
+          316,
+          544
+        ],
+        "treats": [
+          317
+        ],
+        "continuity": [
+          319
+        ],
+        "K&lt;sub&gt;G&lt;/sub&gt;": [
+          321,
+          343
+        ],
+        "with": [
+          322,
+          410,
+          644,
+          684
+        ],
+        "respect": [
+          323
+        ],
+        "inverse": [
+          325
+        ],
+        "limits": [
+          326
+        ],
+        "Thorn": [
+          330
+        ],
+        "homomorphism": [
+          331,
+          524,
+          537,
+          651
+        ],
+        "periodicity-isomorphism,": [
+          337
+        ],
+        "question": [
+          340
+        ],
+        "extending": [
+          342
+        ],
+        "non-compact": [
+          345
+        ],
+        "spaces.&lt;/p&gt;": [
+          346
+        ],
+        "&lt;p&gt;In": [
+          347,
+          505
+        ],
+        "5": [
+          349,
+          402
+        ],
+        "obtain": [
+          351,
+          593
+        ],
+        "K&lt;sub&gt;G&lt;/sub&gt;(X)": [
+          353,
+          426,
+          495,
+          527,
+          654,
+          661,
+          683
+        ],
+        "filtration": [
+          355,
+          395
+        ],
+        "spectral": [
+          357
+        ],
+        "sequence": [
+          358
+        ],
+        "generalising": [
+          359
+        ],
+        "those": [
+          360
+        ],
+        "[6],": [
+          362
+        ],
+        "without": [
+          364
+        ],
+        "dissecting": [
+          365
+        ],
+        "X.": [
+          368,
+          646
+        ],
+        "My": [
+          369
+        ],
+        "method": [
+          370
+        ],
+        "based": [
+          372
+        ],
+        "Cech": [
+          375
+        ],
+        "approach:": [
+          376
+        ],
+        "each": [
+          378
+        ],
+        "open": [
+          379
+        ],
+        "covering": [
+          380
+        ],
+        "construct": [
+          384
+        ],
+        "auxiliary": [
+          386
+        ],
+        "homotopy-equivalent": [
+          388
+        ],
+        "has": [
+          392
+        ],
+        "natural": [
+          394,
+          493,
+          581
+        ],
+        "lacks.&lt;/p&gt;": [
+          398
+        ],
+        "&lt;p&gt;Also": [
+          399
+        ],
+        "prove": [
+          404,
+          574,
+          604,
+          658
+        ],
+        "localisation-theorem": [
+          406,
+          459
+        ],
+        "(5.3),": [
+          407
+        ],
+        "which,": [
+          408
+        ],
+        "together": [
+          409
+        ],
+        "6,": [
+          415
+        ],
+        "one": [
+          417,
+          435,
+          648
+        ],
+        "most": [
+          420,
+          454
+        ],
+        "important": [
+          421,
+          455,
+          558
+        ],
+        "tools": [
+          422
+        ],
+        "applied": [
+          424
+        ],
+        "module": [
+          429
+        ],
+        "over": [
+          430,
+          642
+        ],
+        "character-ring": [
+          432
+        ],
+        "R(G),": [
+          433,
+          444
+        ],
+        "localise": [
+          437
+        ],
+        "at": [
+          439,
+          473,
+          503
+        ],
+        "ideals": [
+          442
+        ],
+        "determined": [
+          448
+        ],
+        "2.5.": [
+          450
+        ],
+        "The": [
+          451
+        ],
+        "simplest": [
+          452
+        ],
+        "case": [
+          456,
+          560
+        ],
+        "states": [
+          460
+        ],
+        "that,": [
+          461
+        ],
+        "if": [
+          462,
+          478,
+          660
+        ],
+        "β": [
+          463
+        ],
+        "ideal": [
+          467
+        ],
+        "characters": [
+          469
+        ],
+        "vanishing": [
+          472
+        ],
+        "conjugacy-class": [
+          475
+        ],
+        "γ,": [
+          476
+        ],
+        "X&lt;sup&gt;γ&lt;/sup&gt;": [
+          479
+        ],
+        "part": [
+          482
+        ],
+        "elements": [
+          486
+        ],
+        "γ": [
+          488
+        ],
+        "fixed-points,": [
+          490
+        ],
+        "then": [
+          491,
+          668
+        ],
+        "restriction-map": [
+          494
+        ],
+        "&amp;amp;rightarrow;": [
+          496,
+          519,
+          528,
+          586,
+          655
+        ],
+        "K&lt;sup&gt;G&lt;/sup&gt;(X&lt;sup&gt;γ&lt;/sup&gt;)": [
+          497
+        ],
+        "induces": [
+          498,
+          676
+        ],
+        "isomorphism": [
+          500,
+          597,
+          678
+        ],
+        "localised": [
+          502
+        ],
+        "β.&lt;/p&gt;": [
+          504
+        ],
+        "6": [
+          507
+        ],
+        "how": [
+          510
+        ],
+        "associate": [
+          512
+        ],
+        "certain": [
+          514,
+          670
+        ],
+        "maps": [
+          515
+        ],
+        "f": [
+          516,
+          562
+        ],
+        ":": [
+          517,
+          526,
+          584,
+          653
+        ],
+        "Y": [
+          520
+        ],
+        "(G-spaces": [
+          522
+        ],
+        "f&lt;sub&gt;!&lt;/sub&gt;": [
+          525,
+          576
+        ],
+        "K&lt;sub&gt;G&lt;/sub&gt;(Y).": [
+          529
+        ],
+        "analogue": [
+          533
+        ],
+        "Gysin": [
+          536
+        ],
+        "ordinary": [
+          539
+        ],
+        "cohomology-theory;": [
+          540
+        ],
+        "regarded": [
+          546
+        ],
+        "as": [
+          547,
+          615
+        ],
+        "2.4.": [
+          555
+        ],
+        "special": [
+          559
+        ],
+        "fibration": [
+          565
+        ],
+        "fibre": [
+          567,
+          645
+        ],
+        "rational": [
+          570
+        ],
+        "variety": [
+          572
+        ],
+        "left-inverse": [
+          578
+        ],
+        "map": [
+          582
+        ],
+        "f&lt;sup&gt;!&lt;/sup&gt;": [
+          583
+        ],
+        "K&lt;sub&gt;G&lt;/sub&gt;(Y)": [
+          585
+        ],
+        "K&lt;sub&gt;G&lt;/sub&gt;(X);": [
+          587
+        ],
+        "apply": [
+          590
+        ],
+        "general": [
+          595
+        ],
+        "Thom": [
+          596
+        ],
+        "theorem.&lt;/p&gt;": [
+          598
+        ],
+        "&lt;p&gt;Finally": [
+          599
+        ],
+        "7": [
+          602
+        ],
+        "theorem": [
+          606,
+          689
+        ],
+        "towards": [
+          607
+        ],
+        "my": [
+          609
+        ],
+        "originally": [
+          612
+        ],
+        "directed.": [
+          613
+        ],
+        "Just": [
+          614
+        ],
+        "G-module": [
+          617
+        ],
+        "defines": [
+          618,
+          634
+        ],
+        "vector-bundle": [
+          620,
+          636
+        ],
+        "classifying-space": [
+          623
+        ],
+        "B&lt;sub&gt;G&lt;/sub&gt;": [
+          624,
+          643
+        ],
+        "[1]),": [
+          628
+        ],
+        "G~vector-bundle": [
+          631
+        ],
+        "X&lt;sub&gt;G&lt;/sub&gt;": [
+          640
+        ],
+        "fibred": [
+          641
+        ],
+        "Thus": [
+          647
+        ],
+        "gets": [
+          649
+        ],
+        "K(X&lt;sub&gt;G&lt;/sub&gt;).": [
+          656,
+          685
+        ],
+        "K(X&lt;sub&gt;G&lt;/sub&gt;)": [
+          663
+        ],
+        "given": [
+          665
+        ],
+        "topologies": [
+          667
+        ],
+        "circumstances": [
+          671
+        ],
+        "K(X&lt;sub&gt;G&lt;/sub&gt;)is": [
+          672
+        ],
+        "completion": [
+          681
+        ],
+        "generalises": [
+          687
+        ],
+        "Atiyah-Hirsebruch": [
+          691
+        ],
+        "R(G)^": [
+          693
+        ],
+        "≅": [
+          694
+        ],
+        "K(B&lt;sub&gt;G&lt;/sub&gt;).&lt;/p&gt;": [
+          695
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 5
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 11
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 20
+        },
+        {
+          "year": 2023,
+          "cited_by_count": 10
+        },
+        {
+          "year": 2022,
+          "cited_by_count": 18
+        },
+        {
+          "year": 2021,
+          "cited_by_count": 11
+        },
+        {
+          "year": 2020,
+          "cited_by_count": 21
+        },
+        {
+          "year": 2019,
+          "cited_by_count": 15
+        },
+        {
+          "year": 2018,
+          "cited_by_count": 38
+        },
+        {
+          "year": 2017,
+          "cited_by_count": 16
+        },
+        {
+          "year": 2016,
+          "cited_by_count": 19
+        },
+        {
+          "year": 2015,
+          "cited_by_count": 15
+        },
+        {
+          "year": 2014,
+          "cited_by_count": 16
+        },
+        {
+          "year": 2013,
+          "cited_by_count": 14
+        },
+        {
+          "year": 2012,
+          "cited_by_count": 16
+        }
+      ],
+      "updated_date": "2026-08-04T08:18:43.703281",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W2024440395",
+      "doi": "https://doi.org/10.4310/ajm.2006.v10.n4.a10",
+      "title": "Floer cohomology and disc instantons of Lagrangian torus fibers in Fano toric manifolds",
+      "display_name": "Floer cohomology and disc instantons of Lagrangian torus fibers in Fano toric manifolds",
+      "relevance_score": 192.36983,
+      "publication_year": 2006,
+      "publication_date": "2006-01-01",
+      "ids": {
+        "openalex": "https://openalex.org/W2024440395",
+        "doi": "https://doi.org/10.4310/ajm.2006.v10.n4.a10",
+        "mag": "2024440395"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.4310/ajm.2006.v10.n4.a10",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.4310/ajm.2006.v10.n4.a10",
+        "pdf_url": "https://www.intlpress.com/site/pub/files/_fulltext/journals/ajm/2006/0010/0004/AJM-2006-0010-0004-a010.pdf",
+        "source": {
+          "id": "https://openalex.org/S45079764",
+          "display_name": "Asian Journal of Mathematics",
+          "issn_l": "1093-6106",
+          "issn": [
+            "1093-6106",
+            "1945-0036"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Asian Journal of Mathematics",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://www.intlpress.com/site/pub/files/_fulltext/journals/ajm/2006/0010/0004/AJM-2006-0010-0004-a010.pdf",
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5055117966",
+            "display_name": "Cheol-Hyun Cho",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I111979921",
+              "display_name": "Northwestern University",
+              "ror": "https://ror.org/000e0be47",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I111979921"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Cheol-Hyun Cho",
+          "raw_affiliation_strings": [
+            "Department of Mathematics, Northwestern University, Evanston, IL 60208, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Mathematics, Northwestern University, Evanston, IL 60208, USA",
+              "institution_ids": [
+                "https://openalex.org/I111979921"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5102862770",
+            "display_name": "Yong‐Geun Oh",
+            "orcid": "https://orcid.org/0000-0003-0333-4308"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I135310074",
+              "display_name": "University of Wisconsin–Madison",
+              "ror": "https://ror.org/01y2jtd41",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I135310074"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Yong-Geun Oh",
+          "raw_affiliation_strings": [
+            "Department of Mathematics, University of Wisconsin, Madison, WI 53706, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Mathematics, University of Wisconsin, Madison, WI 53706, USA",
+              "institution_ids": [
+                "https://openalex.org/I135310074"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 2,
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 11.2608,
+      "has_fulltext": true,
+      "cited_by_count": 226,
+      "citation_normalized_percentile": {
+        "value": 0.99162596,
+        "is_in_top_1_percent": true,
+        "is_in_top_10_percent": true
+      },
+      "cited_by_percentile_year": {
+        "min": 97,
+        "max": 100
+      },
+      "biblio": {
+        "volume": "10",
+        "issue": "4",
+        "first_page": "773",
+        "last_page": "814"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10304",
+        "display_name": "Geometric and Algebraic Topology",
+        "score": 0.9995999932289124,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2608",
+          "display_name": "Geometry and Topology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/26",
+          "display_name": "Mathematics"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10304",
+          "display_name": "Geometric and Algebraic Topology",
+          "score": 0.9995999932289124,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2608",
+            "display_name": "Geometry and Topology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/26",
+            "display_name": "Mathematics"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10061",
+          "display_name": "Algebraic Geometry and Number Theory",
+          "score": 0.9902999997138977,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2608",
+            "display_name": "Geometry and Topology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/26",
+            "display_name": "Mathematics"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T12351",
+          "display_name": "Geometry and complex manifolds",
+          "score": 0.9807999730110168,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2608",
+            "display_name": "Geometry and Topology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/26",
+            "display_name": "Mathematics"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/mathematics",
+          "display_name": "Mathematics",
+          "score": 0.7857540845870972
+        },
+        {
+          "id": "https://openalex.org/keywords/cohomology",
+          "display_name": "Cohomology",
+          "score": 0.590684175491333
+        },
+        {
+          "id": "https://openalex.org/keywords/pure-mathematics",
+          "display_name": "Pure mathematics",
+          "score": 0.5860955715179443
+        },
+        {
+          "id": "https://openalex.org/keywords/quantum-cohomology",
+          "display_name": "Quantum cohomology",
+          "score": 0.5143154859542847
+        },
+        {
+          "id": "https://openalex.org/keywords/torus",
+          "display_name": "Torus",
+          "score": 0.5014176368713379
+        },
+        {
+          "id": "https://openalex.org/keywords/equivariant-cohomology",
+          "display_name": "Equivariant cohomology",
+          "score": 0.4707539677619934
+        },
+        {
+          "id": "https://openalex.org/keywords/toric-variety",
+          "display_name": "Toric variety",
+          "score": 0.46440792083740234
+        },
+        {
+          "id": "https://openalex.org/keywords/mirror-symmetry",
+          "display_name": "Mirror symmetry",
+          "score": 0.4262399673461914
+        },
+        {
+          "id": "https://openalex.org/keywords/floer-homology",
+          "display_name": "Floer homology",
+          "score": 0.4190567433834076
+        },
+        {
+          "id": "https://openalex.org/keywords/fibration",
+          "display_name": "Fibration",
+          "score": 0.41264456510543823
+        },
+        {
+          "id": "https://openalex.org/keywords/symplectic-geometry",
+          "display_name": "Symplectic geometry",
+          "score": 0.3323781490325928
+        },
+        {
+          "id": "https://openalex.org/keywords/homotopy",
+          "display_name": "Homotopy",
+          "score": 0.13565608859062195
+        },
+        {
+          "id": "https://openalex.org/keywords/geometry",
+          "display_name": "Geometry",
+          "score": 0.09854298830032349
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C33923547",
+          "wikidata": "https://www.wikidata.org/wiki/Q395",
+          "display_name": "Mathematics",
+          "level": 0,
+          "score": 0.7857540845870972
+        },
+        {
+          "id": "https://openalex.org/C78606066",
+          "wikidata": "https://www.wikidata.org/wiki/Q1198376",
+          "display_name": "Cohomology",
+          "level": 2,
+          "score": 0.590684175491333
+        },
+        {
+          "id": "https://openalex.org/C202444582",
+          "wikidata": "https://www.wikidata.org/wiki/Q837863",
+          "display_name": "Pure mathematics",
+          "level": 1,
+          "score": 0.5860955715179443
+        },
+        {
+          "id": "https://openalex.org/C136660716",
+          "wikidata": "https://www.wikidata.org/wiki/Q7269022",
+          "display_name": "Quantum cohomology",
+          "level": 4,
+          "score": 0.5143154859542847
+        },
+        {
+          "id": "https://openalex.org/C9767117",
+          "wikidata": "https://www.wikidata.org/wiki/Q12510",
+          "display_name": "Torus",
+          "level": 2,
+          "score": 0.5014176368713379
+        },
+        {
+          "id": "https://openalex.org/C72738302",
+          "wikidata": "https://www.wikidata.org/wiki/Q5384738",
+          "display_name": "Equivariant cohomology",
+          "level": 3,
+          "score": 0.4707539677619934
+        },
+        {
+          "id": "https://openalex.org/C5052557",
+          "wikidata": "https://www.wikidata.org/wiki/Q1528306",
+          "display_name": "Toric variety",
+          "level": 2,
+          "score": 0.46440792083740234
+        },
+        {
+          "id": "https://openalex.org/C188374626",
+          "wikidata": "https://www.wikidata.org/wiki/Q5914418",
+          "display_name": "Mirror symmetry",
+          "level": 2,
+          "score": 0.4262399673461914
+        },
+        {
+          "id": "https://openalex.org/C121294916",
+          "wikidata": "https://www.wikidata.org/wiki/Q652525",
+          "display_name": "Floer homology",
+          "level": 3,
+          "score": 0.4190567433834076
+        },
+        {
+          "id": "https://openalex.org/C54486226",
+          "wikidata": "https://www.wikidata.org/wiki/Q493941",
+          "display_name": "Fibration",
+          "level": 3,
+          "score": 0.41264456510543823
+        },
+        {
+          "id": "https://openalex.org/C168619227",
+          "wikidata": "https://www.wikidata.org/wiki/Q2190991",
+          "display_name": "Symplectic geometry",
+          "level": 2,
+          "score": 0.3323781490325928
+        },
+        {
+          "id": "https://openalex.org/C5961521",
+          "wikidata": "https://www.wikidata.org/wiki/Q746083",
+          "display_name": "Homotopy",
+          "level": 2,
+          "score": 0.13565608859062195
+        },
+        {
+          "id": "https://openalex.org/C2524010",
+          "wikidata": "https://www.wikidata.org/wiki/Q8087",
+          "display_name": "Geometry",
+          "level": 1,
+          "score": 0.09854298830032349
+        }
+      ],
+      "mesh": [],
+      "locations_count": 3,
+      "locations": [
+        {
+          "id": "doi:10.4310/ajm.2006.v10.n4.a10",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.4310/ajm.2006.v10.n4.a10",
+          "pdf_url": "https://www.intlpress.com/site/pub/files/_fulltext/journals/ajm/2006/0010/0004/AJM-2006-0010-0004-a010.pdf",
+          "source": {
+            "id": "https://openalex.org/S45079764",
+            "display_name": "Asian Journal of Mathematics",
+            "issn_l": "1093-6106",
+            "issn": [
+              "1093-6106",
+              "1945-0036"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Asian Journal of Mathematics",
+          "raw_type": "journal-article"
+        },
+        {
+          "id": "pmh:oai:CULeuclid:euclid.ajm/1175789093",
+          "is_oa": false,
+          "landing_page_url": "http://projecteuclid.org/euclid.ajm/1175789093",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306400787",
+            "display_name": "Project Euclid (Cornell University)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I205783295",
+            "host_organization_name": "Cornell University",
+            "host_organization_lineage": [
+              "https://openalex.org/I205783295"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "",
+          "raw_type": "Text"
+        },
+        {
+          "id": "pmh:oai:CiteSeerX.psu:10.1.1.234.9516",
+          "is_oa": false,
+          "landing_page_url": "http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.234.9516",
+          "pdf_url": null,
+          "source": null,
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "http://arxiv.org/pdf/math/0308225v1.pdf",
+          "raw_type": "text"
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.4310/ajm.2006.v10.n4.a10",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.4310/ajm.2006.v10.n4.a10",
+        "pdf_url": "https://www.intlpress.com/site/pub/files/_fulltext/journals/ajm/2006/0010/0004/AJM-2006-0010-0004-a010.pdf",
+        "source": {
+          "id": "https://openalex.org/S45079764",
+          "display_name": "Asian Journal of Mathematics",
+          "issn_l": "1093-6106",
+          "issn": [
+            "1093-6106",
+            "1945-0036"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Asian Journal of Mathematics",
+        "raw_type": "journal-article"
+      },
+      "sustainable_development_goals": [],
+      "awards": [
+        {
+          "id": "https://openalex.org/G1991310252",
+          "display_name": "Floer Theory, Symplectic Geometry and Mirror Symmetry",
+          "funder_award_id": "0203593",
+          "funder_id": "https://openalex.org/F4320306076",
+          "funder_display_name": "National Science Foundation"
+        }
+      ],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320306076",
+          "display_name": "National Science Foundation",
+          "ror": "https://ror.org/021nxhr62"
+        }
+      ],
+      "has_content": {
+        "grobid_xml": true,
+        "pdf": true
+      },
+      "content_urls": {
+        "pdf": "https://content.openalex.org/works/W2024440395.pdf",
+        "grobid_xml": "https://content.openalex.org/works/W2024440395.grobid-xml"
+      },
+      "referenced_works_count": 28,
+      "referenced_works": [
+        "https://openalex.org/W101691459",
+        "https://openalex.org/W136105496",
+        "https://openalex.org/W1510104748",
+        "https://openalex.org/W1521877949",
+        "https://openalex.org/W1559619978",
+        "https://openalex.org/W1585821064",
+        "https://openalex.org/W1793380792",
+        "https://openalex.org/W1796115931",
+        "https://openalex.org/W1800967450",
+        "https://openalex.org/W2029255464",
+        "https://openalex.org/W2032010018",
+        "https://openalex.org/W2037075974",
+        "https://openalex.org/W2047062138",
+        "https://openalex.org/W2054902263",
+        "https://openalex.org/W2061446943",
+        "https://openalex.org/W2066701400",
+        "https://openalex.org/W2075853921",
+        "https://openalex.org/W2097850098",
+        "https://openalex.org/W2132599029",
+        "https://openalex.org/W2133314243",
+        "https://openalex.org/W2963660110",
+        "https://openalex.org/W2996802494",
+        "https://openalex.org/W6600246331",
+        "https://openalex.org/W6600499797",
+        "https://openalex.org/W6637206559",
+        "https://openalex.org/W6765635694",
+        "https://openalex.org/W6766281440",
+        "https://openalex.org/W6828158374"
+      ],
+      "related_works": [
+        "https://openalex.org/W4293772116",
+        "https://openalex.org/W2547816525",
+        "https://openalex.org/W4320036520",
+        "https://openalex.org/W2949081556",
+        "https://openalex.org/W3104022049",
+        "https://openalex.org/W1873118644",
+        "https://openalex.org/W2156470758",
+        "https://openalex.org/W4366850755",
+        "https://openalex.org/W1646913575",
+        "https://openalex.org/W3098898350"
+      ],
+      "abstract_inverted_index": {
+        "In": [
+          0,
+          50,
+          159
+        ],
+        "this": [
+          1
+        ],
+        "paper,": [
+          2
+        ],
+        "we": [
+          3,
+          32,
+          163
+        ],
+        "first": [
+          4
+        ],
+        "provide": [
+          5
+        ],
+        "an": [
+          6
+        ],
+        "explicit": [
+          7
+        ],
+        "description": [
+          8
+        ],
+        "of": [
+          9,
+          20,
+          42,
+          46,
+          95,
+          99,
+          120,
+          133,
+          137,
+          148,
+          151,
+          170
+        ],
+        "all": [
+          10,
+          121
+        ],
+        "holomorphic": [
+          11
+        ],
+        "discs": [
+          12
+        ],
+        "(\"disc": [
+          13
+        ],
+        "instantons\")": [
+          14
+        ],
+        "attached": [
+          15
+        ],
+        "to": [
+          16,
+          53,
+          73,
+          155,
+          176
+        ],
+        "Lagrangian": [
+          17,
+          43,
+          96
+        ],
+        "torus": [
+          18,
+          44,
+          97
+        ],
+        "fibers": [
+          19,
+          45,
+          98,
+          123
+        ],
+        "arbitrary": [
+          21
+        ],
+        "compact": [
+          22
+        ],
+        "toric": [
+          23,
+          48,
+          101,
+          135,
+          157
+        ],
+        "manifolds,": [
+          24
+        ],
+        "and": [
+          25,
+          38,
+          82
+        ],
+        "prove": [
+          26,
+          165
+        ],
+        "their": [
+          27
+        ],
+        "Fredholm": [
+          28
+        ],
+        "regularity.": [
+          29
+        ],
+        "Using": [
+          30
+        ],
+        "this,": [
+          31
+        ],
+        "compute": [
+          33
+        ],
+        "Fukaya-Oh-Ohta-Ono's": [
+          34
+        ],
+        "(FOOO's)": [
+          35
+        ],
+        "obstruction": [
+          36,
+          70
+        ],
+        "(co)chains": [
+          37,
+          71
+        ],
+        "the": [
+          39,
+          54,
+          66,
+          74,
+          78,
+          85,
+          92,
+          107,
+          111,
+          122,
+          130,
+          134,
+          141,
+          149,
+          152,
+          156,
+          160,
+          167,
+          171
+        ],
+        "Floer": [
+          40,
+          93,
+          108,
+          168
+        ],
+        "cohomology": [
+          41,
+          94,
+          109,
+          169
+        ],
+        "Fano": [
+          47,
+          100
+        ],
+        "manifolds.": [
+          49,
+          102
+        ],
+        "particular": [
+          51
+        ],
+        "specializing": [
+          52
+        ],
+        "formal": [
+          55
+        ],
+        "parameter": [
+          56,
+          112
+        ],
+        "T": [
+          57,
+          114
+        ],
+        "2": [
+          58,
+          115
+        ],
+        "=": [
+          59,
+          116
+        ],
+        "e": [
+          60,
+          117
+        ],
+        "-1": [
+          61,
+          118
+        ],
+        ",": [
+          62
+        ],
+        "our": [
+          63
+        ],
+        "computation": [
+          64
+        ],
+        "verifies": [
+          65
+        ],
+        "folklore": [
+          67
+        ],
+        "that": [
+          68,
+          106,
+          144,
+          166
+        ],
+        "FOOO's": [
+          69
+        ],
+        "correspond": [
+          72
+        ],
+        "Landau-Ginzburg": [
+          75,
+          153
+        ],
+        "superpotentials": [
+          76
+        ],
+        "under": [
+          77
+        ],
+        "mirror": [
+          79,
+          154
+        ],
+        "symmetry": [
+          80
+        ],
+        "correspondence,": [
+          81
+        ],
+        "also": [
+          83,
+          164
+        ],
+        "proves": [
+          84
+        ],
+        "prediction": [
+          86
+        ],
+        "made": [
+          87
+        ],
+        "by": [
+          88
+        ],
+        "K.": [
+          89
+        ],
+        "Hori": [
+          90
+        ],
+        "about": [
+          91
+        ],
+        "The": [
+          103
+        ],
+        "latter": [
+          104,
+          161
+        ],
+        "states": [
+          105
+        ],
+        "(for": [
+          110
+        ],
+        "value": [
+          113
+        ],
+        ")": [
+          119
+        ],
+        "vanish": [
+          124
+        ],
+        "except": [
+          125
+        ],
+        "at": [
+          126
+        ],
+        "a": [
+          127
+        ],
+        "finite": [
+          128
+        ],
+        "number,": [
+          129
+        ],
+        "Euler": [
+          131
+        ],
+        "characteristic": [
+          132
+        ],
+        "manifold,": [
+          136
+        ],
+        "base": [
+          138
+        ],
+        "points": [
+          139,
+          147
+        ],
+        "in": [
+          140
+        ],
+        "momentum": [
+          142
+        ],
+        "polytope": [
+          143
+        ],
+        "are": [
+          145
+        ],
+        "critical": [
+          146
+        ],
+        "superpotential": [
+          150
+        ],
+        "manifold.": [
+          158
+        ],
+        "cases,": [
+          162
+        ],
+        "corresponding": [
+          172
+        ],
+        "fiber": [
+          173
+        ],
+        "is": [
+          174
+        ],
+        "isomorphic": [
+          175
+        ],
+        "its": [
+          177
+        ],
+        "singular": [
+          178
+        ],
+        "cohomology.": [
+          179
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 10
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 8
+        },
+        {
+          "year": 2023,
+          "cited_by_count": 5
+        },
+        {
+          "year": 2022,
+          "cited_by_count": 9
+        },
+        {
+          "year": 2021,
+          "cited_by_count": 8
+        },
+        {
+          "year": 2020,
+          "cited_by_count": 17
+        },
+        {
+          "year": 2019,
+          "cited_by_count": 16
+        },
+        {
+          "year": 2018,
+          "cited_by_count": 19
+        },
+        {
+          "year": 2017,
+          "cited_by_count": 9
+        },
+        {
+          "year": 2016,
+          "cited_by_count": 15
+        },
+        {
+          "year": 2015,
+          "cited_by_count": 14
+        },
+        {
+          "year": 2014,
+          "cited_by_count": 15
+        },
+        {
+          "year": 2013,
+          "cited_by_count": 10
+        },
+        {
+          "year": 2012,
+          "cited_by_count": 14
+        }
+      ],
+      "updated_date": "2026-07-15T18:14:33.161393",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W2593719168",
+      "doi": "https://doi.org/10.17323/1609-4514-2017-17-4-757-786",
+      "title": "Persistence Modules with Operators in Morse and Floer Theory",
+      "display_name": "Persistence Modules with Operators in Morse and Floer Theory",
+      "relevance_score": 116.25374,
+      "publication_year": 2017,
+      "publication_date": "2017-01-01",
+      "ids": {
+        "openalex": "https://openalex.org/W2593719168",
+        "doi": "https://doi.org/10.17323/1609-4514-2017-17-4-757-786",
+        "mag": "2593719168"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.17323/1609-4514-2017-17-4-757-786",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.17323/1609-4514-2017-17-4-757-786",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S28565804",
+          "display_name": "Moscow Mathematical Journal",
+          "issn_l": "1609-3321",
+          "issn": [
+            "1609-3321",
+            "1609-4514"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310322131",
+          "host_organization_name": "Independent University of Moscow",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310322131"
+          ],
+          "host_organization_lineage_names": [
+            "Independent University of Moscow"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Moscow Mathematical Journal",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "arxiv",
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://arxiv.org/pdf/1703.01392",
+        "any_repository_has_fulltext": true
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5088963389",
+            "display_name": "Leonid Polterovich",
+            "orcid": "https://orcid.org/0000-0002-4516-4047"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Leonid Polterovich",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5062139920",
+            "display_name": "Egor Shelukhin",
+            "orcid": "https://orcid.org/0000-0001-8092-5668"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Egor Shelukhin",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5078894849",
+            "display_name": "Vukašin Stojisavljević",
+            "orcid": "https://orcid.org/0000-0002-9340-9256"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Vukašin Stojisavljević",
+          "raw_affiliation_strings": [
+            "School of Mathematical Sciences [Tel Aviv]"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "School of Mathematical Sciences [Tel Aviv]",
+              "institution_ids": []
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 0,
+      "institutions_distinct_count": 0,
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 1.4874,
+      "has_fulltext": true,
+      "cited_by_count": 20,
+      "citation_normalized_percentile": {
+        "value": 0.83619803,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 90,
+        "max": 98
+      },
+      "biblio": {
+        "volume": "17",
+        "issue": "4",
+        "first_page": "757",
+        "last_page": "786"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T12536",
+        "display_name": "Topological and Geometric Data Analysis",
+        "score": 0.9998000264167786,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1703",
+          "display_name": "Computational Theory and Mathematics"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/17",
+          "display_name": "Computer Science"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T12536",
+          "display_name": "Topological and Geometric Data Analysis",
+          "score": 0.9998000264167786,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1703",
+            "display_name": "Computational Theory and Mathematics"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/17",
+            "display_name": "Computer Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10304",
+          "display_name": "Geometric and Algebraic Topology",
+          "score": 0.9943000078201294,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2608",
+            "display_name": "Geometry and Topology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/26",
+            "display_name": "Mathematics"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10896",
+          "display_name": "Homotopy and Cohomology in Algebraic Topology",
+          "score": 0.9912999868392944,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2610",
+            "display_name": "Mathematical Physics"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/26",
+            "display_name": "Mathematics"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/mathematics",
+          "display_name": "Mathematics",
+          "score": 0.8472323417663574
+        },
+        {
+          "id": "https://openalex.org/keywords/floer-homology",
+          "display_name": "Floer homology",
+          "score": 0.7384891510009766
+        },
+        {
+          "id": "https://openalex.org/keywords/morse-code",
+          "display_name": "Morse code",
+          "score": 0.6203891634941101
+        },
+        {
+          "id": "https://openalex.org/keywords/morse-theory",
+          "display_name": "Morse theory",
+          "score": 0.5934265851974487
+        },
+        {
+          "id": "https://openalex.org/keywords/pure-mathematics",
+          "display_name": "Pure mathematics",
+          "score": 0.5823866724967957
+        },
+        {
+          "id": "https://openalex.org/keywords/morse-homology",
+          "display_name": "Morse homology",
+          "score": 0.5400167107582092
+        },
+        {
+          "id": "https://openalex.org/keywords/persistence",
+          "display_name": "Persistence (discontinuity)",
+          "score": 0.538023829460144
+        },
+        {
+          "id": "https://openalex.org/keywords/hamiltonian",
+          "display_name": "Hamiltonian (control theory)",
+          "score": 0.4214699864387512
+        },
+        {
+          "id": "https://openalex.org/keywords/geometry",
+          "display_name": "Geometry",
+          "score": 0.3261373043060303
+        },
+        {
+          "id": "https://openalex.org/keywords/algebra-over-a-field",
+          "display_name": "Algebra over a field",
+          "score": 0.31005382537841797
+        },
+        {
+          "id": "https://openalex.org/keywords/cellular-homology",
+          "display_name": "Cellular homology",
+          "score": 0.1551554799079895
+        },
+        {
+          "id": "https://openalex.org/keywords/symplectic-geometry",
+          "display_name": "Symplectic geometry",
+          "score": 0.12932977080345154
+        },
+        {
+          "id": "https://openalex.org/keywords/computer-science",
+          "display_name": "Computer science",
+          "score": 0.06720665097236633
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C33923547",
+          "wikidata": "https://www.wikidata.org/wiki/Q395",
+          "display_name": "Mathematics",
+          "level": 0,
+          "score": 0.8472323417663574
+        },
+        {
+          "id": "https://openalex.org/C121294916",
+          "wikidata": "https://www.wikidata.org/wiki/Q652525",
+          "display_name": "Floer homology",
+          "level": 3,
+          "score": 0.7384891510009766
+        },
+        {
+          "id": "https://openalex.org/C140031139",
+          "wikidata": "https://www.wikidata.org/wiki/Q79897",
+          "display_name": "Morse code",
+          "level": 2,
+          "score": 0.6203891634941101
+        },
+        {
+          "id": "https://openalex.org/C156730297",
+          "wikidata": "https://www.wikidata.org/wiki/Q2296951",
+          "display_name": "Morse theory",
+          "level": 2,
+          "score": 0.5934265851974487
+        },
+        {
+          "id": "https://openalex.org/C202444582",
+          "wikidata": "https://www.wikidata.org/wiki/Q837863",
+          "display_name": "Pure mathematics",
+          "level": 1,
+          "score": 0.5823866724967957
+        },
+        {
+          "id": "https://openalex.org/C135783237",
+          "wikidata": "https://www.wikidata.org/wiki/Q3139850",
+          "display_name": "Morse homology",
+          "level": 4,
+          "score": 0.5400167107582092
+        },
+        {
+          "id": "https://openalex.org/C2781009140",
+          "wikidata": "https://www.wikidata.org/wiki/Q7170389",
+          "display_name": "Persistence (discontinuity)",
+          "level": 2,
+          "score": 0.538023829460144
+        },
+        {
+          "id": "https://openalex.org/C130787639",
+          "wikidata": "https://www.wikidata.org/wiki/Q5645293",
+          "display_name": "Hamiltonian (control theory)",
+          "level": 2,
+          "score": 0.4214699864387512
+        },
+        {
+          "id": "https://openalex.org/C2524010",
+          "wikidata": "https://www.wikidata.org/wiki/Q8087",
+          "display_name": "Geometry",
+          "level": 1,
+          "score": 0.3261373043060303
+        },
+        {
+          "id": "https://openalex.org/C136119220",
+          "wikidata": "https://www.wikidata.org/wiki/Q1000660",
+          "display_name": "Algebra over a field",
+          "level": 2,
+          "score": 0.31005382537841797
+        },
+        {
+          "id": "https://openalex.org/C55537702",
+          "wikidata": "https://www.wikidata.org/wiki/Q3139849",
+          "display_name": "Cellular homology",
+          "level": 3,
+          "score": 0.1551554799079895
+        },
+        {
+          "id": "https://openalex.org/C168619227",
+          "wikidata": "https://www.wikidata.org/wiki/Q2190991",
+          "display_name": "Symplectic geometry",
+          "level": 2,
+          "score": 0.12932977080345154
+        },
+        {
+          "id": "https://openalex.org/C41008148",
+          "wikidata": "https://www.wikidata.org/wiki/Q21198",
+          "display_name": "Computer science",
+          "level": 0,
+          "score": 0.06720665097236633
+        },
+        {
+          "id": "https://openalex.org/C127413603",
+          "wikidata": "https://www.wikidata.org/wiki/Q11023",
+          "display_name": "Engineering",
+          "level": 0,
+          "score": 0.0
+        },
+        {
+          "id": "https://openalex.org/C187320778",
+          "wikidata": "https://www.wikidata.org/wiki/Q1349130",
+          "display_name": "Geotechnical engineering",
+          "level": 1,
+          "score": 0.0
+        },
+        {
+          "id": "https://openalex.org/C76155785",
+          "wikidata": "https://www.wikidata.org/wiki/Q418",
+          "display_name": "Telecommunications",
+          "level": 1,
+          "score": 0.0
+        },
+        {
+          "id": "https://openalex.org/C126255220",
+          "wikidata": "https://www.wikidata.org/wiki/Q141495",
+          "display_name": "Mathematical optimization",
+          "level": 1,
+          "score": 0.0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 3,
+      "locations": [
+        {
+          "id": "doi:10.17323/1609-4514-2017-17-4-757-786",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.17323/1609-4514-2017-17-4-757-786",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S28565804",
+            "display_name": "Moscow Mathematical Journal",
+            "issn_l": "1609-3321",
+            "issn": [
+              "1609-3321",
+              "1609-4514"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310322131",
+            "host_organization_name": "Independent University of Moscow",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310322131"
+            ],
+            "host_organization_lineage_names": [
+              "Independent University of Moscow"
+            ],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Moscow Mathematical Journal",
+          "raw_type": "journal-article"
+        },
+        {
+          "id": "pmh:oai:arXiv.org:1703.01392",
+          "is_oa": true,
+          "landing_page_url": "http://arxiv.org/abs/1703.01392",
+          "pdf_url": "https://arxiv.org/pdf/1703.01392",
+          "source": {
+            "id": "https://openalex.org/S4393918464",
+            "display_name": "ArXiv.org",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": true,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "",
+          "raw_type": null
+        },
+        {
+          "id": "pmh:oai:HAL:hal-03914060v1",
+          "is_oa": false,
+          "landing_page_url": "https://hal.science/hal-03914060",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306402512",
+            "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I1294671590",
+            "host_organization_name": "Centre National de la Recherche Scientifique",
+            "host_organization_lineage": [
+              "https://openalex.org/I1294671590"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "Moscow Mathematical Journal, 2017, 17 (4), pp.757-786. &#x27E8;10.17323/1609-4514-2017-17-4-757-786&#x27E9;",
+          "raw_type": "info:eu-repo/semantics/article"
+        }
+      ],
+      "best_oa_location": {
+        "id": "pmh:oai:arXiv.org:1703.01392",
+        "is_oa": true,
+        "landing_page_url": "http://arxiv.org/abs/1703.01392",
+        "pdf_url": "https://arxiv.org/pdf/1703.01392",
+        "source": {
+          "id": "https://openalex.org/S4393918464",
+          "display_name": "ArXiv.org",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": true,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "",
+        "raw_type": null
+      },
+      "sustainable_development_goals": [
+        {
+          "display_name": "Sustainable cities and communities",
+          "score": 0.41999998688697815,
+          "id": "https://metadata.un.org/sdg/11"
+        }
+      ],
+      "awards": [
+        {
+          "id": "https://openalex.org/G4062780233",
+          "display_name": "Research in Mathematics",
+          "funder_award_id": "1128155",
+          "funder_id": "https://openalex.org/F4320306076",
+          "funder_display_name": "National Science Foundation"
+        }
+      ],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320306076",
+          "display_name": "National Science Foundation",
+          "ror": "https://ror.org/021nxhr62"
+        }
+      ],
+      "has_content": {
+        "grobid_xml": true,
+        "pdf": true
+      },
+      "content_urls": {
+        "pdf": "https://content.openalex.org/works/W2593719168.pdf",
+        "grobid_xml": "https://content.openalex.org/works/W2593719168.grobid-xml"
+      },
+      "referenced_works_count": 0,
+      "referenced_works": [],
+      "related_works": [
+        "https://openalex.org/W1817415616",
+        "https://openalex.org/W2061485906",
+        "https://openalex.org/W1595332435",
+        "https://openalex.org/W2548670722",
+        "https://openalex.org/W2950237410",
+        "https://openalex.org/W1966769279",
+        "https://openalex.org/W1873657280",
+        "https://openalex.org/W2185671344",
+        "https://openalex.org/W4391621586",
+        "https://openalex.org/W3115820666"
+      ],
+      "abstract_inverted_index": {
+        "We": [
+          0,
+          36
+        ],
+        "introduce": [
+          1
+        ],
+        "a": [
+          2,
+          31
+        ],
+        "new": [
+          3
+        ],
+        "notion": [
+          4
+        ],
+        "of": [
+          5,
+          42,
+          49
+        ],
+        "persistence": [
+          6,
+          17
+        ],
+        "modules": [
+          7,
+          18
+        ],
+        "endowed": [
+          8
+        ],
+        "with": [
+          9,
+          23,
+          30
+        ],
+        "operators.": [
+          10
+        ],
+        "It\\nencapsulates": [
+          11
+        ],
+        "the": [
+          12,
+          20,
+          26
+        ],
+        "additional": [
+          13
+        ],
+        "structure": [
+          14
+        ],
+        "on": [
+          15
+        ],
+        "Floer-type": [
+          16
+        ],
+        "coming\\nfrom": [
+          19
+        ],
+        "intersection": [
+          21
+        ],
+        "product": [
+          22
+        ],
+        "classes": [
+          24
+        ],
+        "in": [
+          25
+        ],
+        "ambient": [
+          27
+        ],
+        "(quantum)": [
+          28
+        ],
+        "homology,\\nalong": [
+          29
+        ],
+        "few": [
+          32
+        ],
+        "other": [
+          33
+        ],
+        "geometric": [
+          34
+        ],
+        "situations.": [
+          35
+        ],
+        "provide": [
+          37
+        ],
+        "sample": [
+          38
+        ],
+        "applications": [
+          39
+        ],
+        "to\\nthe": [
+          40
+        ],
+        "$C^0$-geometry": [
+          41
+        ],
+        "Morse": [
+          43
+        ],
+        "functions": [
+          44
+        ],
+        "and": [
+          45,
+          56
+        ],
+        "to": [
+          46
+        ],
+        "Hofer's": [
+          47
+        ],
+        "geometry": [
+          48
+        ],
+        "Hamiltonian\\ndiffeomorphisms,": [
+          50
+        ],
+        "that": [
+          51
+        ],
+        "go": [
+          52
+        ],
+        "beyond": [
+          53
+        ],
+        "spectral": [
+          54
+        ],
+        "invariants": [
+          55
+        ],
+        "traditional": [
+          57
+        ],
+        "persistent\\nhomology.\\n": [
+          58
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2025,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2023,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2022,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2021,
+          "cited_by_count": 4
+        },
+        {
+          "year": 2020,
+          "cited_by_count": 5
+        },
+        {
+          "year": 2019,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2018,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2026-07-28T07:46:37.118299",
+      "created_date": "2025-10-10T00:00:00"
+    }
+  ],
+  "group_by": []
+}

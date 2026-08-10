@@ -1,0 +1,2162 @@
+{
+  "hits": {
+    "hits": [
+      {
+        "created": "2025-12-24T12:13:42.828748+00:00",
+        "modified": "2025-12-24T12:13:43.225240+00:00",
+        "id": 18046058,
+        "conceptrecid": "18046057",
+        "doi": "10.5281/zenodo.18046058",
+        "conceptdoi": "10.5281/zenodo.18046057",
+        "doi_url": "https://doi.org/10.5281/zenodo.18046058",
+        "metadata": {
+          "title": "Homological Invariants of Computational Hardness: The Morse Smale Obstruction to P ≠ NP",
+          "doi": "10.5281/zenodo.18046058",
+          "publication_date": "2025-12-24",
+          "description": "<p>A formal resolution of the P versus NP Millennium Prize Problem is presented through a novel topological approach that circumvents the Relativization, Algebrization, and Natural Proofs barriers. By constructing a faithful functorial embedding from Boolean satisfiability instances to smooth Riemannian manifolds via Discrete Morse Theory, we prove that computational hardness is encoded as exponential homological complexity. The solution landscape of NP-complete problems (specifically Random 3-SAT) exhibits \"topological turbulence\" characterized by exponentially many critical points and Betti numbers scaling as &beta;₁ ~ e^&Omega;(n), derived rigorously using the Kac-Rice formula, Random Matrix Theory, and Replica Symmetry Breaking from spin glass physics. In contrast, polynomial-time algorithms induce flow trajectories on manifolds with polynomially bounded total Betti numbers. We prove via the Milnor-Thom theorem and Lusternik-Schnirelmann category that no diffeomorphism can compress exponential homology into polynomial capacity without violating topological invariance, establishing an absolute Universal Topological Obstruction. The separation is non-relativizing and evades Natural Proofs (the distinguishing property is PSPACE-complete). This work provides the first geometrically grounded proof of P &ne; NP with implications for cryptographic security, optimization theory, and the foundations of computational complexity.</p>",
+          "access_right": "open",
+          "creators": [
+            {
+              "name": "Al-Zawahreh, Mohamad",
+              "affiliation": "ARK Ascendance Research Group"
+            },
+            {
+              "name": "Broughton, Sue",
+              "affiliation": "Gaia Nexus",
+              "orcid": "0009-0005-0419-8602"
+            }
+          ],
+          "contributors": [
+            {
+              "name": "Broughton, Sue",
+              "affiliation": "Gaia Nexus",
+              "type": "Researcher",
+              "orcid": "0009-0005-0419-8602"
+            },
+            {
+              "name": "Al-Zawahreh, Mohamad",
+              "affiliation": "ARK Ascendance Research Group",
+              "type": "Researcher"
+            }
+          ],
+          "keywords": [
+            "Clay Millennium Prize",
+            "computational complexity theory",
+            "topological obstruction",
+            "Discrete Morse Theory",
+            "differential topology",
+            "P vs NP",
+            "homological invariants",
+            "Betti numbers",
+            "NP-completeness",
+            "3-SAT",
+            "spin glass theory",
+            "Replica Symmetry Breaking",
+            "Kac Rice formula",
+            "Random Matrix Theory",
+            "Gaussian Orthogonal Ensemble",
+            "critical points",
+            "Morse index",
+            "configuration space topology",
+            "Milnor Thom theorem",
+            "Lusternik Schnirelmann category",
+            "Cheeger constant",
+            "spectral geometry",
+            "Natural Proofs barrier",
+            "non relativizing proof",
+            "cryptography foundations",
+            "manifold theory",
+            "homotopy equivalence",
+            "topological invariants",
+            "fourteen principles",
+            "13 Universal Laws of Consciousness",
+            "14 Universal Principles of Relational Coherence"
+          ],
+          "related_identifiers": [
+            {
+              "identifier": "10.5281/ZENODO.18041425",
+              "relation": "continues",
+              "resource_type": "publication-preprint",
+              "scheme": "doi"
+            },
+            {
+              "identifier": "10.5281/zenodo.17768390",
+              "relation": "isReferencedBy",
+              "resource_type": "publication-preprint",
+              "scheme": "doi"
+            },
+            {
+              "identifier": "10.5281/zenodo.17347859",
+              "relation": "isReferencedBy",
+              "resource_type": "publication-preprint",
+              "scheme": "doi"
+            }
+          ],
+          "dates": [
+            {
+              "type": "issued",
+              "description": "Publication date"
+            }
+          ],
+          "version": "1.0",
+          "language": "eng",
+          "resource_type": {
+            "title": "Preprint",
+            "type": "publication",
+            "subtype": "preprint"
+          },
+          "license": {
+            "id": "cc-by-4.0"
+          },
+          "relations": {
+            "version": [
+              {
+                "index": 0,
+                "is_last": true,
+                "parent": {
+                  "pid_type": "recid",
+                  "pid_value": "18046057"
+                }
+              }
+            ]
+          }
+        },
+        "title": "Homological Invariants of Computational Hardness: The Morse Smale Obstruction to P ≠ NP",
+        "links": {
+          "self": "https://zenodo.org/api/records/18046058",
+          "self_html": "https://zenodo.org/records/18046058",
+          "preview_html": "https://zenodo.org/records/18046058?preview=1",
+          "doi": "https://doi.org/10.5281/zenodo.18046058",
+          "self_doi": "https://doi.org/10.5281/zenodo.18046058",
+          "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.18046058",
+          "reserve_doi": "https://zenodo.org/api/records/18046058/draft/pids/doi",
+          "parent": "https://zenodo.org/api/records/18046057",
+          "parent_html": "https://zenodo.org/records/18046057",
+          "parent_doi": "https://doi.org/10.5281/zenodo.18046057",
+          "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.18046057",
+          "self_iiif_manifest": "https://zenodo.org/api/iiif/record:18046058/manifest",
+          "self_iiif_sequence": "https://zenodo.org/api/iiif/record:18046058/sequence/default",
+          "files": "https://zenodo.org/api/records/18046058/files",
+          "media_files": "https://zenodo.org/api/records/18046058/media-files",
+          "thumbnails": {
+            "10": "https://zenodo.org/api/iiif/record:18046058:The_Morse_Smale_Topological_Obstruction%20(1).pdf/full/%5E10,/0/default.jpg",
+            "50": "https://zenodo.org/api/iiif/record:18046058:The_Morse_Smale_Topological_Obstruction%20(1).pdf/full/%5E50,/0/default.jpg",
+            "100": "https://zenodo.org/api/iiif/record:18046058:The_Morse_Smale_Topological_Obstruction%20(1).pdf/full/%5E100,/0/default.jpg",
+            "250": "https://zenodo.org/api/iiif/record:18046058:The_Morse_Smale_Topological_Obstruction%20(1).pdf/full/%5E250,/0/default.jpg",
+            "750": "https://zenodo.org/api/iiif/record:18046058:The_Morse_Smale_Topological_Obstruction%20(1).pdf/full/%5E750,/0/default.jpg",
+            "1200": "https://zenodo.org/api/iiif/record:18046058:The_Morse_Smale_Topological_Obstruction%20(1).pdf/full/%5E1200,/0/default.jpg"
+          },
+          "archive": "https://zenodo.org/api/records/18046058/files-archive",
+          "archive_media": "https://zenodo.org/api/records/18046058/media-files-archive",
+          "latest": "https://zenodo.org/api/records/18046058/versions/latest",
+          "latest_html": "https://zenodo.org/records/18046058/latest",
+          "versions": "https://zenodo.org/api/records/18046058/versions",
+          "draft": "https://zenodo.org/api/records/18046058/draft",
+          "access_links": "https://zenodo.org/api/records/18046058/access/links",
+          "access_grants": "https://zenodo.org/api/records/18046058/access/grants",
+          "access_users": "https://zenodo.org/api/records/18046058/access/users",
+          "access_request": "https://zenodo.org/api/records/18046058/access/request",
+          "access": "https://zenodo.org/api/records/18046058/access",
+          "communities": "https://zenodo.org/api/records/18046058/communities",
+          "communities-suggestions": "https://zenodo.org/api/records/18046058/communities-suggestions",
+          "request_deletion": "https://zenodo.org/api/records/18046058/request-deletion",
+          "file_modification": "https://zenodo.org/api/records/18046058/file-modification",
+          "quota_increase": "https://zenodo.org/api/records/18046058/quota-increase",
+          "requests": "https://zenodo.org/api/records/18046058/requests"
+        },
+        "updated": "2025-12-24T12:13:43.225240+00:00",
+        "recid": "18046058",
+        "revision": 4,
+        "files": [
+          {
+            "id": "627c1d6b-ead1-46d4-9383-28ae7e2c141a",
+            "key": "The_Morse_Smale_Topological_Obstruction (1).pdf",
+            "size": 235585,
+            "checksum": "md5:2d39d0be7956cad6b3152c606a530b7a",
+            "links": {
+              "self": "https://zenodo.org/api/records/18046058/files/The_Morse_Smale_Topological_Obstruction%20(1).pdf/content"
+            }
+          }
+        ],
+        "swh": null,
+        "owners": [
+          {
+            "id": "1424693"
+          }
+        ],
+        "status": "published",
+        "stats": {
+          "downloads": 63,
+          "unique_downloads": 59,
+          "views": 147,
+          "unique_views": 146,
+          "version_downloads": 63,
+          "version_unique_downloads": 59,
+          "version_unique_views": 146,
+          "version_views": 147
+        },
+        "state": "done",
+        "submitted": true
+      },
+      {
+        "created": "2026-03-31T23:00:14.554686+00:00",
+        "modified": "2026-03-31T23:00:14.899774+00:00",
+        "id": 19361034,
+        "conceptrecid": "19361033",
+        "doi": "10.5281/zenodo.19361034",
+        "conceptdoi": "10.5281/zenodo.19361033",
+        "doi_url": "https://doi.org/10.5281/zenodo.19361034",
+        "metadata": {
+          "title": "Proof of Erdős Problem #369: Consecutive Smooth Integers Near N",
+          "doi": "10.5281/zenodo.19361034",
+          "publication_date": "2026-04-01",
+          "description": "<p>This Zenodo record contains the manuscript and source files for &ldquo;Proof of Erdos Problem 369: Consecutive Smooth Integers Near N&rdquo;. The paper studies strings of consecutive smooth integers near N and proves that for every &epsilon; &gt; 0 and every integer k &gt;= 2, every sufficiently large N admits a block of k consecutive N^&epsilon;-smooth integers in [N/2, N]. The main tools are cyclotomic factorization, Euler-totient estimates, and a multiplicative covering argument based on powers of 2ᴸ and 3ᴸ.</p>",
+          "access_right": "open",
+          "creators": [
+            {
+              "name": "Yang, Yueer",
+              "affiliation": "University of Maryland",
+              "orcid": "0009-0003-7161-4499"
+            }
+          ],
+          "keywords": [
+            "number theory",
+            "Multiplicative Number Theory"
+          ],
+          "references": [
+            "A. Balog and T. D. Wooley, \"On strings of consecutive integers with no large prime factors,\" Journal of the Australian Mathematical Society (Series A) 64 (1998), 266–276.",
+            "T. F. Bloom, \"Erdős Problem #369,\" https://www.erdosproblems.com/369, accessed March 30, 2026.",
+            "A. Granville, \"Smooth numbers: computational number theory and beyond,\" in Algorithmic Number Theory, MSRI Publications 44, Cambridge University Press, 2008, pp. 267–323."
+          ],
+          "language": "eng",
+          "resource_type": {
+            "title": "Publication",
+            "type": "publication"
+          },
+          "license": {
+            "id": "cc-by-4.0"
+          },
+          "relations": {
+            "version": [
+              {
+                "index": 0,
+                "is_last": true,
+                "parent": {
+                  "pid_type": "recid",
+                  "pid_value": "19361033"
+                }
+              }
+            ]
+          }
+        },
+        "title": "Proof of Erdős Problem #369: Consecutive Smooth Integers Near N",
+        "links": {
+          "self": "https://zenodo.org/api/records/19361034",
+          "self_html": "https://zenodo.org/records/19361034",
+          "preview_html": "https://zenodo.org/records/19361034?preview=1",
+          "doi": "https://doi.org/10.5281/zenodo.19361034",
+          "self_doi": "https://doi.org/10.5281/zenodo.19361034",
+          "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.19361034",
+          "reserve_doi": "https://zenodo.org/api/records/19361034/draft/pids/doi",
+          "parent": "https://zenodo.org/api/records/19361033",
+          "parent_html": "https://zenodo.org/records/19361033",
+          "parent_doi": "https://doi.org/10.5281/zenodo.19361033",
+          "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.19361033",
+          "self_iiif_manifest": "https://zenodo.org/api/iiif/record:19361034/manifest",
+          "self_iiif_sequence": "https://zenodo.org/api/iiif/record:19361034/sequence/default",
+          "files": "https://zenodo.org/api/records/19361034/files",
+          "media_files": "https://zenodo.org/api/records/19361034/media-files",
+          "archive": "https://zenodo.org/api/records/19361034/files-archive",
+          "archive_media": "https://zenodo.org/api/records/19361034/media-files-archive",
+          "latest": "https://zenodo.org/api/records/19361034/versions/latest",
+          "latest_html": "https://zenodo.org/records/19361034/latest",
+          "versions": "https://zenodo.org/api/records/19361034/versions",
+          "draft": "https://zenodo.org/api/records/19361034/draft",
+          "access_links": "https://zenodo.org/api/records/19361034/access/links",
+          "access_grants": "https://zenodo.org/api/records/19361034/access/grants",
+          "access_users": "https://zenodo.org/api/records/19361034/access/users",
+          "access_request": "https://zenodo.org/api/records/19361034/access/request",
+          "access": "https://zenodo.org/api/records/19361034/access",
+          "communities": "https://zenodo.org/api/records/19361034/communities",
+          "communities-suggestions": "https://zenodo.org/api/records/19361034/communities-suggestions",
+          "request_deletion": "https://zenodo.org/api/records/19361034/request-deletion",
+          "file_modification": "https://zenodo.org/api/records/19361034/file-modification",
+          "quota_increase": "https://zenodo.org/api/records/19361034/quota-increase",
+          "requests": "https://zenodo.org/api/records/19361034/requests"
+        },
+        "updated": "2026-03-31T23:00:14.899774+00:00",
+        "recid": "19361034",
+        "revision": 4,
+        "files": [
+          {
+            "id": "3625e6d9-ea36-4c4b-9339-25f36507615a",
+            "key": "yueer_yang_erdos369.tex",
+            "size": 11966,
+            "checksum": "md5:1af08fc9065365a70cc405287e7a9b5f",
+            "links": {
+              "self": "https://zenodo.org/api/records/19361034/files/yueer_yang_erdos369.tex/content"
+            }
+          }
+        ],
+        "swh": null,
+        "owners": [
+          {
+            "id": "1594681"
+          }
+        ],
+        "status": "published",
+        "stats": {
+          "downloads": 33,
+          "unique_downloads": 31,
+          "views": 218,
+          "unique_views": 211,
+          "version_downloads": 33,
+          "version_unique_downloads": 31,
+          "version_unique_views": 211,
+          "version_views": 218
+        },
+        "state": "done",
+        "submitted": true
+      },
+      {
+        "created": "2022-02-05T19:02:43.677412+00:00",
+        "modified": "2023-02-24T12:22:41.160361+00:00",
+        "id": 5914768,
+        "conceptrecid": "5914767",
+        "doi": "10.5281/zenodo.5914768",
+        "conceptdoi": "10.5281/zenodo.5914767",
+        "doi_url": "https://doi.org/10.5281/zenodo.5914768",
+        "metadata": {
+          "title": "Smooth numbers in large prime gaps",
+          "doi": "10.5281/zenodo.5914768",
+          "publication_date": "2022-02-05",
+          "description": "<p><strong>Overview</strong></p>\n\n<p>This dataset contains numbers from 25 up to 1 quadrillion (10<sup>15</sup>)&nbsp;that are smooth relative to the gap to the preceding prime. &nbsp;More precisely, we list all numbers&nbsp;<em>n</em>&nbsp;so that</p>\n\n<p>&nbsp;&nbsp;<em>r</em>&nbsp;+&nbsp;<em>p<sup>a</sup></em>&nbsp;&le;&nbsp;<em>n</em></p>\n\n<p>where&nbsp;<em>r</em>&nbsp;is the largest prime smaller than&nbsp;<em>n</em>&nbsp;- 1, and&nbsp;<em>p<sup>a</sup></em>&nbsp;is the largest prime-power divisor of&nbsp;<em>n</em>. &nbsp;The&nbsp;dataset is the result of a 10 day computation using 15 cores on an Intel Xeon system, running&nbsp;code hosted at&nbsp;<a href=\"https://github.com/RussWoodroofe/invgen\">GitHub</a>&nbsp;(see &quot;Related identifiers&quot;). &nbsp;The GitHub code checks additional conditions when&nbsp;<em>r</em>&nbsp;is&nbsp;<em>n</em>&nbsp;- 2 and <em>n </em>- 1 is a power of 2, but it is easy and quick to check that when (up to 10<sup>15</sup>) <em>n</em>&nbsp;=&nbsp;2<sup><em>k</em></sup>&nbsp;+ 1,&nbsp;the second largest prime&nbsp;<em>r<sub>2</sub></em>&nbsp;satisfies&nbsp;<em>r<sub>2</sub></em>&nbsp;+&nbsp;<em>p<sup>a</sup></em>&nbsp;&gt; n. &nbsp;Thus,&nbsp;this additional check&nbsp;makes&nbsp;no difference in the output.</p>\n\n<p>Our motivations for computing this data are described in our paper&nbsp;<em>On invariable generation of alternating groups by elements of prime and prime power order</em>&nbsp;(<a href=\"http://arxiv.org/abs/2201.12371\">arXiv:2201.12371</a>). &nbsp;Any number&nbsp;<em>n</em>&nbsp;in the range which is not of the given form has the associated alternating group&nbsp;<em>A<sub>n</sub></em>&nbsp;generated by any element of order&nbsp;<em>r</em>&nbsp;together with any element having a certain cycle structure (and of order <em>p<sup>a</sup></em>).</p>\n\n<p><strong>Description / specification</strong></p>\n\n<p>The data is stored as&nbsp;compressed text-based input to a computer algebra system, specifically in&nbsp;gzipped <a href=\"https://www.gap-system.org/\">GAP</a>&nbsp;format. &nbsp;The file out-<em>k</em>.g.gz holds numbers in the range from (<em>k&nbsp;</em>- 1)&sdot;10<sup>12</sup>&nbsp;to&nbsp;<em>k</em>&sdot;10<sup>12</sup>. &nbsp;The first line of each file&nbsp;sets the variable&nbsp;invgen_oversmooth_range to be the range (thus, [(<em>k&nbsp;</em>- 1)&sdot;10<sup>12</sup>&nbsp;..&nbsp;<em>k</em>&sdot;10<sup>12</sup>]). &nbsp;The subsequent lines set&nbsp;invgen_oversmooth to a list of pairs of numbers [<em>n</em>,&nbsp;<em>p<sup>a</sup></em>], where&nbsp;<em>n</em>&nbsp;is a smooth number as described above, and&nbsp;<em>p<sup>a</sup></em>&nbsp;is the largest prime-power of&nbsp;<em>n</em>. &nbsp;The largest prime preceding&nbsp;<em>n</em>&nbsp;- 1 is given in a GAP comment.</p>\n\n<p>Thus, the first few lines of out-0.g.gz (when uncompressed) appear as</p>\n\n<pre><code>invgen_oversmooth_range:=[25..1000000000000];\ninvgen_oversmooth := [\n  [ 30, 5 ], # bp 23 \n  [ 60, 5 ], # bp 53 \n  [ 126, 9 ], # bp 113 \n  [ 210, 7 ], # bp 199 \n  [ 252, 9 ], # bp 241 \n  [ 308, 11 ], # bp 293 \n  [ 330, 11 ], # bp 317 \n  [ 420, 7 ], # bp 409 \n...</code></pre>\n\n<p>where [25 ..&nbsp;1000000000000] is the range considered, and for example &quot;[ 30, 5 ], &nbsp;# bp 23&quot; represents that 23 is the largest prime preceding 30 - 1, 5 is the largest prime-power divisor of 30, and 23 + 5 &le;&nbsp;30.</p>\n\n<p>We created the data in GAP files for ease of inputting into a GAP program in our own use of the&nbsp;data. &nbsp;It is easy to convert the&nbsp;GAP files to another format via standard technique such as regular expression-based search and replace. For example, on macOS or Linux, the following command will convert the list in out-0.g.gz to a CSV file, which it will display on the terminal.</p>\n\n<pre><code class=\"language-bash\">zcat out_quadrillion/out-0.g.gz | sed -En 's/  \\[ ([0-9]+), ([0-9]+) \\], # bp ([0-9]+)/\\1,\\2,\\3/gp' | less</code></pre>\n\n<p>&nbsp;</p>",
+          "access_right": "open",
+          "creators": [
+            {
+              "name": "Guralnick, Robert M.",
+              "affiliation": "University of Southern California",
+              "orcid": "0000-0002-9094-857X"
+            },
+            {
+              "name": "Shareshian, John",
+              "affiliation": "Washington University in St. Louis"
+            },
+            {
+              "name": "Woodroofe, Russ",
+              "affiliation": "University of Primorska",
+              "orcid": "0000-0002-8199-3483"
+            }
+          ],
+          "keywords": [
+            "prime gap",
+            "smooth number",
+            "alternating group"
+          ],
+          "related_identifiers": [
+            {
+              "identifier": "https://github.com/RussWoodroofe/invgen",
+              "relation": "isCompiledBy",
+              "resource_type": "software",
+              "scheme": "url"
+            },
+            {
+              "identifier": "arXiv:2201.12371",
+              "relation": "references",
+              "resource_type": "publication-preprint",
+              "scheme": "arxiv"
+            },
+            {
+              "identifier": "10.1090/mcom/3807",
+              "relation": "isSupplementTo",
+              "resource_type": "publication-article",
+              "scheme": "doi"
+            }
+          ],
+          "version": "1",
+          "language": "eng",
+          "resource_type": {
+            "title": "Dataset",
+            "type": "dataset"
+          },
+          "license": {
+            "id": "cc-by-4.0"
+          },
+          "communities": [
+            {
+              "id": "math-data"
+            }
+          ],
+          "relations": {
+            "version": [
+              {
+                "index": 0,
+                "is_last": true,
+                "parent": {
+                  "pid_type": "recid",
+                  "pid_value": "5914767"
+                }
+              }
+            ]
+          },
+          "notes": "Work of the first author was partially supported by NSF Grant DMS-1901595 and Simons Foundation Fellowship 609771. Work of the second author was supported in part by NSF Grant DMS 1518389. Work of the third author is supported in part by the Slovenian Research Agency research program P1-0285 and research projects J1-9108, N1-0160, J1-2451, J3-3003."
+        },
+        "title": "Smooth numbers in large prime gaps",
+        "links": {
+          "self": "https://zenodo.org/api/records/5914768",
+          "self_html": "https://zenodo.org/records/5914768",
+          "preview_html": "https://zenodo.org/records/5914768?preview=1",
+          "doi": "https://doi.org/10.5281/zenodo.5914768",
+          "self_doi": "https://doi.org/10.5281/zenodo.5914768",
+          "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.5914768",
+          "reserve_doi": "https://zenodo.org/api/records/5914768/draft/pids/doi",
+          "parent": "https://zenodo.org/api/records/5914767",
+          "parent_html": "https://zenodo.org/records/5914767",
+          "parent_doi": "https://doi.org/10.5281/zenodo.5914767",
+          "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.5914767",
+          "self_iiif_manifest": "https://zenodo.org/api/iiif/record:5914768/manifest",
+          "self_iiif_sequence": "https://zenodo.org/api/iiif/record:5914768/sequence/default",
+          "files": "https://zenodo.org/api/records/5914768/files",
+          "media_files": "https://zenodo.org/api/records/5914768/media-files",
+          "archive": "https://zenodo.org/api/records/5914768/files-archive",
+          "archive_media": "https://zenodo.org/api/records/5914768/media-files-archive",
+          "latest": "https://zenodo.org/api/records/5914768/versions/latest",
+          "latest_html": "https://zenodo.org/records/5914768/latest",
+          "versions": "https://zenodo.org/api/records/5914768/versions",
+          "draft": "https://zenodo.org/api/records/5914768/draft",
+          "access_links": "https://zenodo.org/api/records/5914768/access/links",
+          "access_grants": "https://zenodo.org/api/records/5914768/access/grants",
+          "access_users": "https://zenodo.org/api/records/5914768/access/users",
+          "access_request": "https://zenodo.org/api/records/5914768/access/request",
+          "access": "https://zenodo.org/api/records/5914768/access",
+          "communities": "https://zenodo.org/api/records/5914768/communities",
+          "communities-suggestions": "https://zenodo.org/api/records/5914768/communities-suggestions",
+          "request_deletion": "https://zenodo.org/api/records/5914768/request-deletion",
+          "file_modification": "https://zenodo.org/api/records/5914768/file-modification",
+          "quota_increase": "https://zenodo.org/api/records/5914768/quota-increase",
+          "requests": "https://zenodo.org/api/records/5914768/requests"
+        },
+        "updated": "2023-02-24T12:22:41.160361+00:00",
+        "recid": "5914768",
+        "revision": 4,
+        "files": [
+          {
+            "id": "411819e5-c75c-4d95-8826-fd5482f05943",
+            "key": "out-82.g.gz",
+            "size": 553040,
+            "checksum": "md5:e1d2de9f6b047538f1ae689e2808cc5a",
+            "links": {
+              "self": "https://zenodo.org/api/records/5914768/files/out-82.g.gz/content"
+            }
+          },
+          {
+            "id": "e6d38285-0e72-4772-be4a-8c51b0ac702a",
+            "key": "out-0.g.gz",
+            "size": 8794128,
+            "checksum": "md5:103be554948313865d98f13c04ca9081",
+            "links": {
+              "self": "https://zenodo.org/api/records/5914768/files/out-0.g.gz/content"
+            }
+          },
+          {
+            "id": "c319d032-d687-474a-ae44-5e16ca0bf4cb",
+            "key": "out-10.g.gz",
+            "size": 1501536,
+            "checksum": "md5:4c9264c6a38ff84173d5a8aae0ed80b4",
+            "links": {
+              "self": "https://zenodo.org/api/records/5914768/files/out-10.g.gz/content"
+            }
+          },
+          {
+            "id": "90e8210d-997b-4ef7-a7de-e446b8cfedf9",
+            "key": "out-100.g.gz",
+            "size": 497777,
+            "checksum": "md5:20d156593ca0c83751d9d811872c0467",
+            "links": {
+              "self": "https://zenodo.org/api/records/5914768/files/out-100.g.gz/content"
+            }
+          },
+          {
+            "id": "a132af6d-8a47-45d5-b3f0-f9209c451f9d",
+            "key": "out-11.g.gz",
+            "size": 1422742,
+            "checksum": "md5:090560b4abd76198869f102d4b4e7505",
+            "links": {
+              "self": "https://zenodo.org/api/records/5914768/files/out-11.g.gz/content"
+            }
+          },
+          {
+            "id": "03ee2c4f-1122-4122-b202-38c3725e3192",
+            "key": "out-1.g.gz",
+            "size": 3885042,
+            "checksum": "md5:df2f042e83634d778dfc25724777deb0",
+            "links": {
+              "self": "https://zenodo.org/api/records/5914768/files/out-1.g.gz/content"
+            }
+          },
+          {
+            "id": "0083a471-9181-4156-b76d-dde49eff28d1",
+            "key": "out-54.g.gz",
+            "size": 677277,
+            "checksum": "md5:3ad46015b5db9307c4b9f86e6c2b5344",
+            "links": {
+              "self": "https://zenodo.org/api/records/5914768/files/out-54.g.gz/content"
+            }
+          },
+          {
+            "id": "0da79474-56b3-4951-a700-69c401666d03",
+            "key": "out-55.g.gz",
+            "size": 669203,
+            "checksum": "md5:16e54eed3721f9634deb9359d96d5f85",
+            "links": {
+              "self": "https://zenodo.org/api/records/5914768/files/out-55.g.gz/content"
+            }
+          },
+          {
+            "id": "1783e62c-68c2-428c-bfcd-f55e9dad1715",
+            "key": "out-56.g.gz",
+            "size": 664718,
+            "checksum": "md5:f828efa0b833b99bea6b6b4c63a4d77d",
+            "links": {
+              "self": "https://zenodo.org/api/records/5914768/files/out-56.g.gz/content"
+            }
+          },
+          {
+            "id": "8d828f45-264e-4803-97b2-8cf3f92388e4",
+            "key": "out-57.g.gz",
+            "size": 656270,
+            "checksum": "md5:8eb0c8080fd5ecb67a98177628b7a43f",
+            "links": {
+              "self": "https://zenodo.org/api/records/5914768/files/out-57.g.gz/content"
+            }
+          },
+          {
+            "id": "2c68c772-3b98-4c36-80ad-26915a82fb20",
+            "key": "out-58.g.gz",
+            "size": 654587,
+            "checksum": "md5:2ae2e5d2656b0d4cafc3acb263c15ed6",
+            "links": {
+              "self": "https://zenodo.org/api/records/5914768/files/out-58.g.gz/content"
+            }
+          },
+          {
+            "id": "a3f71b41-ba79-4281-90d0-0018bef5d242",
+            "key": "out-59.g.gz",
+            "size": 644602,
+            "checksum": "md5:80e5a8ef78325368a40d6028b584cd6a",
+            "links": {
+              "self": "https://zenodo.org/api/records/5914768/files/out-59.g.gz/content"
+            }
+          },
+          {
+            "id": "c7e60d83-90f1-400c-ac47-d43574f8501d",
+            "key": "out-53.g.gz",
+            "size": 684843,
+            "checksum": "md5:958545dbcac171e8e45186207155919d",
+            "links": {
+              "self": "https://zenodo.org/api/records/5914768/files/out-53.g.gz/content"
+            }
+          },
+          {
+            "id": "5f59cece-c368-40bb-8f90-21ed40b42573",
+            "key": "out-5.g.gz",
+            "size": 2054161,
+            "checksum": "md5:fc425323416dbe3e66c0207dffe8f2bb",
+            "links": {
+              "self": "https://zenodo.org/api/records/5914768/files/out-5.g.gz/content"
+            }
+          },
+          {
+            "id": "d0f8b88f-268c-472d-8760-b6e1ca3ed73e",
+            "key": "out-41.g.gz",
+            "size": 764822,
+            "checksum": "md5:e12bb81ca712a158b3caaab11137744e",
+            "links": {
+              "self": "https://zenodo.org/api/records/5914768/files/out-41.g.gz/content"
+            }
+          },
+          {
+            "id": "c7d72c1d-701d-495c-93c3-c173aa0b0ca1",
+            "key": "out-60.g.gz",
+            "size": 643535,
+            "checksum": "md5:bc1b411bd93ab010a0e1ee738d86bdad",
+            "links": {
+              "self": "https://zenodo.org/api/records/5914768/files/out-60.g.gz/content"
+            }
+          },
+          {
+            "id": "e443efc7-b5f3-40d8-8fc0-614b2ed2a86b",
+            "key": "out-61.g.gz",
+            "size": 637145,
+            "checksum": "md5:07ef7b97977e90143b9a6dd73bb36410",
+            "links": {
+              "self": "https://zenodo.org/api/records/5914768/files/out-61.g.gz/content"
+            }
+          },
+          {
+            "id": "3eb12c38-ce99-4c00-b705-6395b2ad472d",
+            "key": "out-40.g.gz",
+            "size": 779084,
+            "checksum": "md5:0556962f1cd59b03a0aff59fc1cdb04d",
+            "links": {
+              "self": "https://zenodo.org/api/records/5914768/files/out-40.g.gz/content"
+            }
+          },
+          {
+            "id": "0cbc3725-1f23-4254-93be-523d2545b0e5",
+            "key": "out-3.g.gz",
+            "size": 2562401,
+            "checksum": "md5:c65ac76763e97012e823f04f800e16c0",
+            "links": {
+              "self": "https://zenodo.org/api/records/5914768/files/out-3.g.gz/content"
+            }
+          },
+          {
+            "id": "39789b2e-94b8-4b05-9d0a-ac955a77a8fe",
+            "key": "out-62.g.gz",
+            "size": 636713,
+            "checksum": "md5:b8799163c2e3e6ff471a7587e0cfe9e8",
+            "links": {
+              "self": "https://zenodo.org/api/records/5914768/files/out-62.g.gz/content"
+            }
+          },
+          {
+            "id": "9d5992a0-5304-4973-98d3-eb95104706d6",
+            "key": "out-63.g.gz",
+            "size": 623338,
+            "checksum": "md5:a0d5ff339b0250be07aade5e273fd83c",
+            "links": {
+              "self": "https://zenodo.org/api/records/5914768/files/out-63.g.gz/content"
+            }
+          },
+          {
+            "id": "8ed66b64-49b3-4258-b0ba-e6c61c13e206",
+            "key": "out-64.g.gz",
+            "size": 624159,
+            "checksum": "md5:d778a8160cb57769a6ba7897254d9948",
+            "links": {
+              "self": "https://zenodo.org/api/records/5914768/files/out-64.g.gz/content"
+            }
+          },
+          {
+            "id": "476e258a-99ae-4a6a-b37c-80bc4b296463",
+            "key": "out-65.g.gz",
+            "size": 622452,
+            "checksum": "md5:bf6aaba672512851996c765f973a8f8a",
+            "links": {
+              "self": "https://zenodo.org/api/records/5914768/files/out-65.g.gz/content"
+            }
+          },
+          {
+            "id": "2be4e0e8-aef8-406d-8018-9dada1f0f72e",
+            "key": "out-52.g.gz",
+            "size": 683719,
+            "checksum": "md5:951d516f6d8fa3f453421214f5ad204b",
+            "links": {
+              "self": "https://zenodo.org/api/records/5914768/files/out-52.g.gz/content"
+            }
+          },
+          {
+            "id": "7bbe85cd-e983-4612-873a-fa36054224ac",
+            "key": "out-66.g.gz",
+            "size": 614182,
+            "checksum": "md5:7949a6a0cd44595114a00dc272213985",
+            "links": {
+              "self": "https://zenodo.org/api/records/5914768/files/out-66.g.gz/content"
+            }
+          },
+          {
+            "id": "2572a8ab-7770-42d2-b772-ff145c5c1250",
+            "key": "out-67.g.gz",
+            "size": 601986,
+            "checksum": "md5:3aaed68ebbef5bb1195c352328db303c",
+            "links": {
+              "self": "https://zenodo.org/api/records/5914768/files/out-67.g.gz/content"
+            }
+          },
+          {
+            "id": "3ba67997-4020-4678-b943-48a14bf1f0f3",
+            "key": "out-68.g.gz",
+            "size": 603797,
+            "checksum": "md5:bb34ca2b9b725404a52973a37e9c3947",
+            "links": {
+              "self": "https://zenodo.org/api/records/5914768/files/out-68.g.gz/content"
+            }
+          },
+          {
+            "id": "27999440-0ff7-42f7-96a7-ee09ca17ca60",
+            "key": "out-39.g.gz",
+            "size": 780063,
+            "checksum": "md5:a3ad858f128a8add42fb3bfc7a92aaca",
+            "links": {
+              "self": "https://zenodo.org/api/records/5914768/files/out-39.g.gz/content"
+            }
+          },
+          {
+            "id": "b9a46fe7-9eda-42dc-bd65-1eb45235af10",
+            "key": "out-69.g.gz",
+            "size": 598095,
+            "checksum": "md5:bc010d81b3ec47e2708847a739b5b6fb",
+            "links": {
+              "self": "https://zenodo.org/api/records/5914768/files/out-69.g.gz/content"
+            }
+          },
+          {
+            "id": "b865577c-454d-4a8f-938c-c39a5ac213bc",
+            "key": "out-6.g.gz",
+            "size": 1886849,
+            "checksum": "md5:0f70c16223a209c0011716ce5d2d9feb",
+            "links": {
+              "self": "https://zenodo.org/api/records/5914768/files/out-6.g.gz/content"
+            }
+          },
+          {
+            "id": "da1a5146-6275-4c3e-a95a-3479d6c93d82",
+            "key": "out-70.g.gz",
+            "size": 601431,
+            "checksum": "md5:8d6f2ac7dbd34254db743375f10dd564",
+            "links": {
+              "self": "https://zenodo.org/api/records/5914768/files/out-70.g.gz/content"
+            }
+          },
+          {
+            "id": "2388b2a1-ca66-4de6-a4bc-c8efe0ccebea",
+            "key": "out-71.g.gz",
+            "size": 591985,
+            "checksum": "md5:852fa7e223020d01b3650bd26d0b8059",
+            "links": {
+              "self": "https://zenodo.org/api/records/5914768/files/out-71.g.gz/content"
+            }
+          },
+          {
+            "id": "180a8fae-4393-4135-b253-293f1440d504",
+            "key": "out-72.g.gz",
+            "size": 590120,
+            "checksum": "md5:773a365d82e4ec32e9e02a1cbb042fd8",
+            "links": {
+              "self": "https://zenodo.org/api/records/5914768/files/out-72.g.gz/content"
+            }
+          },
+          {
+            "id": "f9dade4e-5a4a-403e-be7a-c3cc2752a9e0",
+            "key": "out-73.g.gz",
+            "size": 580999,
+            "checksum": "md5:8f7b817b99ac3c6ab814c73ba088ff6f",
+            "links": {
+              "self": "https://zenodo.org/api/records/5914768/files/out-73.g.gz/content"
+            }
+          },
+          {
+            "id": "e66feb9d-da72-4fc8-9969-58b2a50c674d",
+            "key": "out-38.g.gz",
+            "size": 797874,
+            "checksum": "md5:5cf4c701df2e0cb1548faaf02b37e357",
+            "links": {
+              "self": "https://zenodo.org/api/records/5914768/files/out-38.g.gz/content"
+            }
+          },
+          {
+            "id": "00f74258-f652-4839-956d-1a4240c7b67a",
+            "key": "out-37.g.gz",
+            "size": 810792,
+            "checksum": "md5:6fb3445989bb3c13e62002d5f96998f1",
+            "links": {
+              "self": "https://zenodo.org/api/records/5914768/files/out-37.g.gz/content"
+            }
+          },
+          {
+            "id": "44fd9878-6f21-460b-9671-a9cdf2806925",
+            "key": "out-74.g.gz",
+            "size": 583781,
+            "checksum": "md5:a0ad6e4788f1002c52f76a00b3ca4363",
+            "links": {
+              "self": "https://zenodo.org/api/records/5914768/files/out-74.g.gz/content"
+            }
+          },
+          {
+            "id": "81cf3a6a-7cdb-4de8-8967-39c8020a9c82",
+            "key": "out-75.g.gz",
+            "size": 581322,
+            "checksum": "md5:f1a7d8dfd9821deabff8ec0b55dedaeb",
+            "links": {
+              "self": "https://zenodo.org/api/records/5914768/files/out-75.g.gz/content"
+            }
+          },
+          {
+            "id": "c29b3357-f076-4386-80f7-e81dbc657ef3",
+            "key": "out-76.g.gz",
+            "size": 575021,
+            "checksum": "md5:c47a17f97c675bf8d87cfdf12721474c",
+            "links": {
+              "self": "https://zenodo.org/api/records/5914768/files/out-76.g.gz/content"
+            }
+          },
+          {
+            "id": "15dc6c44-c550-4c53-a690-c3e18157a659",
+            "key": "out-77.g.gz",
+            "size": 567965,
+            "checksum": "md5:7d20976f62276d29318e641835837e7f",
+            "links": {
+              "self": "https://zenodo.org/api/records/5914768/files/out-77.g.gz/content"
+            }
+          },
+          {
+            "id": "01e4fc6e-a4d9-4d92-a880-a756d9480f5e",
+            "key": "out-78.g.gz",
+            "size": 566411,
+            "checksum": "md5:502c087e0073308b0a58eacf87e5e977",
+            "links": {
+              "self": "https://zenodo.org/api/records/5914768/files/out-78.g.gz/content"
+            }
+          },
+          {
+            "id": "d7bde40c-a7d8-4c7e-b817-acef5e78ad96",
+            "key": "out-79.g.gz",
+            "size": 562454,
+            "checksum": "md5:e3b2962b0d1f7c38fc35b2498e9132e0",
+            "links": {
+              "self": "https://zenodo.org/api/records/5914768/files/out-79.g.gz/content"
+            }
+          },
+          {
+            "id": "bc47d874-9dc9-48bf-ae37-09390b460708",
+            "key": "out-7.g.gz",
+            "size": 1753945,
+            "checksum": "md5:73ddf96707050ae28fc05ab9605390b2",
+            "links": {
+              "self": "https://zenodo.org/api/records/5914768/files/out-7.g.gz/content"
+            }
+          },
+          {
+            "id": "26ab72f4-da93-4e05-80ec-0a7362a3aef5",
+            "key": "out-80.g.gz",
+            "size": 561597,
+            "checksum": "md5:eb7e15715fc8a7c8ca7eb0441777415f",
+            "links": {
+              "self": "https://zenodo.org/api/records/5914768/files/out-80.g.gz/content"
+            }
+          },
+          {
+            "id": "d867e877-9152-4af8-9354-156ba4996514",
+            "key": "out-36.g.gz",
+            "size": 819414,
+            "checksum": "md5:acda37d8681c4bc9bd806853260965e0",
+            "links": {
+              "self": "https://zenodo.org/api/records/5914768/files/out-36.g.gz/content"
+            }
+          },
+          {
+            "id": "e5178170-4c95-4d16-b6b9-66cf4ba60409",
+            "key": "out-35.g.gz",
+            "size": 832759,
+            "checksum": "md5:dabd35f04c90ee74d086620a96b8caed",
+            "links": {
+              "self": "https://zenodo.org/api/records/5914768/files/out-35.g.gz/content"
+            }
+          },
+          {
+            "id": "980b325a-13f7-4739-bee2-8739623ef564",
+            "key": "out-34.g.gz",
+            "size": 835928,
+            "checksum": "md5:d027f67e41116d40c1976b72c5b7022e",
+            "links": {
+              "self": "https://zenodo.org/api/records/5914768/files/out-34.g.gz/content"
+            }
+          },
+          {
+            "id": "4fbafb92-e2ad-4407-abcd-84aef975ba9a",
+            "key": "out-33.g.gz",
+            "size": 851463,
+            "checksum": "md5:a36be25bc63483fcba63486c7aa631a8",
+            "links": {
+              "self": "https://zenodo.org/api/records/5914768/files/out-33.g.gz/content"
+            }
+          },
+          {
+            "id": "e686cbf2-0127-4bff-994e-8a44b2af0b81",
+            "key": "out-32.g.gz",
+            "size": 871597,
+            "checksum": "md5:b198ea88ec2279c616533e755483e0cd",
+            "links": {
+              "self": "https://zenodo.org/api/records/5914768/files/out-32.g.gz/content"
+            }
+          },
+          {
+            "id": "66dd2ebf-ff85-4d7f-bc9d-4f545a1ede46",
+            "key": "out-31.g.gz",
+            "size": 878449,
+            "checksum": "md5:2eb79021cf2dee42bc38f707b9412bbb",
+            "links": {
+              "self": "https://zenodo.org/api/records/5914768/files/out-31.g.gz/content"
+            }
+          },
+          {
+            "id": "be67bcae-c58b-40cc-8022-a2f2d7133eff",
+            "key": "out-51.g.gz",
+            "size": 696500,
+            "checksum": "md5:5b7a24e884e0fc34fc8f56d56ae245bb",
+            "links": {
+              "self": "https://zenodo.org/api/records/5914768/files/out-51.g.gz/content"
+            }
+          },
+          {
+            "id": "66ba0340-fa00-406a-9f76-e65283acc3e5",
+            "key": "out-30.g.gz",
+            "size": 893746,
+            "checksum": "md5:d0fafee79435c0b08b953dd4b2b55468",
+            "links": {
+              "self": "https://zenodo.org/api/records/5914768/files/out-30.g.gz/content"
+            }
+          },
+          {
+            "id": "6ec70593-fc82-4812-93a7-60189add73cf",
+            "key": "out-50.g.gz",
+            "size": 705736,
+            "checksum": "md5:2c8016507484ad01ed5792a86babe331",
+            "links": {
+              "self": "https://zenodo.org/api/records/5914768/files/out-50.g.gz/content"
+            }
+          },
+          {
+            "id": "ec53909d-c329-4fc7-9f7b-514d47e3757d",
+            "key": "out-2.g.gz",
+            "size": 3007215,
+            "checksum": "md5:bb320b68f3c51b74a14200d4791bdde5",
+            "links": {
+              "self": "https://zenodo.org/api/records/5914768/files/out-2.g.gz/content"
+            }
+          },
+          {
+            "id": "ce66084f-84f4-40f6-8eea-45f33bab789b",
+            "key": "out-4.g.gz",
+            "size": 2260300,
+            "checksum": "md5:306c8fe2f60a65a3466025fb62378485",
+            "links": {
+              "self": "https://zenodo.org/api/records/5914768/files/out-4.g.gz/content"
+            }
+          },
+          {
+            "id": "e1aa657b-064b-4aaf-942e-5683aadf2736",
+            "key": "out-49.g.gz",
+            "size": 708495,
+            "checksum": "md5:0ffcf5ade118c196445ce898838c01df",
+            "links": {
+              "self": "https://zenodo.org/api/records/5914768/files/out-49.g.gz/content"
+            }
+          },
+          {
+            "id": "ec41f84d-f209-4229-9910-6ac9aefbaa4b",
+            "key": "out-48.g.gz",
+            "size": 711945,
+            "checksum": "md5:6c345d8777d346fc0906323b22800f3a",
+            "links": {
+              "self": "https://zenodo.org/api/records/5914768/files/out-48.g.gz/content"
+            }
+          },
+          {
+            "id": "63e51f3a-36ab-443e-bf1d-59b017aaecca",
+            "key": "out-29.g.gz",
+            "size": 905003,
+            "checksum": "md5:e9eb4a5781c6a4bcf7f95680bec30d86",
+            "links": {
+              "self": "https://zenodo.org/api/records/5914768/files/out-29.g.gz/content"
+            }
+          },
+          {
+            "id": "4099cd1c-2935-4e71-b12f-09c008e10242",
+            "key": "out-28.g.gz",
+            "size": 921248,
+            "checksum": "md5:64124b4de72e7110b649afe2761ada2e",
+            "links": {
+              "self": "https://zenodo.org/api/records/5914768/files/out-28.g.gz/content"
+            }
+          },
+          {
+            "id": "a1f9117c-64b6-4093-a378-a4ada81eb110",
+            "key": "out-81.g.gz",
+            "size": 557728,
+            "checksum": "md5:8761edb06caa0a04cb45713d5d3eeec6",
+            "links": {
+              "self": "https://zenodo.org/api/records/5914768/files/out-81.g.gz/content"
+            }
+          },
+          {
+            "id": "c62f5f48-e826-473c-bb14-f3fbbb1c88e9",
+            "key": "out-27.g.gz",
+            "size": 938718,
+            "checksum": "md5:bc3fdbec1a14ca76de3f9b4365943330",
+            "links": {
+              "self": "https://zenodo.org/api/records/5914768/files/out-27.g.gz/content"
+            }
+          },
+          {
+            "id": "f3e74f5d-2916-4eb8-8a93-7cd11b252b6b",
+            "key": "out-83.g.gz",
+            "size": 550872,
+            "checksum": "md5:e9ee228e24ca44e0fa9dabe9a499b1b8",
+            "links": {
+              "self": "https://zenodo.org/api/records/5914768/files/out-83.g.gz/content"
+            }
+          },
+          {
+            "id": "51e5dc48-f6d5-482d-b1bc-6a0d45a3bd48",
+            "key": "out-26.g.gz",
+            "size": 959747,
+            "checksum": "md5:223d7a11d4cb06066ecdfb673569ff54",
+            "links": {
+              "self": "https://zenodo.org/api/records/5914768/files/out-26.g.gz/content"
+            }
+          },
+          {
+            "id": "daaec682-7b2c-4e81-9c9a-7daa9cc81b36",
+            "key": "out-25.g.gz",
+            "size": 971158,
+            "checksum": "md5:35641f3e6a66930380d3b86bc7a0badf",
+            "links": {
+              "self": "https://zenodo.org/api/records/5914768/files/out-25.g.gz/content"
+            }
+          },
+          {
+            "id": "55ec7bda-f7ad-475e-89ad-690a7c4cbf66",
+            "key": "out-84.g.gz",
+            "size": 545959,
+            "checksum": "md5:fd70a89a02150c631057fe6c224b19c9",
+            "links": {
+              "self": "https://zenodo.org/api/records/5914768/files/out-84.g.gz/content"
+            }
+          },
+          {
+            "id": "edde1638-aaae-4e6e-8d6d-dfee50f00b3a",
+            "key": "out-85.g.gz",
+            "size": 539646,
+            "checksum": "md5:181fbf05c13e51a8d24340851f9bc7bb",
+            "links": {
+              "self": "https://zenodo.org/api/records/5914768/files/out-85.g.gz/content"
+            }
+          },
+          {
+            "id": "f3251c7c-42da-42c8-85a3-ae3093ebda1d",
+            "key": "out-86.g.gz",
+            "size": 540191,
+            "checksum": "md5:616b76383e7f1fda79b4a4d1b5c72906",
+            "links": {
+              "self": "https://zenodo.org/api/records/5914768/files/out-86.g.gz/content"
+            }
+          },
+          {
+            "id": "446b9d4d-1264-41c9-b73e-49b2aa73b021",
+            "key": "out-47.g.gz",
+            "size": 719281,
+            "checksum": "md5:4c85d1bf8193b72c1c1202a8440a1e38",
+            "links": {
+              "self": "https://zenodo.org/api/records/5914768/files/out-47.g.gz/content"
+            }
+          },
+          {
+            "id": "cc601242-3964-4788-b792-2ea1684655f9",
+            "key": "out-87.g.gz",
+            "size": 535590,
+            "checksum": "md5:04ee2cc07a87738734ace6b93adddb6b",
+            "links": {
+              "self": "https://zenodo.org/api/records/5914768/files/out-87.g.gz/content"
+            }
+          },
+          {
+            "id": "3aaac69b-7dc5-40ff-998a-b59eacb0f3ac",
+            "key": "out-88.g.gz",
+            "size": 530286,
+            "checksum": "md5:91b38d47c285ca971d6af13bbb3cec34",
+            "links": {
+              "self": "https://zenodo.org/api/records/5914768/files/out-88.g.gz/content"
+            }
+          },
+          {
+            "id": "6499f5c3-e222-45bc-968b-5471b0a28737",
+            "key": "out-89.g.gz",
+            "size": 532066,
+            "checksum": "md5:0e7c903229bd99dbdb61d894fa42625b",
+            "links": {
+              "self": "https://zenodo.org/api/records/5914768/files/out-89.g.gz/content"
+            }
+          },
+          {
+            "id": "9b7aefa7-c6e9-4516-85bc-46c2cb163801",
+            "key": "out-24.g.gz",
+            "size": 990170,
+            "checksum": "md5:437e3a7ec49870d9b15862f8d7b46ca0",
+            "links": {
+              "self": "https://zenodo.org/api/records/5914768/files/out-24.g.gz/content"
+            }
+          },
+          {
+            "id": "47722599-5444-4684-b950-84e59b3c1445",
+            "key": "out-8.g.gz",
+            "size": 1657992,
+            "checksum": "md5:bca67de98009cca1c61d531b0855d48a",
+            "links": {
+              "self": "https://zenodo.org/api/records/5914768/files/out-8.g.gz/content"
+            }
+          },
+          {
+            "id": "f4714f7e-3a70-4805-bdbd-2b979c9e60e0",
+            "key": "out-90.g.gz",
+            "size": 530682,
+            "checksum": "md5:37b5967d81864aecbf0dba5bb9b05c03",
+            "links": {
+              "self": "https://zenodo.org/api/records/5914768/files/out-90.g.gz/content"
+            }
+          },
+          {
+            "id": "a4df3906-b197-46e6-8a57-600d8397b965",
+            "key": "out-91.g.gz",
+            "size": 529478,
+            "checksum": "md5:43484ce65c9b492d9e713cae41da83a6",
+            "links": {
+              "self": "https://zenodo.org/api/records/5914768/files/out-91.g.gz/content"
+            }
+          },
+          {
+            "id": "14747372-6084-41b5-b0c1-5ed810cbbfc3",
+            "key": "out-92.g.gz",
+            "size": 527655,
+            "checksum": "md5:9ce9e504620c0b737e37284dc7002a00",
+            "links": {
+              "self": "https://zenodo.org/api/records/5914768/files/out-92.g.gz/content"
+            }
+          },
+          {
+            "id": "29e5cf9b-11b0-411b-9aff-85dc2383027c",
+            "key": "out-93.g.gz",
+            "size": 521793,
+            "checksum": "md5:595f633f1aa79bb1098cde10411c6cb0",
+            "links": {
+              "self": "https://zenodo.org/api/records/5914768/files/out-93.g.gz/content"
+            }
+          },
+          {
+            "id": "724a5d37-78c1-4ebc-8870-3fc7b7c31d7d",
+            "key": "out-94.g.gz",
+            "size": 518010,
+            "checksum": "md5:163918cd612352ad36050b1e693a0e93",
+            "links": {
+              "self": "https://zenodo.org/api/records/5914768/files/out-94.g.gz/content"
+            }
+          },
+          {
+            "id": "451f0da7-2b19-49b9-a7ff-da035b8845a3",
+            "key": "out-95.g.gz",
+            "size": 517347,
+            "checksum": "md5:d358bfe01112ba489bbaa12830dacbb3",
+            "links": {
+              "self": "https://zenodo.org/api/records/5914768/files/out-95.g.gz/content"
+            }
+          },
+          {
+            "id": "95e617d1-f0ae-4916-ae95-f928443c0c06",
+            "key": "out-96.g.gz",
+            "size": 513583,
+            "checksum": "md5:bbce5395d9daadb44936140b24638e0b",
+            "links": {
+              "self": "https://zenodo.org/api/records/5914768/files/out-96.g.gz/content"
+            }
+          },
+          {
+            "id": "7a153371-b366-4c95-b04b-3a3ea2029d95",
+            "key": "out-46.g.gz",
+            "size": 729935,
+            "checksum": "md5:7ef3360144f932d1a56baf54e00e9018",
+            "links": {
+              "self": "https://zenodo.org/api/records/5914768/files/out-46.g.gz/content"
+            }
+          },
+          {
+            "id": "f1e86c81-b721-47c7-8269-5e88c0ea2f03",
+            "key": "out-45.g.gz",
+            "size": 740911,
+            "checksum": "md5:4fc569e2dcd039021b099f09783162bb",
+            "links": {
+              "self": "https://zenodo.org/api/records/5914768/files/out-45.g.gz/content"
+            }
+          },
+          {
+            "id": "56f3f3ee-9835-464a-926b-4c38eef38137",
+            "key": "out-97.g.gz",
+            "size": 513872,
+            "checksum": "md5:ae188d0ffa5a7cc1f98a39acbc227ec0",
+            "links": {
+              "self": "https://zenodo.org/api/records/5914768/files/out-97.g.gz/content"
+            }
+          },
+          {
+            "id": "db2beb8d-6815-44d6-9cef-8db5ec24047b",
+            "key": "out-98.g.gz",
+            "size": 508759,
+            "checksum": "md5:a43a65b41135a39c2c4c7e6ef2afe00c",
+            "links": {
+              "self": "https://zenodo.org/api/records/5914768/files/out-98.g.gz/content"
+            }
+          },
+          {
+            "id": "f2a3f5b8-6c15-4353-ba45-b5ccb3a5639e",
+            "key": "out-99.g.gz",
+            "size": 506717,
+            "checksum": "md5:26d3b4d5d4709d8c91c8dd1505ac9ed9",
+            "links": {
+              "self": "https://zenodo.org/api/records/5914768/files/out-99.g.gz/content"
+            }
+          },
+          {
+            "id": "660bd3c2-7f4f-4584-a3d0-33b7a2e79811",
+            "key": "out-23.g.gz",
+            "size": 1016739,
+            "checksum": "md5:3f32d95d179c43f916b9302c4db68ecd",
+            "links": {
+              "self": "https://zenodo.org/api/records/5914768/files/out-23.g.gz/content"
+            }
+          },
+          {
+            "id": "c0346303-185c-421e-8288-db457163d1f3",
+            "key": "out-9.g.gz",
+            "size": 1578363,
+            "checksum": "md5:1967b8d58a22f10aae18fd36a4ec8726",
+            "links": {
+              "self": "https://zenodo.org/api/records/5914768/files/out-9.g.gz/content"
+            }
+          },
+          {
+            "id": "4c77d878-8d66-48ac-925c-87de62330bd5",
+            "key": "out-22.g.gz",
+            "size": 1033622,
+            "checksum": "md5:d83dbd9290dc486b4070cb27e64b843f",
+            "links": {
+              "self": "https://zenodo.org/api/records/5914768/files/out-22.g.gz/content"
+            }
+          },
+          {
+            "id": "dda8b794-83ee-4107-9f57-1d5274724de5",
+            "key": "out-12.g.gz",
+            "size": 1379851,
+            "checksum": "md5:a919ab21b7f42f90d53bf53977a62d43",
+            "links": {
+              "self": "https://zenodo.org/api/records/5914768/files/out-12.g.gz/content"
+            }
+          },
+          {
+            "id": "4fd270b6-5496-48fa-9add-087ee3d1c5ea",
+            "key": "out-21.g.gz",
+            "size": 1062935,
+            "checksum": "md5:22de42ad2b49bee04df210f10b2cd3de",
+            "links": {
+              "self": "https://zenodo.org/api/records/5914768/files/out-21.g.gz/content"
+            }
+          },
+          {
+            "id": "8699c243-e587-4331-a48d-6d518b88ef3d",
+            "key": "out-20.g.gz",
+            "size": 1083961,
+            "checksum": "md5:7b85c58e8083eab43f5be0918d5f526f",
+            "links": {
+              "self": "https://zenodo.org/api/records/5914768/files/out-20.g.gz/content"
+            }
+          },
+          {
+            "id": "83764661-58dd-4dab-b26e-141cde1fd44d",
+            "key": "out-44.g.gz",
+            "size": 743087,
+            "checksum": "md5:1e69c8cac0b6fab0b0a8755f0593b662",
+            "links": {
+              "self": "https://zenodo.org/api/records/5914768/files/out-44.g.gz/content"
+            }
+          },
+          {
+            "id": "c1b2a826-9ace-4407-b894-5ad26d7edf0d",
+            "key": "out-43.g.gz",
+            "size": 753864,
+            "checksum": "md5:a1fc17ccd3ec5a870463de40e67bd946",
+            "links": {
+              "self": "https://zenodo.org/api/records/5914768/files/out-43.g.gz/content"
+            }
+          },
+          {
+            "id": "449bee3f-7e6f-4434-ab3e-ec62d16531b9",
+            "key": "out-42.g.gz",
+            "size": 761382,
+            "checksum": "md5:b40aabdd3ce8bea6dd43729b66df067d",
+            "links": {
+              "self": "https://zenodo.org/api/records/5914768/files/out-42.g.gz/content"
+            }
+          },
+          {
+            "id": "07a00026-81a1-4b09-9c13-0eed9314192c",
+            "key": "out-19.g.gz",
+            "size": 1108283,
+            "checksum": "md5:64caec9f8a9d065f89836e521fa1c369",
+            "links": {
+              "self": "https://zenodo.org/api/records/5914768/files/out-19.g.gz/content"
+            }
+          },
+          {
+            "id": "42809d07-8fbb-488f-93b7-25019555c363",
+            "key": "out-18.g.gz",
+            "size": 1134403,
+            "checksum": "md5:d78e48a5e5c1e5fb71eb29559a03ac18",
+            "links": {
+              "self": "https://zenodo.org/api/records/5914768/files/out-18.g.gz/content"
+            }
+          },
+          {
+            "id": "cc3cef1f-2fc6-4f8e-9c64-8b683a3c7361",
+            "key": "out-17.g.gz",
+            "size": 1167855,
+            "checksum": "md5:e27e177f40a42cd7c083877921a89778",
+            "links": {
+              "self": "https://zenodo.org/api/records/5914768/files/out-17.g.gz/content"
+            }
+          },
+          {
+            "id": "400642d8-2ac8-40de-bef4-a4114f98ccf7",
+            "key": "out-16.g.gz",
+            "size": 1205733,
+            "checksum": "md5:0058610f705e8ad719ffce2ece10fd31",
+            "links": {
+              "self": "https://zenodo.org/api/records/5914768/files/out-16.g.gz/content"
+            }
+          },
+          {
+            "id": "2e039a03-d400-41a0-9a9b-33cda1fe835a",
+            "key": "out-15.g.gz",
+            "size": 1238378,
+            "checksum": "md5:f9bd9bd1348b1136f0aafcc61f53c630",
+            "links": {
+              "self": "https://zenodo.org/api/records/5914768/files/out-15.g.gz/content"
+            }
+          },
+          {
+            "id": "0d4eb643-fc74-410b-821a-765c577aada3",
+            "key": "out-14.g.gz",
+            "size": 1277378,
+            "checksum": "md5:6201d3aee0bd8ef21742e59a13c66974",
+            "links": {
+              "self": "https://zenodo.org/api/records/5914768/files/out-14.g.gz/content"
+            }
+          },
+          {
+            "id": "476b2b41-95e2-4a23-9d69-316cce838742",
+            "key": "out-13.g.gz",
+            "size": 1328004,
+            "checksum": "md5:11f9c64604f5be76955ba7134cae264b",
+            "links": {
+              "self": "https://zenodo.org/api/records/5914768/files/out-13.g.gz/content"
+            }
+          }
+        ],
+        "swh": null,
+        "owners": [
+          {
+            "id": "295666"
+          }
+        ],
+        "status": "published",
+        "stats": {
+          "downloads": 3241,
+          "unique_downloads": 3038,
+          "views": 426,
+          "unique_views": 398,
+          "version_downloads": 3241,
+          "version_unique_downloads": 3038,
+          "version_unique_views": 398,
+          "version_views": 426
+        },
+        "state": "done",
+        "submitted": true
+      },
+      {
+        "created": "2026-02-20T09:22:00.916141+00:00",
+        "modified": "2026-02-20T09:22:01.267178+00:00",
+        "id": 18710369,
+        "conceptrecid": "18710368",
+        "doi": "10.5281/zenodo.18710369",
+        "conceptdoi": "10.5281/zenodo.18710368",
+        "doi_url": "https://doi.org/10.5281/zenodo.18710369",
+        "metadata": {
+          "title": "Geometric Implementation of Morse Theory Derived from Hecke Algebras in Ring Spaces",
+          "doi": "10.5281/zenodo.18710369",
+          "publication_date": "2026-02-20",
+          "description": "<p>Abstract; This paper presents a rigorous geometric realization of Morse theory within the framework of singular ring topological spaces, resolving the long-standing theoretical obstacles in non-smooth manifolds due to the lack of metric regularity. By embedding the Iwahori-Hecke algebra into the stratified filtration structure, we utilize the Jucys-Murphy elements and the Casimir center to construct a class of canonical \"Hecke-Morse potential functions\". The study shows that the non-commutative braiding relations of the algebra intrinsically encode the bifurcation dynamics behavior of the gradient flow across Whitney stratifications, effectively quantizing the classical Morse critical point set. Further, using the derived category tools, we establish a spectral sequence that converges from the local homology of the critical sub-manifolds to the global homology of the space. The core theorem confirms that under geometric purity conditions, the resulting Morse-Witten complex is isomorphic to the induced module structure of the Hecke algebra, proving that the Betti numbers of the ring space are strictly controlled by the Kazhdan-Lusztig basis. This framework not only eliminates the ambiguity in the definition of the gradient flow in the singular domain but also provides an intuitive geometric realization for the representation theory of quantum groups.</p>",
+          "access_right": "open",
+          "creators": [
+            {
+              "name": "Ruoli Bai",
+              "affiliation": "Arcadia High School"
+            }
+          ],
+          "keywords": [
+            "Iwahori-Hecke algebra; Geometric Morse theory; Ring space and manifold; Jucys-Murphy elements; Spectral sequence"
+          ],
+          "dates": [
+            {
+              "type": "available"
+            }
+          ],
+          "language": "eng",
+          "resource_type": {
+            "title": "Journal article",
+            "type": "publication",
+            "subtype": "article"
+          },
+          "journal": {
+            "issue": "02",
+            "pages": "136-142",
+            "title": "RA JOURNAL OF APPLIED RESEARCH",
+            "volume": "12"
+          },
+          "license": {
+            "id": "cc-by-4.0"
+          },
+          "relations": {
+            "version": [
+              {
+                "index": 0,
+                "is_last": true,
+                "parent": {
+                  "pid_type": "recid",
+                  "pid_value": "18710368"
+                }
+              }
+            ]
+          }
+        },
+        "title": "Geometric Implementation of Morse Theory Derived from Hecke Algebras in Ring Spaces",
+        "links": {
+          "self": "https://zenodo.org/api/records/18710369",
+          "self_html": "https://zenodo.org/records/18710369",
+          "preview_html": "https://zenodo.org/records/18710369?preview=1",
+          "doi": "https://doi.org/10.5281/zenodo.18710369",
+          "self_doi": "https://doi.org/10.5281/zenodo.18710369",
+          "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.18710369",
+          "reserve_doi": "https://zenodo.org/api/records/18710369/draft/pids/doi",
+          "parent": "https://zenodo.org/api/records/18710368",
+          "parent_html": "https://zenodo.org/records/18710368",
+          "parent_doi": "https://doi.org/10.5281/zenodo.18710368",
+          "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.18710368",
+          "self_iiif_manifest": "https://zenodo.org/api/iiif/record:18710369/manifest",
+          "self_iiif_sequence": "https://zenodo.org/api/iiif/record:18710369/sequence/default",
+          "files": "https://zenodo.org/api/records/18710369/files",
+          "media_files": "https://zenodo.org/api/records/18710369/media-files",
+          "thumbnails": {
+            "10": "https://zenodo.org/api/iiif/record:18710369:05Rajar.pdf/full/%5E10,/0/default.jpg",
+            "50": "https://zenodo.org/api/iiif/record:18710369:05Rajar.pdf/full/%5E50,/0/default.jpg",
+            "100": "https://zenodo.org/api/iiif/record:18710369:05Rajar.pdf/full/%5E100,/0/default.jpg",
+            "250": "https://zenodo.org/api/iiif/record:18710369:05Rajar.pdf/full/%5E250,/0/default.jpg",
+            "750": "https://zenodo.org/api/iiif/record:18710369:05Rajar.pdf/full/%5E750,/0/default.jpg",
+            "1200": "https://zenodo.org/api/iiif/record:18710369:05Rajar.pdf/full/%5E1200,/0/default.jpg"
+          },
+          "archive": "https://zenodo.org/api/records/18710369/files-archive",
+          "archive_media": "https://zenodo.org/api/records/18710369/media-files-archive",
+          "latest": "https://zenodo.org/api/records/18710369/versions/latest",
+          "latest_html": "https://zenodo.org/records/18710369/latest",
+          "versions": "https://zenodo.org/api/records/18710369/versions",
+          "draft": "https://zenodo.org/api/records/18710369/draft",
+          "access_links": "https://zenodo.org/api/records/18710369/access/links",
+          "access_grants": "https://zenodo.org/api/records/18710369/access/grants",
+          "access_users": "https://zenodo.org/api/records/18710369/access/users",
+          "access_request": "https://zenodo.org/api/records/18710369/access/request",
+          "access": "https://zenodo.org/api/records/18710369/access",
+          "communities": "https://zenodo.org/api/records/18710369/communities",
+          "communities-suggestions": "https://zenodo.org/api/records/18710369/communities-suggestions",
+          "request_deletion": "https://zenodo.org/api/records/18710369/request-deletion",
+          "file_modification": "https://zenodo.org/api/records/18710369/file-modification",
+          "quota_increase": "https://zenodo.org/api/records/18710369/quota-increase",
+          "requests": "https://zenodo.org/api/records/18710369/requests"
+        },
+        "updated": "2026-02-20T09:22:01.267178+00:00",
+        "recid": "18710369",
+        "revision": 4,
+        "files": [
+          {
+            "id": "cae19765-6537-4dce-a81b-be010c1628f4",
+            "key": "05Rajar.pdf",
+            "size": 452389,
+            "checksum": "md5:851729d35a626af3f807f2f1ca4e806d",
+            "links": {
+              "self": "https://zenodo.org/api/records/18710369/files/05Rajar.pdf/content"
+            }
+          }
+        ],
+        "swh": null,
+        "owners": [
+          {
+            "id": "194590"
+          }
+        ],
+        "status": "published",
+        "stats": {
+          "downloads": 35,
+          "unique_downloads": 31,
+          "views": 34,
+          "unique_views": 33,
+          "version_downloads": 35,
+          "version_unique_downloads": 31,
+          "version_unique_views": 33,
+          "version_views": 34
+        },
+        "state": "done",
+        "submitted": true
+      },
+      {
+        "created": "2026-01-31T22:21:50.614439+00:00",
+        "modified": "2026-01-31T22:21:50.858719+00:00",
+        "id": 18445474,
+        "conceptrecid": "18445473",
+        "doi": "10.5281/zenodo.18445474",
+        "conceptdoi": "10.5281/zenodo.18445473",
+        "doi_url": "https://doi.org/10.5281/zenodo.18445474",
+        "metadata": {
+          "title": "Superposed Topology - a formulation of Quantum Discrete Morse Theory",
+          "doi": "10.5281/zenodo.18445474",
+          "publication_date": "2026-01-31",
+          "description": "<p>Discrete Morse theory compresses a finite cell complex by cancelling matched cells and produces a smaller complex that is homotopy equivalent to the original. Classical reductions are selection-based. A matching is chosen and cancellation follows, so any attempt to place matchings into superposition collapses coherence at readout. This paper introduces a coherent analogue by defining an admissible superposed gradient as a graded operator acting on a Hilbert chain complex, together with a contraction identity and a finiteness condition that makes all reductions algebraic. A critical projector defines quantum Morse numbers as critical subspace dimensions in each degree and yields a reduced differential whose homology agrees with the original. The resulting quantum Morse inequalities bound Betti numbers by quantum Morse numbers and reduce to the classical Morse inequalities when the gradient encodes a deterministic matching. A key distinction from probabilistic mixing is that coherent superpositions produce interference terms inside the critical projector, so phase can change critical statistics while leaving homology invariant.</p>",
+          "access_right": "open",
+          "creators": [
+            {
+              "name": "Ashrafian, Hutan",
+              "affiliation": null,
+              "orcid": "0000-0003-1668-0672"
+            }
+          ],
+          "keywords": [
+            "discrete Morse theory",
+            "algebraic discrete Morse theory",
+            "chain contraction",
+            "finite chain complexes",
+            "simplicial complexes",
+            "Hilbert chain complexes"
+          ],
+          "resource_type": {
+            "title": "Preprint",
+            "type": "publication",
+            "subtype": "preprint"
+          },
+          "license": {
+            "id": "cc-by-nc-nd-4.0"
+          },
+          "relations": {
+            "version": [
+              {
+                "index": 0,
+                "is_last": true,
+                "parent": {
+                  "pid_type": "recid",
+                  "pid_value": "18445473"
+                }
+              }
+            ]
+          }
+        },
+        "title": "Superposed Topology - a formulation of Quantum Discrete Morse Theory",
+        "links": {
+          "self": "https://zenodo.org/api/records/18445474",
+          "self_html": "https://zenodo.org/records/18445474",
+          "preview_html": "https://zenodo.org/records/18445474?preview=1",
+          "doi": "https://doi.org/10.5281/zenodo.18445474",
+          "self_doi": "https://doi.org/10.5281/zenodo.18445474",
+          "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.18445474",
+          "reserve_doi": "https://zenodo.org/api/records/18445474/draft/pids/doi",
+          "parent": "https://zenodo.org/api/records/18445473",
+          "parent_html": "https://zenodo.org/records/18445473",
+          "parent_doi": "https://doi.org/10.5281/zenodo.18445473",
+          "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.18445473",
+          "self_iiif_manifest": "https://zenodo.org/api/iiif/record:18445474/manifest",
+          "self_iiif_sequence": "https://zenodo.org/api/iiif/record:18445474/sequence/default",
+          "files": "https://zenodo.org/api/records/18445474/files",
+          "media_files": "https://zenodo.org/api/records/18445474/media-files",
+          "thumbnails": {
+            "10": "https://zenodo.org/api/iiif/record:18445474:Ashrafian_2026_DMT.pdf/full/%5E10,/0/default.jpg",
+            "50": "https://zenodo.org/api/iiif/record:18445474:Ashrafian_2026_DMT.pdf/full/%5E50,/0/default.jpg",
+            "100": "https://zenodo.org/api/iiif/record:18445474:Ashrafian_2026_DMT.pdf/full/%5E100,/0/default.jpg",
+            "250": "https://zenodo.org/api/iiif/record:18445474:Ashrafian_2026_DMT.pdf/full/%5E250,/0/default.jpg",
+            "750": "https://zenodo.org/api/iiif/record:18445474:Ashrafian_2026_DMT.pdf/full/%5E750,/0/default.jpg",
+            "1200": "https://zenodo.org/api/iiif/record:18445474:Ashrafian_2026_DMT.pdf/full/%5E1200,/0/default.jpg"
+          },
+          "archive": "https://zenodo.org/api/records/18445474/files-archive",
+          "archive_media": "https://zenodo.org/api/records/18445474/media-files-archive",
+          "latest": "https://zenodo.org/api/records/18445474/versions/latest",
+          "latest_html": "https://zenodo.org/records/18445474/latest",
+          "versions": "https://zenodo.org/api/records/18445474/versions",
+          "draft": "https://zenodo.org/api/records/18445474/draft",
+          "access_links": "https://zenodo.org/api/records/18445474/access/links",
+          "access_grants": "https://zenodo.org/api/records/18445474/access/grants",
+          "access_users": "https://zenodo.org/api/records/18445474/access/users",
+          "access_request": "https://zenodo.org/api/records/18445474/access/request",
+          "access": "https://zenodo.org/api/records/18445474/access",
+          "communities": "https://zenodo.org/api/records/18445474/communities",
+          "communities-suggestions": "https://zenodo.org/api/records/18445474/communities-suggestions",
+          "request_deletion": "https://zenodo.org/api/records/18445474/request-deletion",
+          "file_modification": "https://zenodo.org/api/records/18445474/file-modification",
+          "quota_increase": "https://zenodo.org/api/records/18445474/quota-increase",
+          "requests": "https://zenodo.org/api/records/18445474/requests"
+        },
+        "updated": "2026-01-31T22:21:50.858719+00:00",
+        "recid": "18445474",
+        "revision": 4,
+        "files": [
+          {
+            "id": "b2829d16-9f10-446e-b194-416fc0b06145",
+            "key": "Ashrafian_2026_DMT.pdf",
+            "size": 368896,
+            "checksum": "md5:77746ac6f83f20604b5cfcf1969181c3",
+            "links": {
+              "self": "https://zenodo.org/api/records/18445474/files/Ashrafian_2026_DMT.pdf/content"
+            }
+          }
+        ],
+        "swh": null,
+        "owners": [
+          {
+            "id": "1531521"
+          }
+        ],
+        "status": "published",
+        "stats": {
+          "downloads": 24,
+          "unique_downloads": 21,
+          "views": 33,
+          "unique_views": 32,
+          "version_downloads": 24,
+          "version_unique_downloads": 21,
+          "version_unique_views": 32,
+          "version_views": 33
+        },
+        "state": "done",
+        "submitted": true
+      }
+    ],
+    "total": 381035
+  },
+  "aggregations": {
+    "publication_date": {
+      "buckets": [
+        {
+          "key": "2000",
+          "doc_count": 651,
+          "label": "2000",
+          "is_selected": false
+        },
+        {
+          "key": "2001",
+          "doc_count": 500,
+          "label": "2001",
+          "is_selected": false
+        },
+        {
+          "key": "2002",
+          "doc_count": 628,
+          "label": "2002",
+          "is_selected": false
+        },
+        {
+          "key": "2003",
+          "doc_count": 1291,
+          "label": "2003",
+          "is_selected": false
+        },
+        {
+          "key": "2004",
+          "doc_count": 1181,
+          "label": "2004",
+          "is_selected": false
+        },
+        {
+          "key": "2005",
+          "doc_count": 1552,
+          "label": "2005",
+          "is_selected": false
+        },
+        {
+          "key": "2006",
+          "doc_count": 1861,
+          "label": "2006",
+          "is_selected": false
+        },
+        {
+          "key": "2007",
+          "doc_count": 3123,
+          "label": "2007",
+          "is_selected": false
+        },
+        {
+          "key": "2008",
+          "doc_count": 3200,
+          "label": "2008",
+          "is_selected": false
+        },
+        {
+          "key": "2009",
+          "doc_count": 4148,
+          "label": "2009",
+          "is_selected": false
+        },
+        {
+          "key": "2010",
+          "doc_count": 4198,
+          "label": "2010",
+          "is_selected": false
+        },
+        {
+          "key": "2011",
+          "doc_count": 5038,
+          "label": "2011",
+          "is_selected": false
+        },
+        {
+          "key": "2012",
+          "doc_count": 5439,
+          "label": "2012",
+          "is_selected": false
+        },
+        {
+          "key": "2013",
+          "doc_count": 6581,
+          "label": "2013",
+          "is_selected": false
+        },
+        {
+          "key": "2014",
+          "doc_count": 7974,
+          "label": "2014",
+          "is_selected": false
+        },
+        {
+          "key": "2015",
+          "doc_count": 8353,
+          "label": "2015",
+          "is_selected": false
+        },
+        {
+          "key": "2016",
+          "doc_count": 9289,
+          "label": "2016",
+          "is_selected": false
+        },
+        {
+          "key": "2017",
+          "doc_count": 10141,
+          "label": "2017",
+          "is_selected": false
+        },
+        {
+          "key": "2018",
+          "doc_count": 11361,
+          "label": "2018",
+          "is_selected": false
+        },
+        {
+          "key": "2019",
+          "doc_count": 11902,
+          "label": "2019",
+          "is_selected": false
+        },
+        {
+          "key": "2020",
+          "doc_count": 13671,
+          "label": "2020",
+          "is_selected": false
+        },
+        {
+          "key": "2021",
+          "doc_count": 15958,
+          "label": "2021",
+          "is_selected": false
+        },
+        {
+          "key": "2022",
+          "doc_count": 16930,
+          "label": "2022",
+          "is_selected": false
+        },
+        {
+          "key": "2023",
+          "doc_count": 20430,
+          "label": "2023",
+          "is_selected": false
+        },
+        {
+          "key": "2024",
+          "doc_count": 23964,
+          "label": "2024",
+          "is_selected": false
+        },
+        {
+          "key": "2025",
+          "doc_count": 72385,
+          "label": "2025",
+          "is_selected": false
+        },
+        {
+          "key": "2026",
+          "doc_count": 113535,
+          "label": "2026",
+          "is_selected": false
+        }
+      ],
+      "label": "Publication date"
+    },
+    "access_status": {
+      "buckets": [
+        {
+          "key": "open",
+          "doc_count": 366238,
+          "label": "Open",
+          "is_selected": false
+        },
+        {
+          "key": "restricted",
+          "doc_count": 13878,
+          "label": "Restricted",
+          "is_selected": false
+        },
+        {
+          "key": "embargoed",
+          "doc_count": 919,
+          "label": "Embargoed",
+          "is_selected": false
+        }
+      ],
+      "label": "Access status"
+    },
+    "resource_type": {
+      "buckets": [
+        {
+          "key": "publication",
+          "doc_count": 322575,
+          "label": "Publication",
+          "is_selected": false,
+          "inner": {
+            "buckets": [
+              {
+                "key": "publication-article",
+                "doc_count": 100039,
+                "label": "Journal article",
+                "is_selected": false
+              },
+              {
+                "key": "publication-taxonomictreatment",
+                "doc_count": 84098,
+                "label": "Taxonomic treatment",
+                "is_selected": false
+              },
+              {
+                "key": "publication-preprint",
+                "doc_count": 71573,
+                "label": "Preprint",
+                "is_selected": false
+              },
+              {
+                "key": "publication-conferencepaper",
+                "doc_count": 7586,
+                "label": "Conference paper",
+                "is_selected": false
+              },
+              {
+                "key": "publication-book",
+                "doc_count": 5575,
+                "label": "Book",
+                "is_selected": false
+              },
+              {
+                "key": "publication-workingpaper",
+                "doc_count": 5230,
+                "label": "Working paper",
+                "is_selected": false
+              },
+              {
+                "key": "publication-report",
+                "doc_count": 5194,
+                "label": "Report",
+                "is_selected": false
+              },
+              {
+                "key": "publication-dissertation",
+                "doc_count": 4249,
+                "label": "Thesis",
+                "is_selected": false
+              },
+              {
+                "key": "publication-journal",
+                "doc_count": 2783,
+                "label": "Journal",
+                "is_selected": false
+              },
+              {
+                "key": "publication-section",
+                "doc_count": 2644,
+                "label": "Book chapter",
+                "is_selected": false
+              }
+            ]
+          }
+        },
+        {
+          "key": "dataset",
+          "doc_count": 22910,
+          "label": "Dataset",
+          "is_selected": false,
+          "inner": {
+            "buckets": []
+          }
+        },
+        {
+          "key": "image",
+          "doc_count": 19337,
+          "label": "Image",
+          "is_selected": false,
+          "inner": {
+            "buckets": [
+              {
+                "key": "image-figure",
+                "doc_count": 18603,
+                "label": "Figure",
+                "is_selected": false
+              },
+              {
+                "key": "image-diagram",
+                "doc_count": 117,
+                "label": "Diagram",
+                "is_selected": false
+              },
+              {
+                "key": "image-other",
+                "doc_count": 63,
+                "label": "Other",
+                "is_selected": false
+              },
+              {
+                "key": "image-photo",
+                "doc_count": 62,
+                "label": "Photo",
+                "is_selected": false
+              },
+              {
+                "key": "image-plot",
+                "doc_count": 23,
+                "label": "Plot",
+                "is_selected": false
+              },
+              {
+                "key": "image-drawing",
+                "doc_count": 19,
+                "label": "Drawing",
+                "is_selected": false
+              }
+            ]
+          }
+        },
+        {
+          "key": "software",
+          "doc_count": 7096,
+          "label": "Software",
+          "is_selected": false,
+          "inner": {
+            "buckets": [
+              {
+                "key": "software-computationalnotebook",
+                "doc_count": 331,
+                "label": "Computational notebook",
+                "is_selected": false
+              }
+            ]
+          }
+        },
+        {
+          "key": "other",
+          "doc_count": 2694,
+          "label": "Other",
+          "is_selected": false,
+          "inner": {
+            "buckets": []
+          }
+        },
+        {
+          "key": "presentation",
+          "doc_count": 2660,
+          "label": "Presentation",
+          "is_selected": false,
+          "inner": {
+            "buckets": []
+          }
+        },
+        {
+          "key": "poster",
+          "doc_count": 1037,
+          "label": "Poster",
+          "is_selected": false,
+          "inner": {
+            "buckets": []
+          }
+        },
+        {
+          "key": "model",
+          "doc_count": 1025,
+          "label": "Model",
+          "is_selected": false,
+          "inner": {
+            "buckets": []
+          }
+        },
+        {
+          "key": "lesson",
+          "doc_count": 693,
+          "label": "Lesson",
+          "is_selected": false,
+          "inner": {
+            "buckets": []
+          }
+        },
+        {
+          "key": "event",
+          "doc_count": 392,
+          "label": "Event",
+          "is_selected": false,
+          "inner": {
+            "buckets": []
+          }
+        }
+      ],
+      "label": "Resource types"
+    },
+    "subject": {
+      "buckets": [
+        {
+          "key": "Biodiversity",
+          "doc_count": 109772,
+          "label": "Biodiversity",
+          "is_selected": false
+        },
+        {
+          "key": "Taxonomy",
+          "doc_count": 107948,
+          "label": "Taxonomy",
+          "is_selected": false
+        },
+        {
+          "key": "Animalia",
+          "doc_count": 85333,
+          "label": "Animalia",
+          "is_selected": false
+        },
+        {
+          "key": "Arthropoda",
+          "doc_count": 58887,
+          "label": "Arthropoda",
+          "is_selected": false
+        },
+        {
+          "key": "Insecta",
+          "doc_count": 39888,
+          "label": "Insecta",
+          "is_selected": false
+        },
+        {
+          "key": "Hymenoptera",
+          "doc_count": 15037,
+          "label": "Hymenoptera",
+          "is_selected": false
+        },
+        {
+          "key": "Chordata",
+          "doc_count": 11459,
+          "label": "Chordata",
+          "is_selected": false
+        },
+        {
+          "key": "Coleoptera",
+          "doc_count": 11225,
+          "label": "Coleoptera",
+          "is_selected": false
+        },
+        {
+          "key": "Arachnida",
+          "doc_count": 8198,
+          "label": "Arachnida",
+          "is_selected": false
+        },
+        {
+          "key": "Malacostraca",
+          "doc_count": 6102,
+          "label": "Malacostraca",
+          "is_selected": false
+        }
+      ],
+      "label": "Subjects"
+    },
+    "file_type": {
+      "buckets": [
+        {
+          "key": "pdf",
+          "doc_count": 224085,
+          "label": "PDF",
+          "is_selected": false
+        },
+        {
+          "key": "html",
+          "doc_count": 89259,
+          "label": "HTML",
+          "is_selected": false
+        },
+        {
+          "key": "png",
+          "doc_count": 19713,
+          "label": "PNG",
+          "is_selected": false
+        },
+        {
+          "key": "zip",
+          "doc_count": 16162,
+          "label": "ZIP",
+          "is_selected": false
+        },
+        {
+          "key": "docx",
+          "doc_count": 9894,
+          "label": "DOCX",
+          "is_selected": false
+        },
+        {
+          "key": "txt",
+          "doc_count": 7613,
+          "label": "TXT",
+          "is_selected": false
+        },
+        {
+          "key": "jpg",
+          "doc_count": 5424,
+          "label": "JPG",
+          "is_selected": false
+        },
+        {
+          "key": "md",
+          "doc_count": 5312,
+          "label": "MD",
+          "is_selected": false
+        },
+        {
+          "key": "tex",
+          "doc_count": 4369,
+          "label": "TEX",
+          "is_selected": false
+        },
+        {
+          "key": "csv",
+          "doc_count": 4000,
+          "label": "CSV",
+          "is_selected": false
+        }
+      ],
+      "label": "File type"
+    }
+  },
+  "links": {
+    "self": "https://zenodo.org/api/records?page=1&q=prime+numbers+functor+smooth+manifolds+Morse+theory&size=5&sort=bestmatch",
+    "next": "https://zenodo.org/api/records?page=2&q=prime+numbers+functor+smooth+manifolds+Morse+theory&size=5&sort=bestmatch"
+  }
+}
