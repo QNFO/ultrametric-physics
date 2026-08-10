@@ -3,7 +3,7 @@
 **DOI:** 10.5281/zenodo.21827737 (v0.4, published 2026-08-06)
 **ERRATA version:** v1.0
 **Date:** 2026-08-10
-**STATUS:** PUBLISHED — corrected in v0.6 (DOI 10.5281/zenodo.21879021), preceding metadata update v0.5 (DOI 10.5281/zenodo.21878856)
+**STATUS:** PUBLISHED — corrected in v0.6.1 (DOI 10.5281/zenodo.21879117). Version chain: v0.4 (21827737) → v0.5 (21878856, metadata update) → v0.6 (21879110, corrected body, self-DOI stale) → v0.6.1 (21879117, canonical, self-DOI correct). The deposit-API v0.6 (21879021, detached concept) is superseded.
 
 ---
 
