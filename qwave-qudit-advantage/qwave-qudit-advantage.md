@@ -1,9 +1,9 @@
 ---
 title: "The Qudit Advantage: System-Level Joules-per-Solution Comparison of a Qudit Architecture Against 17 Conventional Qubit Quantum Computing Platforms"
 author: "Rowan Brad Quni-Gudzinas"
-date: "2026-08-06"
+date: "2026-08-10"
 license: "QNFO Unified License Agreement (QNFO-ULA)"
-doi: "10.5281/zenodo.21827737"
+doi: "10.5281/zenodo.21878856"
 status: "published"
 keywords:
   - JPCUB
@@ -17,48 +17,45 @@ keywords:
   - ultrametric QEC
   - hierarchical decoding
 abstract: >
-  The JPCUB Competitive Landscape v2.0 benchmarked 17 qubit-based quantum computing platforms
-  across a single system-level energy-efficiency metric: joules per solution (J/sol). All 17
-  platforms use two-level quantum systems (qubits). This paper extends the JPCUB framework to
-  qudit architectures — $d$-level quantum systems — and computes a joules-per-solution estimate
-  for a qudit platform whose error-correction model is based on $p$-adic stabilizer codes on
-  Bruhat–Tits trees with hierarchical ultrametric decoding and passive error resilience. Three
-  compounding factors are analyzed: (1) dimensional encoding density, where each physical qudit
-  carries $\log_2 d$ bits versus 1 for a qubit; (2) hierarchical decoding complexity, which is
-  sub-exponential in tree depth versus polynomial for planar surface-code decoders; and (3) passive
-  error resilience, which eliminates the ancilla overhead and cryogenic cooling energy of active
-  quantum error correction. Under conservative assumptions, the qudit platform is projected to
-  achieve a JPCUB value below $10^{-2}$ joules per solution, surpassing the 2026 superconducting-qubit
-  floor of $0.05$ J/sol by at least one order of magnitude. The dominant uncertainty is the
-  dimensional-advantage crossover parameter $d^*$, the minimum qudit dimension at which the
-  encoding-density benefit overcomes the per-gate fidelity penalty. The paper provides an explicit
-  disconfirmation condition — if a physical qudit platform with $d = 3$ or greater, under
-  adversarial validation per the JPCUB P0 protocol, yields a measured joules-per-solution above
-  $0.05$ J/sol, the claimed qudit advantage is falsified — and pre-registers three frontier
-  questions for independent investigation.
+  Prior work benchmarked 17 qubit-based quantum computing platforms across the joules-per-solution (JPCUB)
+  energy-efficiency metric. All 17 platforms use two-level quantum systems (qubits). This paper extends the
+  JPCUB framework to qudit architectures — d-level quantum systems — and computes a joules-per-solution
+  estimate for a qudit platform whose error-correction model is based on p-adic stabilizer codes on Bruhat-Tits
+  trees with hierarchical ultrametric decoding and passive error resilience. Three compounding factors are
+  analyzed: (1) dimensional encoding density, where each physical qudit carries log_2(d) bits versus 1 for a
+  qubit; (2) hierarchical decoding complexity, which is sub-exponential in tree depth versus polynomial for
+  planar surface-code decoders; and (3) passive error resilience, which eliminates the ancilla overhead and
+  cryogenic cooling energy of active quantum error correction. Under the model assumptions, the qudit platform
+  is projected to achieve a JPCUB value below 10^{-2} joules per solution, surpassing the 2026 superconducting-qubit
+  floor of 0.05 J/sol. Important caveat: this estimate depends on the JPCUB framework, which has not been
+  externally validated. Until the JPCUB metric receives independent review and replication, the claimed qudit
+  advantage is a hypothesis for investigation, not a demonstrated result. The paper provides an explicit
+  disconfirmation condition — if a physical qudit platform with d >= 3, under independent adversarial validation,
+  yields a measured joules-per-solution above 0.05 J/sol, the claimed qudit advantage is falsified — and
+  pre-registers three frontier questions for independent investigation.
 ---
 
 ## 1 Introduction
 
-The joules-per-solution (JPCUB) framework [@C5_jpcub_p0] introduced a system-level energy-efficiency metric for quantum computing platforms: $J_{\text{CUB}} = P_{\text{sys}} \cdot t_{\text{sol}}$, where $P_{\text{sys}}$ is total system power consumption and $t_{\text{sol}}$ is the time to produce one verified solution. The companion JPCUB Competitive Landscape v2.0 [@C6_jpcub_landscape_v2] applied this metric to 17 quantum computing platforms whose specifications were extracted from published sources: 13 gate-model platforms (7 superconducting, 4 trapped-ion, 2 neutral-atom), 2 quantum annealers, 1 photonic platform, and 1 pre-commercial design target. Every platform in that landscape uses two-level quantum systems — qubits — with a Hilbert space of $\mathbb{C}^2$ per physical carrier.
+The joules-per-solution (JPCUB) metric, introduced in prior work by the author (see Section 2.1 for the complete framework definition), measures system-level energy efficiency as $J_{\text{CUB}} = P_{\text{sys}} \cdot t_{\text{sol}}$, where $P_{\text{sys}}$ is total system power consumption and $t_{\text{sol}}$ is the time to produce one verified solution. A companion competitive landscape comparison, also in prior work, applied this metric to 17 quantum computing platforms whose specifications were extracted from published sources: 13 gate-model platforms (7 superconducting, 4 trapped-ion, 2 neutral-atom), 2 quantum annealers, 1 photonic platform, and 1 pre-commercial design target. Every platform in that landscape uses two-level quantum systems — qubits — with a Hilbert space of $\mathbb{C}^2$ per physical carrier.
 
 A separate line of research, extending back to Shannon's foundational work on communication theory [@B1_shannon1948], establishes a structural invariant: an alphabet of $d$ symbols carries $\log_2 d$ bits of information per symbol. In the specific case $d = 2$, this yields 1 bit per symbol — the qubit is, in information-theoretic terms, the *least* information-dense carrier possible. Quantum systems with $d > 2$ levels — qudits — have been studied extensively in the theoretical literature [@C1_wang2020; @C3_low2024] and demonstrated experimentally in trapped-ion [@C2_ringbauer2022], photonic [@S6_chi2022], and superconducting [@S3_fischer2023] platforms. Yet no existing qudit platform has been benchmarked within the JPCUB framework, and no energy-efficiency comparison between qudit and qubit architectures has been published.
 
-This paper fills that gap. It models a qudit platform within the JPCUB framework and compares the resulting joules-per-solution estimate against the 17 qubit platforms from the JPCUB Landscape v2.0. The qudit platform is not a specific commercial implementation; rather, it is a theoretical architecture whose defining features are: (1) $p$-adic stabilizer codes on a Bruhat–Tits tree, (2) hierarchical ultrametric decoding, and (3) passive error resilience through ultrametric geometry. The motivation for this particular architecture is discussed in Section 2.
+This paper fills that gap. It models a qudit platform within the JPCUB framework and compares the resulting joules-per-solution estimate against the 17 qubit platforms from the prior competitive landscape comparison. The qudit platform is not a specific commercial implementation; rather, it is a theoretical architecture whose defining features are: (1) $p$-adic stabilizer codes on a Bruhat–Tits tree, (2) hierarchical ultrametric decoding, and (3) passive error resilience through ultrametric geometry. The motivation for this particular architecture is discussed in Section 2.
 
-[PHILOSOPHY] The broader question is whether quantum computing's 80-year default to $d = 2$ — from the earliest formulations of the qubit as the computational unit through the dominance of surface-code quantum error correction [@B5_kitaev2003] — reflects a physical constraint or a historical contingency. The consilience evidence assembled here argues for the latter: multiple independent disciplines (information theory, computer science, number theory, and $p$-adic geometry) each discovered the structural advantages of higher-dimensional carriers, but quantum computing never integrated those insights at the architectural level. This paper is a first step toward that integration.
+The broader question is whether quantum computing's 80-year default to $d = 2$ — from the earliest formulations of the qubit as the computational unit through the dominance of surface-code quantum error correction [@B5_kitaev2003] — reflects a physical constraint or a historical contingency. The consilience evidence assembled here argues for the latter: multiple independent disciplines (information theory, computer science, number theory, and $p$-adic geometry) each discovered the structural advantages of higher-dimensional carriers, but quantum computing never integrated those insights at the architectural level. This paper is a first step toward that integration.
 
 ### 1.1 Research Question
 
-**Primary:** What is the joules-per-solution (JPCUB) estimate for a qudit architecture using $p$-adic stabilizer codes on a Bruhat–Tits tree, and how does it compare to the 17 conventional qubit platforms benchmarked in the JPCUB Competitive Landscape v2.0?
+**Primary:** What is the joules-per-solution (JPCUB) estimate for a qudit architecture using $p$-adic stabilizer codes on a Bruhat–Tits tree, and how does it compare to the 17 conventional qubit platforms benchmarked in the prior competitive landscape comparison?
 
 **Secondary:** Which structural features of qudit computation — dimensional encoding density, hierarchical decoding complexity, and passive error resilience — account for any observed advantage over qubit platforms?
 
-### 1.2 Core Claim [speculative]
+### 1.2 Core Claim
 
-The qudit architecture achieves a joules-per-solution advantage of at least one order of magnitude over the best 2026 qubit platform through three compounding factors: (1) dimensional encoding density ($\log_2 d$ bits per physical carrier vs. 1 for a qubit), (2) ultrametric hierarchical decoding with sub-exponential complexity, and (3) passive error resilience that eliminates ancilla overhead and cryogenic cooling energy.
+The qudit architecture may achieve a joules-per-solution advantage of at least one order of magnitude over the best 2026 qubit platform through three compounding factors: (1) dimensional encoding density ($\log_2 d$ bits per physical carrier vs. 1 for a qubit), (2) ultrametric hierarchical decoding with sub-exponential complexity, and (3) passive error resilience that eliminates ancilla overhead and cryogenic cooling energy. This is a theoretical projection; none of the three factors has been validated experimentally in a qudit architecture.
 
-**Disconfirmation:** If a physical qudit platform with $d \geq 3$, subjected to the JPCUB P0 adversarial validation protocol, yields a measured joules-per-solution above $0.05$ J/sol (the 2026 superconducting-qubit floor), the claimed advantage is falsified. This condition is pre-registered in the Calibration Register (Section 5.3).
+**Disconfirmation:** If a physical qudit platform with $d \geq 3$, subjected to independent adversarial validation, yields a measured joules-per-solution above $0.05$ J/sol (the 2026 superconducting-qubit floor), the claimed advantage is falsified. This condition is pre-registered in Section 5.
 
 ---
 
@@ -66,11 +63,11 @@ The qudit architecture achieves a joules-per-solution advantage of at least one 
 
 ### 2.1 JPCUB Framework
 
-The JPCUB metric is defined as [@C5_jpcub_p0]:
+The JPCUB (joules per solution) metric, introduced in prior work by the author, is defined as:
 
 $$J_{\text{CUB}} = P_{\text{sys}} \cdot t_{\text{sol}}$$
 
-where $P_{\text{sys}}$ is total system power consumption (in watts, or equivalently joules per second) and $t_{\text{sol}}$ is the time required to produce one verified solution. In dimensionless Planck units ($\hbar = c = G = k_B = 1$), both quantities are pure numbers, and the JPCUB value is dimensionless. The JPCUB Landscape v2.0 reported the following values for the 17 qubit platforms [@C6_jpcub_landscape_v2]:
+where $P_{\text{sys}}$ is total system power consumption (in watts, or equivalently joules per second) and $t_{\text{sol}}$ is the time required to produce one verified solution. In dimensionless Planck units ($\hbar = c = G = k_B = 1$), both quantities are pure numbers, and the JPCUB value is dimensionless. The prior competitive landscape comparison reported the following values for the 17 qubit platforms, reproduced here for convenience:
 
 | Platform Family | JPCUB Range (J/sol) | Key Determinant |
 |:----------------|:--------------------|:----------------|
@@ -81,6 +78,8 @@ where $P_{\text{sys}}$ is total system power consumption (in watts, or equivalen
 | Photonic | $2.1$ | Photon-generation efficiency |
 
 The dominant factor across all families is gate speed — the time per operation determines $t_{\text{sol}}$ more strongly than the power consumption per gate.
+
+**Important caveat:** The JPCUB framework has zero external citations or independent validations as of 2026-08-10. All comparisons and numerical estimates in this paper inherit the framework's unvalidated status. The reported qudit advantage should be interpreted as an internal model estimate, not an independently verified result.
 
 ### 2.2 Qudit Encoding Density
 
@@ -102,7 +101,7 @@ $$d_p(x, y) = p^{-v_p(x - y)}$$
 
 where $v_p$ is the $p$-adic valuation, hierarchically separates error clusters by valuation depth. Decoding on this tree is a natural hierarchical traversal — structurally identical to a radix trie [@B3_fredkin1960] — with complexity $\mathcal{O}(\log_p N)$ per logical operation, a sub-exponential improvement over planar-lattice decoders.
 
-Furthermore, the ultrametric geometry provides passive error resilience: errors at different valuation depths are exponentially separated by the metric, reducing the need for active syndrome extraction and ancilla qubits. The environment naturally selects error clusters that are localized in the ultrametric hierarchy, and the tree structure passively separates them [speculative].
+Furthermore, the ultrametric geometry provides passive error resilience: errors at different valuation depths are exponentially separated by the metric, reducing the need for active syndrome extraction and ancilla qubits. This is a theoretical conjecture — no experimental fault-tolerance threshold has been computed for a Bruhat–Tits tree QEC code, and the passive resilience mechanism requires explicit physical modeling beyond the scope of this paper. It is included here as an open research premise driving the decoder energy advantage estimate in Section 3.3.
 
 ---
 
@@ -122,7 +121,7 @@ where:
 - $P_{\text{cool}}$: cooling power (0 at room temperature, dominant at cryogenic)
 - $t_{\text{sol}}$: time to produce one verified logical solution
 
-The qubit-equivalent JPCUB (from the Landscape v2.0) has the same form, with $N_{\text{phys}}$ replaced by the qubit physical carrier count and $P_{\text{cool}}$ set by the cryogenic overhead (typically $300$–$500$ W per dilution refrigerator for superconducting platforms).
+The qubit-equivalent JPCUB (from the prior landscape comparison) has the same form, with $N_{\text{phys}}$ replaced by the qubit physical carrier count and $P_{\text{cool}}$ set by the cryogenic overhead (typically $300$–$500$ W per dilution refrigerator for superconducting platforms).
 
 ### 3.2 Dimensional Advantage
 
@@ -144,7 +143,7 @@ The hierarchical decoder on the Bruhat–Tits tree operates at complexity $\math
 
 $$\frac{P_{\text{decode}}^{\text{qudit}}}{P_{\text{decode}}^{\text{qubit}}} \approx \frac{\log_p N}{N^2 \log N} \cdot \frac{E_{\text{op}}}{E_{\text{op}}}$$
 
-where $E_{\text{op}}$ is the energy per decoding operation. For $N = 10^3$ (code distance $\sim 30$), this ratio is approximately $10^{-5}$ — the qudit decoder is effectively "free" compared to the qubit decoder. For the JPCUB model, we set $P_{\text{decode}}^{\text{qudit}} \approx 0$ as a conservative upper bound [speculative — decoder implementation energy not yet measured].
+where $E_{\text{op}}$ is the energy per decoding operation. For $N = 10^3$ (code distance $\sim 30$), this ratio is approximately $10^{-5}$ — the qudit decoder operation count is negligible compared to the qubit decoder. For the JPCUB model, we set $P_{\text{decode}}^{\text{qudit}} \approx 0$ as a lower bound (optimistic estimate) — actual decoder implementation energy will increase the JPCUB value above the estimate reported here. The decoder implementation energy has not yet been measured for any Bruhat–Tits tree architecture.
 
 ### 3.4 Cooling Advantage
 
@@ -160,15 +159,15 @@ However, this ratio does *not* directly translate to a JPCUB advantage — the L
 
 ### 3.5 JPCUB Estimate
 
-Assembling the model with conservative parameters:
+Assembling the model with optimistic parameters:
 
 | Parameter | Qudit Value | Qubit Value (Superconducting) | Source |
 |:----------|:------------|:------------------------------|:-------|
 | $N_{\text{phys}}$ (per logical qubit) | $10 / \log_2 d$ | $\sim 10^3$ | [@B5_kitaev2003]; qudit: ultrametric decoder overhead |
 | $P_{\text{phys}}$ per carrier | $10^{-6}$ W | $10^{-9}$ W | Estimated from qubit gate energies |
 | $P_{\text{cool}}$ | 0 (room-temp) | $300$ W (cryogenic) | Published dilution-refrigerator specifications |
-| $P_{\text{decode}}$ | $\approx 0$ | $10$–$100$ W | MWPM decoder power estimates |
-| $t_{\text{gate}}$ | $100$ ns | $30$–$500$ ns | [@C2_ringbauer2022]; [@C6_jpcub_landscape_v2] |
+| $P_{\text{decode}}$ | $\approx 0$ (lower bound) | $10$–$100$ W | MWPM decoder power estimates |
+| $t_{\text{gate}}$ | $100$ ns | $30$–$500$ ns | [@C2_ringbauer2022]; prior competitive landscape |
 | $t_{\text{sol}}$ (for $10^3$ logical ops) | $10^{-4}$ s | $5 \times 10^{-2}$ s | Reduced by $\log_2 d$ factor in gate count |
 
 Plugging in values for $d = 7$ (the experimentally demonstrated trapped-ion qudit dimension [@C2_ringbauer2022]):
@@ -179,7 +178,7 @@ $$t_{\text{sol}}^{\text{qudit}} = 5 \times 10^{-2} / 2.807 \approx 1.78 \times 1
 
 $$J_{\text{CUB}}^{\text{qudit}} = 5.3 \times 10^{-4} \cdot 1.78 \times 10^{-2} \approx 9.4 \times 10^{-6} \text{ J/sol} \approx 10^{-5} \text{ J/sol}$$
 
-[speculative — this is a theoretical upper bound; no physical qudit platform at this scale has been measured]
+This is a theoretical estimate. No physical qudit platform at this scale has been measured. The JPCUB result depends on the unvalidated JPCUB framework and should not be interpreted as a demonstrated finding.
 
 ### 3.6 Comparison Against the Qubit Landscape
 
@@ -188,11 +187,11 @@ $$J_{\text{CUB}}^{\text{qudit}} = 5.3 \times 10^{-4} \cdot 1.78 \times 10^{-2} \
 | **Qudit ($d = 7$, BT-tree QEC)** | $\sim 10^{-5}$ | 300 K | $\sim 356$ | This work |
 | **Qudit ($d = 3$, BT-tree QEC)** | $\sim 10^{-4}$ | 300 K | $\sim 632$ | This work |
 | *Qubit Landscape v2.0 — best per family:* |
-| Superconducting (best) | $0.05$ | 10 mK | $\sim 10^6$ | [@C6_jpcub_landscape_v2] |
-| Neutral-atom (best) | $0.32$ | 300 K | $\sim 10^3$ | [@C6_jpcub_landscape_v2] |
-| Trapped-ion (best) | $8.5$ | 300 K | $\sim 10^2$ | [@C6_jpcub_landscape_v2] |
+| Superconducting (best) | $0.05$ | 10 mK | $\sim 10^6$ | Prior landscape comparison |
+| Neutral-atom (best) | $0.32$ | 300 K | $\sim 10^3$ | Prior landscape comparison |
+| Trapped-ion (best) | $8.5$ | 300 K | $\sim 10^2$ | Prior landscape comparison |
 
-The qudit platform, under the model assumptions above, achieves a JPCUB value approximately $5 \times 10^3$ times lower than the best superconducting qubit platform. The dominant source of this advantage is the elimination of cryogenic cooling power ($P_{\text{cool}} = 0$ vs. $300$ W) and the reduction in physical carrier count by factor $\log_2 d$.
+The qudit platform, under the model assumptions above, achieves a JPCUB value approximately $5 \times 10^3$ times lower than the best superconducting qubit platform. The dominant source of this advantage is the elimination of cryogenic cooling power ($P_{\text{cool}} = 0$ vs. $300$ W) and the reduction in physical carrier count by factor $\log_2 d$. Note that the JPCUB framework itself has not been externally validated, so all comparative values inherit this limitation.
 
 ### 3.7 Sensitivity Analysis — The $d^*$ Crossover
 
@@ -202,7 +201,7 @@ $$d^* = \min \left\{ d > 2 : J_{\text{CUB}}^{\text{qudit}}(d) < J_{\text{CUB}}^{
 
 Under the model assumptions, $d^* \approx 3$. At $d = 3$ ($I = 1.585$ bits, a $58.5\%$ encoding-density gain), the JPCUB advantage is marginal but positive. At $d \geq 5$, the advantage is robust against both the overhead factor and gate-in fidelity penalties. At $d = 7$ (experimentally demonstrated), the advantage exceeds one order of magnitude.
 
-**Falsification condition:** If a physical qudit platform with $d = 3$, subjected to the JPCUB P0 adversarial protocol, reports $J_{\text{CUB}} > 0.05$ J/sol, the qudit advantage claim is falsified.
+**Falsification condition:** If a physical qudit platform with $d = 3$, subjected to independent adversarial validation, reports $J_{\text{CUB}} > 0.05$ J/sol, the qudit advantage claim is falsified.
 
 ---
 
@@ -226,17 +225,17 @@ The model carries significant uncertainties. The following constraints, identifi
 
 1. **Gate fidelity trade-off.** Qudit gate fidelities are lower than qubit fidelities on the same physical substrate [@C1_wang2020]. The overhead factor $f_{\text{OH}}(d)$ may be larger than modeled if error propagation at $d > 5$ is superlinear. If $f_{\text{OH}}(7) > 10$, the dimensional advantage is entirely neutralized by error-correction overhead.
 
-2. **No room-temperature qudit processor exists.** The trapped-ion qudit processor of Ringbauer et al. [@C2_ringbauer2022] operates under ultra-high vacuum with laser cooling — it is *not* a room-temperature device. The 300 K operation assumed in this model is [speculative] and has not been demonstrated for any qudit platform with the coherence times required for fault-tolerant computation.
+2. **No room-temperature qudit processor exists.** The trapped-ion qudit processor of Ringbauer et al. [@C2_ringbauer2022] operates under ultra-high vacuum with laser cooling — it is *not* a room-temperature device. The 300 K operation assumed in this model has not been demonstrated for any qudit platform with the coherence times required for fault-tolerant computation.
 
-3. **The ultrametric decoder is theoretical.** No experimental fault-tolerance threshold has been computed for a Bruhat–Tits tree QEC code. The decoder complexity $\mathcal{O}(\log_p N)$ is an asymptotic bound; the constant factor and practical code distance may differ significantly. This is the largest unconstrained parameter in the model [speculative].
+3. **The ultrametric decoder is theoretical.** No experimental fault-tolerance threshold has been computed for a Bruhat–Tits tree QEC code. The decoder complexity $\mathcal{O}(\log_p N)$ is an asymptotic bound; the constant factor and practical code distance may differ significantly. This is the largest unconstrained parameter in the model.
 
-4. **JPCUB has no external validation.** The JPCUB framework [@C5_jpcub_p0] has zero external citations or independent validations as of 2026-08-06. The reported qudit advantage inherits the framework's credibility. Adversarial validation per the JPCUB P0 protocol is invited.
+4. **JPCUB framework has no external validation.** The JPCUB framework has zero external citations or independent validations as of 2026-08-10. All numerical comparisons in Sections 3.5–3.7 depend on a metric with no external credibility. Independent adversarial validation is invited.
 
 5. **NISQ-era applicability.** The model assumes a fault-tolerant regime (logical qubits, not physical qudits). For near-term noisy intermediate-scale qudit (NISQ) devices, the encoding-density advantage may be offset by higher per-gate energy at small circuit sizes. The JPCUB estimate here is a *fault-tolerant* projection, not a NISQ-era measurement.
 
 ### 4.3 Consilience — The 78-Year Silo
 
-[PHILOSOPHY] Shannon's source coding theorem [@B1_shannon1948] established that a $d$-ary alphabet carries $\log_2 d$ bits per symbol. For $d = 2$, this is 1 bit — the least efficient choice. For 78 years, quantum computing defaulted to $d = 2$ without recognizing that this choice makes the qubit the *least* information-dense carrier possible in any alphabet. The qudit literature has independently rediscovered this insight [@C1_wang2020; @C3_low2024] without connecting it to Shannon's 1948 result. Meanwhile, computer science developed the radix trie [@B3_fredkin1960] — a data structure whose branching factor is structurally identical to the Bruhat–Tits tree's $p$-adic branching — and never connected it to quantum error correction. The Bruhat–Tits tree itself, developed in the 1960s–1970s for algebraic group theory, was connected to AdS/CFT holography [@S4_heydeman2018] but never to QEC decoders or Shannon theory.
+Shannon's source coding theorem [@B1_shannon1948] established that a $d$-ary alphabet carries $\log_2 d$ bits per symbol. For $d = 2$, this is 1 bit — the least efficient choice. For 78 years, quantum computing defaulted to $d = 2$ without recognizing that this choice makes the qubit the *least* information-dense carrier possible in any alphabet. The qudit literature has independently rediscovered this insight [@C1_wang2020; @C3_low2024] without connecting it to Shannon's 1948 result. Meanwhile, computer science developed the radix trie [@B3_fredkin1960] — a data structure whose branching factor is structurally identical to the Bruhat–Tits tree's $p$-adic branching — and never connected it to quantum error correction. The Bruhat–Tits tree itself, developed in the 1960s–1970s for algebraic group theory, was connected to AdS/CFT holography [@S4_heydeman2018] but never to QEC decoders or Shannon theory.
 
 This paper is the first to place all four discoveries — Shannon's $\log_2 d$, Fredkin's trie, Bruhat–Tits trees, and qudit encoding — on a single energy-efficiency axis using the JPCUB metric. The synthesis suggests that quantum computing's qubit default is a historical accident, not a physical necessity.
 
@@ -246,11 +245,13 @@ This paper is the first to place all four discoveries — Shannon's $\log_2 d$, 
 
 ### 5.1 Pre-Registered Predictions
 
-| ID | Prediction | Test Window | Disconfirmation Condition | Strength |
-|:---|:-----------|:------------|:--------------------------|:---------|
-| P1 | A physical qudit platform with $d = 3$ achieves $J_{\text{CUB}} < 0.05$ J/sol | 2027–2030 | Measured $J_{\text{CUB}} > 0.05$ J/sol under adversarial validation | [speculative] |
-| P2 | A physical qudit platform with $d = 7$ achieves $J_{\text{CUB}} < 10^{-4}$ J/sol | 2028–2032 | Measured $J_{\text{CUB}} > 10^{-4}$ J/sol | [speculative] |
-| P3 | An external group independently computes a JPCUB for a qudit platform and the result is within $10\times$ of this paper's estimate | 2027–2030 | No external JPCUB for any qudit platform published by 2030 | [speculative] |
+| ID | Prediction | Test Window | Disconfirmation Condition |
+|:---|:-----------|:------------|:--------------------------|
+| P1 | A physical qudit platform with $d = 3$ achieves $J_{\text{CUB}} < 0.05$ J/sol | 2027–2030 | Measured $J_{\text{CUB}} > 0.05$ J/sol under adversarial validation |
+| P2 | A physical qudit platform with $d = 7$ achieves $J_{\text{CUB}} < 10^{-4}$ J/sol | 2028–2032 | Measured $J_{\text{CUB}} > 10^{-4}$ J/sol |
+| P3 | An external group independently computes a JPCUB for a qudit platform and the result is within $10\times$ of this paper's estimate | 2027–2030 | No external JPCUB for any qudit platform published by 2030 |
+
+All three predictions are provisional; none has been validated. The JPCUB framework on which they depend has not been externally reviewed.
 
 ### 5.2 Frontier Questions
 
@@ -262,30 +263,25 @@ This paper is the first to place all four discoveries — Shannon's $\log_2 d$, 
 
 ### 5.3 Calibration Register
 
-```
-[CHECK: 2027] This paper's qudit JPCUB estimate survives adversarial validation
-  per JPCUB P0 protocol — independent red-team reproduces the computation.
-Strength: [STRONG] | Status: [PENDING]
+The following calibration checkpoints are pre-registered for independent verification:
 
-[CHECK: 2028] At least one external group computes a JPCUB for a qudit platform
-  (trapped-ion qudit, photonic qudit, or Rydberg qudit) and the result is
-  consistent with this paper's dimensional-advantage prediction.
-Strength: [WEAK] | Status: [PENDING]
+**By 2027:** This paper's qudit JPCUB estimate should survive adversarial validation by an independent red-team that reproduces the computation from the stated parameters. Success means the mathematical model is internally consistent; it does not constitute experimental validation of the qudit advantage.
 
-[CHECK: 2029] A physical qudit processor ($d > 2$) demonstrates a measured
-  joules-per-solution below the 2026 superconducting-qubit floor ($0.05$ J/sol).
-Strength: [STRONG] | Status: [PENDING]
-```
+**By 2028:** At least one external group should compute a JPCUB for a qudit platform (trapped-ion qudit, photonic qudit, or Rydberg qudit) and the result should be consistent with this paper's dimensional-advantage prediction.
+
+**By 2029:** A physical qudit processor ($d > 2$) should demonstrate a measured joules-per-solution below the 2026 superconducting-qubit floor ($0.05$ J/sol). This is the definitive experimental test.
 
 ---
 
 ## 6 Conclusion
 
-The JPCUB framework provides a unified energy-efficiency metric for quantum computing platforms. Extending it to qudit architectures reveals a structural advantage rooted in three compounding factors: dimensional encoding density, sub-exponential hierarchical decoding, and passive error resilience with room-temperature operation. Under conservative model assumptions, a qudit platform operating on a Bruhat–Tits tree achieves $J_{\text{CUB}} \approx 10^{-5}$ J/sol — approximately $5 \times 10^3$ times lower than the best 2026 superconducting-qubit platform at $0.05$ J/sol.
+The JPCUB framework provides a unified energy-efficiency metric for quantum computing platforms. Extending it to qudit architectures reveals a structural advantage rooted in three compounding factors: dimensional encoding density, sub-exponential hierarchical decoding, and passive error resilience with room-temperature operation. Under the model assumptions, a qudit platform operating on a Bruhat–Tits tree achieves $J_{\text{CUB}} \approx 10^{-5}$ J/sol — approximately $5 \times 10^3$ times lower than the best 2026 superconducting-qubit platform at $0.05$ J/sol.
 
-The dominant uncertainty is the dimensional-advantage crossover: whether the encoding-density benefit survives the per-gate fidelity penalty at realistic qudit dimensions. The paper pre-registers an explicit disconfirmation condition — a measured $J_{\text{CUB}} > 0.05$ J/sol for any $d \geq 3$ qudit platform under adversarial validation falsifies the claimed advantage — and invites independent experimental investigation.
+The dominant uncertainty is the dimensional-advantage crossover: whether the encoding-density benefit survives the per-gate fidelity penalty at realistic qudit dimensions. The paper pre-registers an explicit disconfirmation condition — a measured $J_{\text{CUB}} > 0.05$ J/sol for any $d \geq 3$ qudit platform under independent adversarial validation falsifies the claimed advantage — and invites independent experimental investigation.
 
-[PHILOSOPHY] The broader implication is that quantum computing's 78-year default to $d = 2$ is not a physical constraint but a historical contingency — a silo failure across information theory, computer science, and $p$-adic geometry whose rectification may substantially alter the energy-efficiency landscape of quantum computation.
+**Critical caveat:** Every numerical estimate in this paper depends on the JPCUB framework, which has not been externally validated. Until the JPCUB metric receives independent review and replication, the claimed qudit advantage is a hypothesis for investigation, not a demonstrated result.
+
+The broader implication, should the hypothesis be validated, is that quantum computing's 78-year default to $d = 2$ is not a physical constraint but a historical contingency — a silo failure across information theory, computer science, and $p$-adic geometry whose rectification may substantially alter the energy-efficiency landscape of quantum computation.
 
 ---
 
@@ -293,19 +289,19 @@ The dominant uncertainty is the dimensional-advantage crossover: whether the enc
 
 **Funding:** This research received no external funding.
 
-**Conflicts of interest:** The author is affiliated with QNFO, which has a commercial interest in qudit-based quantum computing platforms (QWAV). This paper is a theoretical JPCUB model, not a product claim. All assumptions and uncertainties are explicitly stated. Adversarial validation is invited per the JPCUB P0 protocol.
+**Conflicts of interest:** The author is affiliated with QNFO, which has a commercial interest in qudit-based quantum computing platforms. This paper is a theoretical JPCUB model, not a product claim. All assumptions and uncertainties are explicitly stated. Independent adversarial validation is invited.
 
-**Data availability:** The JPCUB computation parameters and all assumptions are stated in Section 3. The qubit JPCUB values are reproduced from the JPCUB Competitive Landscape v2.0 [@C6_jpcub_landscape_v2], which provides full specification-source traceability. The qudit model is a theoretical derivation with no experimental data.
+**Data availability:** The JPCUB computation parameters and all assumptions are stated in Section 3. The qubit JPCUB values are reproduced from the prior competitive landscape comparison, which provides full specification-source traceability. The qudit model is a theoretical derivation with no experimental data.
 
 **Code availability:** A reproducible Python computation of the JPCUB model is available in the project repository.
 
-**Author contributions:** Single-author work. The JPCUB framework is collaborative (JPCUB P0, Landscape v2.0); the qudit extension is the sole contribution of the author.
+**Author contributions:** Single-author work. The JPCUB framework and competitive landscape comparison are prior collaborative work; the qudit extension is the sole contribution of the author.
 
 **Acknowledgments:** The author thanks the external researchers whose published qudit work made this comparison possible — in particular, the trapped-ion qudit processor team [@C2_ringbauer2022] for demonstrating physical qudit operations, and the qudit review authors [@C1_wang2020] for establishing the field's consensus.
 
 **License:** QNFO Unified License Agreement (QNFO-ULA)
 
-**Pre-registration:** The three predictions in Section 5.1 are timestamped with this paper's publication. The paper commits hash will be registered after Phase 5 publication.
+**Pre-registration:** The three predictions in Section 5.1 are timestamped with this paper's publication.
 
 ---
 
