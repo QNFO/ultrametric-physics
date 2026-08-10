@@ -3,7 +3,7 @@
 **DOI:** 10.5281/zenodo.21827737 (v0.4, published 2026-08-06)
 **ERRATA version:** v1.0
 **Date:** 2026-08-10
-**STATUS:** PENDING — awaiting newversion publication
+**STATUS:** PUBLISHED — corrected in v0.5 (DOI 10.5281/zenodo.21842148)
 
 ---
 
