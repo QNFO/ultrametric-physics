@@ -30,8 +30,8 @@ claim — that quantization, stability, and factorization are three faces of one
 categorical structure — is stated as a pre-registered conjecture with explicit
 disconfirmation conditions. Consistent with the evidential-weight standards applied
 throughout this research program, all structural correspondences identified here
-are labeled as post-hoc syntheses carrying zero independent evidential weight until
-novel predictions accrue.
+are labeled [RETRODICTION — not evidence]: post-hoc syntheses carrying zero
+independent evidential weight until novel predictions accrue.
 
 **Keywords:** category theory, Morse theory, ultrametric geometry, prime
 factorization, topological invariants, consilience, structural realism
