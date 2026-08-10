@@ -3,8 +3,8 @@ title: "The Universe Category: A Single Functor Encoding Quantization, Stability
 author: "Rowan Brad Quni-Gudzinas"
 date: "2026-08-10"
 license: "CC BY 4.0"
-doi: "TBD"
-status: "draft"
+doi: "10.5281/zenodo.21880064"
+status: "published"
 ---
 
 **Author:** Rowan Brad Quni-Gudzinas
