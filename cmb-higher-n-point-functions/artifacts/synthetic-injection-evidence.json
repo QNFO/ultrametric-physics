@@ -1,0 +1,184 @@
+{
+  "phase": "QNFO.UMP.007.P4",
+  "date": "2026-08-12",
+  "seed": 20260812,
+  "sigma_fnl_est": 30.0,
+  "primes": [
+    2,
+    3,
+    5,
+    7
+  ],
+  "grid": {
+    "k_min": 0.001,
+    "k_max": 0.1,
+    "n_bins": 40
+  },
+  "results": {
+    "control_p2_eps150": {
+      "injected_p": 2,
+      "injected_eps": 150.0,
+      "recovered_eps_at_true_radix": 458.8036097276268,
+      "significance_true_radix_sigma": 15.328437291312603,
+      "best_radix": 2,
+      "obs_max_abs": 458.8036097276268,
+      "null_pvalue_lookelsewhere": 0.0,
+      "detected_5pct": true
+    },
+    "control_p2_eps90": {
+      "injected_p": 2,
+      "injected_eps": 90.0,
+      "recovered_eps_at_true_radix": 317.51721117374564,
+      "significance_true_radix_sigma": 10.506773138746036,
+      "best_radix": 2,
+      "obs_max_abs": 317.51721117374564,
+      "null_pvalue_lookelsewhere": 0.0,
+      "detected_5pct": true
+    },
+    "control_p3_eps150": {
+      "injected_p": 3,
+      "injected_eps": 150.0,
+      "recovered_eps_at_true_radix": 546.4058049694968,
+      "significance_true_radix_sigma": 17.72266655806033,
+      "best_radix": 3,
+      "obs_max_abs": 546.4058049694968,
+      "null_pvalue_lookelsewhere": 0.0,
+      "detected_5pct": true
+    },
+    "control_p3_eps90": {
+      "injected_p": 3,
+      "injected_eps": 90.0,
+      "recovered_eps_at_true_radix": 277.8986443731729,
+      "significance_true_radix_sigma": 8.99698534091091,
+      "best_radix": 3,
+      "obs_max_abs": 277.8986443731729,
+      "null_pvalue_lookelsewhere": 0.0,
+      "detected_5pct": true
+    },
+    "control_p5_eps150": {
+      "injected_p": 5,
+      "injected_eps": 150.0,
+      "recovered_eps_at_true_radix": 451.41218942689113,
+      "significance_true_radix_sigma": 14.535564270860776,
+      "best_radix": 5,
+      "obs_max_abs": 451.41218942689113,
+      "null_pvalue_lookelsewhere": 0.0,
+      "detected_5pct": true
+    },
+    "control_p5_eps90": {
+      "injected_p": 5,
+      "injected_eps": 90.0,
+      "recovered_eps_at_true_radix": 263.11479473389653,
+      "significance_true_radix_sigma": 8.685802671457841,
+      "best_radix": 5,
+      "obs_max_abs": 263.11479473389653,
+      "null_pvalue_lookelsewhere": 0.0,
+      "detected_5pct": true
+    },
+    "control_p7_eps150": {
+      "injected_p": 7,
+      "injected_eps": 150.0,
+      "recovered_eps_at_true_radix": 495.6599919637155,
+      "significance_true_radix_sigma": 16.35857640654695,
+      "best_radix": 7,
+      "obs_max_abs": 495.6599919637155,
+      "null_pvalue_lookelsewhere": 0.0,
+      "detected_5pct": true
+    },
+    "control_p7_eps90": {
+      "injected_p": 7,
+      "injected_eps": 90.0,
+      "recovered_eps_at_true_radix": 299.31807056188086,
+      "significance_true_radix_sigma": 10.029544737086196,
+      "best_radix": 7,
+      "obs_max_abs": 299.31807056188086,
+      "null_pvalue_lookelsewhere": 0.0,
+      "detected_5pct": true
+    },
+    "real_p2_eps0.05": {
+      "injected_p": 2,
+      "injected_eps": 0.05,
+      "recovered_eps_at_true_radix": 27.874310679512764,
+      "significance_true_radix_sigma": 0.8969914872508048,
+      "best_radix": 5,
+      "obs_max_abs": 43.48415424307226,
+      "null_pvalue_lookelsewhere": 0.445,
+      "detected_5pct": false
+    },
+    "real_p2_eps0.003": {
+      "injected_p": 2,
+      "injected_eps": 0.003,
+      "recovered_eps_at_true_radix": 25.61515568647731,
+      "significance_true_radix_sigma": 0.857931576206484,
+      "best_radix": 3,
+      "obs_max_abs": 25.98120726115747,
+      "null_pvalue_lookelsewhere": 0.8405,
+      "detected_5pct": false
+    },
+    "real_p3_eps0.05": {
+      "injected_p": 3,
+      "injected_eps": 0.05,
+      "recovered_eps_at_true_radix": 20.013144909375768,
+      "significance_true_radix_sigma": 0.6631564164757564,
+      "best_radix": 5,
+      "obs_max_abs": 35.61816252873136,
+      "null_pvalue_lookelsewhere": 0.6405,
+      "detected_5pct": false
+    },
+    "real_p3_eps0.003": {
+      "injected_p": 3,
+      "injected_eps": 0.003,
+      "recovered_eps_at_true_radix": -16.561705731753904,
+      "significance_true_radix_sigma": -0.5450927509416242,
+      "best_radix": 5,
+      "obs_max_abs": 71.13224429915073,
+      "null_pvalue_lookelsewhere": 0.0615,
+      "detected_5pct": false
+    },
+    "real_p5_eps0.05": {
+      "injected_p": 5,
+      "injected_eps": 0.05,
+      "recovered_eps_at_true_radix": -22.237544777659938,
+      "significance_true_radix_sigma": -0.7448652787372464,
+      "best_radix": 5,
+      "obs_max_abs": 22.237544777659938,
+      "null_pvalue_lookelsewhere": 0.9005,
+      "detected_5pct": false
+    },
+    "real_p5_eps0.003": {
+      "injected_p": 5,
+      "injected_eps": 0.003,
+      "recovered_eps_at_true_radix": 27.417521603742124,
+      "significance_true_radix_sigma": 0.9063710919415574,
+      "best_radix": 3,
+      "obs_max_abs": 63.05784345016678,
+      "null_pvalue_lookelsewhere": 0.1295,
+      "detected_5pct": false
+    },
+    "real_p7_eps0.05": {
+      "injected_p": 7,
+      "injected_eps": 0.05,
+      "recovered_eps_at_true_radix": 46.806417860898534,
+      "significance_true_radix_sigma": 1.577568724523416,
+      "best_radix": 7,
+      "obs_max_abs": 46.806417860898534,
+      "null_pvalue_lookelsewhere": 0.3565,
+      "detected_5pct": false
+    },
+    "real_p7_eps0.003": {
+      "injected_p": 7,
+      "injected_eps": 0.003,
+      "recovered_eps_at_true_radix": 33.011019773205696,
+      "significance_true_radix_sigma": 1.1110946654554517,
+      "best_radix": 7,
+      "obs_max_abs": 33.011019773205696,
+      "null_pvalue_lookelsewhere": 0.691,
+      "detected_5pct": false
+    }
+  },
+  "pipeline_validation": {
+    "positive_controls_passed": true,
+    "realistic_cases_detected": 0
+  },
+  "interpretation": "Positive controls: injections at >=3 sigma are recovered at the true radix with look-elsewhere p<0.05 -> the matched-filter pipeline is valid. Realistic cases: at eps=0.05 (optimistic) and eps=0.003 (2-point-consistent single-modulation bound), the p-adic bispectrum modulation is 2-4 orders below the Planck equilateral-family sensitivity and is NOT detectable. This is the quantitative statement of the amplitude-consistency bound: within the single-modulation model the higher-n channel does not amplify the p-adic signal; a detection claim requires an explicit amplification mechanism."
+}
