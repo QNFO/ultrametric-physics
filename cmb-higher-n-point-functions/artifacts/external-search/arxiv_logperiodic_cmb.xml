@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:arxiv="http://arxiv.org/schemas/atom" xmlns="http://www.w3.org/2005/Atom">
+  <id>https://arxiv.org/api/TKY/b9Q3uH1IUdBtVMMYLE/lAe4</id>
+  <title>arXiv Query: search_query=all:"log-periodic" AND all:"CMB"&amp;id_list=&amp;start=0&amp;max_results=12</title>
+  <updated>2026-08-11T23:06:10Z</updated>
+  <link href="https://arxiv.org/api/query?search_query=all:%22log-periodic%22+AND+all:%22CMB%22&amp;start=0&amp;max_results=12&amp;id_list=" type="application/atom+xml"/>
+  <opensearch:itemsPerPage>12</opensearch:itemsPerPage>
+  <opensearch:totalResults>1</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <entry>
+    <id>http://arxiv.org/abs/2606.31430v1</id>
+    <title>One Feature, Three Clocks: Phase-Locked Gravitational Waves, Primordial Black Holes, and Non-Gaussianity from Periodic Warm Inflation</title>
+    <updated>2026-06-30T09:54:36Z</updated>
+    <link href="https://arxiv.org/abs/2606.31430v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2606.31430v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>A shift-symmetric inflaton dissipating into a thermal bath couples to that bath periodically, so its friction oscillates as the field rolls. We follow what this does to warm inflation when a thermal channel opens midway through the rolling: the friction surges, and the curvature spectrum grows a sharp, log-periodically modulated peak at small scales while the CMB scales stay untouched. It saturates Primordial Black Holes (PBHs) formation in the asteroid-mass window, where the PBHs can make up an order-unity fraction of the dark matter, and it sources a scalar-induced gravitational-wave background in two bands at once -- a peak at $h^2Ω_{\rm GW}\simeq10^{-8}$ near $3$~mHz for LISA, and a second band at $h^2Ω_{\rm GW}\sim10^{-11}$ from deci-hertz to a hundred hertz, within reach of DECIGO and the Einstein Telescope, fed by the friction's continued growth toward smaller scales. And a separate-universe computation places its equilateral bispectrum a quarter cycle ahead of the power spectrum -- an offset fixed by the running of the spectrum and so robust to the equilateral-shape coefficient. The two GW bands carry the same underlying log-period and freeze-out phase to leading order, and the bispectrum is expected to share them: a modulation seen at two widely separated frequencies, plausibly accompanied by a $π/2$-shifted bispectrum, is not something a single-scale feature can fake. Because the feature is localized in the field, it imprints the same log-periodic structure on multiple observables, tying the gravitational-wave bands, black-hole mass, and bispectrum phase to a single underlying clock. We derive the freeze-out transfer function in closed form and use it to cap the first two harmonics at one quarter, and we show that the high-frequency band is itself bounded by PBHs overproduction, which turns it into a constraint on how far the friction can grow.</summary>
+    <category term="astro-ph.CO" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-06-30T09:54:36Z</published>
+    <arxiv:comment>16 page, 8 figures</arxiv:comment>
+    <arxiv:primary_category term="astro-ph.CO"/>
+    <author>
+      <name>Mayukh R. Gangopadhyay</name>
+    </author>
+  </entry>
+</feed>
