@@ -1,0 +1,39 @@
+# ============================================================================
+# .gitignore for cmb-higher-n-point-functions (QNFO.UMP.007)
+# Research-project template (research skill, kaizen fix A4)
+# ============================================================================
+
+# --- Ephemeral / JIT scratch scripts (NEVER durable, may contain tokens) ---
+_*.py
+_*.js
+_*.sh
+__pycache__/
+*.pyc
+
+# --- OS / editor noise ---
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
+.idea/
+
+# --- Build artifacts ---
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+build/
+
+# --- Credentials ---
+*.token
+*_token
+*_secret
+.env
+.env.*
+keys.json
+
+# --- Local-only working files ---
+*.tmp
+*.bak
+~$*
