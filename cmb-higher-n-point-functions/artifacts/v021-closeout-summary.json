@@ -1,0 +1,29 @@
+{
+  "outcome": "QNFO.UMP.007 v0.2.1 published and fully verified 2026-08-12 (CMD EXECUTE remediation of red-team v0.2 findings)",
+  "zenodo": {
+    "record": "21901664",
+    "doi": "10.5281/zenodo.21901664",
+    "concept": "10.5281/zenodo.21900191",
+    "version_chain": [
+      "21900192 (v0.1)",
+      "21900905 (v0.2)",
+      "21901664 (v0.2.1)"
+    ],
+    "p5_fresh": "PASS",
+    "datacite": "findable subjects=9 rights=1",
+    "doi_org": "200 -> zenodo.org/records/21901664"
+  },
+  "git": {
+    "branch": "ump/paper/cmb-higher-n-point-functions",
+    "head": "624a2deb3f74a0cc4cb530b0f5fdf3d8b91cd9d2",
+    "tags": [
+      "v0.1-phase0-ump007",
+      "v0.1-phase4-ump007",
+      "v0.1-phase4.5-ump007",
+      "v0.2-published-ump007",
+      "v0.3-published-ump007",
+      "v0.2.1-published-ump007"
+    ]
+  },
+  "red_team_reaudit": "8/9 HARD fixed in v0.2; 2 NEW HARD (internal file refs in scope note + doi_head evidence) fixed in v0.2.1; live-record audit PASS"
+}
