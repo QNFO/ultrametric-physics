@@ -1,32 +1,25 @@
 {
-  "phase": "QNFO.UMP.007.P5.2.R8",
+  "phase": "QNFO.UMP.007.P5.2.R8-v0.2.1",
   "date": "2026-08-12",
-  "doi_v02": "10.5281/zenodo.21900905",
-  "record_v02": "21900905",
+  "doi_v021": "10.5281/zenodo.21901664",
+  "record_v021": 21901664,
   "doi_org": {
-    "pass": true,
-    "detail": "status=200 -> https://zenodo.org/records/21900905"
+    "pass": false,
+    "detail": "<HTTPError 404: 'Not Found'>"
   },
   "datacite": {
-    "pass": true,
-    "detail": "state=findable subjects=9 rights=1"
+    "pass": true
   },
-  "zenodo_record": {
-    "pass": true,
-    "detail": "state=done files=['cmb-higher-n-point-functions.pdf', 'cmb-higher-n-point-functions.html', 'cmb-higher-n-point-functions.md']"
+  "p5_fresh": {
+    "pass": true
   },
   "d1": {
     "pass": true,
-    "detail": "{\"slug\": \"cmb-higher-n-point-functions\", \"doi\": \"10.5281/zenodo.21900905\", \"zenodo_doi\": \"10.5281/zenodo.21900905\", \"status\": \"published\"}"
+    "detail": "{\"slug\": \"cmb-higher-n-point-functions\", \"doi\": \"10.5281/zenodo.21901664\", \"zenodo_doi\": \"10.5281/zenodo.21901664\", \"status\": \"published\"}"
   },
   "r2": {
     "pass": true,
-    "detail": "026/08/12 11:33:45 NOTICE: S3 bucket qnfo-releases path releases/2026/08/cmb-higher-n-point-functions: 2 matching files\n"
+    "detail": "026/08/12 11:42:59 NOTICE: S3 bucket qnfo-releases path releases/2026/08/cmb-higher-n-point-functions: 2 matching files\n"
   },
-  "p5_fresh": true,
-  "vectorize": {
-    "trigger": "sent",
-    "note": "semantic proof via search_papers"
-  },
-  "all_pass": true
+  "all_pass": false
 }
