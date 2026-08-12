@@ -1,0 +1,65 @@
+QNFO.UMP.008 — BP-1 Fit-Verify / Research Evidence (Phase 4)
+===========================================================
+Date: 2026-08-12
+Independent recomputation: research/scripts/dsi-radix-detector.py (committed QNFO/qnfo-skills)
+All values reproduced in-session; detector self-test is the executable evidence.
+
+C2 — SYNTHETIC RADIX RECOVERY (non-prime lambda=1.62)
+-----------------------------------------------------
+Stage 1 FFT peak:        lambda=1.6011   (err 1.17%)   [seeds 42/12345/7: 1.2%]
+Stage 1 Lomb-Scargle:    lambda=1.6487   (err 1.77%)   [uneven grid, 40% subsample]
+Stage 2 bounded sinusoid: lambda=1.6199-1.6200  (err 0.00-0.01%)  [3 seeds]
+sigma_lambda (Stage-2 covariance propagation): 0.0002 (0.01% relative)
+RESULT: C2 CONFIRMED — non-prime radix recovered to <=0.02% at Stage 2.
+
+C3 — CERTIFICATION LEG (verified)
+---------------------------------
+Bootstrap null (max-statistic, 300 iters): observed peak 464,703.8 vs
+  null mean 2,462.7 +- 345.8  ->  p = 0.0033  (PASS < 0.05)
+DeltaBIC (power-law vs power-law + log-periodic): 24,810  (PASS > 10)
+F-test p_F ~ 0  (PASS)
+Integrity gates on synthetic (u_span=8): G1 omega=13.03>=0.785 PASS,
+  G2 SNR high PASS, G3 sigma_lambda/lambda=0.01% PASS -> gates 3/3
+RESULT: C3 CONFIRMED — certified detection on data that truly contains DSI.
+
+D3 — LPPL JOINT-FIT FAILURE (reproduced twice, seeds 42/12345)
+--------------------------------------------------------------
+Full 6-param LPPL with free omega, initialized AT TRUE FFT PEAK:
+  converges to lambda ~ 1.3e9 (err ~ 10^11%) — degenerate solution.
+RESULT: D3 CONFIRMED — stage separation is required; joint fit is not a
+  discovery scanner. Matches Geraskin & Fantazzini (2011) warning.
+
+D1 — REAL DATA (Planck 2018 TT) — HONEST NULL
+---------------------------------------------
+Dataset: IRSA COM_PowerSpect_CMB-TT-full_R3.01.txt (unbinned, 2507 rows,
+  ell 2-2508, D_ell muK2). Analysis: ell>=30, N=2446, u_span=4.43.
+Naive raw-spectrum scan: lambda_ref ~ 14,018-38,298, sigma_lambda/lambda
+  = 985-1762% (unconstrained), SNR=0.15, omega=0.60-0.66 rad < omega_min
+  = 1.42 rad  -> SELF-REFUTING ARTIFACT (gates 0/3).
+p-adic radices probed at FFT resolution 0.078 rad (adequate):
+  lambda=2: omega=9.065, cycles=6.39, power_frac=0.0005
+  lambda=3: omega=5.719, cycles=4.03, power_frac=0.0002
+  lambda=5: omega=3.904, cycles=2.75, power_frac=0.0004
+  lambda=7: omega=3.229, cycles=2.27, power_frac=0.0002
+RESULT: no certified DSI at any resolvable radix (all 4 p-adic radices
+  probed at adequate resolution, zero power). Consistent with radix-locked
+  nulls: CAL-03 global p=0.38 (10.5281/zenodo.21534747), P5 p-adic p=0.38.
+
+D2 — G4 MODEL-SUBTRACTION (verified)
+------------------------------------
+Binned Planck TT vs BestFit LCDM (83 pts, same grid): log-residuals
+  mean=-0.0041, std=0.040.
+scan_residuals(): bootstrap p=0.888 (observed peak BELOW null mean:
+  0.38 vs 0.48), DeltaBIC=-7.3 (sinusoid WORSE than noise), gates 0/3,
+  detected=false.
+RESULT: D2 CONFIRMED — model-subtraction-first is mandatory for
+  non-power-law spectra; raw scanning produces a gate-rejected artifact.
+
+EVIDENCE FILES (this session)
+-----------------------------
+- Detector: research/scripts/dsi-radix-detector.py (self-test PASS)
+- Synthetic runs: self-test output (above values)
+- Real data: IRSA Planck 2018 TT (unbinned + binned w/ BestFit col)
+- Verification scripts executed in-session (temp, deleted same-turn)
+- Prior anchors: OSF 2ndsz pre-registration (10.17605/osf.io/2ndsz),
+  CAL-03 (10.5281/zenodo.21534747), UMP.007 (10.5281/zenodo.21900192)
