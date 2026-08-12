@@ -1,0 +1,40 @@
+{
+  "phase": "QNFO.UMP.007.P4.5",
+  "date": "2026-08-12",
+  "source": "arXiv 1905.05697 (Planck 2018 results IX: Constraints on primordial non-Gaussianity)",
+  "arxiv_id": "1905.05697",
+  "title": "Planck 2018 results. IX. Constraints on primordial non-Gaussianity",
+  "published": "2019-05-14T16:19:37Z",
+  "first_author": " Planck Collaboration",
+  "n_authors": 160,
+  "abstract": "We analyse the Planck full-mission cosmic microwave background (CMB) temperature and E-mode polarization maps to obtain constraints on primordial non-Gaussianity (NG). We compare estimates obtained from separable template-fitting, binned, and modal bispectrum estimators, finding consistent values for the local, equilateral, and orthogonal bispectrum amplitudes. Our combined temperature and polarization analysis produces the following results: f_NL^local = -0.9 +\\- 5.1; f_NL^equil = -26 +\\- 47; and f_NL^ortho = - 38 +\\- 24 (68%CL, statistical). These results include the low-multipole (4 &lt;= l &lt; 40) polarization data, not included in our previous analysis, pass an extensive battery of tests, and are stable with respect to our 2015 measurements. Polarization bispectra display a significant improvement in robustness; they can now be used independently to set NG constraints. We consider a large number of additional cases, e.g. scale-dependent feature and resonance bispectra, isocurvature primordial NG, and parity-breaking models, where we also place tight constraints but do not detect any signal. The non-primordial lensing bispectrum is detected with an improved significance compared to 2015, excluding the null hypothesis at 3.5 sigma. We present model-independent reconstructions and analyses of the CMB bispectrum. Our final constraint on the local trispectrum shape is g_NLl^local = (-5.8 +\\-6.5) x 10^4 (68%CL, statistical), while constraints for other trispectra are also determined. We constrain the parameter space of different early-Universe scenarios, including general single-field models of inflation, multi-field and axion field parity-breaking models. Our results provide a high-precision test for structure-formation scenarios, in complete agreement with the basic picture of the LambdaCDM cosmology regarding the statistics of the initial conditions (abridged).",
+  "abstract_fNL_values_regex_found": [
+    "f_NL^local = -0.9 +\\- 5.1",
+    "f_NL^equil = -26 +\\- 47",
+    "f_NL^ortho = - 38 +\\- 24 (68%CL"
+  ],
+  "html_resonant_context": [
+    "n local, equilateral, and orthogonal f NL f_{\\rm NL} 5.2 Further bispectrum shapes 5.2.1 Isocurvature non-Gaussianity 5.2.2 Running non-Gaussianity 5.2.3 Resonance and axion monodromy 5.2.4 Scale-dependent oscillatory features 5.2.5 High-frequency feature and resonant-model estimator 5.2.6 Equilateral-type models and the effective field theory of inflation 5.2.7 Models with excited initial states (non-Bunch-Davies vacua) 5.2.8 Direction-dependent primordial non-Gaussianity 5.2.9 Parity-violating tensor non-Gaussianity moti",
+    " 2 , k 3 ) \\displaystyle B^{\\rm res-flat}(k_{1},k_{2},k_{3}) ≡ S flat ​ ( k 1 , k 2 , k 3 ) × B res ​ ( k 1 , k 2 , k 3 ) . \\displaystyle\\equiv S^{\\rm flat}(k_{1},k_{2},k_{3})\\times B^{\\rm res}(k_{1},k_{2},k_{3})\\thinspace. (14) This analysis does not exhaust resonant models associated with a non-Bunch-Davies initial state, which can have a more sharply flattened shape (“enfolded” models), but it should help identify this tendency if present in the data. In addition, the discussion in Flauger et al. 2017 showed that the re",
+    "nt models associated with a non-Bunch-Davies initial state, which can have a more sharply flattened shape (“enfolded” models), but it should help identify this tendency if present in the data. In addition, the discussion in Flauger et al. 2017 showed that the resonant frequency can “drift” slowly over time with a correction term to the frequency being proposed, but again we leave that for future analysis. Finally, we note that there are multifield models in which sharp corner-turning can result in residual oscillations wit",
+    "arp corner-turning can result in residual oscillations with logarithmic spacing, thus mimicking resonance models ( Achúcarro et al. 2011 ; Battefeld et al. 2013 ) . However, these oscillations are more strongly damped and can be searched for by modulating the resonant shape (Eq. 12 ) with a suitable envelope, as discussed for feature models below. 2.5.2 Scale-dependent oscillatory features Sharp features in the inflationary potential can generate oscillatory signatures ( Chen et al. 2007a ) , as can rapid variations in the",
+    "2}\\cos features T+E . 1.7 0.0 0.0 2.1 0.0 0.0 1.6 0.0 0.0 1.5 0.0 0.0 K ​ sin K\\sin features T only . 2.8 0.7 0.7 3.0 1.0 1.0 2.9 0.8 0.8 2.8 0.8 0.8 K ​ sin K\\sin features T+E . 2.3 0.1 0.1 2.6 0.4 0.4 2.7 0.5 0.6 2.3 0.1 0.1 5.2.5 High-frequency feature and resonant-model estimator As in 194 , we have extended the frequency range of the constant feature model and the constant resonance model with a second set of estimators. The constant feature bispectrum in Eq. ( 15 ) is separable and thus allows for the construction of",
+    " M., Berera, A., Moss, I. G., &amp; Ramos, R. O., Theory of non-Gaussianity in warm inflation. 2014, J. Cosmology Astropart. Phys., 12, 8, 1408.4391 Battefeld et al. (2013) Battefeld, T., Niemeyer, J. C., &amp; Vlaykov, D., Probing two-field open inflation by resonant signals in correlation functions. 2013, J. Cosmology Astropart. Phys., 5, 6, 1302.3877 Baumann et al. (2018) Baumann, D., Goon, G., Lee, H., &amp; Pimentel, G. L., Partially massless fields during inflation. 2018, Journal of High Energy Physics, 4, 140, 1712.",
+    "rbations from the Massless Preheating Inflationary Model. 2008, Physical Review Letters, 100, 041302 Chen (2005) Chen, X., Running non-Gaussianities in Dirac-Born-Infeld inflation. 2005, Phys. Rev. D, 72, 123518, astro-ph/0507053 Chen (2010a) Chen, X., Folded resonant non-Gaussianity in general single field inflation. 2010a, J. Cosmology Astropart. Phys., 12, 3 Chen (2010b) Chen, X., Primordial Non-Gaussianities from Inflation Models. 2010b, Advances in Astronomy, 2010 Chen et al. (2007a) Chen, X., Easther, R., &amp; Lim, ",
+    "., Wandelt, B., Elsner, F., &amp; Liguori, M., Optimal bispectrum estimator and simulations of the CMB lensing-integrated Sachs Wolfe non-Gaussian signal. 2013, A&amp;A, 555, A82 Meerburg et al. (2016) Meerburg, P. D., Münchmeyer, M., &amp; Wandelt, B., Joint resonant CMB power spectrum and bispectrum estimation. 2016, Phys. Rev. D, 93, 043536, 1510.01756 Meerburg et al. (2009) Meerburg, P. D., van der Schaar, J. P., &amp; Stefano Corasaniti, P., Signatures of initial state modifications on bispectrum statistics. 2009, J. ",
+    "010, J. Cosmology Astropart. Phys., 6, 9 Flauger et al. (2017) Flauger, R., McAllister, L., Silverstein, E., &amp; Westphal, A., Drifting Oscillations in Axion Monodromy. 2017, JCAP, 1710, 055, 1412.1814 Flauger &amp; Pajer (2011) Flauger, R. &amp; Pajer, E., Resonant non-gaussianity. 2011, J. Cosmology Astropart. Phys., 1, 17 Franciolini et al. (2018) Franciolini, G., Kehagias, A., Riotto, A., &amp; Shiraishi, M., Detecting higher spin fields through statistical anisotropy in the CMB bispectrum. 2018, Phys. Rev. D, 98, 04"
+  ],
+  "html_equil_context": [],
+  "html_verified": true,
+  "html_length": 1814321,
+  "feature_numeric_rows": [
+    "features 2.6 Non-Gaussianity from excited initial states 2",
+    "features 5.2"
+  ],
+  "body_extraction": {
+    "phase": "QNFO.UMP.007.P4.5",
+    "date": "2026-08-12",
+    "source": "ar5iv.labs.arxiv.org/html/1905.05697 (body extraction)",
+    "note": "Full extraction of resonant/feature tables; numeric constraints must be read from these windows and transcribed with care."
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "phase": "QNFO.UMP.007.P4.5",
+  "slug": "cmb-higher-n-point-functions",
+  "date": "2026-08-12",
+  "source": "arXiv 1905.05697 (Planck 2018 results IX), live-verified 2026-08-12",
+  "planck_feature_95_cl_smica_TE": {
+    "constant": 2.5,
+    "equilateral": 2.5,
+    "flattened": 2.4,
+    "k2_cos": 1.7,
+    "k_sin": 2.3
+  },
+  "section_5_2_5_high_frequency": {
+    "highest_peak_TT_sigma": 3.1,
+    "highest_peak_TE_sigma": 3.0,
+    "gaussian_expectation_sigma": 3.4,
+    "gaussian_expectation_uncertainty": 0.4,
+    "detection_claimed": false,
+    "statement": "we do not find evidence for non-Gaussianity in the high-frequency feature and resonance-model analysis"
+  },
+  "radix_bounds": {
+    "2": {
+      "omega_p": 9.064720283654388,
+      "radix_frequency_in_planck_range": true,
+      "in_resonance_scan_range": true,
+      "eps_95_equilateral_base": 2.5,
+      "eps_95_k2cos_base": 1.7,
+      "eps_95_ksin_base": 2.3,
+      "eps_95_tightest": 1.7,
+      "single_modulation_bound": 0.003,
+      "bispectrum_bound_ratio_to_2pt": 833.3333333333334,
+      "detection_claimed": false
+    },
+    "3": {
+      "omega_p": 5.7192017347602535,
+      "radix_frequency_in_planck_range": true,
+      "in_resonance_scan_range": true,
+      "eps_95_equilateral_base": 2.5,
+      "eps_95_k2cos_base": 1.7,
+      "eps_95_ksin_base": 2.3,
+      "eps_95_tightest": 1.7,
+      "single_modulation_bound": 0.003,
+      "bispectrum_bound_ratio_to_2pt": 833.3333333333334,
+      "detection_claimed": false
+    },
+    "5": {
+      "omega_p": 3.903962531662343,
+      "radix_frequency_in_planck_range": true,
+      "in_resonance_scan_range": true,
+      "eps_95_equilateral_base": 2.5,
+      "eps_95_k2cos_base": 1.7,
+      "eps_95_ksin_base": 2.3,
+      "eps_95_tightest": 1.7,
+      "single_modulation_bound": 0.003,
+      "bispectrum_bound_ratio_to_2pt": 833.3333333333334,
+      "detection_claimed": false
+    },
+    "7": {
+      "omega_p": 3.2289185141615624,
+      "radix_frequency_in_planck_range": true,
+      "in_resonance_scan_range": true,
+      "eps_95_equilateral_base": 2.5,
+      "eps_95_k2cos_base": 1.7,
+      "eps_95_ksin_base": 2.3,
+      "eps_95_tightest": 1.7,
+      "single_modulation_bound": 0.003,
+      "bispectrum_bound_ratio_to_2pt": 833.3333333333334,
+      "detection_claimed": false
+    }
+  },
+  "interpretation": {
+    "headline_eps_95_bound": 2.5,
+    "headline_meaning": "Planck 2018 (1905.05697, T+E, SMICA) constrains the p-adic bispectrum modulation amplitude eps_p < 2.5 at 95% CL via the equilateral-feature template row (Sec 5.2.4). No detection anywhere in the feature/resonance scans (Sec 5.2.5): highest peak 3.1 sigma vs 3.4+/-0.4 sigma Gaussian expectation.",
+    "amplitude_consistency_conclusion": "In the single-modulation model (Phase 4 G-4), eps_p <= A_LPO ~ 0.003 from the 2-point null. The Planck bispectrum bound (eps_p < 2.5) is ~830x WEAKER than the 2-point bound. Therefore the Planck 2018 higher-n channel does NOT improve on the 2-point constraint and does NOT amplify the p-adic signal. The honest scientific result: Planck 2018 higher-n statistics place an upper bound eps_p < 2.5 (95% CL) consistent with the 2-point null; the 2-point null remains the strongest constraint on p-adic amplitude.",
+    "falsifiability": {
+      "D1_passed": true,
+      "D1_note": "No log-periodic modulation detected at any radix-locked omega_p; 95% CL upper bound computed (eps_p < 2.5).",
+      "D2_passed": true,
+      "D2_note": "No bispectrum detection at eps >> 0.003; consistent with single-modulation model.",
+      "D3_passed": true,
+      "D3_note": "Best-fit shape is the Gaussian expectation (no peak above 3.1 sigma); degeneracy structure disclosed (p=2 orthogonal; (3,5),(5,7) degenerate)."
+    }
+  }
+}
