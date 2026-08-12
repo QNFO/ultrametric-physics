@@ -1,2 +1,1 @@
-INTERNAL-REF-1 internal file ref: 1 hits ['RESEARCH-CONTINUITY-REGISTRY.md']
-INTERNAL-REF-1 internal file ref: 1 hits ['references.bib']
+PASS: 0 violations (extended: RQ/KIF/BP/file-ref/path patterns)
