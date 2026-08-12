@@ -3,8 +3,8 @@ title: "Searching for P-Adic Log-Periodic Signatures in the Cosmic Microwave Bac
 author: "Rowan Brad Quni-Gudzinas"
 date: "2026-08-12"
 license: "QNFO Unified License Agreement (QNFO-ULA)"
-doi: "TBD"
-status: "draft"
+doi: "10.5281/zenodo.21900192"
+status: "published"
 ---
 
 **Abstract**
