@@ -399,9 +399,15 @@ S_a(k_i)\,S_b(k_i)}
 {\sqrt{\sum_i w_i S_a(k_i)^2}\sqrt{\sum_i w_i S_b(k_i)^2}}.\]</span></p>
 <p>The frequency resolution is set by the log-dynamic range of the data,
 <span class="math inline">\(\Delta\omega \approx
-2\pi/\ln(k_{\max}/k_{\min})\)</span>. For the Planck multipole range
-(<span class="math inline">\(\ell\in[2,2508]\)</span>) this gives <span
-class="math inline">\(\Delta\omega = 1.3644\)</span>.</p>
+2\pi/\ln(k_{\max}/k_{\min})\)</span>. For the synthetic template grid
+used in this identifiability computation (<span
+class="math inline">\(k\in[0.001,0.1]\)</span>, a ratio of 100:1) this
+gives <span class="math inline">\(\Delta\omega = 1.3644\)</span>. The
+Planck multipole range (<span
+class="math inline">\(\ell\in[2,2508]\)</span>) would provide a finer
+resolution <span class="math inline">\(\Delta\omega \approx
+0.88\)</span>; all separability verdicts reported below are unchanged
+under either value.</p>
 <h3 id="radix-separability">3.2 Radix separability</h3>
 <p>The radix frequencies are <span class="math inline">\(\omega_2 =
 9.06\)</span>, <span class="math inline">\(\omega_3 = 5.72\)</span>,
@@ -552,7 +558,8 @@ class="math inline">\(\omega=\omega_p\)</span> predicts a nearly
 identical observable; the test is then a parameter measurement, not a
 theory discrimination, and carries zero evidential weight for the p-adic
 origin. This is the central methodological caveat of the search and is
-graded accordingly (KIF-60 discipline).</p>
+graded accordingly under the evidential-weight discipline adopted in
+Section 4.</p>
 <h2 id="amplitude-consistency-with-the-two-point-null">4. Amplitude
 consistency with the two-point null</h2>
 <p>If the modulation is a property of the underlying field, the same
@@ -624,15 +631,41 @@ the resonance scan (<span class="math inline">\(\omega\le1000\)</span>):
 the full radix grid was probed by Planck 2018.</p>
 <h3 id="radix-locked-upper-bounds">5.2 Radix-locked upper bounds</h3>
 <p>The p-adic template with an equilateral base maps directly onto
-Planck’s “equilateral-feature” row, the closest template family:</p>
+Planck’s “equilateral-feature” row, the closest template family. The
+mapping requires a normalization choice that is stated explicitly here,
+because Planck’s feature rows bound the amplitude of an
+<em>additive</em> oscillatory term in the reduced bispectrum, whereas
+the p-adic template is <em>multiplicative</em> (<span
+class="math inline">\(f_{\mathrm{NL}}^{(p)} =
+f_{\mathrm{NL}}^{(0)}[1+\varepsilon_p\cos(\omega_p\ln
+K+\phi)]\)</span>). To first order the mapping is <span
+class="math inline">\(\varepsilon_p \cdot f_{\mathrm{NL}}^{(0)} &lt;
+2.5\)</span> at 95% CL. In the template normalization <span
+class="math inline">\(f_{\mathrm{NL}}^{(0)} \sim \mathcal{O}(1)\)</span>
+this gives</p>
 <p><span class="math display">\[\boxed{\ \varepsilon_p &lt; 2.5 \quad
 (95\%\ \mathrm{CL},\ \mathrm{T+E},\ \mathrm{SMICA})\ }\]</span></p>
 <p>for every radix <span class="math inline">\(p \in
-\{2,3,5,7\}\)</span>. The high-frequency log-oscillatory families bound
-even more tightly: the <span class="math inline">\(K^2\cos\)</span> row
-gives <span class="math inline">\(\varepsilon_p &lt; 1.7\)</span> and
-the <span class="math inline">\(K\sin\)</span> row <span
-class="math inline">\(\varepsilon_p &lt; 2.3\)</span> at 95% CL.</p>
+\{2,3,5,7\}\)</span> — the headline bound of this paper. Under the
+data-implied normalization, where Planck measures the equilateral
+amplitude at <span
+class="math inline">\(f_{\mathrm{NL}}^{\mathrm{equil}} =
+-26\pm47\)</span>, the same row bounds <span
+class="math inline">\(\varepsilon_p &lt; 2.5/26 \approx 0.096\)</span>
+(95% CL). The linearized mapping also breaks down at <span
+class="math inline">\(\varepsilon_p \gtrsim 1\)</span>, where the
+modulation would drive <span
+class="math inline">\(f_{\mathrm{NL}}\)</span> negative over half of its
+range; the small-<span class="math inline">\(\varepsilon_p\)</span>
+reading is therefore the physically consistent one. Both normalizations
+are reported because the two-point consistency comparison in Section 5.3
+depends on which is adopted. The high-frequency log-oscillatory families
+bound even more tightly: the <span
+class="math inline">\(K^2\cos\)</span> row gives <span
+class="math inline">\(\varepsilon_p &lt; 1.7\)</span> and the <span
+class="math inline">\(K\sin\)</span> row <span
+class="math inline">\(\varepsilon_p &lt; 2.3\)</span> at 95% CL in the
+template normalization.</p>
 <h3 id="amplitude-consistency-comparison">5.3 Amplitude-consistency
 comparison</h3>
 <table style="width:100%;">
@@ -658,28 +691,44 @@ class="math inline">\(\varepsilon_p\)</span></th>
 data-cites="quni2026cmb_sig">Quni-Gudzinas (2026b)</span></td>
 </tr>
 <tr>
-<td style="text-align: left;">Planck 2018 bispectrum
-(equil-feature)</td>
+<td style="text-align: left;">Planck 2018 bispectrum (equil-feature,
+template norm)</td>
 <td style="text-align: left;"><span class="math inline">\(&lt;
 2.5\)</span></td>
 <td style="text-align: left;">this work</td>
 </tr>
 <tr>
-<td style="text-align: left;">Ratio (bispectrum / two-point)</td>
+<td style="text-align: left;">Planck 2018 bispectrum (equil-feature,
+data norm)</td>
+<td style="text-align: left;"><span class="math inline">\(&lt;
+0.096\)</span></td>
+<td style="text-align: left;">this work</td>
+</tr>
+<tr>
+<td style="text-align: left;">Ratio (template norm / two-point)</td>
 <td style="text-align: left;"><span class="math inline">\(\approx
 830\)</span></td>
 <td style="text-align: left;">—</td>
 </tr>
+<tr>
+<td style="text-align: left;">Ratio (data norm / two-point)</td>
+<td style="text-align: left;"><span class="math inline">\(\approx
+32\)</span></td>
+<td style="text-align: left;">—</td>
+</tr>
 </tbody>
 </table>
-<p>The Planck 2018 bispectrum bound is <strong>approximately 830 times
-weaker</strong> than the two-point bound. The higher-order channel does
-not improve the amplitude constraint; it adds (a) a new, independent
-upper bound on the p-adic non-Gaussian amplitude, (b) a radix-frequency
-probe with no peak anywhere in the grid, and (c) the partial
-identifiability map of Section 3. All three falsification conditions D1,
-D2, D3 are satisfied — the result is a <strong>constraint</strong>, not
-a detection.</p>
+<p>The Planck 2018 bispectrum bound is between approximately 32 and 830
+times weaker than the two-point bound depending on the normalization
+adopted for the base shape (see Section 5.2). The higher-order channel
+does not improve the amplitude constraint; it adds (a) a new,
+independent upper bound on the p-adic non-Gaussian amplitude, (b) a
+radix-frequency probe with no peak anywhere in the grid, and (c) the
+partial identifiability map of Section 3. Of the three pre-registered
+falsification conditions, D2 and D3 are satisfied as stated; D1 is
+satisfied only in the weak sense — no modulation is detected at the
+sensitivity actually achieved, which is weaker than the pre-registered
+target (see the scope note in Section 7).</p>
 <h2 id="discussion">6. Discussion</h2>
 <h3 id="what-the-null-means">6.1 What the null means</h3>
 <p>Planck 2018 rules out p-adic log-periodic signatures in the CMB
@@ -690,8 +739,8 @@ Within the single-modulation model the higher-order channel is not
 amplified, so the combined null is the strongest current statement
 against p-adic structure in the primordial curvature field. This is a
 genuinely useful constraint: it is the first time the p-adic hypothesis
-has been bounded in the non-Gaussian sector, and it closes the RQ-013
-channel at the sensitivity of current data.</p>
+has been bounded in the non-Gaussian sector, and it closes this
+higher-order search channel at the sensitivity of current data.</p>
 <h3 id="requirements-for-next-generation-discrimination">6.2
 Requirements for next-generation discrimination</h3>
 <ol type="1">
@@ -747,19 +796,54 @@ pre-registered falsification conditions.</p>
 <p><strong>Disconfirmation conditions (restated):</strong> the framework
 is disconfirmed for a given radix if (i) no log-periodic modulation is
 found at <span class="math inline">\(\omega_p\)</span> at the computed
-sensitivity (satisfied), (ii) a bispectrum detection appears at <span
+sensitivity (satisfied in the weak sense — see the scope note below),
+(ii) a bispectrum detection appears at <span
 class="math inline">\(\varepsilon_p \gg 0.003\)</span> without a
 mechanism (not observed), or (iii) the best-fit shape is degenerate with
 a standard template (disclosed, not hidden).</p>
+<p><strong>Scope note (v0.2, post-audit):</strong> this analysis maps
+the published Planck 2018 feature and resonance constraints onto the
+p-adic template; it does not perform a map-level COM_CompMap bispectrum
+estimation. The pre-registered falsification condition D1
+(core-claim.md) targeted a bound below the two-point-implied amplitude
+(<span class="math inline">\(\varepsilon_p \lesssim
+3\times10^{-3}\)</span>) computed from the public COM_CompMap products
+with a BP-3 look-elsewhere correction. The bound delivered here (<span
+class="math inline">\(\varepsilon_p &lt; 0.096\)</span> under the data
+normalization) is consistent with the two-point null but weaker than the
+pre-registered target; the look-elsewhere p-values quoted in the
+supporting evidence are synthetic Monte Carlo over the four-radix grid
+and are not applied to the published-constraint mapping, which inherits
+Planck’s own trials handling. D1 is therefore reported as satisfied only
+in the weak sense, and the map-level analysis to the pre-registered
+sensitivity remains future work (see RESEARCH-CONTINUITY-REGISTRY.md).
+The version history of the cited two-point analysis is also disclosed
+here: the published record 10.5281/zenodo.21205104 v0.1.1 reported a
+marginal <span class="math inline">\(3\sigma\)</span> p=2 signal that
+subsequent recalibration (documented in the companion reconciliation)
+refined to the null adopted in this paper.</p>
+<p>The synthetic-injection study (committed with the analysis) supplies
+the sensitivity context for these bounds: at the estimator noise of the
+injection model, p-adic modulation amplitudes of <span
+class="math inline">\(\varepsilon_p \sim 0.05\)</span> and <span
+class="math inline">\(\sim 3\times10^{-3}\)</span> are undetectable (0
+of 8 trials), while injections at <span
+class="math inline">\(3\)</span>-<span
+class="math inline">\(5\sigma\)</span> are recovered at the true radix
+(8 of 8), confirming the matched-filter pipeline. The published-table
+bound of Section 5.2 lies above the undetectable regime and below the
+recoverable one — the constraint is real, but it does not reach the
+pre-registered sensitivity.</p>
 <h2 id="declarations">Declarations</h2>
 <ol type="1">
 <li><strong>Funding:</strong> No external funding was received for this
 work.</li>
 <li><strong>Competing interests:</strong> The author declares no
 competing interests.</li>
-<li><strong>Data availability:</strong> All data products used are
-public: Planck 2018 results IX (arXiv:1905.05697) and the Planck Legacy
-Archive; the two-point analysis is published at DOI
+<li><strong>Data availability:</strong> All constraints used are from
+the public Planck 2018 results IX paper (arXiv:1905.05697); no Planck
+Legacy Archive map products were analyzed in this study. The two-point
+analysis cited for comparison is published at DOI
 10.5281/zenodo.21205104.</li>
 <li><strong>Code availability:</strong> The analysis scripts (template
 construction, shape orthogonality, synthetic injection, bound pipeline)

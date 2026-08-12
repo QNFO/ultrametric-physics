@@ -1,11 +1,12 @@
-BP-1 Fit-Verify — QNFO.UMP.007
+BP-1 Fit-Verify v0.2 — QNFO.UMP.007
 date: 2026-08-12
 
 PASS  omega_2: claimed=9.0647 actual=9.064720283654388
 PASS  omega_3: claimed=5.7192 actual=5.7192017347602535
 PASS  omega_5: claimed=3.904 actual=3.903962531662343
 PASS  omega_7: claimed=3.2289 actual=3.2289185141615624
-PASS  delta_omega: claimed=1.3644 actual=1.3643763538418412
+PASS  delta_omega_synthetic_grid: claimed=1.3644 actual=1.3643763538418412
+PASS  planck_range_0.88_in_paper: '0.88' present-in-paper=True
 PASS  sep_2-3: claimed=3.35 actual=3.345518548894135
 PASS  sep_2-5: claimed=5.16 actual=5.160757751992046
 PASS  sep_2-7: claimed=5.84 actual=5.835801769492826
@@ -36,7 +37,10 @@ PASS  eps_95_p7: claimed=2.5 actual=2.5
 PASS  eps_95_k2cos: claimed=1.7 actual=1.7
 PASS  eps_95_ksin: claimed=2.3 actual=2.3
 PASS  eps_95_flattened: claimed=2.4 actual=2.4
-PASS  ratio_bispectrum_to_2pt: claimed=830 actual=833.3333333333334
+PASS  data_norm_0.096_in_paper: '0.096' present-in-paper=True
+PASS  ratio_32_in_paper: '32' present-in-paper=True
+PASS  equil_26_in_paper: '26' present-in-paper=True
+PASS  additive_mult_disclosure: 'multiplicative' present-in-paper=True
 PASS  fNL_local_in_paper: '-0.9' present-in-paper=True
 PASS  fNL_equil_in_paper: '-26' present-in-paper=True
 PASS  fNL_ortho_in_paper: '-38' present-in-paper=True
@@ -46,7 +50,9 @@ PASS  gaussian_expectation_3.4: '3.4' present-in-paper=True
 PASS  lpo_3e-3_in_paper: '3\times10^{-3}' present-in-paper=True
 PASS  log_bayes_in_paper: '-5.1' present-in-paper=True
 PASS  log_bayes_upper_in_paper: '-6.5' present-in-paper=True
+PASS  com_compmap_not_analyzed: 'COM_CompMap' present-in-paper=True
 PASS  radix_2_in_scan_range = True
 PASS  radix_3_in_scan_range = True
 PASS  radix_5_in_scan_range = True
 PASS  radix_7_in_scan_range = True
+PASS  internal-code scrub: 0 hits []
