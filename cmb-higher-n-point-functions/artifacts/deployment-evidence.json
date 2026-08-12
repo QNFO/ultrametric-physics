@@ -1,0 +1,46 @@
+{
+  "phase": "QNFO.UMP.007.P6",
+  "date": "2026-08-12",
+  "doi": "10.5281/zenodo.21900192",
+  "d1_living_paper": {
+    "identifier": "qnfo-2026-08-cmb-higher-n-point-functions",
+    "slug": "cmb-higher-n-point-functions",
+    "doi": "10.5281/zenodo.21900192",
+    "status": "published",
+    "body_len": 18590,
+    "verified": true
+  },
+  "papers_server": {
+    "url": "https://papers.qnfo.org/papers/cmb-higher-n-point-functions/",
+    "status": 200,
+    "title_present": true
+  },
+  "kg": {
+    "node_id": "paper:cmb-higher-n-point-functions",
+    "node_label": "Paper",
+    "edge_target": "prog-qnfo-ump",
+    "edge_relation": "BELONGS_TO",
+    "node_verified": true,
+    "edge_verified": true
+  },
+  "vectorize": {
+    "indexer": "qnfo-paper-indexer",
+    "webhook": {
+      "indexed": false,
+      "skipped": true,
+      "reason": "unchanged"
+    },
+    "webhook_note": "'unchanged' is the indexer's normal response for already-indexed papers (sibling log-periodic-oscillations-in-the-cmb returns identical response); semantic proof below is authoritative.",
+    "semantic_proof": "search_papers exact-title query returned slug=cmb-higher-n-point-functions chunk=0 score~0.689",
+    "verified": true
+  },
+  "r2_archive": {
+    "path": "releases/2026/08/cmb-higher-n-point-functions/",
+    "files": [
+      "cmb-higher-n-point-functions.md",
+      "cmb-higher-n-point-functions.pdf"
+    ],
+    "rclone_check": "0 differences found, 2 matching files",
+    "verified": true
+  }
+}
