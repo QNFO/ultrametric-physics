@@ -347,9 +347,9 @@ observed), or (iii) the best-fit shape is degenerate with a standard template
 **Scope note (v0.2, post-audit):** this analysis maps the published Planck 2018
 feature and resonance constraints onto the p-adic template; it does not perform a
 map-level COM_CompMap bispectrum estimation. The pre-registered falsification
-condition D1 (core-claim.md) targeted a bound below the two-point-implied amplitude
+condition D1 targeted a bound below the two-point-implied amplitude
 ($\varepsilon_p \lesssim 3\times10^{-3}$) computed from the public COM_CompMap
-products with a BP-3 look-elsewhere correction. The bound delivered here
+products with a look-elsewhere correction. The bound delivered here
 ($\varepsilon_p < 0.096$ under the data normalization) is consistent with the
 two-point null but weaker than the pre-registered target; the look-elsewhere
 p-values quoted in the supporting evidence are synthetic Monte Carlo over the

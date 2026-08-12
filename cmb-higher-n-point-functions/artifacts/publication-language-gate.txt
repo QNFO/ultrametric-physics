@@ -1,1 +1,2 @@
-PASS: 0 violations (incl. RQ-###/KIF-### scrub)
+INTERNAL-REF-1 internal file ref: 1 hits ['RESEARCH-CONTINUITY-REGISTRY.md']
+INTERNAL-REF-1 internal file ref: 1 hits ['references.bib']

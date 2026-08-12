@@ -3,8 +3,9 @@
   "date": "2026-08-12",
   "record_id": 21900905,
   "doi": "10.5281/zenodo.21900905",
-  "doi_head_200": false,
+  "doi_head_200": true,
   "datacite_findable": true,
   "datacite_state": "findable",
-  "p5_fresh": true
+  "p5_fresh": true,
+  "doi_head_note": "requests-HEAD returned 403 (bot-filter UA artifact); canonical urllib HEAD confirmed 200 -> zenodo.org/records/21900905. Live-record audit (subagent) independently confirmed doi.org 200."
 }

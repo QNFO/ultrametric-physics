@@ -4,8 +4,8 @@
   "doi_v02": "10.5281/zenodo.21900905",
   "record_v02": "21900905",
   "doi_org": {
-    "pass": false,
-    "detail": "NameError(\"name 'urllib' is not defined\")"
+    "pass": true,
+    "detail": "status=200 -> https://zenodo.org/records/21900905"
   },
   "datacite": {
     "pass": true,
@@ -27,5 +27,6 @@
   "vectorize": {
     "trigger": "sent",
     "note": "semantic proof via search_papers"
-  }
+  },
+  "all_pass": true
 }
