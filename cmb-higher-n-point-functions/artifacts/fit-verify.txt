@@ -1,0 +1,52 @@
+BP-1 Fit-Verify — QNFO.UMP.007
+date: 2026-08-12
+
+PASS  omega_2: claimed=9.0647 actual=9.064720283654388
+PASS  omega_3: claimed=5.7192 actual=5.7192017347602535
+PASS  omega_5: claimed=3.904 actual=3.903962531662343
+PASS  omega_7: claimed=3.2289 actual=3.2289185141615624
+PASS  delta_omega: claimed=1.3644 actual=1.3643763538418412
+PASS  sep_2-3: claimed=3.35 actual=3.345518548894135
+PASS  sep_2-5: claimed=5.16 actual=5.160757751992046
+PASS  sep_2-7: claimed=5.84 actual=5.835801769492826
+PASS  sep_3-5: claimed=1.82 actual=1.8152392030979105
+PASS  sep_3-7: claimed=2.49 actual=2.490283220598691
+PASS  sep_5-7: claimed=0.68 actual=0.6750440175007806
+PASS  C_2-2: claimed=1.0 actual=1.0000000000000002
+PASS  C_2-3: claimed=0.33 actual=0.3262089068417627
+PASS  C_2-5: claimed=-0.29 actual=-0.28734093127080274
+PASS  C_2-7: claimed=0.24 actual=0.23889272492431768
+PASS  C_3-3: claimed=1.0 actual=1.0000000000000002
+PASS  C_3-5: claimed=-0.77 actual=-0.7713831966779461
+PASS  C_3-7: claimed=0.59 actual=0.5874667256553673
+PASS  C_5-5: claimed=1.0 actual=1.0000000000000002
+PASS  C_5-7: claimed=-0.91 actual=-0.9149454368634489
+PASS  C_7-7: claimed=1.0 actual=1.0
+PASS  degenerate[2-3] = False (expect False)
+PASS  degenerate[2-5] = False (expect False)
+PASS  degenerate[2-7] = False (expect False)
+PASS  degenerate[3-5] = True (expect True)
+PASS  degenerate[3-7] = False (expect False)
+PASS  degenerate[5-7] = True (expect True)
+PASS  synthetic: controls=8 all_ok=True real_detected=0/8
+PASS  eps_95_p2: claimed=2.5 actual=2.5
+PASS  eps_95_p3: claimed=2.5 actual=2.5
+PASS  eps_95_p5: claimed=2.5 actual=2.5
+PASS  eps_95_p7: claimed=2.5 actual=2.5
+PASS  eps_95_k2cos: claimed=1.7 actual=1.7
+PASS  eps_95_ksin: claimed=2.3 actual=2.3
+PASS  eps_95_flattened: claimed=2.4 actual=2.4
+PASS  ratio_bispectrum_to_2pt: claimed=830 actual=833.3333333333334
+PASS  fNL_local_in_paper: '-0.9' present-in-paper=True
+PASS  fNL_equil_in_paper: '-26' present-in-paper=True
+PASS  fNL_ortho_in_paper: '-38' present-in-paper=True
+PASS  gNL_local_in_paper: '-5.8' present-in-paper=True
+PASS  peak_TT_3.1: '3.1' present-in-paper=True
+PASS  gaussian_expectation_3.4: '3.4' present-in-paper=True
+PASS  lpo_3e-3_in_paper: '3\times10^{-3}' present-in-paper=True
+PASS  log_bayes_in_paper: '-5.1' present-in-paper=True
+PASS  log_bayes_upper_in_paper: '-6.5' present-in-paper=True
+PASS  radix_2_in_scan_range = True
+PASS  radix_3_in_scan_range = True
+PASS  radix_5_in_scan_range = True
+PASS  radix_7_in_scan_range = True
