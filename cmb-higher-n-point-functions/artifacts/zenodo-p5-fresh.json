@@ -1,0 +1,14 @@
+{
+  "phase": "QNFO.UMP.007.P5.5",
+  "date": "2026-08-12",
+  "record_id": "21900192",
+  "doi": "10.5281/zenodo.21900192",
+  "p5_fresh": true,
+  "deposited_doi": "10.5281/zenodo.21900192",
+  "deposited_status": "published",
+  "record_files": [
+    "cmb-higher-n-point-functions.pdf",
+    "cmb-higher-n-point-functions.html",
+    "cmb-higher-n-point-functions.md"
+  ]
+}

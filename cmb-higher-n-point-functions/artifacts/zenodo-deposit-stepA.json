@@ -1,0 +1,88 @@
+{
+  "phase": "QNFO.UMP.007.P5.5",
+  "date": "2026-08-12",
+  "deposit_id": 21900192,
+  "reserved_doi": "10.5281/zenodo.21900192",
+  "create_status": 201,
+  "title": "Searching for P-Adic Log-Periodic Signatures in the Cosmic Microwave Background Bispectrum: Upper Bounds from Planck 2018",
+  "metadata_sent": {
+    "title": "Searching for P-Adic Log-Periodic Signatures in the Cosmic Microwave Background Bispectrum: Upper Bounds from Planck 2018",
+    "upload_type": "publication",
+    "publication_type": "preprint",
+    "description": "We search for p-adic (ultrametric) log-periodic signatures in the cosmic microwave background bispectrum. Discrete scale invariance under integer rescalings predicts radix-locked oscillations with angular frequency omega_p = 2*pi/ln(p), p in {2,3,5,7}. We construct the p-adic bispectrum template, compute its shape-space orthogonality against the resonant-feature family, and derive upper bounds from the public Planck 2018 non-Gaussianity constraints: epsilon_p < 2.5 at 95% CL for every radix, with no detection in the probed frequency range. Within a single-modulation model this bound is approximately 830 times weaker than the two-point bound (A_LPO < 3e-3); the higher-order channel does not amplify the p-adic signal. Radix identifiability is partial: p=2 is orthogonal to all other small primes, while (3,5) and (5,7) pairs are degenerate at Planck resolution. Pre-registered at OSF (2ndsz).",
+    "creators": [
+      {
+        "name": "Quni-Gudzinas, Rowan Brad"
+      }
+    ],
+    "access_right": "open",
+    "license": "cc-by-nc-sa-4.0",
+    "keywords": [
+      "p-adic",
+      "ultrametric",
+      "log-periodic oscillations",
+      "CMB bispectrum",
+      "non-Gaussianity",
+      "discrete scale invariance",
+      "cosmology",
+      "Planck 2018",
+      "pre-registration"
+    ],
+    "publication_date": "2026-08-12",
+    "version": "v0.1",
+    "prereserve_doi": true,
+    "related_identifiers": [
+      {
+        "relation": "isSupplementedBy",
+        "identifier": "10.17605/osf.io/2ndsz"
+      },
+      {
+        "relation": "cites",
+        "identifier": "10.5281/zenodo.19555030"
+      },
+      {
+        "relation": "cites",
+        "identifier": "10.5281/zenodo.21205104"
+      }
+    ]
+  },
+  "response_meta": {
+    "doi": null,
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.21900192",
+      "recid": 21900192
+    },
+    "title": "Searching for P-Adic Log-Periodic Signatures in the Cosmic Microwave Background Bispectrum: Upper Bounds from Planck 2018",
+    "version": "v0.1",
+    "publication_date": "2026-08-12",
+    "license": "cc-by-nc-sa-4.0",
+    "keywords": [
+      "p-adic",
+      "ultrametric",
+      "log-periodic oscillations",
+      "CMB bispectrum",
+      "non-Gaussianity",
+      "discrete scale invariance",
+      "cosmology",
+      "Planck 2018",
+      "pre-registration"
+    ],
+    "related_identifiers": [
+      {
+        "identifier": "10.17605/osf.io/2ndsz",
+        "relation": "isSupplementedBy",
+        "scheme": "doi"
+      },
+      {
+        "identifier": "10.5281/zenodo.19555030",
+        "relation": "cites",
+        "scheme": "doi"
+      },
+      {
+        "identifier": "10.5281/zenodo.21205104",
+        "relation": "cites",
+        "scheme": "doi"
+      }
+    ]
+  }
+}
