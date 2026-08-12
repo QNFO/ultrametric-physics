@@ -1,0 +1,50 @@
+{
+  "project": "QNFO.UMP.008",
+  "date": "2026-08-12",
+  "note": "External literature evidence captured from this session's live OpenAlex queries (2026-08-12). arXiv was rate-limiting (polite-pool discipline, no hammer); OpenAlex used as PRIMARY per research skill rate-limit matrix. All DOIs title-matched via OpenAlex-by-DOI (15/15 verified).",
+  "sources_queried": ["OpenAlex (PRIMARY)", "arXiv (rate-limited)", "QNFO Vectorize", "QNFO KG"],
+  "confirmation_bias_disclosure": "Vectorize search for 'radix-agnostic discrete scale invariance detection methodology' returned 10 hits, ALL QNFO-internal (cmb-higher-n-point-functions, ultrametric-paradigm, non-archimedean-syntactic-paradigm, etc.). [CONFIRMATION-BIAS-RISK] flagged: internal corpus is self-referential; external corroboration comes from the OpenAlex DOIs below.",
+  "verified_dois": {
+    "dsi_log_periodic": [
+      "10.1103/physreve.55.6433",
+      "10.1103/physreve.65.036142",
+      "10.1016/j.physa.2013.04.012",
+      "10.1080/1351847x.2011.601657",
+      "10.1126/sciadv.aau5096",
+      "10.1093/nsr/nwz110",
+      "10.1142/s0129183102003024",
+      "10.1088/1469-7688/1/3/306",
+      "10.1051/jp1:1995154",
+      "10.3189/002214308786570845"
+    ],
+    "spectral_estimation": [
+      "10.1086/167197",
+      "10.1051/0004-6361:200811296",
+      "10.3847/1538-4365/aab766"
+    ],
+    "ultrametric_padic": [
+      "10.1017/cbo9780511623844",
+      "10.1007/978-1-4757-3254-2",
+      "10.1088/0305-4470/35/2/301"
+    ],
+    "clustering_tree": [
+      "10.2307/2346439",
+      "10.1145/331499.331504"
+    ],
+    "causal_dependency": [
+      "10.1103/physrevlett.85.461",
+      "10.1103/physrevlett.116.238701",
+      "10.1126/sciadv.aau4996"
+    ],
+    "symbolic_scale": [
+      "10.1016/s0378-4371(02)01383-3",
+      "10.1098/rspa.2018.0305"
+    ]
+  },
+  "prior_qnfo_anchors": {
+    "cmb_higher_n": "10.5281/zenodo.21900192",
+    "cal03": "10.5281/zenodo.21534747",
+    "osf_prereg": "10.17605/osf.io/2ndsz"
+  },
+  "gap_summary": "No published work found that (a) fuses spectral estimation (Lomb-Scargle/FFT) with (b) log-periodic DSI detection and (c) p-adic/ultrametric theory into a single certified radix-agnostic detector. Existing LPPL literature (Sornette lineage) is radix-continuous but lacks the three-stage separation, the max-statistic bootstrap certification, and the integrity gates. This is the novelty space QNFO.UMP.008 occupies."
+}
