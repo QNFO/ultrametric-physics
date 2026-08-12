@@ -1,0 +1,83 @@
+{
+  "phase": "QNFO.UMP.007.P8",
+  "date": "2026-08-12",
+  "doi": "10.5281/zenodo.21900192",
+  "results": [
+    {
+      "check": "doi.org HEAD",
+      "pass": true,
+      "detail": "status=200 -> https://zenodo.org/records/21900192"
+    },
+    {
+      "check": "DataCite findable",
+      "pass": true,
+      "detail": "state=findable"
+    },
+    {
+      "check": "DataCite subjects",
+      "pass": true,
+      "detail": "n=9"
+    },
+    {
+      "check": "DataCite rights",
+      "pass": true,
+      "detail": "n=1"
+    },
+    {
+      "check": "GitHub branch",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "GitHub tag phase0",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "GitHub tag phase4",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "GitHub tag phase4.5",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "GitHub tag published",
+      "pass": true,
+      "detail": "v0.2-published-ump007 (created+verified 2nd attempt)"
+    },
+    {
+      "check": "D1 row",
+      "pass": true,
+      "detail": "{\"slug\": \"cmb-higher-n-point-functions\", \"doi\": \"10.5281/zenodo.21900192\", \"status\": \"published\", \"body_len\": 18590}"
+    },
+    {
+      "check": "Zenodo files",
+      "pass": true,
+      "detail": "keys=['cmb-higher-n-point-functions.pdf', 'cmb-higher-n-point-functions.html', 'cmb-higher-n-point-functions.md']"
+    },
+    {
+      "check": "Zenodo state",
+      "pass": true,
+      "detail": "state=done"
+    },
+    {
+      "check": "KG node",
+      "pass": true,
+      "detail": "paper:cmb-higher-n-point-functions"
+    },
+    {
+      "check": "KG edge BELONGS_TO",
+      "pass": true,
+      "detail": "{\"source_id\": \"paper:cmb-higher-n-point-functions\", \"target_id\": \"prog-qnfo-ump\"}"
+    },
+    {
+      "check": "Vectorize webhook",
+      "pass": true,
+      "detail": "{\"success\":true,\"indexed\":false,\"skipped\":true,\"reason\":\"unchanged\"}"
+    }
+  ],
+  "all_pass": true
+}
