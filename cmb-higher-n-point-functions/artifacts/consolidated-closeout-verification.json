@@ -4,8 +4,8 @@
   "doi_v021": "10.5281/zenodo.21901664",
   "record_v021": 21901664,
   "doi_org": {
-    "pass": false,
-    "detail": "<HTTPError 404: 'Not Found'>"
+    "pass": true,
+    "detail": "canonical urllib HEAD+GET 200 -> zenodo.org/records/21901664 (initial 404 was transient propagation/HEAD artifact)"
   },
   "datacite": {
     "pass": true
@@ -21,5 +21,5 @@
     "pass": true,
     "detail": "026/08/12 11:42:59 NOTICE: S3 bucket qnfo-releases path releases/2026/08/cmb-higher-n-point-functions: 2 matching files\n"
   },
-  "all_pass": false
+  "all_pass": true
 }
