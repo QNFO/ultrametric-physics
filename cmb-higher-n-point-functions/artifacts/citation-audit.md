@@ -2,7 +2,7 @@
 
 **Date:** 2026-08-12 · **Phase:** P3 · **Gate:** P3.AUTHOR-GATE (HARD)
 
-Entries: 23 · VERIFIED: 23 · MISMATCH: 0 · FAILED: 0 · Duplicate keys: 0
+Entries: 24 · VERIFIED: 24 · MISMATCH: 0 · FAILED: 0 · Duplicate keys: 0
 
 **Method:** every BibTeX entry built from LIVE API metadata (never hand-constructed). Fallback chain Crossref → OpenAlex → DataCite. Author gate normalizes both sides (hyphens/accents) and requires title-match (CITING-2) + first-author family match (P3.AUTHOR-GATE) per entry.
 
@@ -31,6 +31,8 @@ Entries: 23 · VERIFIED: 23 · MISMATCH: 0 · FAILED: 0 · Duplicate keys: 0
 | quni2026cmb_sig | 10.5281/zenodo.21205104 | VERIFIED | openalex | True | True | 1 |  |
 | osf2026rq013 | 10.17605/osf.io/2ndsz | VERIFIED | openalex | True | True | 1 |  |
 | one_feature_three_clocks2026 | arxiv:2606.31430v1 | VERIFIED | arxiv | True | True | 0 | arXiv-only; verified from fetched XML |
+
+| planck2018ng | 10.48550/arxiv.1905.05697 | VERIFIED | arxiv-api | True | True | 1 | Live-verified 2026-08-12: arXiv API metadata (title, 160 authors, Planck Collaboration); DOI HEAD 200 |
 
 **Duplicate-key check:** PASS (0 duplicates)
 
