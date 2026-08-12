@@ -3,8 +3,8 @@ title: "Radix-Agnostic Detection of Discrete Scale Invariance: A Certified Three
 author: "Rowan Brad Quni-Gudzinas"
 date: "2026-08-12"
 license: "QNFO Unified License Agreement (QNFO-ULA)"
-doi: "TBD"
-status: "draft"
+doi: "10.5281/zenodo.21902891"
+status: "published"
 ---
 
 **Abstract**
