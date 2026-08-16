@@ -188,10 +188,10 @@ as a Visual Rendering Interface</h1>
 </header>
 <p><strong>Author:</strong> Quni-Gudzinas, Rowan Brad (QNFO Research
 Collective) <strong>ORCID:</strong> 0009-0002-4317-5604
-<strong>Date:</strong> 2026-08-16 <strong>Version:</strong> v0.1
+<strong>Date:</strong> 2026-08-16 <strong>Version:</strong> v0.2
 <strong>WBS:</strong> QNFO.UMP.010 · <strong>Slug:</strong>
 non-archimedean-projective-perspective <strong>Status:</strong>
-Published (Phase 5)</p>
+Published (v0.2 — post-publication red-team corrections H1/H2)</p>
 <hr />
 <h2 id="abstract">Abstract</h2>
 <p>Things farther away appear smaller, and two-point linear perspective
@@ -215,6 +215,15 @@ at theorem level; without them it is unfounded. The naive alternative —
 ultrametric perception <em>without</em> a rendering — is already
 falsified by the observed smoothness of perspective, which is recorded
 here as falsified hypotheses C3–C4 rather than silently avoided.</p>
+<p><strong>v0.2 (2026-08-16).</strong> Post-publication red-team
+corrections: the Monna-map discontinuity justification is corrected (§4
+— the invalid “totally disconnected, hence discontinuous” shorthand is
+replaced by the digit argument, H1); the code-availability declaration
+is corrected and the verification script is deposited (H2); the §5
+rendering maps coordinate-wise into <span
+class="math inline">\(\mathbb{R}^3\)</span>; and Monna’s original 1952
+construction is now cited (ref 12). The underdetermination theorem, the
+falsifiability register, and the ontology claims are unchanged.</p>
 <hr />
 <h2 id="introduction-and-positioning">1. Introduction and
 Positioning</h2>
@@ -225,11 +234,13 @@ if instead of an Archimedean linear geometry, perspective is actually
 non-Archimedean and ultrametric? Would we perceive the same thing, and
 what would that actually mean ontologically?”</em></p>
 <p>The QNFO corpus already treats ultrametric geometry as the candidate
-substrate for physics and computation [1,2,3,6,7,8], treats the observer
-as a node inside the ultrametric tree [4], and names the Monna map as
-the ratio-based interface between p-adic structure and continuous
-experience [5]. What the corpus lacks — identified by the full-corpus
-due-diligence sweep of 2026-08-16 (995 living-paper records, evidence in
+substrate for physics and computation [1,2,3], the external
+p-adic-physics literature pursues the same substrate hypothesis at the
+Planck scale [6,7,8], the corpus treats the observer as a node inside
+the ultrametric tree [4], and names the Monna map as the ratio-based
+interface between p-adic structure and continuous experience [5]. What
+the corpus lacks — identified by the full-corpus due-diligence sweep of
+2026-08-16 (995 living-paper records, evidence in
 <code>artifacts/external-search/corpus-sweep-evidence.json</code>) — is
 the worked example of <em>visual projective perspective</em>: vanishing
 points, apparent-size scaling, and the line of sight, analyzed from both
@@ -313,15 +324,24 @@ class="math inline">\(R \colon X \to V\)</span>. Perception measures
 only quantities defined in <span class="math inline">\(V\)</span>.</p>
 <p><strong>The candidate map.</strong> The Monna map <span
 class="math inline">\(M \colon \mathbb{Q}_p \to \mathbb{R}\)</span> is
-the classical surjection from the p-adics onto the reals [9]; it is
-necessarily non-continuous, since <span
-class="math inline">\(\mathbb{Q}_p\)</span> is totally disconnected and
-<span class="math inline">\(\mathbb{R}\)</span> is connected. Pitkänen’s
-“canonical identification” of p-adic and real physics is the same
-construction [10,11]. The corpus’s Module 11 already proposes the Monna
-map as the ratio-based consciousness interface [5], and UNO states the
-interface premise directly: the mind “naturally smooths the discrete
-nature of reality into a continuous narrative” [1].</p>
+the classical surjection from the p-adics onto the reals [9], and it is
+discontinuous at every point. (A tempting shorthand — “totally
+disconnected domain, connected codomain, hence discontinuous” — is not a
+valid general principle: the Cantor function is a continuous surjection
+from a totally disconnected space onto <span
+class="math inline">\([0,1]\)</span>, and <span
+class="math inline">\(\lvert \cdot \rvert_p \colon \mathbb{Q}_p \to
+\mathbb{R}\)</span> is non-constant and continuous. The discontinuity
+follows from the map’s digit definition instead: <span
+class="math inline">\(-p^m \to 0\)</span> p-adically while <span
+class="math inline">\(M(-p^m) = p^{-m+1} \to \infty\)</span> in <span
+class="math inline">\(\mathbb{R}\)</span>.) Pitkänen’s “canonical
+identification” of p-adic and real physics is the same construction
+[10,11], both descending from Monna’s original transformation [12]. The
+corpus’s Module 11 already proposes the Monna map as the ratio-based
+consciousness interface [5], and UNO states the interface premise
+directly: the mind “naturally smooths the discrete nature of reality
+into a continuous narrative” [1].</p>
 <p><strong>Lemma (rendering).</strong> Given premise (i) — perception is
 a rendering — the metric structure an observer experiences is the metric
 of the image space <span class="math inline">\(V\)</span>, not the
@@ -345,11 +365,13 @@ space <span class="math inline">\(V\)</span>. For the Archimedean
 substrate, take <span class="math inline">\(R\)</span> to be the
 familiar similarity rendering. For the ultrametric substrate, compose a
 surjection <span class="math inline">\(\pi \colon X \to
-\mathbb{Q}_p\)</span> with the Monna map, <span class="math inline">\(R
-= M \circ \pi\)</span>. Every measurement the observer can make lives in
-<span class="math inline">\(V\)</span>; the two renderings differ only
-behind the interface, where no measurement reaches. Therefore the
-observation records are identical. <span
+\mathbb{Q}_p\)</span> with the Monna map applied coordinate-wise to the
+three components of <span class="math inline">\(V \cong
+\mathbb{R}^3\)</span>: <span class="math inline">\(R = (M \circ \pi, M
+\circ \pi, M \circ \pi)\)</span>. Every measurement the observer can
+make lives in <span class="math inline">\(V\)</span>; the two renderings
+differ only behind the interface, where no measurement reaches.
+Therefore the observation records are identical. <span
 class="math inline">\(\square\)</span></p>
 <p><strong>Corollary.</strong> “Would we perceive the same thing?” —
 yes, in principle: the same first-person world is compatible with both
@@ -517,25 +539,27 @@ fact about the rendered.</p>
 interests. <strong>Data availability.</strong> No experimental data were
 generated. Evidence files for the due-diligence sweep and live API
 verifications are deposited (<code>artifacts/external-search/</code>).
-<strong>Code availability.</strong> No code beyond the
-citation-verification scripts (deposited) was required. <strong>Ethics
-approval.</strong> Not applicable. <strong>Preprint policy.</strong>
-This manuscript is posted as a preprint; it has not been submitted to
-any journal.</p>
+<strong>Code availability.</strong> The field-level
+citation-verification script used to produce
+<code>citation-audit.md</code> is deposited as
+<code>citation-field-verify.py</code>; no other code was required.
+<strong>Ethics approval.</strong> Not applicable. <strong>Preprint
+policy.</strong> This manuscript is posted as a preprint; it has not
+been submitted to any journal.</p>
 <hr />
 <h2 id="references">References</h2>
 <ol type="1">
-<li>QNFO Research Collective. <em>A Unified Theory of Non-Archimedean
+<li>Quni-Gudzinas, Rowan Brad. <em>A Unified Theory of Non-Archimedean
 Ontology</em>. Zenodo, 2026. DOI 10.5281/zenodo.19040000.</li>
-<li>QNFO Research Collective. <em>Ultrametric Intelligence: A
+<li>Quni-Gudzinas, Rowan Brad. <em>Ultrametric Intelligence: A
 Non-Archimedean Foundation for Artificial General Intelligence</em>.
 Zenodo, 2026. DOI 10.5281/zenodo.19925320.</li>
-<li>QNFO Research Collective. <em>Ultrametric Cognition</em>. Zenodo,
+<li>Quni-Gudzinas, Rowan Brad. <em>Ultrametric Cognition</em>. Zenodo,
 2026. DOI 10.5281/zenodo.19884971.</li>
-<li>QNFO Research Collective. <em>The Observer Inside the Tree: Can
+<li>Quni-Gudzinas, Rowan Brad. <em>The Observer Inside the Tree: Can
 Self-Location in an Ultrametric Structure Resolve the Inside/Outside
 Schism?</em> Zenodo, 2026. DOI 10.5281/zenodo.21473899.</li>
-<li>QNFO Research Collective. <em>ULTRAMETRIC PHYSICS: Module 11: Monna
+<li>Quni-Gudzinas, Rowan Brad. <em>ULTRAMETRIC PHYSICS: Module 11: Monna
 Map as Ratio-Based Consciousness Interface</em>. Zenodo, 2026. DOI
 10.5281/zenodo.19438889.</li>
 <li>B. Dragovich. <em>p-Adic and Adelic Quantum Mechanics</em>.
@@ -552,6 +576,9 @@ Map</em>. arXiv:2406.13255, 2024.</li>
 square root and p-adic light cone</em>. arXiv:hep-th/9410058, 1994.</li>
 <li>M. Pitkänen. <em>p-Adic TGD: Mathematical Ideas</em>.
 arXiv:hep-th/9506097, 1995.</li>
+<li>A. F. Monna. <em>Sur une transformation simple des nombres P-adiques
+en nombres réels</em>. Indagationes Mathematicae (Proceedings), 55:1–9,
+1952. DOI 10.1016/s1385-7258(52)50001-5.</li>
 </ol>
 </body>
 </html>

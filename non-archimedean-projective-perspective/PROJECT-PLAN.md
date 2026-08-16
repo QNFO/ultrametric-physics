@@ -4,7 +4,7 @@
 **Slug:** non-archimedean-projective-perspective
 **WBS:** QNFO.UMP.010 (parent: QNFO.UMP — Ultrametric Physics)
 **Repo:** QNFO/ultrametric-physics · **Branch:** ump/paper/non-archimedean-projective-perspective
-**Date:** 2026-08-16 · **Status:** Phase 0 (scaffold; core claim locked)
+**Date:** 2026-08-16 · **Status:** Published (v0.1 10.5281/zenodo.21969604 → v0.2 corrections; P8 complete)
 
 **Origin:** CMD RESEARCH due-diligence 2026-08-16 (vault evidence note `research-due-diligence-2026-08-16-copper-ultrametric.md`). Corpus gap: UNO (10.5281/zenodo.19040000), Ultrametric Intelligence (19925320), Ultrametric Cognition (19884971), s10-observer (21473899), and Ultrametric Physics M11 "Monna Map as Ratio-Based Consciousness Interface" (19438889) cover ontology/cognition/observer/interface — but no record treats **visual projective perspective** (vanishing points, apparent-size scaling) as the worked example of the Monna-map rendering argument.
 
@@ -28,11 +28,11 @@ Phenomenology cannot decide the metric: an Archimedean substrate and an ultramet
 | Phase | WBS | Status |
 |:------|:----|:-------|
 | P1 due diligence | QNFO.UMP.010.P1 | DONE 2026-08-16 (full-corpus sweep, evidence in vault DD note; external verification: Dragovich hep-th/0312046; Zúñiga-Galindo 2312.02744, 2410.13048; Weiß 2406.13255; Jiang 2403.05039) |
-| P2 literature triage | QNFO.UMP.010.P2 | pending (8 sources, Mandatory Symmetry Template) |
-| P3 citations | QNFO.UMP.010.P3 | pending (P3.AUTHOR-GATE field-level) |
-| P4 deep research + draft | QNFO.UMP.010.P4 | pending (PANDOC-SAFE authoring) |
-| P5 publication | QNFO.UMP.010.P5 | pending (Zenodo deposit, all source files, GitHub provenance link) |
-| P8 distribution | QNFO.UMP.010.P8 | pending (R2 mirror, D1 insert, KG node + BELONGS_TO, papers.qnfo.org) |
+| P2 literature triage | QNFO.UMP.010.P2 | complete (symmetry template in §8) |
+| P3 citations | QNFO.UMP.010.P3 | complete (12/12 field-level) |
+| P4 deep research + draft | QNFO.UMP.010.P4 | complete (v0.1 published; v0.2 corrections) |
+| P5 publication | QNFO.UMP.010.P5 | complete (v0.1 published; v0.2 newversion) |
+| P8 distribution | QNFO.UMP.010.P8 | complete (R2/D1/KG/papers.qnfo.org verified 2026-08-16) |
 
 ## 4. Gate criteria
 

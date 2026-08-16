@@ -4,7 +4,6 @@
   "method": "arxiv-mcp-server_search_papers tool calls, same session (P3.SOURCE-DISCIPLINE)",
   "queries": [
     "ti:\"p-adic\" AND ti:\"quantum mechanics\" (max_results 5)",
-    "\"non-Hermitian skin effect\" (max_results 5)",
     "Monna map p-adic real numbers (max_results 5)"
   ],
   "results": [
@@ -15,8 +14,7 @@
     {"id": "2406.13255", "title": "P-adic Poissonian Pair Correlations via the Monna Map", "authors": ["Christian Weiß"], "categories": ["math.NT"], "published": "2024-06-19", "notes": "transfers real sequences with Poissonian pair correlations to the p-adic setting via the Monna map — first explicit examples"},
     {"id": "1206.3106", "title": "On Measurements, Numbers and p-Adic Mathematical Physics", "authors": ["Branko Dragovich"], "categories": ["physics.gen-ph"], "published": "2012-05-23", "notes": "p-adic numbers are not results of measurement but describe systems/phenomena"},
     {"id": "hep-th/9410058", "title": "p-Adic description of Higgs mechanism I: p-Adic square root and p-adic light cone", "authors": ["M. Pitkänen"], "categories": ["hep-th"], "published": "1994-10-10", "notes": "TGD criticality via p-adic topology at long scales; canonical identification ancestor"},
-    {"id": "hep-th/9506097", "title": "p-Adic TGD: Mathematical Ideas", "authors": ["M. Pitkänen"], "categories": ["hep-th"], "published": "1995-06-15", "notes": "canonical identification between positive reals and p-adics; induces p-adic topology on real axis; dimensions multiples of 4/8"},
-    {"id": "2403.05039", "title": "Tunable non-Hermitian skin effect via gain and loss", "authors": ["Wen-Cheng Jiang", "Hong Wu", "Jian Li", "Qing-Xu Li", "Jia-Ji Zhu"], "categories": ["physics.app-ph", "physics.optics"], "published": "2024-03-08", "notes": "bipolar/quadripolar NHSE; context for surface-vs-bulk taxonomy (S-W companion paper)"},
-    {"id": "2310.04025", "title": "Mesoscopic non-Hermitian skin effect", "authors": ["Alexander Poddubny", "Janet Zhong", "Shanhui Fan"], "categories": ["physics.optics"], "published": "2023-10-06", "notes": "NHSE in finite-size photonic structures"}
-  ]
+    {"id": "hep-th/9506097", "title": "p-Adic TGD: Mathematical Ideas", "authors": ["M. Pitkänen"], "categories": ["hep-th"], "published": "1995-06-15", "notes": "canonical identification between positive reals and p-adics; induces p-adic topology on real axis; dimensions multiples of 4/8"}
+  ],
+  "v02_note": "v0.2: removed the two NHSE entries (companion-paper leftovers, red-team SOFT-5); added ref 12 (Monna 1952) verified via Crossref DOI 10.1016/s1385-7258(52)50001-5."
 }
