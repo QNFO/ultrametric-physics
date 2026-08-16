@@ -53,7 +53,7 @@ Deposit-immutable items fixed in the repo (commit 30afd09); they ship in the NEX
 4. **D1 identifier** — already fixed live (2026-08-16): `papers.identifier` → concept DOI 10.5281/zenodo.21969603 (readback-verified); no deposit action needed.
 
 Deferred:
-5. **C5 worked demo — DONE (2026-08-16)** — Monna Map Perspective Renderer: naive-vs-rendered perspective, exact-rational Monna-map engine, golden-value gate (96/96), generic functionality gate + 19/19 demo-specific Playwright suite (desktop + mobile), native gh-pages deploy. Live: https://qnfo.github.io/qwav-demo-monna-map-perspective/ · Source: `QNFO/qwav-demos:monna-map-perspective/` · Paper: 10.5281/zenodo.21969784 §4/§7 C3-C5.
+5. **C5 worked demo — DONE (2026-08-16)** — Monna Map Perspective Renderer: naive-vs-rendered perspective, exact-rational Monna-map engine, golden-value gate (96/96), generic functionality gate + 20/20 demo-specific Playwright suite (desktop + mobile), native gh-pages deploy. Live: https://qnfo.github.io/qwav-demo-monna-map-perspective/ · Source: `QNFO/qwav-demos:monna-map-perspective/` · Paper: 10.5281/zenodo.21969784 §4/§7 C3-C5.
 
 ## 6. Open questions (P4 register)
 
