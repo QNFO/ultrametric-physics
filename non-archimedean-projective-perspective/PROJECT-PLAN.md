@@ -43,6 +43,18 @@ Phenomenology cannot decide the metric: an Archimedean substrate and an ultramet
 
 Paper `.md`/`.html`/`.pdf` · `references.bib` · `citation-audit.md` · `artifacts/external-search/*` evidence · `docs/deep-research.md`.
 
+## 7. Version Backlog (2026-08-16)
+
+Deposit-immutable items fixed in the repo (commit 30afd09); they ship in the NEXT Zenodo version (the v0.2 record 10.5281/zenodo.21969784 keeps the pre-fix text):
+
+1. **Evidence JSON** — `artifacts/external-search/corpus-sweep-evidence.json` gap_finding carried the pre-renumber "QNFO.UMP.009" wording; fixed to QNFO.UMP.010 + changelog note (zero literal 009 residue in the repo file).
+2. **README/PROJECT-PLAN DOI pins** — moved to the concept DOI 10.5281/zenodo.21969603 (ZENODO-CONCEPT-DOI-CITE-1); the deposit carries the v0.1-record pins.
+3. **Reference fidelity** — inline ref 2 title case (ULTRAMETRIC INTELLIGENCE) and ref 8 author (Nathaniel P. Mayes) fixed; the deposit carries the pre-fix forms.
+4. **D1 identifier** — already fixed live (2026-08-16): `papers.identifier` → concept DOI 10.5281/zenodo.21969603 (readback-verified); no deposit action needed.
+
+Deferred:
+5. **C5 worked demo** — Monna-map rendering of a two-point perspective scene (numerical rendering; the falsifiability probe of §7 C5) — deferred to the qwav-demo-kit pipeline (DEM).
+
 ## 6. Open questions (P4 register)
 
 1. Can a worked Monna-map rendering numerically reproduce a two-point perspective image (falsifiable demo)?
