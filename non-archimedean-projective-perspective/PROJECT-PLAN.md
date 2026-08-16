@@ -1,8 +1,8 @@
-# WBS: QNFO.UMP.009
+# WBS: QNFO.UMP.010
 
 **Title:** Non-Archimedean Projective Perspective: The Monna Map as a Visual Rendering Interface
 **Slug:** non-archimedean-projective-perspective
-**WBS:** QNFO.UMP.009 (parent: QNFO.UMP — Ultrametric Physics)
+**WBS:** QNFO.UMP.010 (parent: QNFO.UMP — Ultrametric Physics)
 **Repo:** QNFO/ultrametric-physics · **Branch:** ump/paper/non-archimedean-projective-perspective
 **Date:** 2026-08-16 · **Status:** Phase 0 (scaffold; core claim locked)
 
@@ -27,12 +27,12 @@ Phenomenology cannot decide the metric: an Archimedean substrate and an ultramet
 
 | Phase | WBS | Status |
 |:------|:----|:-------|
-| P1 due diligence | QNFO.UMP.009.P1 | DONE 2026-08-16 (full-corpus sweep, evidence in vault DD note; external verification: Dragovich hep-th/0312046; Zúñiga-Galindo 2312.02744, 2410.13048; Weiß 2406.13255; Jiang 2403.05039) |
-| P2 literature triage | QNFO.UMP.009.P2 | pending (8 sources, Mandatory Symmetry Template) |
-| P3 citations | QNFO.UMP.009.P3 | pending (P3.AUTHOR-GATE field-level) |
-| P4 deep research + draft | QNFO.UMP.009.P4 | pending (PANDOC-SAFE authoring) |
-| P5 publication | QNFO.UMP.009.P5 | pending (Zenodo deposit, all source files, GitHub provenance link) |
-| P8 distribution | QNFO.UMP.009.P8 | pending (R2 mirror, D1 insert, KG node + BELONGS_TO, papers.qnfo.org) |
+| P1 due diligence | QNFO.UMP.010.P1 | DONE 2026-08-16 (full-corpus sweep, evidence in vault DD note; external verification: Dragovich hep-th/0312046; Zúñiga-Galindo 2312.02744, 2410.13048; Weiß 2406.13255; Jiang 2403.05039) |
+| P2 literature triage | QNFO.UMP.010.P2 | pending (8 sources, Mandatory Symmetry Template) |
+| P3 citations | QNFO.UMP.010.P3 | pending (P3.AUTHOR-GATE field-level) |
+| P4 deep research + draft | QNFO.UMP.010.P4 | pending (PANDOC-SAFE authoring) |
+| P5 publication | QNFO.UMP.010.P5 | pending (Zenodo deposit, all source files, GitHub provenance link) |
+| P8 distribution | QNFO.UMP.010.P8 | pending (R2 mirror, D1 insert, KG node + BELONGS_TO, papers.qnfo.org) |
 
 ## 4. Gate criteria
 

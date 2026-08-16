@@ -1,4 +1,4 @@
-# Deep Research — QNFO.UMP.009 (docs/deep-research.md)
+# Deep Research — QNFO.UMP.010 (docs/deep-research.md)
 
 ## The four moves, expanded
 

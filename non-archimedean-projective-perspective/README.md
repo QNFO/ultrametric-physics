@@ -1,6 +1,6 @@
 # Non-Archimedean Projective Perspective
 
-**WBS:** QNFO.UMP.009 · **DOI:** 10.5281/zenodo.21969604 · **Slug:** non-archimedean-projective-perspective
+**WBS:** QNFO.UMP.010 · **DOI:** 10.5281/zenodo.21969604 · **Slug:** non-archimedean-projective-perspective
 **Author:** Rowan Brad Quni-Gudzinas (QNFO Research Collective) · **Branch:** `ump/paper/non-archimedean-projective-perspective`
 
 The worked example the QNFO ultrametric program was missing: visual projective perspective,

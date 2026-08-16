@@ -1,4 +1,4 @@
-# Core Claim — QNFO.UMP.009 (LOCKED at P6, 2026-08-16)
+# Core Claim — QNFO.UMP.010 (LOCKED at P6, 2026-08-16)
 
 **Statement [MAP].** First-person visual appearances cannot determine whether the metric of physical space is Archimedean or ultrametric: linear perspective's continuous size–distance scaling is Archimedean-projective, and an ultrametric substrate admits a non-continuous rendering — for which the Monna map (p-adic → real; surjective; nowhere continuous) is an explicit candidate — that produces the same appearances.
 

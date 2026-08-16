@@ -15,7 +15,7 @@ keywords: ["non-Archimedean geometry", "ultrametric", "Monna map", "visual perce
 **ORCID:** 0009-0002-4317-5604
 **Date:** 2026-08-16
 **Version:** v0.1
-**WBS:** QNFO.UMP.009 · **Slug:** non-archimedean-projective-perspective
+**WBS:** QNFO.UMP.010 · **Slug:** non-archimedean-projective-perspective
 **Status:** Published (Phase 5)
 
 ---
