@@ -1,0 +1,14 @@
+{
+  "generated": "2026-08-16",
+  "session": "cf6l76-se1QL-hrp2Z9As",
+  "method": "live doi.org HEAD + Zenodo records API GET (same session)",
+  "checks": [
+    {"doi": "10.5281/zenodo.19039999", "result": "HTTP 200, redirects to https://zenodo.org/records/19040000", "finding": "legacy alias; canonical is 19040000"},
+    {"doi": "10.5281/zenodo.19040000", "result": "HTTP 200", "finding": "canonical UNO record DOI"},
+    {"doi": "10.5281/zenodo.21473899", "result": "HTTP 200"},
+    {"doi": "10.5281/zenodo.19884971", "result": "HTTP 200"},
+    {"doi": "10.5281/zenodo.19925320", "result": "HTTP 200"},
+    {"doi": "10.5281/zenodo.21931225", "result": "HTTP 200", "finding": "S-W v0.1 anchor for the companion paper"}
+  ],
+  "note": "All QNFO corpus DOIs cited in this paper were re-verified field-level in citation-audit.md (authors + titles + concept IDs) at deposit time."
+}

@@ -1,0 +1,22 @@
+{
+  "generated": "2026-08-16",
+  "session": "cf6l76-se1QL-hrp2Z9As",
+  "method": "arxiv-mcp-server_search_papers tool calls, same session (P3.SOURCE-DISCIPLINE)",
+  "queries": [
+    "ti:\"p-adic\" AND ti:\"quantum mechanics\" (max_results 5)",
+    "\"non-Hermitian skin effect\" (max_results 5)",
+    "Monna map p-adic real numbers (max_results 5)"
+  ],
+  "results": [
+    {"id": "hep-th/0312046", "title": "p-Adic and Adelic Quantum Mechanics", "authors": ["Branko Dragovich"], "categories": ["hep-th"], "published": "2003-12-04", "notes": "p-adic QM formulated at Planck scale; adelic approach yields spacetime discreteness dependent on adelic quantum state"},
+    {"id": "2210.01566", "title": "Trace class operators and states in p-adic quantum mechanics", "authors": ["Paolo Aniello", "Stefano Mancini", "Vincenzo Parisi"], "categories": ["math-ph", "quant-ph"], "published": "2022-10-04", "notes": "trace-class operators over quadratic extension of Q_p; p-adic probability model"},
+    {"id": "2312.02744", "title": "p-Adic Quantum Mechanics, the Dirac Equation, and the violation of Einstein causality", "authors": ["W. A. Zúñiga-Galindo"], "categories": ["quant-ph"], "published": "2023-12-05", "notes": "3-dim p-adic position vectors, real time; Planck length = 1/p; Lorentz symmetry broken; localized solutions; Einstein causality violated"},
+    {"id": "2410.13048", "title": "p-Adic quantum mechanics, infinite potential wells, and continuous-time quantum walks", "authors": ["W. A. Zúñiga-Galindo", "Nathaniel P. Mayes"], "categories": ["quant-ph"], "published": "2024-10-16", "notes": "p-adic infinite well; p-adic balls are fractals; CTQW on fully connected graph of sub-balls; bridge to quantum computing"},
+    {"id": "2406.13255", "title": "P-adic Poissonian Pair Correlations via the Monna Map", "authors": ["Christian Weiß"], "categories": ["math.NT"], "published": "2024-06-19", "notes": "transfers real sequences with Poissonian pair correlations to the p-adic setting via the Monna map — first explicit examples"},
+    {"id": "1206.3106", "title": "On Measurements, Numbers and p-Adic Mathematical Physics", "authors": ["Branko Dragovich"], "categories": ["physics.gen-ph"], "published": "2012-05-23", "notes": "p-adic numbers are not results of measurement but describe systems/phenomena"},
+    {"id": "hep-th/9410058", "title": "p-Adic description of Higgs mechanism I: p-Adic square root and p-adic light cone", "authors": ["M. Pitkänen"], "categories": ["hep-th"], "published": "1994-10-10", "notes": "TGD criticality via p-adic topology at long scales; canonical identification ancestor"},
+    {"id": "hep-th/9506097", "title": "p-Adic TGD: Mathematical Ideas", "authors": ["M. Pitkänen"], "categories": ["hep-th"], "published": "1995-06-15", "notes": "canonical identification between positive reals and p-adics; induces p-adic topology on real axis; dimensions multiples of 4/8"},
+    {"id": "2403.05039", "title": "Tunable non-Hermitian skin effect via gain and loss", "authors": ["Wen-Cheng Jiang", "Hong Wu", "Jian Li", "Qing-Xu Li", "Jia-Ji Zhu"], "categories": ["physics.app-ph", "physics.optics"], "published": "2024-03-08", "notes": "bipolar/quadripolar NHSE; context for surface-vs-bulk taxonomy (S-W companion paper)"},
+    {"id": "2310.04025", "title": "Mesoscopic non-Hermitian skin effect", "authors": ["Alexander Poddubny", "Janet Zhong", "Shanhui Fan"], "categories": ["physics.optics"], "published": "2023-10-06", "notes": "NHSE in finite-size photonic structures"}
+  ]
+}

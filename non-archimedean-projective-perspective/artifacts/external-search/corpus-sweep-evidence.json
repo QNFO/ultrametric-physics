@@ -1,0 +1,23 @@
+{
+  "generated": "2026-08-16",
+  "session": "cf6l76-se1QL-hrp2Z9As",
+  "method": "direct D1 living-paper HTTP sweep (acct edb167b78c9fb901ea5bca3ce58ccc4b, db 70a58cb3-b2cd-498d-877f-ecca86859a22) — Vectorize paths (qnfo-memory-mcp) were down with Worker 1101 during the sweep (logged)",
+  "corpus_baseline": {"papers_total": 995, "papers_with_doi": 444},
+  "kg_baseline": {"nodes": 8291, "edges": 8435, "paper_nodes": 1631, "program_nodes": 21, "domain_nodes": 16},
+  "patterns": ["ultrametric (25 rows)", "non-Archimedean (17 rows)", "p-adic (25 rows)", "perspective (3 rows)", "Ostrowski (23 rows)", "ontology (24 rows)"],
+  "unique_relevant_hits": 96,
+  "key_rows": [
+    {"slug": "unified-theory-of-non-archimedean-ontology", "doi": null, "note": "canonical DOI resolved live 2026-08-16: 10.5281/zenodo.19040000 (legacy alias 19039999 redirects)"},
+    {"slug": "ultrametric-intelligence-a-non-archimedean-foundation-for-artificial-general-intelligence", "doi": "10.5281/zenodo.19925320"},
+    {"slug": "ultrametric-cognition", "doi": "10.5281/zenodo.19884971"},
+    {"slug": "s10-observer", "doi": "10.5281/zenodo.21473899"},
+    {"slug": "ultrametric-physics-m11", "doi": "10.5281/zenodo.19438889", "note": "Monna Map as Ratio-Based Consciousness Interface (KG node zenodo-19438889)"},
+    {"slug": "embodied-mathematics-lakoff-nunez", "doi": "10.5281/zenodo.21440894"},
+    {"slug": "measurement-stratigraphy", "doi": "10.5281/zenodo.21705220"},
+    {"slug": "continuum-trilogy-03-unified-ontology", "doi": "10.5281/zenodo.21672990"},
+    {"slug": "universal-ignorance-audit", "doi": "10.5281/zenodo.21878976"},
+    {"slug": "qec-darwinism-ultrametric", "doi": "10.5281/zenodo.21964674"},
+    {"slug": "time-as-epistemic-cognitive-fiction", "doi": null}
+  ],
+  "gap_finding": "No record treats visual projective perspective (vanishing points, apparent-size scaling, line of sight) as the worked example of the Monna-map rendering argument — hence QNFO.UMP.009."
+}

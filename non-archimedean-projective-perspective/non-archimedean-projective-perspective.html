@@ -1,0 +1,557 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <meta name="author" content="Quni-Gudzinas, Rowan Brad" />
+  <meta name="dcterms.date" content="2026-08-16" />
+  <meta name="keywords" content="non-Archimedean
+geometry, ultrametric, Monna map, visual
+perception, perspective, projective geometry, p-adic, Ostrowski
+theorem, ontology, rendering interface" />
+  <title>Non-Archimedean Projective Perspective: The Monna Map as a Visual Rendering Interface</title>
+  <style>
+    /* Default styles provided by pandoc.
+    ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+    */
+    html {
+      color: #1a1a1a;
+      background-color: #fdfdfd;
+    }
+    body {
+      margin: 0 auto;
+      max-width: 36em;
+      padding-left: 50px;
+      padding-right: 50px;
+      padding-top: 50px;
+      padding-bottom: 50px;
+      hyphens: auto;
+      overflow-wrap: break-word;
+      text-rendering: optimizeLegibility;
+      font-kerning: normal;
+    }
+    @media (max-width: 600px) {
+      body {
+        font-size: 0.9em;
+        padding: 12px;
+      }
+      h1 {
+        font-size: 1.8em;
+      }
+    }
+    @media print {
+      html {
+        background-color: white;
+      }
+      body {
+        background-color: transparent;
+        color: black;
+        font-size: 12pt;
+      }
+      p, h2, h3 {
+        orphans: 3;
+        widows: 3;
+      }
+      h2, h3, h4 {
+        page-break-after: avoid;
+      }
+    }
+    p {
+      margin: 1em 0;
+    }
+    a {
+      color: #1a1a1a;
+    }
+    a:visited {
+      color: #1a1a1a;
+    }
+    img {
+      max-width: 100%;
+    }
+    svg {
+      height: auto;
+      max-width: 100%;
+    }
+    h1, h2, h3, h4, h5, h6 {
+      margin-top: 1.4em;
+    }
+    h5, h6 {
+      font-size: 1em;
+      font-style: italic;
+    }
+    h6 {
+      font-weight: normal;
+    }
+    ol, ul {
+      padding-left: 1.7em;
+      margin-top: 1em;
+    }
+    li > ol, li > ul {
+      margin-top: 0;
+    }
+    blockquote {
+      margin: 1em 0 1em 1.7em;
+      padding-left: 1em;
+      border-left: 2px solid #e6e6e6;
+      color: #606060;
+    }
+    code {
+      white-space: pre-wrap;
+      font-family: Menlo, Monaco, Consolas, 'Lucida Console', monospace;
+      font-size: 85%;
+      margin: 0;
+      hyphens: manual;
+    }
+    pre {
+      margin: 1em 0;
+      overflow: auto;
+    }
+    pre code {
+      padding: 0;
+      overflow: visible;
+      overflow-wrap: normal;
+    }
+    .sourceCode {
+     background-color: transparent;
+     overflow: visible;
+    }
+    hr {
+      border: none;
+      border-top: 1px solid #1a1a1a;
+      height: 1px;
+      margin: 1em 0;
+    }
+    table {
+      margin: 1em 0;
+      border-collapse: collapse;
+      width: 100%;
+      overflow-x: auto;
+      display: block;
+      font-variant-numeric: lining-nums tabular-nums;
+    }
+    table caption {
+      margin-bottom: 0.75em;
+    }
+    tbody {
+      margin-top: 0.5em;
+      border-top: 1px solid #1a1a1a;
+      border-bottom: 1px solid #1a1a1a;
+    }
+    th {
+      border-top: 1px solid #1a1a1a;
+      padding: 0.25em 0.5em 0.25em 0.5em;
+    }
+    td {
+      padding: 0.125em 0.5em 0.25em 0.5em;
+    }
+    header {
+      margin-bottom: 4em;
+      text-align: center;
+    }
+    #TOC li {
+      list-style: none;
+    }
+    #TOC ul {
+      padding-left: 1.3em;
+    }
+    #TOC > ul {
+      padding-left: 0;
+    }
+    #TOC a:not(:hover) {
+      text-decoration: none;
+    }
+    span.smallcaps{font-variant: small-caps;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
+  </style>
+  <script defer=""
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js"
+  type="text/javascript"></script>
+</head>
+<body>
+<header id="title-block-header">
+<h1 class="title">Non-Archimedean Projective Perspective: The Monna Map
+as a Visual Rendering Interface</h1>
+<p class="author">Quni-Gudzinas, Rowan Brad</p>
+<p class="date">2026-08-16</p>
+</header>
+<p><strong>Author:</strong> Quni-Gudzinas, Rowan Brad (QNFO Research
+Collective) <strong>ORCID:</strong> 0009-0002-4317-5604
+<strong>Date:</strong> 2026-08-16 <strong>Version:</strong> v0.1
+<strong>WBS:</strong> QNFO.UMP.009 · <strong>Slug:</strong>
+non-archimedean-projective-perspective <strong>Status:</strong>
+Published (Phase 5)</p>
+<hr />
+<h2 id="abstract">Abstract</h2>
+<p>Things farther away appear smaller, and two-point linear perspective
+is taken to approximate the eye. That entire phenomenology is
+Archimedean geometry. This paper asks what changes if the metric of
+physical space were instead non-Archimedean and ultrametric — would we
+perceive the same thing, and what would that mean ontologically?
+<strong>Why a reader should care:</strong> the question converts a
+familiar visual fact into a decisive constraint on a live research
+program (p-adic and ultrametric physics [1,6,7,8]) — smooth perspective
+does not rule out a discrete world, it only rules out <em>direct</em>
+perception of one, and the distinction marks the exact boundary between
+physics and phenomenology. <strong>Premise depth:</strong> the
+underdetermination result rests on two imported premises — (i)
+perception is a constructed interface, not a direct reading of the
+substrate (Kantian interface premise, adopted from the corpus’s Unified
+Theory of Non-Archimedean Ontology [1]); (ii) the Monna map, a
+surjective non-continuous map from the p-adics to the reals, exists
+(established mathematics [9]). Given (i) and (ii) the conclusion follows
+at theorem level; without them it is unfounded. The naive alternative —
+ultrametric perception <em>without</em> a rendering — is already
+falsified by the observed smoothness of perspective, which is recorded
+here as falsified hypotheses C3–C4 rather than silently avoided.</p>
+<hr />
+<h2 id="introduction-and-positioning">1. Introduction and
+Positioning</h2>
+<p>The originating question (Obsidian note <code>_26228180341.md</code>,
+2026-08-16): <em>“Things that are farther away appear smaller, and 2
+point linear perspective is thought to approximate our eyes — but what
+if instead of an Archimedean linear geometry, perspective is actually
+non-Archimedean and ultrametric? Would we perceive the same thing, and
+what would that actually mean ontologically?”</em></p>
+<p>The QNFO corpus already treats ultrametric geometry as the candidate
+substrate for physics and computation [1,2,3,6,7,8], treats the observer
+as a node inside the ultrametric tree [4], and names the Monna map as
+the ratio-based interface between p-adic structure and continuous
+experience [5]. What the corpus lacks — identified by the full-corpus
+due-diligence sweep of 2026-08-16 (995 living-paper records, evidence in
+<code>artifacts/external-search/corpus-sweep-evidence.json</code>) — is
+the worked example of <em>visual projective perspective</em>: vanishing
+points, apparent-size scaling, and the line of sight, analyzed from both
+the Archimedean and the ultrametric side. This paper supplies that
+worked example in four moves: (2) the Archimedean anatomy of
+perspective; (3) the ultrametric demolition of its ingredients; (4) the
+rendering lemma that restores the appearances; (5) the
+underdetermination theorem and its ontological consequences.</p>
+<hr />
+<h2 id="the-archimedean-anatomy-of-perspective-territory">2. The
+Archimedean Anatomy of Perspective [TERRITORY]</h2>
+<p>Linear perspective rests on three Archimedean ingredients.</p>
+<p><strong>(a) Similar triangles.</strong> For an object of height <span
+class="math inline">\(h\)</span> at distance <span
+class="math inline">\(d\)</span> from an eye, the apparent size is
+governed by the subtended angle <span class="math inline">\(\theta
+\approx h/d\)</span> for <span class="math inline">\(d \gg h\)</span>.
+The proportionality is the similar-triangles theorem of Euclidean
+geometry, and it requires two things: a well-defined ratio of lengths,
+and a well-defined angle.</p>
+<p><strong>(b) Additive distance along geodesics.</strong> The distance
+<span class="math inline">\(d\)</span> is accumulated along a straight
+line — a geodesic — and satisfies the Archimedean property: finitely
+many steps of any positive length can cross any finite gap. Distance is
+the sum of its parts, which is exactly what makes “farther” a continuous
+degree.</p>
+<p><strong>(c) Projective closure.</strong> Two-point perspective is
+projective geometry over <span
+class="math inline">\(\mathbb{R}\)</span>: parallel lines are completed
+by ideal points — the vanishing points — on the line at infinity. The
+construction is algebraic over the reals and inherits the real field’s
+order, completeness, and Archimedean valuation.</p>
+<p>Every element of the familiar phenomenology — smooth shrinking,
+vanishing points, the horizon as a line — is Archimedean machinery.</p>
+<hr />
+<h2 id="the-ultrametric-demolition-territory">3. The Ultrametric
+Demolition [TERRITORY]</h2>
+<p>Now suppose the metric is ultrametric: <span
+class="math inline">\(d(x,z) \leq \max(d(x,y), d(y,z))\)</span> for all
+<span class="math inline">\(x, y, z\)</span> — the strong triangle
+inequality. Four standard consequences [BACKGROUND — not from search;
+standard metric theory] dismantle §2 piece by piece.</p>
+<p><strong>(a) Every triangle is isosceles</strong> (the two longest
+sides are equal). The geometry has no “betweenness” in the Euclidean
+sense; detours never add distance.</p>
+<p><strong>(b) Balls have no boundaries.</strong> In an ultrametric
+space every point of a ball is a center of that ball, and balls are
+clopen — simultaneously open and closed. A “surface” of a ball is empty.
+There is no horizon <em>line</em>: the boundary the vanishing point
+would sit on does not exist.</p>
+<p><strong>(c) The space is totally disconnected.</strong> No two points
+are joined by a continuous path: any continuous map <span
+class="math inline">\(f \colon [0,1] \to X\)</span> from the connected
+interval into a totally disconnected space is constant. There are no
+continuous light rays, no lines of sight, no geodesic spray along which
+“farther” could accumulate.</p>
+<p><strong>(d) Size, if imposed by fiat, is discrete.</strong> In the
+p-adic model, with <span class="math inline">\(\lvert \cdot
+\rvert_p\)</span>, distances take values in <span
+class="math inline">\(\{p^n : n \in \mathbb{Z}\}\)</span>. An
+apparent-size law <span class="math inline">\(\theta \propto
+1/d\)</span> would then jump by factors of <span
+class="math inline">\(p\)</span> — a digital staircase, not a smooth
+gradient.</p>
+<p>So the direct answer to the originating question is:
+<strong>no.</strong> If perception were a direct reading of an
+ultrametric substrate, we would not perceive the same thing — we would
+perceive no continuous perspective at all, and the vanishing “point”
+would decompose into a tree of nested clopen cells.</p>
+<p>But that is the naive answer, and it is already falsified by ordinary
+vision. The interesting question is not whether direct ultrametric
+perception survives — it does not — but whether a <em>rendered</em> one
+does. That is the next move.</p>
+<hr />
+<h2 id="the-rendering-lemma-map">4. The Rendering Lemma [MAP]</h2>
+<p><strong>Definition (rendering interface).</strong> Let <span
+class="math inline">\(X\)</span> be the substrate metric space and <span
+class="math inline">\(V \cong \mathbb{R}^3\)</span> the experienced
+visual field. A rendering is a surjective map <span
+class="math inline">\(R \colon X \to V\)</span>. Perception measures
+only quantities defined in <span class="math inline">\(V\)</span>.</p>
+<p><strong>The candidate map.</strong> The Monna map <span
+class="math inline">\(M \colon \mathbb{Q}_p \to \mathbb{R}\)</span> is
+the classical surjection from the p-adics onto the reals [9]; it is
+necessarily non-continuous, since <span
+class="math inline">\(\mathbb{Q}_p\)</span> is totally disconnected and
+<span class="math inline">\(\mathbb{R}\)</span> is connected. Pitkänen’s
+“canonical identification” of p-adic and real physics is the same
+construction [10,11]. The corpus’s Module 11 already proposes the Monna
+map as the ratio-based consciousness interface [5], and UNO states the
+interface premise directly: the mind “naturally smooths the discrete
+nature of reality into a continuous narrative” [1].</p>
+<p><strong>Lemma (rendering).</strong> Given premise (i) — perception is
+a rendering — the metric structure an observer experiences is the metric
+of the image space <span class="math inline">\(V\)</span>, not the
+metric of <span class="math inline">\(X\)</span>. In particular, a
+continuous-looking visual field is compatible with an ultrametric
+substrate whenever a surjective rendering exists. <em>Falsifiability C1:
+a no-go theorem ruling out surjective renderings of the required kind
+would kill the lemma.</em></p>
+<p>The Monna map is a <em>candidate</em>, not <em>the</em> map: it is
+non-injective and far from canonical (§8). What matters for the argument
+is existence, and existence is established [9].</p>
+<hr />
+<h2 id="the-underdetermination-theorem-map">5. The Underdetermination
+Theorem [MAP]</h2>
+<p><strong>Theorem (perceptual underdetermination).</strong> Given
+premises (i) and (ii), no finite set of first-person visual observations
+— apparent sizes, parallax, vanishing-point convergence — can
+distinguish an Archimedean substrate from an ultrametric substrate.</p>
+<p><em>Proof sketch.</em> Both substrates render into the same image
+space <span class="math inline">\(V\)</span>. For the Archimedean
+substrate, take <span class="math inline">\(R\)</span> to be the
+familiar similarity rendering. For the ultrametric substrate, compose a
+surjection <span class="math inline">\(\pi \colon X \to
+\mathbb{Q}_p\)</span> with the Monna map, <span class="math inline">\(R
+= M \circ \pi\)</span>. Every measurement the observer can make lives in
+<span class="math inline">\(V\)</span>; the two renderings differ only
+behind the interface, where no measurement reaches. Therefore the
+observation records are identical. <span
+class="math inline">\(\square\)</span></p>
+<p><strong>Corollary.</strong> “Would we perceive the same thing?” —
+yes, in principle: the same first-person world is compatible with both
+metrics.</p>
+<p><strong>The honest converse.</strong> This does not show the world is
+ultrametric. It shows the metric of the substrate is <em>not decidable
+from inside the interface</em>. The equivalence itself — not either
+disjunct — is the finding. And the naive converse fails too: smooth
+perspective does not establish an Archimedean world, because §4’s
+rendering exists. Vision constrains the <em>interface</em>, not the
+world.</p>
+<hr />
+<h2 id="ontological-consequences-map">6. Ontological Consequences
+[MAP]</h2>
+<p><strong>(1) The continuum is demoted to an appearance.</strong>
+Apparent continuity is evidence about the rendering, not about the
+substrate — Kant’s forms-of-intuition thesis, sharpened by an explicit
+candidate geometry: the smoothness that makes linear perspective “look
+right” is the geometry we assumed before we drew.</p>
+<p><strong>(2) Distance becomes a degree of isolation, not a
+gap.</strong> In the corpus’s informational ontology, substrate distance
+measures the degree of computational isolation between states [1]. “Far”
+is deep in the tree, not far along a line.</p>
+<p><strong>(3) Identity becomes tree-based.</strong> An object is a
+cluster in nested neighborhoods; individuation is partition-theoretic,
+not point-like.</p>
+<p><strong>(4) Ostrowski’s theorem turns the metric into a
+postulate.</strong> The only nontrivial absolute values on <span
+class="math inline">\(\mathbb{Q}\)</span> are the real one and the
+p-adic ones [BACKGROUND — not from search; standard]. The Archimedean
+choice baked into every ruler, every eye, and every perspective diagram
+is therefore a genuine postulate, validated only by measurement — by how
+the physical universe responds — never by mathematics alone.</p>
+<p><strong>(5) The interface can be studied from inside.</strong> What
+we cannot decide, we can still probe: a rendering with structure leaks
+structure. The falsifiable probes are in §7.</p>
+<hr />
+<h2 id="falsifiability-register">7. Falsifiability Register</h2>
+<table>
+<colgroup>
+<col style="width: 5%" />
+<col style="width: 13%" />
+<col style="width: 11%" />
+<col style="width: 52%" />
+<col style="width: 15%" />
+</colgroup>
+<thead>
+<tr>
+<th style="text-align: left;">#</th>
+<th style="text-align: left;">Claim</th>
+<th style="text-align: left;">Type</th>
+<th style="text-align: left;">Falsifiability condition</th>
+<th style="text-align: left;">Status</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;">C1</td>
+<td style="text-align: left;">A surjective rendering from an ultrametric
+model onto the visual field exists (rendering lemma)</td>
+<td style="text-align: left;">MAP</td>
+<td style="text-align: left;">a no-go theorem rules out surjective
+renderings of the required kind</td>
+<td style="text-align: left;">OPEN</td>
+</tr>
+<tr>
+<td style="text-align: left;">C2</td>
+<td style="text-align: left;">First-person observations cannot separate
+Archimedean from ultrametric substrates (underdetermination)</td>
+<td style="text-align: left;">MAP</td>
+<td style="text-align: left;">a first-person observable invariant across
+all Archimedean renderings but absent from all ultrametric renderings is
+found</td>
+<td style="text-align: left;">OPEN</td>
+</tr>
+<tr>
+<td style="text-align: left;">C3</td>
+<td style="text-align: left;">Direct (unrendered) ultrametric perception
+predicts discrete apparent-size jumps</td>
+<td style="text-align: left;">naive model</td>
+<td style="text-align: left;">smooth size–distance laws observed</td>
+<td style="text-align: left;"><strong>FALSIFIED</strong> (ordinary
+vision); motivates §4</td>
+</tr>
+<tr>
+<td style="text-align: left;">C4</td>
+<td style="text-align: left;">Direct ultrametric perception predicts the
+absence of smooth parallax</td>
+<td style="text-align: left;">naive model</td>
+<td style="text-align: left;">smooth parallax observed</td>
+<td style="text-align: left;"><strong>FALSIFIED</strong> (ordinary
+vision); motivates §4</td>
+</tr>
+<tr>
+<td style="text-align: left;">C5</td>
+<td style="text-align: left;">The interface, being a rendering of
+something, exhibits glitch-level discreteness</td>
+<td style="text-align: left;">MAP-speculative</td>
+<td style="text-align: left;">a worked Monna-map rendering (planned
+demo) reproduces all known smooth vision with no distinctive
+residue</td>
+<td style="text-align: left;">OPEN, deferred to the P4 demo</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2 id="mandatory-symmetry-template">8. Mandatory Symmetry Template</h2>
+<h3 id="where-external-literature-supports-the-claim">Where External
+Literature Supports the Claim</h3>
+<ul>
+<li><strong>Dragovich (2003) [6], Zúñiga-Galindo (2023) [7],
+Zúñiga-Galindo &amp; Mayes (2024) [8]</strong> — p-adic quantum
+mechanics is a live, rigorous research program; the question “is the
+substrate non-Archimedean?” is not idle speculation, and [7] already
+shows p-adic models produce physical predictions (Planck-scale
+Einstein-causality violation).</li>
+<li><strong>Weiß (2024) [9]</strong> — the Monna map is current
+mathematics, used to transfer real sequences with Poissonian pair
+correlations to the p-adic setting; the rendering map is a real object,
+not a metaphor.</li>
+<li><strong>UNO [1]</strong> — the interface premise (the mind smooths
+the discrete into a continuous narrative) and the informational ontology
+of distance are stated corpus doctrine.</li>
+</ul>
+<h3
+id="where-external-literature-constrains-or-contradicts-the-claim">Where
+External Literature Constrains or Contradicts the Claim</h3>
+<ul>
+<li><strong>No external paper applies the Monna map to visual
+perception.</strong> The rendering lemma (§4) is this paper’s
+extrapolation; the corpus’s M11 [5] proposes it internally but is not
+external validation. A reader should treat §4–§6 as interpretive
+proposal, not established result.</li>
+<li><strong>The p-adic program treats <span
+class="math inline">\(\mathbb{Q}_p\)</span> as quantum position space at
+the Planck scale</strong> [6,7,8] — not as the metric of macroscopic
+visual space. The perceptual application here is a further step the
+cited literature does not take.</li>
+<li><strong>The Monna map is non-injective and non-canonical.</strong>
+Many surjections onto <span class="math inline">\(\mathbb{R}\)</span>
+exist; the theorem needs only <em>one</em>, so its force survives, but
+the map cannot be recovered from the phenomenology — which is exactly
+the underdetermination conclusion.</li>
+<li><strong>The theorem’s force comes entirely from premise
+(i),</strong> which is philosophical. No experiment proposed in §7
+distinguishes the interfaces; C5 is the only probe that bites, and it is
+deferred. [NO CONSTRAINING EVIDENCE FOUND] applies to the naive-model
+falsifications C3–C4: nothing in the literature rescues direct
+ultrametric perception.</li>
+</ul>
+<hr />
+<h2 id="conclusion">9. Conclusion</h2>
+<p>Naive ultrametric perception is falsified by smooth vision —
+recorded, not avoided (C3–C4). Rendered ultrametric perception is
+indistinguishable from Archimedean perception (§5). Together: the
+world’s metric is a postulate, validated only by interaction, and the
+only thing perception ever measures is the interface. The originating
+question’s answer is therefore both — we would perceive the same thing,
+and the meaning of that fact is that the continuum is a rendering, not a
+fact about the rendered.</p>
+<hr />
+<h2 id="declarations">Declarations</h2>
+<p><strong>Funding.</strong> This work received no external funding.
+<strong>Competing interests.</strong> The author declares no competing
+interests. <strong>Data availability.</strong> No experimental data were
+generated. Evidence files for the due-diligence sweep and live API
+verifications are deposited (<code>artifacts/external-search/</code>).
+<strong>Code availability.</strong> No code beyond the
+citation-verification scripts (deposited) was required. <strong>Ethics
+approval.</strong> Not applicable. <strong>Preprint policy.</strong>
+This manuscript is posted as a preprint; it has not been submitted to
+any journal.</p>
+<hr />
+<h2 id="references">References</h2>
+<ol type="1">
+<li>QNFO Research Collective. <em>A Unified Theory of Non-Archimedean
+Ontology</em>. Zenodo, 2026. DOI 10.5281/zenodo.19040000.</li>
+<li>QNFO Research Collective. <em>Ultrametric Intelligence: A
+Non-Archimedean Foundation for Artificial General Intelligence</em>.
+Zenodo, 2026. DOI 10.5281/zenodo.19925320.</li>
+<li>QNFO Research Collective. <em>Ultrametric Cognition</em>. Zenodo,
+2026. DOI 10.5281/zenodo.19884971.</li>
+<li>QNFO Research Collective. <em>The Observer Inside the Tree: Can
+Self-Location in an Ultrametric Structure Resolve the Inside/Outside
+Schism?</em> Zenodo, 2026. DOI 10.5281/zenodo.21473899.</li>
+<li>QNFO Research Collective. <em>ULTRAMETRIC PHYSICS: Module 11: Monna
+Map as Ratio-Based Consciousness Interface</em>. Zenodo, 2026. DOI
+10.5281/zenodo.19438889.</li>
+<li>B. Dragovich. <em>p-Adic and Adelic Quantum Mechanics</em>.
+arXiv:hep-th/0312046, 2003.</li>
+<li>W. A. Zúñiga-Galindo. <em>p-Adic Quantum Mechanics, the Dirac
+Equation, and the violation of Einstein causality</em>.
+arXiv:2312.02744, 2023.</li>
+<li>W. A. Zúñiga-Galindo and N. P. Mayes. <em>p-Adic quantum mechanics,
+infinite potential wells, and continuous-time quantum walks</em>.
+arXiv:2410.13048, 2024.</li>
+<li>C. Weiß. <em>P-adic Poissonian Pair Correlations via the Monna
+Map</em>. arXiv:2406.13255, 2024.</li>
+<li>M. Pitkänen. <em>p-Adic description of Higgs mechanism I: p-Adic
+square root and p-adic light cone</em>. arXiv:hep-th/9410058, 1994.</li>
+<li>M. Pitkänen. <em>p-Adic TGD: Mathematical Ideas</em>.
+arXiv:hep-th/9506097, 1995.</li>
+</ol>
+</body>
+</html>
