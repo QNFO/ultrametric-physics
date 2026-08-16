@@ -155,13 +155,13 @@ Naive ultrametric perception is falsified by smooth vision — recorded, not avo
 ## References
 
 1. Quni-Gudzinas, Rowan Brad. *A Unified Theory of Non-Archimedean Ontology*. Zenodo, 2026. DOI 10.5281/zenodo.19040000.
-2. Quni-Gudzinas, Rowan Brad. *Ultrametric Intelligence: A Non-Archimedean Foundation for Artificial General Intelligence*. Zenodo, 2026. DOI 10.5281/zenodo.19925320.
+2. Quni-Gudzinas, Rowan Brad. *ULTRAMETRIC INTELLIGENCE: A Non-Archimedean Foundation for Artificial General Intelligence*. Zenodo, 2026. DOI 10.5281/zenodo.19925320.
 3. Quni-Gudzinas, Rowan Brad. *Ultrametric Cognition*. Zenodo, 2026. DOI 10.5281/zenodo.19884971.
 4. Quni-Gudzinas, Rowan Brad. *The Observer Inside the Tree: Can Self-Location in an Ultrametric Structure Resolve the Inside/Outside Schism?* Zenodo, 2026. DOI 10.5281/zenodo.21473899.
 5. Quni-Gudzinas, Rowan Brad. *ULTRAMETRIC PHYSICS: Module 11: Monna Map as Ratio-Based Consciousness Interface*. Zenodo, 2026. DOI 10.5281/zenodo.19438889.
 6. B. Dragovich. *p-Adic and Adelic Quantum Mechanics*. arXiv:hep-th/0312046, 2003.
 7. W. A. Zúñiga-Galindo. *p-Adic Quantum Mechanics, the Dirac Equation, and the violation of Einstein causality*. arXiv:2312.02744, 2023.
-8. W. A. Zúñiga-Galindo and N. P. Mayes. *p-Adic quantum mechanics, infinite potential wells, and continuous-time quantum walks*. arXiv:2410.13048, 2024.
+8. W. A. Zúñiga-Galindo and Nathaniel P. Mayes. *p-Adic quantum mechanics, infinite potential wells, and continuous-time quantum walks*. arXiv:2410.13048, 2024.
 9. C. Weiß. *P-adic Poissonian Pair Correlations via the Monna Map*. arXiv:2406.13255, 2024.
 10. M. Pitkänen. *p-Adic description of Higgs mechanism I: p-Adic square root and p-adic light cone*. arXiv:hep-th/9410058, 1994.
 11. M. Pitkänen. *p-Adic TGD: Mathematical Ideas*. arXiv:hep-th/9506097, 1995.

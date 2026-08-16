@@ -4,7 +4,7 @@
 **Slug:** non-archimedean-projective-perspective
 **WBS:** QNFO.UMP.010 (parent: QNFO.UMP — Ultrametric Physics)
 **Repo:** QNFO/ultrametric-physics · **Branch:** ump/paper/non-archimedean-projective-perspective
-**Date:** 2026-08-16 · **Status:** Published (v0.1 10.5281/zenodo.21969604 → v0.2 corrections; P8 complete)
+**Date:** 2026-08-16 · **Status:** Published (v0.1 10.5281/zenodo.21969604 → v0.2 10.5281/zenodo.21969784; concept 10.5281/zenodo.21969603; P8 complete)
 
 **Origin:** CMD RESEARCH due-diligence 2026-08-16 (vault evidence note `research-due-diligence-2026-08-16-copper-ultrametric.md`). Corpus gap: UNO (10.5281/zenodo.19040000), Ultrametric Intelligence (19925320), Ultrametric Cognition (19884971), s10-observer (21473899), and Ultrametric Physics M11 "Monna Map as Ratio-Based Consciousness Interface" (19438889) cover ontology/cognition/observer/interface — but no record treats **visual projective perspective** (vanishing points, apparent-size scaling) as the worked example of the Monna-map rendering argument.
 
