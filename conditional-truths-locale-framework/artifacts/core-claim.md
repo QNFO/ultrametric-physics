@@ -28,7 +28,7 @@ Stripped of anthropocentric units, the natural observables are counts and ratios
 
 ## Premise-depth disclosure (SO-WHAT-GATE-1)
 
-- **Named imported inputs:** Ladyman–Ross ontic structural realism (C2); Ostrowski's theorem (C4); Monna map construction, Monna 1952 (C3); UMP.010 underdetermination result, 10.5281/zenodo.21969784 (C3 base case); effective-field-theory locale doctrine (C1 evidence base).
+- **Named imported inputs:** Ladyman–Ross ontic structural realism (C2); Ostrowski's theorem (C4); Monna map construction, Monna 1952 (C3); UMP.010 underdetermination result, concept DOI 10.5281/zenodo.21969603 (latest v0.3: 10.5281/zenodo.21979032) (C3 base case); effective-field-theory locale doctrine (C1 evidence base).
 - **Unanalyzable primitives:** "locale" (a specified domain of applicability) and "interface/rendering" (a map from substrate to image space) — defined ostensively, not derived.
 - **Derived:** C1 (synthesis of documented cases); C3 (generalization of the UMP.010 visual case to arbitrary first-person observation); C4 (standard metrology restated).
 - **Where the premises END:** no dynamical theory of seams; no claim the substrate IS ultrametric; no derived completion or unit.

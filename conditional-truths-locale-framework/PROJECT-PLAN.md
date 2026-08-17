@@ -12,7 +12,7 @@
 - `_26229070121.md` (2026-08-17) — map vs territory: the pedagogical map (spinning charged sphere) must be burned at the seam; the territory is the transformation law; question: is the ontological territory "pure mathematical structure" or not?
 - `_26229070448.md` (2026-08-17) — conditional truths of physics: photon mass, speed of light, energy conservation, electron charge/mass, second law, Newton's law, vacuum, spin — each holds only within a locale; the ontological territory is invariant relational constraint (ontic structural realism), actualized as process.
 
-**Ancestor:** QNFO.UMP.010 "Non-Archimedean Projective Perspective" (10.5281/zenodo.21969784, concept 10.5281/zenodo.21969603, P8 complete) — visual projective perspective as the worked special case of the Monna-map rendering argument. This project generalizes that argument to ALL physical statements (the locale framework) and states its epistemology.
+**Ancestor:** QNFO.UMP.010 "Non-Archimedean Projective Perspective" (latest v0.3 10.5281/zenodo.21979032, 2026-08-17; cite via concept DOI 10.5281/zenodo.21969603, P8 complete) — visual projective perspective as the worked special case of the Monna-map rendering argument. This project generalizes that argument to ALL physical statements (the locale framework) and states its epistemology.
 
 ---
 
@@ -36,8 +36,8 @@ Formalize the four-note synthesis as a UMP paper with four moves:
 
 | Phase | WBS | Status |
 |:------|:----|:-------|
-| P0 init + claim lock | QNFO.UMP.011.P0 | IN PROGRESS (this commit) |
-| P1 due diligence | QNFO.UMP.011.P1 | pending (full-corpus sweep, DUE-DILIGENCE-DEPTH-1) |
+| P0 init + claim lock | QNFO.UMP.011.P0 | DONE 2026-08-17 (commit 41b88b6, tag v0.1-phase0-ump011, D1 row readback-verified) |
+| P1 due diligence | QNFO.UMP.011.P1 | DONE 2026-08-17 (16-formulation FTS sweep, 997-paper corpus; cross-system validation; external verification 6/6; evidence in artifacts/) |
 | P2 literature triage | QNFO.UMP.011.P2 | pending |
 | P3 citations | QNFO.UMP.011.P3 | pending |
 | P4 deep research + draft | QNFO.UMP.011.P4 | pending |

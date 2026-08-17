@@ -1,0 +1,262 @@
+{
+ "method": "D1 living-paper papers_fts FTS5 (title+abstract), two-step rowid lookup, LIMIT 20 per formulation; 997 papers indexed",
+ "note": "Vectorize channels (qnfo-memory-mcp search_papers, search_papers_enriched) UNAVAILABLE this turn: Worker Error 1101 (worker_threw_exception) on qnfo-memory-mcp.q08.workers.dev, 7/7 calls, ray_ids a2c876015d2d6053/a2c876095e6dfbdc/a2c8760baa1b6053/a2c8760e8869fbdc/a2c876114acc6053/a2c876143bb0fbdc/a2c876825fb89fa8/a2c87687cddadc45/a2c8768aac9e9fa8/a2c8768d7955dc45. Compensated by D1 FTS + KG + memory channels.",
+ "counts": {
+  "T1a_conditional": 6,
+  "T1b_locale": 0,
+  "T1c_eft": 0,
+  "T1d_applicability": 0,
+  "T2a_monna": 4,
+  "T2b_ultrametric": 20,
+  "T2c_padic": 20,
+  "T2d_perspective": 3,
+  "T3a_structural_realism": 1,
+  "T3b_map_territory": 1,
+  "T3c_spin": 14,
+  "T3d_ontology": 20,
+  "T4a_ostrowski": 20,
+  "T4b_completion": 12,
+  "T4c_temperature": 5,
+  "T4d_frequency": 11
+ },
+ "rows_key_topics": {
+  "T1a_conditional": [
+   {
+    "slug": "conditional-state-distances-pw-clocks",
+    "doi": "10.5281/zenodo.21120286",
+    "zenodo_doi": "10.5281/zenodo.21120286",
+    "title": "Conditional State Distances in Page-Wootters Quantum Clocks: When Does Ultrametricity Emer",
+    "domains": null
+   },
+   {
+    "slug": "trapped-ions-ultrametric",
+    "doi": "10.5281/zenodo.21120469",
+    "zenodo_doi": "10.5281/zenodo.21120469",
+    "title": "ultrametric_v2",
+    "domains": null
+   },
+   {
+    "slug": "conditional-state-distances-in-page-wootters-quantum-clocks-when-does-ultrametricity-emerge",
+    "doi": "10.5281/zenodo.21120286",
+    "zenodo_doi": "10.5281/zenodo.21120286",
+    "title": "Conditional State Distances in Page-Wootters Quantum Clocks: When Does Ultrametricity Emer",
+    "domains": null
+   },
+   {
+    "slug": "trapped-ion-page-wootters-experiment-protocol-for-testing-ultrametricity",
+    "doi": "10.5281/zenodo.21120469",
+    "zenodo_doi": "10.5281/zenodo.21120469",
+    "title": "Trapped-Ion Page-Wootters Experiment: Protocol for Testing Ultrametricity",
+    "domains": null
+   },
+   {
+    "slug": "s10-observer",
+    "doi": "10.5281/zenodo.21473899",
+    "zenodo_doi": "10.5281/zenodo.21473899",
+    "title": "The Observer Inside the Tree: Can Self-Location in an Ultrametric Structure Resolve the In",
+    "domains": null
+   },
+   {
+    "slug": "measurement-stratigraphy",
+    "doi": "10.5281/zenodo.21705220",
+    "zenodo_doi": "10.5281/zenodo.21705220",
+    "title": "The History and Future of Measurement Stratigraphy, Number Theory, and Valuation Theory",
+    "domains": null
+   }
+  ],
+  "T2a_monna": [
+   {
+    "slug": "monna-map-generation-and-hallucination",
+    "doi": null,
+    "zenodo_doi": null,
+    "title": "Monna Map Generation and Hallucination",
+    "domains": null
+   },
+   {
+    "slug": "29-schism-synthesis",
+    "doi": "10.5281/zenodo.21458373",
+    "zenodo_doi": "10.5281/zenodo.21458373",
+    "title": "The Hidden Fractures: Self-Referential Calibration and the 29 Schisms of Physics",
+    "domains": null
+   },
+   {
+    "slug": "measurable-vs-imaginable",
+    "doi": "10.5281/zenodo.21645350",
+    "zenodo_doi": "10.5281/zenodo.21645350",
+    "title": "The Computable Real Boundary: Where Physics Ends and Cognitive Fiction Begins",
+    "domains": null
+   },
+   {
+    "slug": "non-archimedean-projective-perspective",
+    "doi": "10.5281/zenodo.21979032",
+    "zenodo_doi": "10.5281/zenodo.21979032",
+    "title": "Non-Archimedean Projective Perspective: The Monna Map as a Visual Rendering Interface",
+    "domains": null
+   }
+  ],
+  "T2d_perspective": [
+   {
+    "slug": "embodied-mathematics-lakoff-nunez",
+    "doi": "10.5281/zenodo.21440894",
+    "zenodo_doi": "10.5281/zenodo.21440894",
+    "title": "Embodied Mathematics After Lakoff & Nunez: A QNFO Perspective",
+    "domains": null
+   },
+   {
+    "slug": "s10-observer",
+    "doi": "10.5281/zenodo.21473899",
+    "zenodo_doi": "10.5281/zenodo.21473899",
+    "title": "The Observer Inside the Tree: Can Self-Location in an Ultrametric Structure Resolve the In",
+    "domains": null
+   },
+   {
+    "slug": "non-archimedean-projective-perspective",
+    "doi": "10.5281/zenodo.21979032",
+    "zenodo_doi": "10.5281/zenodo.21979032",
+    "title": "Non-Archimedean Projective Perspective: The Monna Map as a Visual Rendering Interface",
+    "domains": null
+   }
+  ],
+  "T3a_structural_realism": [
+   {
+    "slug": "universe-category-functor",
+    "doi": "10.5281/zenodo.21880064",
+    "zenodo_doi": "10.5281/zenodo.21880064",
+    "title": "The Universe Category: A Single Functor Encoding Quantization, Stability, and Factorizatio",
+    "domains": null
+   }
+  ],
+  "T3b_map_territory": [
+   {
+    "slug": "universal-ignorance-audit",
+    "doi": "10.5281/zenodo.21878976",
+    "zenodo_doi": "10.5281/zenodo.21901984",
+    "title": "The Universal Ignorance Audit: A Fifteen-Question Method for Systematic Inquiry into the S",
+    "domains": null
+   }
+  ],
+  "T4b_completion": [
+   {
+    "slug": "adelic-constraints-on-quantum-field-theory-phase-1",
+    "doi": "10.5281/zenodo.20095902",
+    "zenodo_doi": "10.5281/zenodo.20095902",
+    "title": "Adelic Constraints on Quantum Field Theory: Phase 1",
+    "domains": null
+   },
+   {
+    "slug": "non-anthropocentric-natural-units",
+    "doi": "10.5281/zenodo.21480756",
+    "zenodo_doi": "10.5281/zenodo.21480756",
+    "title": "Non-Anthropocentric Natural Units: From the Bekenstein Bound to Ostrowski's Theorem",
+    "domains": null
+   },
+   {
+    "slug": "harmonic-adelic-completions",
+    "doi": "10.5281/zenodo.21511271",
+    "zenodo_doi": "10.5281/zenodo.21511271",
+    "title": "The Adelic Completion of the Harmonic Paradigm: A Five-Pillar Red-Team Assessment",
+    "domains": null
+   },
+   {
+    "slug": "consilience-physics-number-theory",
+    "doi": "10.5281/zenodo.21590155",
+    "zenodo_doi": "10.5281/zenodo.21590155",
+    "title": "Consilience Between Physics and Number Theory: Convergent Theses from Ostrowski's Theorem ",
+    "domains": null
+   },
+   {
+    "slug": "measure-theoretic-artifacts-archimedean-place",
+    "doi": "10.5281/zenodo.21595214",
+    "zenodo_doi": "10.5281/zenodo.21595214",
+    "title": "Measure-Theoretic Artifacts of the Archimedean Place: A Complete Taxonomy and the Adelic R",
+    "domains": null
+   },
+   {
+    "slug": "tate-adelic-template",
+    "doi": "10.5281/zenodo.21600741",
+    "zenodo_doi": "10.5281/zenodo.21600741",
+    "title": "Tate's Thesis as a Template for Adelic Quantum Mechanics: Local-Global Structure and the E",
+    "domains": null
+   },
+   {
+    "slug": "measure-theoretic-artifacts-adelic-completion",
+    "doi": "10.5281/zenodo.21601112",
+    "zenodo_doi": "10.5281/zenodo.21601112",
+    "title": "Measure-Theoretic Artifacts of the Archimedean Place \u2014 v2.0: The Completion Problem, the L",
+    "domains": null
+   },
+   {
+    "slug": "hidden-radix-pqc",
+    "doi": "10.5281/zenodo.21978750",
+    "zenodo_doi": "10.5281/zenodo.21978750",
+    "title": "Hidden-Radix Cryptography and Post-Quantum Cryptography: A Comparative Analysis",
+    "domains": "cryptography, post-quantum, number-theory"
+   },
+   {
+    "slug": "adelic-langlands-physics",
+    "doi": "10.5281/zenodo.21609889",
+    "zenodo_doi": "10.5281/zenodo.21609889",
+    "title": "Adelic Langlands Physics \u2014 A Unified Framework Across All Completions of Q",
+    "domains": null
+   },
+   {
+    "slug": "consilience-physics-numtheory",
+    "doi": "10.5281/zenodo.21590155",
+    "zenodo_doi": "10.5281/zenodo.21590155",
+    "title": "Consilience Between Physics and Number Theory: Convergent Theses from Ostrowski's Theorem ",
+    "domains": null
+   },
+   {
+    "slug": "harmonic-ostrowski-re-evaluation",
+    "doi": "10.5281/zenodo.21535017",
+    "zenodo_doi": "10.5281/zenodo.21535017",
+    "title": "The Harmonic Paradigm Under Ostrowski\u2019s Theorem: A p-Adic/Ad\u00e9lic Re-Evaluation with Helica",
+    "domains": null
+   },
+   {
+    "slug": "ostrowski-dimensionless-reformulation",
+    "doi": "10.5281/zenodo.21756190",
+    "zenodo_doi": "10.5281/zenodo.21756190",
+    "title": "The Ostrowski Dimensionless Reformulation: A Systematic Compilation of Fundamental Physics",
+    "domains": null
+   }
+  ],
+  "T4c_temperature": [
+   {
+    "slug": "chiral-high-temperature-topological-processing",
+    "doi": null,
+    "zenodo_doi": null,
+    "title": "Chiral High-Temperature Topological Processing",
+    "domains": null
+   },
+   {
+    "slug": "commercial-pathways-to-room-temperature-topological-quantum-computation",
+    "doi": null,
+    "zenodo_doi": null,
+    "title": "Commercial Pathways to Room-Temperature Topological Quantum Computation",
+    "domains": null
+   },
+   {
+    "slug": "chtp-4-kelvin-twistronic-architecture",
+    "doi": null,
+    "zenodo_doi": null,
+    "title": "Chiral High-Temperature Topological Processing",
+    "domains": null
+   },
+   {
+    "slug": "jpcub-competitive-landscape",
+    "doi": "10.5281/zenodo.21821767",
+    "zenodo_doi": "10.5281/zenodo.21821767",
+    "title": "JPCUB Competitive Landscape v2.0: System-Level Joules-per-Solution Estimates for 17 Quantu",
+    "domains": null
+   },
+   {
+    "slug": "electron-hook-treatise",
+    "doi": "10.5281/zenodo.21975507",
+    "zenodo_doi": "10.5281/zenodo.21975507",
+    "title": "A Critical Treatise on the Load-Bearing Assumptions of Quantum Mechanics, Thermodynamics, ",
+    "domains": "[\"RES\"]"
+   }
+  ]
+ }
+}

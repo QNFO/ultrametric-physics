@@ -1,0 +1,141 @@
+{
+ "zenodo": {
+  "21979032": {
+   "status": 200,
+   "doi": "10.5281/zenodo.21979032",
+   "conceptdoi": "10.5281/zenodo.21969603",
+   "version": null,
+   "pubdate": "2026-08-17",
+   "title": "Non-Archimedean Projective Perspective: The Monna Map as a Visual Rendering Interface"
+  },
+  "21969784": {
+   "status": 200,
+   "doi": "10.5281/zenodo.21969784",
+   "version": "v0.2",
+   "pubdate": "2026-08-16"
+  }
+ },
+ "crossref": {
+  "monna1952": {
+   "status": 200,
+   "title": [
+    "Sur une transformation simple des nombres P-adiques en nombres reels"
+   ],
+   "volume": "55",
+   "page": "1-9",
+   "year": {
+    "date-parts": [
+     [
+      1952
+     ]
+    ]
+   }
+  },
+  "ladyman_ross": {
+   "status": 200,
+   "hits": [
+    {
+     "doi": "10.1007/s11023-009-9145-7",
+     "title": "James Ladyman and Don Ross, Every Thing Must Go: Metaphysics Naturalized",
+     "year": 2009
+    },
+    {
+     "doi": "10.1093/acprof:oso/9780199276196.001.0001",
+     "title": "Every Thing Must Go",
+     "year": 2007
+    },
+    {
+     "doi": "10.1093/acprof:oso/9780199276196.003.0006",
+     "title": "Conclusion\u2014Philosophy Enough",
+     "year": 2007
+    }
+   ]
+  }
+ },
+ "openalex": {
+  "monna_map_top5": [
+   {
+    "doi": "https://doi.org/10.1016/j.indag.2024.09.012",
+    "title": "P-adic Poissonian pair correlations via the Monna map",
+    "year": 2024,
+    "cited": 1
+   },
+   {
+    "doi": "https://doi.org/10.1007/bf02391811",
+    "title": "The space of $\\mathfrak{p}$ -adic normsnorms",
+    "year": 1963,
+    "cited": 64
+   },
+   {
+    "doi": "https://doi.org/10.2977/prims/1195186702",
+    "title": "A $p$-Adic Theory of Hyperfunctions, I",
+    "year": 1981,
+    "cited": 22
+   },
+   {
+    "doi": "https://doi.org/10.1088/0305-4470/30/3/013",
+    "title": "On the spectrum of the<b><i>p</i></b>-adic position operator",
+    "year": 1997,
+    "cited": 28
+   },
+   {
+    "doi": "https://doi.org/10.1088/0305-4470/29/17/023",
+    "title": "Representations of the Weyl group in spaces of square integrable functions with respect to<b><i>p</i",
+    "year": 1996,
+    "cited": 50
+   }
+  ],
+  "monna_map_total_count_125": "from meta.count (fulltext search 'Monna map p-adic')",
+  "conditional_truths_top": [
+   {
+    "doi": null,
+    "title": "Ontology evolution in physics",
+    "year": 2013
+   },
+   {
+    "doi": "https://doi.org/10.71781/10277",
+    "title": "Statistical physics of constraint satisfaction problems",
+    "year": 2020
+   },
+   {
+    "doi": null,
+    "title": "Vladimir Fock (1898-1974) : externalist itinerary of an internalist thought. Antireductionism and sc",
+    "year": 2017
+   }
+  ]
+ },
+ "arxiv": {
+  "pitkanen": [
+   {
+    "title": "p-Adic TGD: Mathematical Ideas",
+    "id": "http://arxiv.org/abs/hep-th/9506097v2"
+   },
+   {
+    "title": "p-Adic Field Theory limit of TGD is free of UV divergences",
+    "id": "http://arxiv.org/abs/hep-th/9412103v3"
+   }
+  ],
+  "burgess_eft": [
+   {
+    "title": "Introduction to Effective Field Theory",
+    "id": "http://arxiv.org/abs/hep-th/0701053v2"
+   },
+   {
+    "title": "Introduction to Effective Field Theory",
+    "id": "http://arxiv.org/abs/nucl-th/0010015v1"
+   },
+   {
+    "title": "An Introduction to Effective Field Theories",
+    "id": "http://arxiv.org/abs/2006.16285v1"
+   },
+   {
+    "title": "Introduction to Effective Field Theories",
+    "id": "http://arxiv.org/abs/1804.05863v1"
+   },
+   {
+    "title": "Introduction to Effective Field Theories in QCD",
+    "id": "http://arxiv.org/abs/nucl-th/0205058v1"
+   }
+  ]
+ }
+}
