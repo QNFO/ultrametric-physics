@@ -38,7 +38,8 @@ Formalize the four-note synthesis as a UMP paper with four moves:
 |:------|:----|:-------|
 | P0 init + claim lock | QNFO.UMP.011.P0 | DONE 2026-08-17 (commit 41b88b6, tag v0.1-phase0-ump011, D1 row readback-verified) |
 | P1 due diligence | QNFO.UMP.011.P1 | DONE 2026-08-17 (16-formulation FTS sweep, 997-paper corpus; cross-system validation; external verification 6/6; evidence in artifacts/) |
-| P2 literature triage | QNFO.UMP.011.P2 | pending |
+| P1b consilience gates | QNFO.UMP.011.P1B | DONE 2026-08-17 (KIF-29 consilience-gate.md MVF-1..3 + silo cost table; KIF-60 bayesian-evidential-weight.md — C3 is the only positive-weight claim, MVF-1 capped [RETRODICTION]) |
+| P2 literature triage | QNFO.UMP.011.P2 | DONE 2026-08-17 (10-source external triage, literature-triage-evidence.json + phase2 doc; OSR-criticism engagement set 3 refs; EFT-philosophy lineage; p-adic-cognition positioning; Monna-map use net-new) |
 | P3 citations | QNFO.UMP.011.P3 | pending |
 | P4 deep research + draft | QNFO.UMP.011.P4 | pending |
 | P5 publication | QNFO.UMP.011.P5 | pending (Zenodo only — NO-JOURNALS-1) |

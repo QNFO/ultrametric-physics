@@ -1,0 +1,384 @@
+{
+ "openalex_ultrametric_perception": [
+  {
+   "doi": "https://doi.org/10.3389/fphy.2015.00077",
+   "title": "Quantum-like modeling of cognition",
+   "year": 2015,
+   "cited": 93
+  },
+  {
+   "doi": "https://doi.org/10.1073/pnas.2004976117",
+   "title": "Multiscale structural complexity of natural patterns",
+   "year": 2020,
+   "cited": 69
+  },
+  {
+   "doi": "https://doi.org/10.3389/fpsyg.2015.00997",
+   "title": "Quantum-like model of unconscious\u2013conscious dynamics",
+   "year": 2015,
+   "cited": 48
+  },
+  {
+   "doi": "https://doi.org/10.4171/emss/4-2-3",
+   "title": "Numerical infinities and infinitesimals: Methodology, applications, and repercussions on two Hilbert problems",
+   "year": 2017,
+   "cited": 131
+  },
+  {
+   "doi": "https://doi.org/10.1016/j.pbiomolbio.2017.08.004",
+   "title": "East-West paths to unconventional computing",
+   "year": 2017,
+   "cited": 27
+  },
+  {
+   "doi": "https://doi.org/10.20944/preprints202103.0454.v1",
+   "title": "Cooperative Functioning of Unconscious and Consciousness From Theory of Open Quantum Systems",
+   "year": 2021,
+   "cited": 5
+  },
+  {
+   "doi": "https://doi.org/10.1017/s1062798720000459",
+   "title": "Symmetrization, Mirroring and External Reality: An \u2018Inner\u2019 Perspective",
+   "year": 2020,
+   "cited": 5
+  },
+  {
+   "doi": "https://doi.org/10.14704/nq.2019.17.1.1904",
+   "title": "Quantum Metalanguage and The New Cognitive Synthesis",
+   "year": 2019,
+   "cited": 5
+  }
+ ],
+ "openalex_eft_domain": [
+  {
+   "doi": "https://doi.org/10.1186/s13012-015-0242-0",
+   "title": "Making sense of implementation theories, models and frameworks",
+   "year": 2015,
+   "cited": 4644
+  },
+  {
+   "doi": "https://doi.org/10.2307/25148742",
+   "title": "The Nature of Theory in Information Systems1",
+   "year": 2006,
+   "cited": 3259
+  },
+  {
+   "doi": "https://doi.org/10.1088/0034-4885/30/2/306",
+   "title": "The theory of equilibrium critical phenomena",
+   "year": 1967,
+   "cited": 2506
+  },
+  {
+   "doi": "https://doi.org/10.1257/0022051043004577",
+   "title": "Field Experiments",
+   "year": 2004,
+   "cited": 2098
+  },
+  {
+   "doi": "https://doi.org/10.17705/1jais.00129",
+   "title": "The Anatomy of a Design Theory",
+   "year": 2007,
+   "cited": 1354
+  },
+  {
+   "doi": "https://doi.org/10.1017/cbo9780511535123",
+   "title": "Nonequilibrium Quantum Field Theory",
+   "year": 2008,
+   "cited": 509
+  },
+  {
+   "doi": "https://doi.org/10.1017/s0140525x12001495",
+   "title": "An integrated theory of language production and comprehension",
+   "year": 2013,
+   "cited": 1603
+  },
+  {
+   "doi": "https://doi.org/10.1017/s0140525x04000093",
+   "title": "The emulation theory of representation: Motor control, imagery, and perception",
+   "year": 2004,
+   "cited": 1390
+  }
+ ],
+ "openalex_osr_criticism": [
+  {
+   "doi": "https://doi.org/10.1007/s13194-012-0054-x",
+   "title": "Ontic structural realism and the interpretation of quantum mechanics",
+   "year": 2012,
+   "cited": 48
+  },
+  {
+   "doi": "https://doi.org/10.1086/662258",
+   "title": "Is There a Compelling Argument for Ontic Structural Realism?",
+   "year": 2011,
+   "cited": 31
+  },
+  {
+   "doi": "https://doi.org/10.1023/b:synt.0000047712.39407.c3",
+   "title": "On the Preferability of Epistemic Structural Realism",
+   "year": 2004,
+   "cited": 73
+  },
+  {
+   "doi": "https://doi.org/10.3998/ergo.12405314.0005.038",
+   "title": "Ontic Explanation Is either Ontic or Explanatory, but Not Both",
+   "year": 2018,
+   "cited": 61
+  },
+  {
+   "doi": null,
+   "title": "Dispositional Essentialism and Ontic Structural Realism : a hybrid view",
+   "year": 2020,
+   "cited": 16
+  },
+  {
+   "doi": "https://doi.org/10.1016/j.polgeo.2012.11.002",
+   "title": "Political geographies of the object",
+   "year": 2013,
+   "cited": 111
+  },
+  {
+   "doi": "https://doi.org/10.1007/s10670-013-9519-3",
+   "title": "Structural Realism for Secondary Qualities",
+   "year": 2013,
+   "cited": 17
+  },
+  {
+   "doi": "https://doi.org/10.5281/zenodo.6577090",
+   "title": "Can the Subaltern Speak?: Reflections on the History of an Idea",
+   "year": 2010,
+   "cited": 1066
+  }
+ ],
+ "openalex_nonarchimedean_cognition": [
+  {
+   "doi": "https://doi.org/10.3390/e22090931",
+   "title": "An Ultrametric Random Walk Model for Disease Spread Taking into Account Social Clustering of the Population",
+   "year": 2020,
+   "cited": 19
+  },
+  {
+   "doi": "https://doi.org/10.1016/j.physa.2021.126284",
+   "title": "Ultrametric diffusion equation on energy landscape to model disease spread in hierarchic socially clustered po",
+   "year": 2021,
+   "cited": 10
+  },
+  {
+   "doi": "https://doi.org/10.1038/s41598-023-28009-0",
+   "title": "EEG-based spatio-temporal relation signatures for the diagnosis of depression and schizophrenia",
+   "year": 2023,
+   "cited": 30
+  },
+  {
+   "doi": "https://doi.org/10.1016/j.biosystems.2024.105230",
+   "title": "Generation of genetic codes with 2-adic codon algebra and adaptive dynamics",
+   "year": 2024,
+   "cited": 4
+  },
+  {
+   "doi": "https://doi.org/10.48550/arxiv.quant-ph/0111006",
+   "title": "Quantum-like formalism for cognitive measurements",
+   "year": 2001,
+   "cited": 4
+  },
+  {
+   "doi": "https://doi.org/10.21055/preprints-3111950",
+   "title": "Utrametric diffusion equation on energy landscape to model disease spread in hierarchic socially clustered pop",
+   "year": 2021,
+   "cited": 1
+  },
+  {
+   "doi": "https://doi.org/10.2478/s13230-010-0014-0",
+   "title": "Toward Psycho-robots",
+   "year": 2010,
+   "cited": 1
+  },
+  {
+   "doi": "https://doi.org/10.1101/2020.07.15.20154419",
+   "title": "Utrametric diffusion model for spread of covid-19 in socially clustered population: Can herd immunity be appro",
+   "year": 2020,
+   "cited": 1
+  }
+ ],
+ "crossref_monna_title": [
+  {
+   "doi": "10.1016/j.indag.2024.09.012",
+   "title": "P-adic Poissonian pair correlations via the Monna map",
+   "year": 2025
+  },
+  {
+   "doi": "10.7146/peri.v13i24.109528",
+   "title": "Monna Dithmer",
+   "year": 2016
+  },
+  {
+   "doi": "10.1093/benz/9780199773787.article.b00124632",
+   "title": "Monna, Raffaello della",
+   "year": 2011
+  },
+  {
+   "doi": "10.2307/40152370",
+   "title": "Io, Monna Lisa",
+   "year": 1996
+  },
+  {
+   "doi": "10.1007/978-3-476-05728-0_16950-1",
+   "title": "Rossetti, Christina: Monna Innominata",
+   "year": 2020
+  }
+ ],
+ "crossref_locale_physics": [
+  {
+   "doi": "10.1080/02698599108573379",
+   "title": "The fundamental laws of physics can tell the truth",
+   "year": 1991
+  },
+  {
+   "doi": "10.4324/9781003355816-5",
+   "title": "Truth-Conditional and Non-Truth-Conditional Meaning",
+   "year": 2024
+  },
+  {
+   "doi": "10.1007/bf01064340",
+   "title": "Are the laws of physics ?economical with the truth??",
+   "year": 1993
+  },
+  {
+   "doi": "10.4213/tvp261",
+   "title": "Conditional zero-one laws",
+   "year": 2003
+  },
+  {
+   "doi": "10.1111/1468-0068.36.s16.5",
+   "title": "Truth\u2013Conditional Pragmatics",
+   "year": 2002
+  }
+ ],
+ "arxiv_ultrametric_observer": [
+  {
+   "title": "Linear Regression in p-adic metric spaces",
+   "id": "http://arxiv.org/abs/2510.00043v1",
+   "published": "2025-09-27"
+  },
+  {
+   "title": "Time-Varying Energy Landscapes and Temperature paths: Dynamic Transition Rates in locally Ultrametric Complex ",
+   "id": "http://arxiv.org/abs/2411.03406v2",
+   "published": "2024-11-05"
+  },
+  {
+   "title": "A glimpse into the Ultrametric spectrum",
+   "id": "http://arxiv.org/abs/2601.03738v2",
+   "published": "2026-01-07"
+  },
+  {
+   "title": "Symmetry in Data Mining and Analysis: A Unifying View based on Hierarchy",
+   "id": "http://arxiv.org/abs/0805.2744v3",
+   "published": "2008-05-18"
+  },
+  {
+   "title": "Emergent quantum mechanics of the event-universe, quantization of events via Denrographic Hologram Theory",
+   "id": "http://arxiv.org/abs/2208.01931v5",
+   "published": "2022-08-03"
+  },
+  {
+   "title": "Automaton model of protein: dynamics of conformational and functional states",
+   "id": "http://arxiv.org/abs/1704.04681v1",
+   "published": "2017-04-15"
+  }
+ ],
+ "arxiv_eft_philosophy": [
+  {
+   "title": "'Running' under tight constraints in pionless effective field theory",
+   "id": "http://arxiv.org/abs/1806.03048v8",
+   "published": "2018-06-08"
+  },
+  {
+   "title": "Effective Field Theory, Past and Future",
+   "id": "http://arxiv.org/abs/0908.1964v3",
+   "published": "2009-08-13"
+  },
+  {
+   "title": "Effective Field Theories and the Role of Consistency in Theory Choice",
+   "id": "http://arxiv.org/abs/1211.0634v1",
+   "published": "2012-11-03"
+  },
+  {
+   "title": "Effective Field Theory for Low-Energy Two-Nucleon Systems",
+   "id": "http://arxiv.org/abs/hep-ph/9711463v2",
+   "published": "1997-11-25"
+  },
+  {
+   "title": "On the Topic of Emergence from an Effective Field Theory Perspective",
+   "id": "http://arxiv.org/abs/1910.13770v1",
+   "published": "2019-10-30"
+  },
+  {
+   "title": "Reductionism, Emergence, and Effective Field Theories",
+   "id": "http://arxiv.org/abs/physics/0101039v1",
+   "published": "2001-01-06"
+  }
+ ],
+ "zenodo_ultrametric_perception": [
+  {
+   "doi": "10.5281/zenodo.8362198",
+   "title": "On similarity related the genetic code",
+   "date": "2016-06-20"
+  },
+  {
+   "doi": "10.1016/j.biosystems.2024.105322",
+   "title": "The genetic code and its p-adic ultrametric modelling",
+   "date": "2024-09-02"
+  },
+  {
+   "doi": "10.1016/j.biosystems.2019.104017",
+   "title": "p-Adic hierarchical properties of the genetic code",
+   "date": "2019-08-27"
+  },
+  {
+   "doi": "10.5281/zenodo.20079326",
+   "title": "UL_pS Computational Companion",
+   "date": "2026-05-08"
+  },
+  {
+   "doi": "10.5281/zenodo.20079516",
+   "title": "Ultrametric Lindenmayer systems over prime alphabets: p-adic fractals and boundary dynamics",
+   "date": "2026-05-08"
+  },
+  {
+   "doi": "10.5281/zenodo.17568110",
+   "title": "Constructive Algorithm for p-adic Markov Chains with Chinese Remainder Bayesian Operators and Explicit Error B",
+   "date": "2025-11-10"
+  }
+ ],
+ "zenodo_conditional_physics": [
+  {
+   "doi": "10.5281/zenodo.18241248",
+   "title": "DIVERSITE DES PRATIQUES DE LEADERSHIP ET DEVELOPPEMENT LOCAL : ETUDE DE LA COMMUNE DE GOHITAFLA DANS LA REGION",
+   "date": "2026-01-14"
+  },
+  {
+   "doi": "10.5281/zenodo.3872761",
+   "title": "Romagne. Societ\u00e0 e politica, storia e tradizioni civiche nell'et\u00e0 contemporanea,",
+   "date": "2020-06-02"
+  },
+  {
+   "doi": "10.5281/zenodo.18890526",
+   "title": "R scripts for: Standardizing stool microbiome profiling through an intra-individual comparison of swab-based c",
+   "date": "2026-03-06"
+  },
+  {
+   "doi": "10.5281/zenodo.15090064",
+   "title": "Immunomodulatory effects of dental pulp stem cells on lymphocytes and monocytes from patients with rheumatoid ",
+   "date": "2025-03-26"
+  },
+  {
+   "doi": "10.5061/dryad.mgqnk9918",
+   "title": "Characteristics of COVID-19 patients predicting hospital readmission after ED discharge",
+   "date": "2022-03-07"
+  },
+  {
+   "doi": "10.5281/zenodo.10252355",
+   "title": "Analisi semiseria delle correnti teorie manageriali applicate alla sanit\u00e0 in Italia - PNRR come keis stadi",
+   "date": "2023-12-03"
+  }
+ ]
+}
