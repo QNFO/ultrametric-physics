@@ -2,6 +2,8 @@
 
 **QNFO.UMP.011** · Slug: `conditional-truths-locale-framework` · Branch: `ump/paper/conditional-truths-locale-framework`
 
+> v0.4 (2026-08-17): companion application artifact added — the locale framework applied to quantum computing innovations & practical applications (QPL 2026 practitioner-paper review + challenge responses). DOI 10.5281/zenodo.21984929.
+
 ## Abstract
 
 Every physical statement is a conditional truth: it holds only within a locale — a specified vacuum or symmetry sector, background geometry, medium, energy scale, or observer frame. This paper formalizes the resulting locale framework in four moves: (1) a catalog of conditional truths (photon mass, spin, energy conservation, the second law, the electron's charge and mass, the vacuum) showing that the interesting physics lives at the seams; (2) the map-territory distinction, with the ontological territory as invariant relational structure (ontic structural realism engaged as a named imported premise, with its critics); (3) the rendering interface — an observer inside a rendering experiences the metric of the image space, not the substrate, so no finite set of first-person observations decides whether the substrate metric is Archimedean or ultrametric (the Monna-map underdetermination, generalized beyond the visual case); what cannot be decided can still be probed, because a rendering with structure leaks structure; and (4) scale primitives — frequency as a recurrence count, the fine-structure constant as a ratio, temperature as a derivative, and (by Ostrowski's theorem) the Archimedean real line as one completion among many. The falsifiability register (F1–F4) states the disconfirmation conditions; the strongest claim (C3) carries an open probe-design question.
