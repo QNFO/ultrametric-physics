@@ -42,8 +42,8 @@ Formalize the four-note synthesis as a UMP paper with four moves:
 | P2 literature triage | QNFO.UMP.011.P2 | DONE 2026-08-17 (10-source external triage, literature-triage-evidence.json + phase2 doc; OSR-criticism engagement set 3 refs; EFT-philosophy lineage; p-adic-cognition positioning; Monna-map use net-new) |
 | P3 citations | QNFO.UMP.011.P3 | DONE 2026-08-17 (28/28 field-level PASS via Crossref/Zenodo/arXiv live APIs; references.bib auto-generated from verified evidence; citation-audit.md; FIND-5 INFO: ostrowskidimless Zenodo title v4.0.4 vs D1 stale) |
 | P4 deep research + draft | QNFO.UMP.011.P4 | DONE 2026-08-17 (conditional-truths-locale-framework.md PANDOC-SAFE draft, SO-WHAT abstract, F1-F4 register, OSR-criticism engaged; docs/deep-research.md with Q15 measurement-model sketch + F3 probe analysis; scripts/p4-gates.py PASS 0 failures) |
-| P5 publication | QNFO.UMP.011.P5 | pending (Zenodo only — NO-JOURNALS-1) |
-| P6 deploy | QNFO.UMP.011.P6 | pending |
+| P5 publication | QNFO.UMP.011.P5 | DONE 2026-08-17 (Zenodo 10.5281/zenodo.21983325, concept 10.5281/zenodo.21983324, 19 files ALL MD5-verified vs local, DataCite findable, doi.org resolves; NO-JOURNALS-1 honored) |
+| P6 deploy | QNFO.UMP.011.P6 | DONE 2026-08-17 (D1 row + readback; KG node paper:conditional-truths-locale-framework + BELONGS_TO prog-qnfo-ump; Vectorize 42 chunks 0 errors; R2 qnfo-releases/2026/08/ mirror 19 files; registry phase P5) |
 | P7 dissemination | QNFO.UMP.011.P7 | pending |
 | P8 distribution | QNFO.UMP.011.P8 | pending |
 
