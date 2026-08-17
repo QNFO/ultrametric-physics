@@ -1,0 +1,502 @@
+{
+ "monna1952": {
+  "kind": "doi",
+  "ok": true,
+  "doi": "10.1016/s1385-7258(52)50001-5",
+  "title": "Sur une transformation simple des nombres P-adiques en nombres reels",
+  "authors": [
+   {
+    "family": "Monna",
+    "given": "A.F."
+   }
+  ],
+  "year": 1952,
+  "journal": "Indagationes Mathematicae (Proceedings)",
+  "volume": "55",
+  "page": "1-9",
+  "publisher": "Elsevier BV"
+ },
+ "ladymanross2007": {
+  "kind": "doi",
+  "ok": true,
+  "doi": "10.1093/acprof:oso/9780199276196.001.0001",
+  "title": "Every Thing Must Go",
+  "authors": [
+   {
+    "family": "Ladyman",
+    "given": "James"
+   },
+   {
+    "family": "Ross",
+    "given": "Don"
+   },
+   {
+    "family": "with John Collier",
+    "given": "and David Spurrett"
+   }
+  ],
+  "year": 2007,
+  "journal": "",
+  "volume": null,
+  "page": null,
+  "publisher": "Oxford University Press"
+ },
+ "ostrowski1916": {
+  "kind": "doi",
+  "ok": true,
+  "doi": "10.1007/BF02422947",
+  "title": "\u00dcber einige L\u00f6sungen der Funktionalgleichung \u03c8(x)\u00b7\u03c8(x)=\u03c8(xy)",
+  "authors": [
+   {
+    "family": "Ostrowski",
+    "given": "Alexander"
+   }
+  ],
+  "year": 1916,
+  "journal": "Acta Mathematica",
+  "volume": "41",
+  "page": "271-284",
+  "publisher": "International Press of Boston"
+ },
+ "dovgoshey2006cantor": {
+  "kind": "doi",
+  "ok": true,
+  "doi": "10.1016/j.exmath.2005.05.002",
+  "title": "The Cantor function",
+  "authors": [
+   {
+    "family": "Dovgoshey",
+    "given": "O."
+   },
+   {
+    "family": "Martio",
+    "given": "O."
+   },
+   {
+    "family": "Ryazanov",
+    "given": "V."
+   },
+   {
+    "family": "Vuorinen",
+    "given": "M."
+   }
+  ],
+  "year": 2006,
+  "journal": "Expositiones Mathematicae",
+  "volume": "24",
+  "page": "1-37",
+  "publisher": "Elsevier BV"
+ },
+ "indag2024monna": {
+  "kind": "doi",
+  "ok": true,
+  "doi": "10.1016/j.indag.2024.09.012",
+  "title": "P-adic Poissonian pair correlations via the Monna map",
+  "authors": [
+   {
+    "family": "Wei\u00df",
+    "given": "Christian"
+   }
+  ],
+  "year": 2025,
+  "journal": "Indagationes Mathematicae",
+  "volume": "36",
+  "page": "912-919",
+  "publisher": "Elsevier BV"
+ },
+ "esr2012qm": {
+  "kind": "doi",
+  "ok": true,
+  "doi": "10.1007/s13194-012-0054-x",
+  "title": "Ontic structural realism and the interpretation of quantum mechanics",
+  "authors": [
+   {
+    "family": "Esfeld",
+    "given": "Michael"
+   }
+  ],
+  "year": 2012,
+  "journal": "European Journal for Philosophy of Science",
+  "volume": "3",
+  "page": "19-32",
+  "publisher": "Springer Science and Business Media LLC"
+ },
+ "compelling2011osr": {
+  "kind": "doi",
+  "ok": true,
+  "doi": "10.1086/662258",
+  "title": "Is There a Compelling Argument for Ontic Structural Realism?",
+  "authors": [
+   {
+    "family": "Morganti",
+    "given": "Matteo"
+   }
+  ],
+  "year": 2011,
+  "journal": "Philosophy of Science",
+  "volume": "78",
+  "page": "1165-1176",
+  "publisher": "Cambridge University Press (CUP)"
+ },
+ "esr2004synthese": {
+  "kind": "doi",
+  "ok": true,
+  "doi": "10.1023/b:synt.0000047712.39407.c3",
+  "title": "On the Preferability of Epistemic Structural Realism",
+  "authors": [
+   {
+    "family": "Morganti",
+    "given": "Matteo"
+   }
+  ],
+  "year": 2004,
+  "journal": "Synthese",
+  "volume": "142",
+  "page": "81-107",
+  "publisher": "Springer Science and Business Media LLC"
+ },
+ "qlcognition2015": {
+  "kind": "doi",
+  "ok": true,
+  "doi": "10.3389/fphy.2015.00077",
+  "title": "Quantum-like modeling of cognition",
+  "authors": [
+   {
+    "family": "Khrennikov",
+    "given": "Andrei"
+   }
+  ],
+  "year": 2015,
+  "journal": "Frontiers in Physics",
+  "volume": "3",
+  "page": null,
+  "publisher": "Frontiers Media SA"
+ },
+ "lawstruth1991": {
+  "kind": "doi",
+  "ok": true,
+  "doi": "10.1080/02698599108573379",
+  "title": "The fundamental laws of physics can tell the truth",
+  "authors": [
+   {
+    "family": "Nugayev",
+    "given": "Renat"
+   }
+  ],
+  "year": 1991,
+  "journal": "International Studies in the Philosophy of Science",
+  "volume": "5",
+  "page": "79-87",
+  "publisher": "Informa UK Limited"
+ },
+ "lawstruth1993": {
+  "kind": "doi",
+  "ok": true,
+  "doi": "10.1007/bf01064340",
+  "title": "Are the laws of physics ?economical with the truth??",
+  "authors": [
+   {
+    "family": "Allport",
+    "given": "P. P."
+   }
+  ],
+  "year": 1993,
+  "journal": "Synthese",
+  "volume": "94",
+  "page": "245-290",
+  "publisher": "Springer Science and Business Media LLC"
+ },
+ "ultrametricrw2022": {
+  "kind": "doi",
+  "ok": true,
+  "doi": "10.3390/e22090931",
+  "title": "An Ultrametric Random Walk Model for Disease Spread Taking into Account Social Clustering of the Population",
+  "authors": [
+   {
+    "family": "Khrennikov",
+    "given": "Andrei"
+   },
+   {
+    "family": "Oleschko",
+    "given": "Klaudia"
+   }
+  ],
+  "year": 2020,
+  "journal": "Entropy",
+  "volume": "22",
+  "page": "931",
+  "publisher": "MDPI AG"
+ },
+ "ump010monnamap": {
+  "kind": "zenodo",
+  "ok": true,
+  "doi": "10.5281/zenodo.21979032",
+  "recid": "21979032",
+  "conceptdoi": "10.5281/zenodo.21969603",
+  "title": "Non-Archimedean Projective Perspective: The Monna Map as a Visual Rendering Interface",
+  "authors": [
+   {
+    "family": "",
+    "given": ""
+   }
+  ],
+  "year": "2026",
+  "version": null,
+  "license": "cc-by-4.0"
+ },
+ "uia2026": {
+  "kind": "zenodo",
+  "ok": true,
+  "doi": "10.5281/zenodo.21901984",
+  "recid": "21901984",
+  "conceptdoi": "10.5281/zenodo.21878942",
+  "title": "The Universal Ignorance Audit: A Fifteen-Question Method for Systematic Inquiry into the Structure of Not-Knowing",
+  "authors": [
+   {
+    "family": "",
+    "given": ""
+   }
+  ],
+  "year": "2026",
+  "version": "v0.3",
+  "license": "cc-by-4.0"
+ },
+ "iaps2026": {
+  "kind": "zenodo",
+  "ok": true,
+  "doi": "10.5281/zenodo.21901983",
+  "recid": "21901983",
+  "conceptdoi": "10.5281/zenodo.21878944",
+  "title": "Knowing What We Do Not Know: Ignorance Auditing, AI-Generation Detection, and the Epistemic Lessons of an AI-Assisted Research Pipeline",
+  "authors": [
+   {
+    "family": "",
+    "given": ""
+   }
+  ],
+  "year": "2026",
+  "version": "v0.3",
+  "license": "cc-by-4.0"
+ },
+ "nonanthropounits2026": {
+  "kind": "zenodo",
+  "ok": true,
+  "doi": "10.5281/zenodo.21480756",
+  "recid": "21480756",
+  "conceptdoi": "10.5281/zenodo.21480755",
+  "title": "Non-Anthropocentric Natural Units: From the Bekenstein Bound to Ostrowski's Theorem",
+  "authors": [
+   {
+    "family": "",
+    "given": ""
+   }
+  ],
+  "year": "2026",
+  "version": "1.0",
+  "license": "cc-by-4.0"
+ },
+ "ostrowskidimless2026": {
+  "kind": "zenodo",
+  "ok": true,
+  "doi": "10.5281/zenodo.21756190",
+  "recid": "21756190",
+  "conceptdoi": "10.5281/zenodo.21749884",
+  "title": "The Ostrowski Dimensionless Reformulation v4.0.4: A Place-Democratic Foundation for Fundamental Physics \u2014 Definitive Edition",
+  "authors": [
+   {
+    "family": "",
+    "given": ""
+   }
+  ],
+  "year": "2026",
+  "version": "4.0.4",
+  "license": "cc-by-4.0"
+ },
+ "consiliencestrowski2026": {
+  "kind": "zenodo",
+  "ok": true,
+  "doi": "10.5281/zenodo.21590155",
+  "recid": "21590155",
+  "conceptdoi": "10.5281/zenodo.21590154",
+  "title": "Consilience Between Physics and Number Theory: Convergent Theses from Ostrowski's Theorem to Adelic Quantum Mechanics",
+  "authors": [
+   {
+    "family": "",
+    "given": ""
+   }
+  ],
+  "year": "2026",
+  "version": "1.0",
+  "license": "cc-by-4.0"
+ },
+ "measureartifacts2026": {
+  "kind": "zenodo",
+  "ok": true,
+  "doi": "10.5281/zenodo.21601112",
+  "recid": "21601112",
+  "conceptdoi": "10.5281/zenodo.21593855",
+  "title": "Measure-Theoretic Artifacts of the Archimedean Place \u2014 v2.0: The Completion Problem, the Langlands Connection, and the Adelic Restructuring of Fundamental Physics",
+  "authors": [
+   {
+    "family": "",
+    "given": ""
+   },
+   {
+    "family": "",
+    "given": ""
+   }
+  ],
+  "year": "2026",
+  "version": "2.0",
+  "license": "cc-by-4.0"
+ },
+ "s10observer2026": {
+  "kind": "zenodo",
+  "ok": true,
+  "doi": "10.5281/zenodo.21473899",
+  "recid": "21473899",
+  "conceptdoi": "10.5281/zenodo.21473898",
+  "title": "The Observer Inside the Tree: Can Self-Location in an Ultrametric Structure Resolve the Inside/Outside Schism?",
+  "authors": [
+   {
+    "family": "",
+    "given": ""
+   },
+   {
+    "family": "",
+    "given": ""
+   }
+  ],
+  "year": "2026",
+  "version": "1.0",
+  "license": "cc-by-4.0"
+ },
+ "computablereal2026": {
+  "kind": "zenodo",
+  "ok": true,
+  "doi": "10.5281/zenodo.21645350",
+  "recid": "21645350",
+  "conceptdoi": "10.5281/zenodo.21645349",
+  "title": "The Computable Real Boundary: Where Physics Ends and Cognitive Fiction Begins",
+  "authors": [
+   {
+    "family": "",
+    "given": ""
+   },
+   {
+    "family": "",
+    "given": ""
+   }
+  ],
+  "year": "2026",
+  "version": null,
+  "license": "cc-by-4.0"
+ },
+ "electronhook2026": {
+  "kind": "zenodo",
+  "ok": true,
+  "doi": "10.5281/zenodo.21975507",
+  "recid": "21975507",
+  "conceptdoi": "10.5281/zenodo.21970453",
+  "title": "A Critical Treatise on the Load-Bearing Assumptions of Quantum Mechanics, Thermodynamics, and Computation",
+  "authors": [
+   {
+    "family": "",
+    "given": ""
+   }
+  ],
+  "year": "2026",
+  "version": "v0.3.2",
+  "license": "cc-by-nc-sa-4.0"
+ },
+ "schisms2026": {
+  "kind": "zenodo",
+  "ok": true,
+  "doi": "10.5281/zenodo.21458373",
+  "recid": "21458373",
+  "conceptdoi": "10.5281/zenodo.21458372",
+  "title": "The Hidden Fractures: Self-Referential Calibration and the 29 Schisms of Physics",
+  "authors": [
+   {
+    "family": "",
+    "given": ""
+   },
+   {
+    "family": "",
+    "given": ""
+   }
+  ],
+  "year": "2026",
+  "version": null,
+  "license": "cc-by-4.0"
+ },
+ "universecategory2026": {
+  "kind": "zenodo",
+  "ok": true,
+  "doi": "10.5281/zenodo.21880064",
+  "recid": "21880064",
+  "conceptdoi": "10.5281/zenodo.21880044",
+  "title": "The Universe Category: A Single Functor Encoding Quantization, Stability, and Factorization",
+  "authors": [
+   {
+    "family": "",
+    "given": ""
+   }
+  ],
+  "year": "2026",
+  "version": "v0.2",
+  "license": "cc-by-4.0"
+ },
+ "pitkanen1995padic": {
+  "kind": "arxiv",
+  "ok": true,
+  "id": "hep-th/9506097",
+  "title": "p-Adic TGD: Mathematical Ideas",
+  "authors": [
+   {
+    "family": "Pitk\u00e4nen",
+    "given": "M."
+   }
+  ],
+  "year": "1995"
+ },
+ "burgess2007eft": {
+  "kind": "arxiv",
+  "ok": true,
+  "id": "hep-th/0701053",
+  "title": "Introduction to Effective Field Theory",
+  "authors": [
+   {
+    "family": "P. Burgess",
+    "given": "C."
+   }
+  ],
+  "year": "2007"
+ },
+ "georgi2009eft": {
+  "kind": "arxiv",
+  "ok": true,
+  "id": "0908.1964",
+  "title": "Effective Field Theory, Past and Future",
+  "authors": [
+   {
+    "family": "Weinberg",
+    "given": "Steven"
+   }
+  ],
+  "year": "2009"
+ },
+ "eftconsistency2012": {
+  "kind": "arxiv",
+  "ok": true,
+  "id": "1211.0634",
+  "title": "Effective Field Theories and the Role of Consistency in Theory Choice",
+  "authors": [
+   {
+    "family": "D. Wells",
+    "given": "James"
+   }
+  ],
+  "year": "2012"
+ }
+}
