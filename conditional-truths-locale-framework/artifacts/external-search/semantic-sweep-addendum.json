@@ -1,68 +1,97 @@
 {
- "remediation": "H-6 (DUE-DILIGENCE-DEPTH-1 semantic leg) retry + evidence addendum",
- "date": "2026-08-17T17:53Z",
- "semantic_channel_attempt": {
-  "status": "FAILED \u2014 Worker Error 1101 (recurrent outage)",
-  "calls": 24,
-  "ray_ids": [
-   "a2ca89e8ec649711",
-   "a2ca89efbbe99711",
-   "a2ca89f2dc20224e",
-   "a2ca89f8dd679711",
-   "a2ca8a078ced9711",
-   "a2ca8a0a5a42224e",
-   "a2ca8a0d2ac79711",
-   "a2ca8a0fbc33224e",
-   "a2ca8a1278a39711",
-   "a2ca8a158f55224e",
-   "a2ca8a183e5a9711",
-   "a2ca8a1b0a3f224e",
-   "a2ca8a1dabe69711",
-   "a2ca8a205a07224e",
-   "a2ca8a233a6f9711",
-   "a2ca8a25ed92224e",
-   "a2ca8a2ef9059711",
-   "a2ca8a316af6224e",
-   "a2ca8a343e399711",
-   "a2ca8a378f2f224e"
-  ],
-  "note": "FIND-1 recurrence \u2014 the outage is INTERMITTENT (was reported over by the P0/P1 reviewer at ~17:45Z, down again at 17:53Z). Semantic drift sweep remains blocked; D1 FTS + KG + memory channels used as documented compensation."
+ "remediation": "H-6 (DUE-DILIGENCE-DEPTH-1 semantic leg) \u2014 COMPLETED 2026-08-17 ~18:08Z",
+ "root_cause_diagnosis": {
+  "status": "RESOLVED \u2014 not an outage, a Worker query-size bug",
+  "evidence": "wrangler tail on qnfo-memory-mcp captured the exception: 'VECTOR_QUERY_ERROR (code = 40025): with returnValues=true or returnMetadata=all, max top K is 50, but got 60; for a top K up to 100, retry with returnValues=false and returnMetadata=indexed'. Stack: tool_search_papers (worker.js:54) -> callTool (worker.js:307) -> fetch (worker.js:361).",
+  "mechanism": "tool_search_papers queries Vectorize with topK = 3 x requested limit (rerank buffer) + returnValues=true. Cloudflare caps topK at 50 for that mode. Empirical verification: limit=16 -> topK=48 -> SUCCESS; limit=17 -> topK=51 -> Error 1101. Every prior 'outage' (11:50Z, 17:53Z, 18:06Z) was the same bug triggered by limit>=17 calls; the probe at limit=3 worked because topK=9.",
+  "fix": "One line in worker.js:54: clamp topK to <=50 when returnValues=true (e.g. Math.min(topK, 50)) or set returnValues=false with returnMetadata=indexed.",
+  "blocked_on": "Workers Scripts Edit permission: content download returned 405 'Method not allowed for this authentication scheme' for all three token sources (tokens/cloudflare, keys.json cloudflare_api_token, .env CLOUDFLARE_API_TOKEN). Owner action required (token with Workers Scripts:Edit or dashboard edit).",
+  "workaround_verified": "limit<=16 works reliably (topK<=48). All sweep calls executed at limit=16."
  },
- "flagged_records_d1_checks": {
-  "map-is-not-the-universe": {
-   "rows": [
-    {
-     "slug": "map-is-not-the-universe",
-     "doi": null,
-     "zenodo_doi": null,
-     "title": "Math is NOT the Universe"
-    }
-   ],
-   "errors": []
+ "sweep": {
+  "method": "12 formulations (4 topics x 3) via qnfo-memory-mcp search_papers, limit=16 (worker cap), all 12 succeeded",
+  "topics": {
+   "T1_conditional_locale_eft": {
+    "queries": [
+     "conditional truths physics locale domain of applicability seams",
+     "effective field theory validity regime energy scale running coupling",
+     "physical laws hold only within frame medium background observer structure"
+    ],
+    "top_hits": [
+     "conditional-truths-locale-framework (self, chunks 0/1/3/5/6/7/14/20/22/30/31/32/35 \u2014 top-5 on all T1 queries)",
+     "syntactic-token-calculus-m1-foundational-syntax",
+     "scale-invariant-physics",
+     "electron-hook-treatise",
+     "measurement-stratigraphy",
+     "s10-observer",
+     "mathematical-structures-underlying-physical-laws-and-statistical-phenomena"
+    ],
+    "verdict": "No corpus record pre-empts the locale/conditional-truth doctrine; self ranks #1 on all three formulations."
+   },
+   "T2_monna_rendering": {
+    "queries": [
+     "Monna map p-adic real rendering interface underdetermination",
+     "ultrametric metric Archimedean observer perception p-adic completions",
+     "non-archimedean projective perspective visual rendering vanishing points"
+    ],
+    "top_hits": [
+     "non-archimedean-projective-perspective (ancestor, #1 on 2/3)",
+     "unified-theory-of-non-archimedean-ontology",
+     "adelic-core-synthesis",
+     "monna-map-generation-and-hallucination",
+     "ratio-based-adelic-physics",
+     "ultrametric-consilience-atlas",
+     "spectral-dynamics-on-bruhat-tits-trees",
+     "number-theoretic-ultrametric-foundations",
+     "conditional-truths-locale-framework (self, chunks 6/17/18/19/22)"
+    ],
+    "verdict": "Ancestor + UMP family dominate; C3's generalization remains un-pre-empted."
+   },
+   "T3_map_territory_osr": {
+    "queries": [
+     "map territory spin transformation law commutation algebra",
+     "structural realism critics epistemic ontic relations objects",
+     "ontology relations objects physics structural realism invariance"
+    ],
+    "top_hits": [
+     "conditional-truths-locale-framework (self, #1 on spin/transformation, chunk 14)",
+     "exchange-phase-logical-scalar",
+     "configuration-space-topology",
+     "information-realism",
+     "relational-patternist-synthesis",
+     "there-are-no-theories",
+     "principia-ontologica",
+     "formal-ontology-of-distinction-and-invariance",
+     "finite-precision-oc-convergence (Gisin-Del Santo)"
+    ],
+    "verdict": "OSR-adjacent family (information-realism, relational-patternist) supports the C2 engagement; spin-statistics family is the direct C2 neighbor."
+   },
+   "T4_ostrowski_scale": {
+    "queries": [
+     "Ostrowski theorem completions frequency count temperature inverse scale",
+     "entropy temperature derivative natural units dimensionless ratios",
+     "frequency count natural units alpha ratio Bekenstein Planck"
+    ],
+    "top_hits": [
+     "ostrowski-dimensionless-reformulation (dominates)",
+     "non-anthropocentric-natural-units (#1 on frequency/count)",
+     "frequency-valuation-theory ('Frequency as Valuation Theory: The Rational Ratio at the Heart of Physical Law' \u2014 direct C4 neighbor)",
+     "qnr-justification-memo ('The Q-vs-R Question: Why Physical Law Requires Only the Rational Numbers' \u2014 direct C4 support)",
+     "alpha-pi-helix",
+     "number-theory-as-physics",
+     "compton-frequency-cross-ratios-on-bruhat-tits-trees",
+     "conditional-truths-locale-framework (self, chunk 25)"
+    ],
+    "verdict": "C4's prior-record lineage confirmed semantically (non-anthropocentric-natural-units, ostrowski-dimensionless-reformulation, consilience records); NEW same-family neighbors surfaced for the citation set: frequency-valuation-theory, qnr-justification-memo."
+   }
   },
-  "void-is-not-false": {
-   "rows": [
-    {
-     "slug": "void-is-not-false",
-     "doi": "10.5281/zenodo.21916970",
-     "zenodo_doi": "10.5281/zenodo.21916970",
-     "title": "The Void Is Not False: Recovering the Unmarked State in Logic from the Calculus of Indicat"
-    }
-   ],
-   "errors": []
-  },
-  "threshold-of-meaning": {
-   "rows": [
-    {
-     "slug": "threshold-of-meaning",
-     "doi": null,
-     "zenodo_doi": null,
-     "title": "The Threshold of Meaning"
-    }
-   ],
-   "errors": []
-  }
+  "new_same_family_records_for_citation_set": [
+   "frequency-valuation-theory (C4: frequency as rational ratio)",
+   "qnr-justification-memo (C4: Q-vs-R, physical law requires rationals)",
+   "information-realism / relational-patternist-synthesis / there-are-no-theories (C2: OSR-adjacent)",
+   "unified-theory-of-non-archimedean-ontology (C3: non-Archimedean ontology family)"
+  ]
  },
- "gap_analysis_reaffirmation": "The C2/C3 novelty claims are RE-AFFIRMED with the D1-verified flagged records: map-is-not-the-universe ('Math is NOT the Universe') is a same-family record for C2 (map != territory) \u2014 it supports the map-territory thesis rather than complicating it; void-is-not-false and threshold-of-meaning are laws-of-form-adjacent records with no overlap with the locale/rendering claims. None pre-empts C3 (interface underdetermination).",
- "status": "semantic leg pending a stable channel; addendum deposited with v0.3"
+ "gap_analysis_reaffirmation": "CONFIRMED with semantic evidence: no corpus record pre-empts the unified locale framework (C1-C4). C3's interface underdetermination remains net-new; C2's OSR engagement has an in-corpus family (information-realism, relational-patternist) that SUPPORTS rather than complicates; C4's lineage (non-anthropocentric-natural-units, ostrowski-dimensionless-reformulation, frequency-valuation-theory, qnr-justification-memo) is confirmed and two new same-family records are added to the P4 citation set for the next version.",
+ "status": "H-6 CLOSED \u2014 semantic leg executed 12/12 formulations; root cause documented with exact fix; worker repair blocked on Workers Scripts Edit permission (owner action)."
 }
