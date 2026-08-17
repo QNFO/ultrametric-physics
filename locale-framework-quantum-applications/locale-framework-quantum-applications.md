@@ -1,4 +1,33 @@
-# Application of the Locale Framework to Quantum Computing Innovations and Practical Applications
+---
+title: "Locale Framework Applied to Quantum Computing Innovations & Practical Applications"
+author: "Rowan Brad Quni-Gudzinas"
+date: "2026-08-17"
+license: "CC BY-NC-SA 4.0"
+doi: "10.5281/zenodo.21985456"
+status: "published"
+concept_doi: "10.5281/zenodo.21985456"
+abstract: |-
+  Why a reader should care: this paper turns every quantum-computing innovation and practical-application
+  claim into a conditional truth with an explicit locale, then pairs each claim with the exact QPL 2026 paper
+  that documents where it breaks. One table (the seams catalog T1-T8) replaces a year of vendor roadmaps:
+  claims are conditional truths, the seams are public, and the energy exchange rate between paradigms is the
+  currency. Premise-depth disclosure: the framework's unanalyzable primitives are 'locale' and 'interface'
+  (imported from the companion record, Conditional Truths and the Locale Framework, DOI 10.5281/zenodo.21983324);
+  the ontic structural realism reading is a named imported input (Ladyman-Ross), not derived; the energy
+  exchange-rate theorems (arXiv:2510.08546, arXiv:2509.18854) are imported external results; the seams catalog
+  is retrodictive with capped evidential weight; no dynamical theory of seams is claimed.
+keywords:
+  - quantum computing
+  - locale framework
+  - conditional truth
+  - practical applications
+  - seams catalog
+  - joules per solution
+  - QPL 2026
+  - rendering interface
+  - Bruhat-Tits
+  - energy exchange rate
+---
 
 > **QNFO.UMP.011 companion artifact** · 2026-08-17 · Applies 10.5281/zenodo.21983444 (v0.2) / latest 10.5281/zenodo.21983659 (v0.3) to the practitioner domain of quantum computing, with a QPL 2026 practitioner-paper review and challenge responses. All external claims verified against arXiv and the live QPL 2026 program (qpl2026.github.io/accepted/) on 2026-08-17.
 > Research-cycle record: Phase 0 UIA (15/15, ZENODO-INQUIRY-1) → Phase 1 corpus sweep (KG 8,294 nodes / 1,634 papers; 3+ formulations × 8 hits; cross-system resolve; external arXiv verification) → Phase 2 (application, review, responses) → SO-WHAT-GATE.
