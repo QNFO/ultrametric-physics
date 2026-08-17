@@ -1,0 +1,68 @@
+{
+ "remediation": "H-6 (DUE-DILIGENCE-DEPTH-1 semantic leg) retry + evidence addendum",
+ "date": "2026-08-17T17:53Z",
+ "semantic_channel_attempt": {
+  "status": "FAILED \u2014 Worker Error 1101 (recurrent outage)",
+  "calls": 24,
+  "ray_ids": [
+   "a2ca89e8ec649711",
+   "a2ca89efbbe99711",
+   "a2ca89f2dc20224e",
+   "a2ca89f8dd679711",
+   "a2ca8a078ced9711",
+   "a2ca8a0a5a42224e",
+   "a2ca8a0d2ac79711",
+   "a2ca8a0fbc33224e",
+   "a2ca8a1278a39711",
+   "a2ca8a158f55224e",
+   "a2ca8a183e5a9711",
+   "a2ca8a1b0a3f224e",
+   "a2ca8a1dabe69711",
+   "a2ca8a205a07224e",
+   "a2ca8a233a6f9711",
+   "a2ca8a25ed92224e",
+   "a2ca8a2ef9059711",
+   "a2ca8a316af6224e",
+   "a2ca8a343e399711",
+   "a2ca8a378f2f224e"
+  ],
+  "note": "FIND-1 recurrence \u2014 the outage is INTERMITTENT (was reported over by the P0/P1 reviewer at ~17:45Z, down again at 17:53Z). Semantic drift sweep remains blocked; D1 FTS + KG + memory channels used as documented compensation."
+ },
+ "flagged_records_d1_checks": {
+  "map-is-not-the-universe": {
+   "rows": [
+    {
+     "slug": "map-is-not-the-universe",
+     "doi": null,
+     "zenodo_doi": null,
+     "title": "Math is NOT the Universe"
+    }
+   ],
+   "errors": []
+  },
+  "void-is-not-false": {
+   "rows": [
+    {
+     "slug": "void-is-not-false",
+     "doi": "10.5281/zenodo.21916970",
+     "zenodo_doi": "10.5281/zenodo.21916970",
+     "title": "The Void Is Not False: Recovering the Unmarked State in Logic from the Calculus of Indicat"
+    }
+   ],
+   "errors": []
+  },
+  "threshold-of-meaning": {
+   "rows": [
+    {
+     "slug": "threshold-of-meaning",
+     "doi": null,
+     "zenodo_doi": null,
+     "title": "The Threshold of Meaning"
+    }
+   ],
+   "errors": []
+  }
+ },
+ "gap_analysis_reaffirmation": "The C2/C3 novelty claims are RE-AFFIRMED with the D1-verified flagged records: map-is-not-the-universe ('Math is NOT the Universe') is a same-family record for C2 (map != territory) \u2014 it supports the map-territory thesis rather than complicating it; void-is-not-false and threshold-of-meaning are laws-of-form-adjacent records with no overlap with the locale/rendering claims. None pre-empts C3 (interface underdetermination).",
+ "status": "semantic leg pending a stable channel; addendum deposited with v0.3"
+}

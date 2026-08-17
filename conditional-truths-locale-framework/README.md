@@ -31,7 +31,7 @@ conditional-truths-locale-framework/
 
 ## Published
 
-**DOI:** 10.5281/zenodo.21983444 (v0.2; concept DOI: 10.5281/zenodo.21983324 — cite all versions via the concept DOI) · 2026-08-17 · 19 files · CC BY-NC-SA 4.0
+**DOI:** 10.5281/zenodo.21983659 (v0.3; concept DOI: 10.5281/zenodo.21983324 — cite all versions via the concept DOI) · 2026-08-17 · 21 files · CC BY-NC-SA 4.0
 GitHub provenance: https://github.com/QNFO/ultrametric-physics/tree/ump/paper/conditional-truths-locale-framework
 
 ## Phase status

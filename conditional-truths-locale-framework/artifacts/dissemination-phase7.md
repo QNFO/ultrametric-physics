@@ -47,3 +47,16 @@ Project: Conditional Truths and the Locale Framework · Record: 10.5281/zenodo.2
 - FIND-7 (SOFT): `indexnow-submit.py` docstring `\U` SyntaxError on Python 3.12 — repaired (forward slashes).
 - FIND-8 (INFO): deposit-API `communities` field dropped on newversion PUT (records-API requests ARE created — verified by retry error); use records-API /communities for requests, not metadata field.
 - FIND-9 (INFO): internet-archive-submit.js fetch has no timeout — hangs indefinitely when IA is slow; bounded-wait + CDX verification is the pattern.
+
+## v0.3 remediation addendum (2026-08-17, P8R cycle)
+
+Post-publication red-team (6 HARD / 11 SOFT / 4 DESIGN) remediation published as v0.3 (10.5281/zenodo.21983659, concept 21983324, 21 files):
+
+- H-1 NEWVERSION-FRONTMATTER-CARRYOVER-1: deposited md frontmatter patched to the v0.3 self-DOI (P5.FRESH) before publish; MD5-verified.
+- H-2 CROSS-STORE-PUBLISH-SYNC-1: D1 body_md frontmatter replaced via SQL; papers.doi/zenodo_doi -> v0.3; paper_ids row upserted (slug, vectorize_id, kg_id, doi, r2_path, zenodo_url).
+- H-3 PUBLICATION-SOURCE-COMPLETENESS-1: artifacts/dissemination-phase7.md + semantic-sweep-addendum.json added to the deposit (19 -> 21 files).
+- H-4 README drift: final README (with Published block + literal concept DOI 21983324) uploaded to v0.3 + re-mirrored to R2.
+- H-5 bibliographic integrity: references.bib 8 empty-author entries regenerated from the flat Zenodo creator name shape ("Quni-Gudzinas, Rowan Brad"); zero empty authors remain.
+- H-6 DUE-DILIGENCE-DEPTH-1 semantic leg: retried 24/24 -> Worker Error 1101 (intermittent outage, rays a2ca89e8ec649711..); compensated with D1 checks of flagged records (map-is-not-the-universe, void-is-not-false, threshold-of-meaning — all same-family, none pre-empt C3); addendum deposited.
+- SOFT: Bluesky post retains v0.1 DOI (no re-broadcast — one post per record family); deposited README now prints the concept DOI literally; program_registry phase P8 + d1_slug + kg_node_id; KG Project node created + BELONGS_TO/PRODUCED edges; wbs_state row (project_id QNFO.UMP.011, 8/8); UIA D1 row doi/version fixed; UMP.010 D1 version fixed; FIND-4 retracted (FTS JOIN works live).
+- DESIGN: Vectorize webhook 'unchanged' skip contract documented (semantic search proves indexing; re-index after body change returns indexed:true, 42 chunks, 0 errors); Zenodo communities null via records API (inclusion requests open, curator-gated); IA CDX still pending at 17:56Z.
