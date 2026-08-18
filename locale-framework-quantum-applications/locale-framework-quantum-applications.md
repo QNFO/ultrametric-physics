@@ -1,10 +1,11 @@
 ---
 title: "Locale Framework Applied to Quantum Computing Innovations & Practical Applications"
 author: "Rowan Brad Quni-Gudzinas"
-date: "2026-08-17"
+date: "2026-08-18"
 license: "CC BY-NC-SA 4.0"
-doi: "10.5281/zenodo.21990225"
+doi: "10.5281/zenodo.21990604"
 status: "published"
+version: "v0.3"
 concept_doi: "10.5281/zenodo.21985455"
 abstract: |-
   Quantum computing is often presented through a small set of recurring claims:
