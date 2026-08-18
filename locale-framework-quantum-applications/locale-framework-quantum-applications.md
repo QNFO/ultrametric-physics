@@ -3,9 +3,9 @@ title: "Locale Framework Applied to Quantum Computing Innovations & Practical Ap
 author: "Rowan Brad Quni-Gudzinas"
 date: "2026-08-18"
 license: "CC BY-NC-SA 4.0"
-doi: "10.5281/zenodo.21990604"
+doi: "10.5281/zenodo.21991270"
 status: "published"
-version: "v0.3"
+version: "v0.4"
 concept_doi: "10.5281/zenodo.21985455"
 abstract: |-
   Quantum computing is often presented through a small set of recurring claims:
@@ -19,12 +19,12 @@ abstract: |-
   practitioners actually lives. Drawing on the locale framework introduced in a
   companion record, the paper states eight of the most widely repeated claims, makes
   the domain of each explicit, and pairs each boundary with work presented at the
-  23rd International Conference on Quantum Physics and Logic (QPL 2026), including
+  23rd International Conference on Quantum Physics and Logic (QPL 2026) — together with one independent arXiv result — including
   new results on the energy cost of continuous-variable computation, classical
   simulation of Clifford+T circuits, invariance under quantum permutations,
   real-valued quantum theory, and the arithmetic structure of gate synthesis. A
   review of the practitioner-oriented contributions at QPL 2026 follows, and five
-  challenges raised at the conference are answered. The paper closes with the
+  challenges raised at the conference — one sharpened by an independent arXiv result — are answered. The paper closes with the
   observation that the quantity which survives every boundary examined is energy per
   solution.
 keywords:
@@ -42,7 +42,7 @@ keywords:
 
 ## Abstract
 
-Quantum computing is often presented through a small set of recurring claims: continuous-variable systems are naturally advantaged, more modes means more power, quantum advantage has been demonstrated at device level, statistics could in principle be non-standard, complex amplitudes are essential, approximation-based gate synthesis is the only approach, a transmon is a qubit, and fault tolerance is a matter of years. This paper argues that each of these claims is true only within a restricted domain of applicability, and that the boundaries at which they fail are not defects of the claims but the places where the physics relevant to practitioners actually lives. Drawing on the locale framework introduced in a companion record [1], the paper states eight of the most widely repeated claims, makes the domain of each explicit, and pairs each boundary with work presented at the 23rd International Conference on Quantum Physics and Logic (QPL 2026), including new results on the energy cost of continuous-variable computation [2,3], classical simulation of Clifford+T circuits [4], invariance under quantum permutations [5], real-valued quantum theory [6,7], and the arithmetic structure of gate synthesis [8]. A review of the practitioner-oriented contributions at QPL 2026 follows, and five challenges raised at the conference are answered. The paper closes with the observation that the quantity which survives every boundary examined is energy per solution.
+Quantum computing is often presented through a small set of recurring claims: continuous-variable systems are naturally advantaged, more modes means more power, quantum advantage has been demonstrated at device level, statistics could in principle be non-standard, complex amplitudes are essential, approximation-based gate synthesis is the only approach, a transmon is a qubit, and fault tolerance is a matter of years. This paper argues that each of these claims is true only within a restricted domain of applicability, and that the boundaries at which they fail are not defects of the claims but the places where the physics relevant to practitioners actually lives. Drawing on the locale framework introduced in a companion record [1], the paper states eight of the most widely repeated claims, makes the domain of each explicit, and pairs each boundary with work presented at the 23rd International Conference on Quantum Physics and Logic (QPL 2026) — together with one independent arXiv result — including new results on the energy cost of continuous-variable computation [2], a closely related independent result on trading modes against energy [3], classical simulation of Clifford+T circuits [4], invariance under quantum permutations [5], real-valued quantum theory [6,7], and the arithmetic structure of gate synthesis [8]. A review of the practitioner-oriented contributions at QPL 2026 follows, and five challenges raised at the conference — one sharpened by an independent arXiv result — are answered. The paper closes with the observation that the quantity which survives every boundary examined is energy per solution.
 
 ## 1. Introduction
 
@@ -50,7 +50,7 @@ The quantum computing field rests on a handful of sentences that are repeated so
 
 Each of these sentences is true in some sense. Each is also false in another. This is not a contradiction; it is the normal condition of physical statements. Every physical claim holds only within a specified domain of applicability — a particular vacuum or symmetry sector, an energy scale, a noise regime, a measurement model, or a set of boundary conditions. The locale framework, introduced in a companion record [1], makes this structure explicit: a physical statement is a pair (locale, content), and the interesting physics lives at the seams where a rule fails to transfer from one locale to another.
 
-This paper applies that framework to quantum computing as it is actually discussed by practitioners — engineers, investors, and decision-makers. Its purpose is not to debunk quantum computing, nor to defend it, but to give the reader a compact map: for each of eight widely repeated claims, what domain the claim requires, where the claim breaks, and which piece of the 2026 research literature documents the break. The map is built from the QPL 2026 program, which in one week contains both the claims and their boundaries.
+This paper applies that framework to quantum computing as it is actually discussed by practitioners — engineers, investors, and decision-makers. Its purpose is not to debunk quantum computing, nor to defend it, but to give the reader a compact map: for each of eight widely repeated claims, what domain the claim requires, where the claim breaks, and which piece of the 2026 research literature documents the break. The map is built from the QPL 2026 program, which in one week contains the claims and nearly all of their boundaries.
 
 ## 2. The locale framework in brief
 
@@ -60,14 +60,14 @@ This paper needs none of that machinery in full. It needs the first move (claims
 
 ## 3. Eight claims and their boundaries
 
-Table 1 states eight claims that are heard constantly in quantum computing, the domain within which each holds, the boundary at which it fails, and the QPL 2026 work that documents the boundary. The table is the paper in miniature.
+Table 1 states eight claims that are heard constantly in quantum computing, the domain within which each holds, the boundary at which it fails, and the work that documents the boundary — presented at QPL 2026, with one arXiv exception. The table is the paper in miniature.
 
-**Table 1.** Widely repeated claims in quantum computing, their domains of validity, and the boundaries documented at QPL 2026.
+**Table 1.** Widely repeated claims in quantum computing, their domains of validity, and the boundaries documented at QPL 2026 (one by an independent arXiv result).
 
-| Claim | Domain in which it holds | Boundary at which it fails | Documented at QPL 2026 |
+| Claim | Domain in which it holds | Boundary at which it fails | Documentation |
 |---|---|---|---|
 | Continuous-variable systems have a natural advantage | Unbounded energy, ideal measurements | At bounded energy, CV computation is efficiently simulable by qudits; the error obeys ε ≤ 1286·K·n²·E\*²/√d | Maltesson et al. [2] |
-| More modes means more power | Mode count treated as free | Modes trade against energy: constant modes require exponential energy | Brenner, Dias & Koenig [3] |
+| More modes means more power | Mode count treated as free | Modes trade against energy: constant modes require exponential energy | Brenner, Dias & Koenig [3] — arXiv:2509.18854 |
 | Quantum advantage is demonstrated at device level | Specific sampling tasks, permissive baselines | Exact classical sampling of Clifford+T circuits costs 2ᵗ amplitude evaluations; realistic odd-dimension GKP states are classically simulable | Koch [4]; Calcluth et al. (QPL 2026 talks) |
 | Statistics could be non-standard | Higher-dimensional representations of the symmetric group | Quantum invariance under permutations forces Bose or Fermi statistics, model-independently | Mekonnen, Galley & Müller [5] |
 | Complex amplitudes are essential | Network experiments with source-state assumptions | Real-valued quantum theory reproduces all finite network correlations once independence is operational; it cannot be experimentally falsified | Hoffreumon & Woods [6,7] |
@@ -79,7 +79,7 @@ Three remarks about the table.
 
 First, none of the eight claims is simply wrong. Each is a conditional truth. The error, when there is one, is in the omission of the condition: the claim is stated without its locale, and the listener fills in a locale that the physics does not support.
 
-Second, the boundaries are not speculative. Every boundary in the table is documented in work presented at a single conference week. The QPL 2026 program is, in effect, a standing audit of the field's own claims.
+Second, the boundaries are not speculative. Every boundary in the table is documented in work presented at a single conference week — with one exception, a closely related independent arXiv result. The QPL 2026 program is, in effect, a standing audit of the field's own claims.
 
 Third, the table is a decision tool. A buyer, investor, or engineer who encounters any of the eight claims can ask: *which locale is being assumed, and does the current state of the art support it?* The table gives the answer in one line.
 
@@ -121,13 +121,13 @@ The boundary papers — those that challenge the claims in Table 1 — are treat
 
 ## 7. Responses to five challenges
 
-Five contributions at QPL 2026 bear directly on the framework and on the claims in Table 1. They are addressed in turn.
+Five challenges at QPL 2026 — one sharpened by an independent arXiv result — bear directly on the framework and on the claims in Table 1. They are addressed in turn.
 
 *Statistics.* Mekonnen, Galley and Müller prove, by two model-independent arguments, that systems invariant under quantum permutations are either bosons or fermions [5]. This is consistent with the pre-registered negative result of the author's earlier work on the statistics distinction [12]: statistics is a locale effect of permutation invariance, not a theorem of any single formalism. The new result supplies an external upper bound on the routes by which non-standard statistics could have been obtained, including the channel-count route based on DHR locality. An open question remains: whether the invariance argument also constrains the two-dimensional braid-group locale — that is, whether it reaches anyons at all.
 
 *Real-valued quantum theory.* Hoffreumon and Woods show that real-valued quantum theory reproduces all finite network correlations once independence is imposed operationally, and that it cannot be experimentally falsified [6,7]. The exchange scalar that governs boson/fermion statistics, R = e^(2πis) = (−1)^(2s), is real for integer and half-integer spin — the statistics seam never required complex amplitudes. Complex structure is load-bearing only at the anyon seam and in the algebra of interference. The claim "complex amplitudes are essential" is itself a conditional truth: true in the braiding locale, indistinguishable from a real rendering in every finite-network locale so far probed.
 
-*Energy as the exchange rate.* The CV↔DV equivalence [2] and the mode-energy trade [3] are the first externally proven seam crossings of the framework, and the first quantitative locale boundaries. They convert the joules-per-solution thesis [11] from a first-principles proposal into a theorem-anchored instrument. Two open questions remain: the tightness of the energy exponent E\*² versus the dimension term 1/√d, and whether the binning in the construction can be softened to match the information used by real GKP decoders.
+*Energy as the exchange rate.* The CV↔DV equivalence [2] and the mode-energy trade [3] — the latter an independent arXiv result — are the first externally proven seam crossings of the framework, and the first quantitative locale boundaries. They convert the joules-per-solution thesis [11] from a first-principles proposal into a theorem-anchored instrument. Two open questions remain: the tightness of the energy exponent E\*² versus the dimension term 1/√d, and whether the binning in the construction can be softened to match the information used by real GKP decoders.
 
 *Classical simulation.* The classical samplers and simulations of Koch [4] and Calcluth et al. re-index the locale of quantum advantage: each one shrinks the domain in which a device-level advantage claim holds. The invariant that survives is joules-per-solution — including the energy cost of the classical sampler itself, which the field does not yet account for systematically.
 
@@ -135,13 +135,13 @@ Five contributions at QPL 2026 bear directly on the framework and on the claims 
 
 ## 8. Conclusions
 
-Eight claims, eight boundaries, one conference. The practical content of this paper is Table 1: a locale-indexed map of the claims that quantum computing practitioners hear every day, each paired with the exact paper presented at QPL 2026 that documents where it breaks. The theoretical content is the observation that the same structure appears in every row — a claim true within a domain, failing at a boundary, and the physics of interest living at the boundary.
+Eight claims, eight boundaries, one conference week — and one independent arXiv result. The practical content of this paper is Table 1: a locale-indexed map of the claims that quantum computing practitioners hear every day, each paired with the exact paper — presented at QPL 2026, with one arXiv exception — that documents where it breaks. The theoretical content is the observation that the same structure appears in every row — a claim true within a domain, failing at a boundary, and the physics of interest living at the boundary.
 
 Three conclusions follow.
 
 First, claims are conditional truths. The habit of stating them without their conditions is the single most expensive ambiguity in the field, because it is what allows a roadmap to be read as a promise and a benchmark as a product.
 
-Second, the boundaries are public. The QPL 2026 program — one week, one venue — contains the documentation of every boundary in Table 1. The audit of quantum computing's claims is not a task for the future; it is the current research program of the field itself.
+Second, the boundaries are public. The QPL 2026 program — one week, one venue — contains the documentation of every boundary in Table 1 but one, an independent arXiv result; the audit is public either way. The audit of quantum computing's claims is not a task for the future; it is the current research program of the field itself.
 
 Third, energy per solution is what survives. Every boundary in Table 1 is, at bottom, an energy boundary. The quantities that transfer across all of them are counts, ratios, and the composite that answers the practitioner's question: what does a correct answer cost?
 
@@ -155,7 +155,7 @@ What this paper does not claim: no dynamical theory of boundaries is proposed; t
 
 [3] Brenner, L., Dias, B., Koenig, R. *Trading modes against energy*. arXiv:2509.18854.
 
-[4] Koch, M. *Classical Clifford+T sampling without computing marginals*. QPL 2026 proceedings, EPTCS.
+[4] Koch, M. *Classical Clifford+T sampling without computing marginals*. QPL 2026, accepted talk.
 
 [5] Mekonnen, M., Galley, T. D., Müller, M. P. *Invariance under quantum permutations rules out parastatistics*. arXiv:2502.17576.
 
@@ -171,4 +171,4 @@ What this paper does not claim: no dynamical theory of boundaries is proposed; t
 
 [11] Quni-Gudzinas, R. B. *The Joules-per-Solution Metric: Definition, Measurement Protocol, and Anti-Gaming Provisions for Honest Computational Benchmarking*. Zenodo, DOI 10.5281/zenodo.21637028.
 
-[12] Quni-Gudzinas, R. B. *The Boson/Fermion Distinction: An Invariant Account of Statistics in the Laws of Form*. Zenodo, concept DOI 10.5281/zenodo.21938970. Version record: 10.5281/zenodo.21944401.
+[12] Quni-Gudzinas, R. B. *The Boson/Fermion Distinction: Spin-Statistics as Structural Invariant*. Zenodo, concept DOI 10.5281/zenodo.21938970. Version record: 10.5281/zenodo.21964598.
