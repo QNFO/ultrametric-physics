@@ -5,9 +5,9 @@ affiliation: "QNFO"
 ORCID: "0009-0002-4317-5604"
 date: "2026-08-19"
 license: "cc-by-4.0"
-doi: "10.5281/zenodo.22017890"
+doi: "10.5281/zenodo.22018244"
 status: "published"
-version: "v0.1"
+version: "v0.3"
 ---
 
 ## Abstract
@@ -170,9 +170,9 @@ The Standard Model's particles and the condensed-matter catalog of quasiparticle
 
 **Provenance of named inputs.** Inputs [23]-[32] are prior work in the same research program; inputs [1]-[22] are external literature. All bibliographic entries were verified against live registry metadata at the time of writing.
 
-**Prior publication.** No prior version of this assembly has been published.
+**Prior publication.** An earlier version of this assembly (v0.1, DOI 10.5281/zenodo.22017149) was published on 2026-08-19 and is superseded by the present version.
 
-**Availability of this version.** This document is a draft under the CC BY 4.0 license; the published version supersedes it.
+**Availability of this version.** This document is published under the CC BY 4.0 license.
 
 ## References
 
@@ -238,6 +238,6 @@ The Standard Model's particles and the condensed-matter catalog of quasiparticle
 
 [31] R. B. Quni-Gudzinas, "Compton Frequency Cross-Ratios on Bruhat-Tits Trees: A Pre-Registered Search for Adelic Structure in the Standard Model Mass Spectrum," Zenodo (2026). doi:10.5281/zenodo.21485556
 
-[32] R. B. Quni-Gudzinas, "The Adelic Cross-Domain Program v5.0: From the Fine-Structure Constant to the Standard Model Mass Spectrum via Bruhat-Tits Trees," Zenodo (2026). doi:10.5281/zenodo.21698355
+[32] R. B. Quni-Gudzinas, "The Adelic Cross-Domain Program v5.0: From the Fine-Structure Constant to the Standard Model Mass Spectrum via Bruhat-Tits Trees," Zenodo (2026). doi:10.5281/zenodo.21691414
 
 [33] R. B. Quni-Gudzinas, "Signal-Worker Boundary Confinement: A Corrected Ontology of Surface vs Bulk Transport," Zenodo (2026). doi:10.5281/zenodo.21974194

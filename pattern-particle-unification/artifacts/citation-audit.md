@@ -7,7 +7,7 @@
 **33 entries** in `references.bib`:
 - **15 external DOIs** — every entry verified against LIVE Crossref `api.crossref.org/works/<doi>` (author list, title, journal, volume, year, DOI). Evidence: `artifacts/external-search/crossref_verify_<key>.json` (15 files).
 - **7 arXiv preprints** — authoritative metadata via `export_citations` (arXiv MCP, deterministic keys, version-preserving): mund2008the, read1992fractional, marcolli2018holographic, chen2021bending, aubert2023bruhattits, neretin2013on, read2008nonabelian.
-- **11 internal QNFO records** — concept DOIs where versioned (ZENODO-CONCEPT-DOI-CITE-1 + DQ2 correction): QP v2.0 cited by live-verified concept `10.5281/zenodo.21768756`; spin-statistics by concept `21962904`; exchange-phase by concept `21941184`; configuration-space by concept `21957291`; adelic-program by concept `21698355`.
+- **11 internal QNFO records** — concept DOIs where versioned (ZENODO-CONCEPT-DOI-CITE-1 + DQ2 correction; v0.3 refresh per post-publication red-team): QP v2.0 cited by live-verified concept `10.5281/zenodo.21768756`; spin-statistics by concept `21938970` (record 21964598); exchange-phase by concept `21941184`; configuration-space by concept `21945449` (record 21962450); adelic-program by concept `21691414`.
 
 ## 2. Verification method per entry (P3.AUTHOR-GATE rules 1-3)
 

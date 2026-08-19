@@ -1,0 +1,34 @@
+{
+ "created": "2026-08-19T18:44:42.100149+00:00",
+ "modified": "2026-08-19T18:44:42.186896+00:00",
+ "id": 22017149,
+ "conceptrecid": "22017148",
+ "metadata": {
+  "publication_date": "2026-08-19",
+  "access_right": "open",
+  "imprint_publisher": "Zenodo",
+  "prereserve_doi": {
+   "doi": "10.5281/zenodo.22017149",
+   "recid": 22017149
+  }
+ },
+ "title": "",
+ "links": {
+  "self": "https://zenodo.org/api/deposit/depositions/22017149",
+  "html": "https://zenodo.org/deposit/22017149",
+  "badge": "https://zenodo.org/badge/doi/.svg",
+  "files": "https://zenodo.org/api/deposit/depositions/22017149/files",
+  "bucket": "https://zenodo.org/api/files/413ee20e-32d3-41de-b950-cb7724e6c5fb",
+  "latest_draft": "https://zenodo.org/api/deposit/depositions/22017149",
+  "latest_draft_html": "https://zenodo.org/deposit/22017149",
+  "publish": "https://zenodo.org/api/deposit/depositions/22017149/actions/publish",
+  "edit": "https://zenodo.org/api/deposit/depositions/22017149/actions/edit",
+  "discard": "https://zenodo.org/api/deposit/depositions/22017149/actions/discard",
+  "newversion": "https://zenodo.org/api/deposit/depositions/22017149/actions/newversion"
+ },
+ "record_id": 22017149,
+ "owner": 1328013,
+ "files": [],
+ "state": "unsubmitted",
+ "submitted": false
+}
