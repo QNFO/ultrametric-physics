@@ -5,8 +5,8 @@ affiliation: "QNFO"
 ORCID: "0009-0002-4317-5604"
 date: "2026-08-19"
 license: "cc-by-4.0"
-doi: "10.5281/zenodo.RESERVED"
-status: "draft"
+doi: "10.5281/zenodo.22017149"
+status: "published"
 version: "v0.1"
 ---
 

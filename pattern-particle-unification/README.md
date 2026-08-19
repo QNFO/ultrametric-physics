@@ -5,7 +5,7 @@ Unifying Standard-Model particles (fermions, bosons) and condensed-matter excita
 - **Branch:** ump/paper/pattern-particle-unification
 - **Plan:** [PROJECT-PLAN.md](PROJECT-PLAN.md)
 - **Core claim (locked):** [artifacts/core-claim.md](artifacts/core-claim.md)
-- **Status:** Phase 0 — initialization (core claim locked, registry claimed)
+- **Status:** PUBLISHED — DOI 10.5281/zenodo.22017149 (2026-08-19, v0.1) · branch ump/paper/pattern-particle-unification
 
 ## Structure
 
