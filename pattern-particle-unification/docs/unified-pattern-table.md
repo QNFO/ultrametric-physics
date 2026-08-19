@@ -14,7 +14,7 @@ The table is derived by applying the five named imported premises (core-claim.md
 
 | Excitation | Spin s | Statistics phase | Node class | N_C* | Tree address (place, branch) | KIF-60 status |
 |---|---|---|---|---|---|---|
-| e, μ, τ | 1/2 | −1 (edge half-turn) | edge class | 2.389e-22 (e) | unramified; branch per prime factorization (adelic-program assignment) | [RETRODICTION] |
+| e, μ, τ | 1/2 | −1 (edge half-turn) | edge class | 4.19e-23 (e; $m_e/m_P$ recomputed BP-1: 9.109e-31/2.176e-8) | unramified; branch per prime factorization (adelic-program assignment) | [RETRODICTION] |
 | u, d, c, s, t, b | 1/2 | −1 | edge class | per PDG masses | unramified; color triple ↔ 3 parallel branches per generation (adelic-program gauge mapping) | [RETRODICTION] |
 | ν_e, ν_μ, ν_τ | 1/2 | −1 | edge class | upper bounds | unramified; Majorana ambiguity = open node-class question, NOT resolved here | [RETRODICTION] |
 | γ | 1 | +1 (trivial) | vertex class | 0 (massless) | unramified | [RETRODICTION] |
