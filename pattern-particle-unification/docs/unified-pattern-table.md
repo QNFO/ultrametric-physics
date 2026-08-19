@@ -33,7 +33,7 @@ The table is derived by applying the five named imported premises (core-claim.md
 | Cooper pair | 0 | +1 | composite vertex (pair node) | rational | ramified; INM.001 accounting applies | [RETRODICTION] |
 | quasielectron | 1/2 | −1 | dressed edge class | N_C*(α) rational (scoped: weakly-interacting composites only — C1) | ramified | [RETRODICTION] |
 | composite fermion (FQH) | 1/2 | −1 | dressed edge class | rational | ramified | [RETRODICTION] |
-| Laughlin ν=1/3 quasiparticle | 1/6 (topological) | θ = e^{2πi/3} (root of unity) | ramified branch node | rational | ramified 3-branch | [RETRODICTION] — abelian scope |
+| Laughlin ν=1/3 quasiparticle | 1/6 (topological) | θ = e^{iπ/3} (exchange; encirclement e^{2πi/3} — Arovas–Schrieffer–Wilczek) | ramified branch node | rational | ramified 3-branch | [RETRODICTION] — abelian scope |
 | ν=5/2 Moore-Read (Ising) | — | MATRIX-valued | — | — | OUT OF SCOPE (C2); open problem: automorphism REPRESENTATIONS, not characters | [OPEN] |
 
 ### 1.3 Regime dictionary (claim 3)
@@ -59,4 +59,4 @@ The table is derived by applying the five named imported premises (core-claim.md
 
 ## 4. Evidential-weight vehicle (C3)
 
-Positive Δlog-odds accrues ONLY when the pre-registered address scheme is applied to UNSEEN excitations (e.g., a newly characterized FQH plateau or topological material) and yields consistent addresses. That application is registered in RESEARCH-CONTINUITY-REGISTRY.md (CR-2).
+Positive Δlog-odds accrues ONLY when the pre-registered address scheme is applied to UNSEEN excitations (e.g., a newly characterized FQH plateau or topological material) and yields consistent addresses. That application is registered in RESEARCH-CONTINUITY-REGISTRY.md (REG-UMP013-001; prediction P2).

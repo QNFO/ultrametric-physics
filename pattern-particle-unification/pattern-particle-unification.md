@@ -5,7 +5,7 @@ affiliation: "QNFO"
 ORCID: "0009-0002-4317-5604"
 date: "2026-08-19"
 license: "cc-by-4.0"
-doi: "10.5281/zenodo.22017149"
+doi: "10.5281/zenodo.22017890"
 status: "published"
 version: "v0.1"
 ---
@@ -32,7 +32,7 @@ The Standard Model lists twelve fermions — six quarks (up, down, charm, strang
 
 ### 2.2 The condensed-matter catalog
 
-Condensed matter supplies excitations with environment-dependent properties. A phonon is a quantized lattice vibration; a magnon a quantized spin wave; an exciton a bound electron-hole pair; a Cooper pair the bound state underlying superconductivity [2,17]; a composite fermion the attached-flux object of the fractional quantum Hall effect [3,20]. Their effective masses are functions of the host material, temperature, doping, and fields. In two dimensions, braid statistics becomes possible: exchanging quasiparticles twice need not be trivial, and the exchange phase can be any root of unity. The Laughlin state at filling fraction $\nu = 1/3$ hosts quasiparticles with exchange phase $e^{2\pi i/3}$ [3]; the Moore-Read state at $\nu = 5/2$ hosts excitations whose statistics is described by matrices rather than phases [5,22]. Anyons of the abelian kind have topological spin $\theta = e^{2\pi i s}$ with fractional $s$ [4,20].
+Condensed matter supplies excitations with environment-dependent properties. A phonon is a quantized lattice vibration; a magnon a quantized spin wave; an exciton a bound electron-hole pair; a Cooper pair the bound state underlying superconductivity [2,17]; a composite fermion the attached-flux object of the fractional quantum Hall effect [3,20]. Their effective masses are functions of the host material, temperature, doping, and fields. In two dimensions, braid statistics becomes possible: exchanging quasiparticles twice need not be trivial, and the exchange phase can be any root of unity. The Laughlin state at filling fraction $\nu = 1/3$ hosts quasiparticles with exchange phase $e^{i\pi/3}$ (encirclement phase $e^{2\pi i/3}$) [3]; the Moore-Read state at $\nu = 5/2$ hosts excitations whose statistics is described by matrices rather than phases [5,22]. Anyons of the abelian kind have topological spin $\theta = e^{2\pi i s}$ with fractional $s$ [4,20].
 
 ### 2.3 The asymmetry
 
@@ -92,7 +92,7 @@ The neutrino rows carry an open question: if neutrinos are Majorana, their node 
 | Cooper pair | 0 | $+1$ | composite vertex | ramified |
 | quasielectron | 1/2 | $-1$ | dressed edge | ramified |
 | composite fermion | 1/2 | $-1$ | dressed edge | ramified |
-| Laughlin quasiparticle, $\nu = 1/3$ | 1/6 | $e^{2\pi i/3}$ | ramified branch node | ramified |
+| Laughlin quasiparticle, $\nu = 1/3$ | 1/6 | $e^{i\pi/3}$ (exchange; encirclement $e^{2\pi i/3}$) | ramified branch node | ramified |
 
 The anyon rows are restricted to abelian anyons: their phases are roots of unity, and the table records them as such. Non-abelian anyons — the Moore-Read excitation with matrix-valued statistics [5,22] — are outside the phase reading; the table marks the extension to automorphism representations of the tree as an open problem rather than absorbing it.
 
@@ -117,7 +117,7 @@ A quasiparticle's effective mass depends on its environment; in the counting ont
 
 $$N_C^*(\alpha) = f(N_C^{\text{bare}}, N_C^{\text{lattice}}, \ldots)$$
 
-This is the precise sense in which a quasiparticle is a composite node: its address is computed from the addresses of its constituents and its host. The reading is scoped. It holds for weakly interacting composites — band electrons, phonons, excitons, Cooper pairs in the weak-coupling regime. It does not hold for strongly correlated scales: the BCS gap is exponential in the coupling [2], and heavy-fermion masses inherit an exponential scale. Those regimes are outside the rational-function reading, and the framework says so rather than absorbing them.
+This is the precise sense in which a quasiparticle is a composite node: its address is computed from the addresses of its constituents and its host. The reading is scoped. It holds for weakly interacting composites — band electrons, phonons, excitons, Cooper pairs in the weak-coupling regime. It does not hold for strongly correlated scales: the BCS gap is exponentially suppressed in the inverse coupling, $\Delta \propto \omega_D e^{-1/N(0)V}$ [2], and heavy-fermion masses inherit an exponential scale. Those regimes are outside the rational-function reading, and the framework says so rather than absorbing them.
 
 ## 8. Epistemic Status
 
@@ -184,7 +184,7 @@ The Standard Model's particles and the condensed-matter catalog of quasiparticle
 
 [4] J. Mund, "The Spin-Statistics Theorem for Anyons and Plektons in d=2+1," arXiv:0801.3621 (2008).
 
-[5] N. Read, G. Moore, "Fractional quantum Hall effect and nonabelian statistics," arXiv:hep-th/9202001 (1991).
+[5] N. Read, G. Moore, "Fractional quantum Hall effect and nonabelian statistics," arXiv:hep-th/9202001 (1992).
 
 [6] V. S. Vladimirov, I. V. Volovich, E. I. Zelenov, "p-Adic Analysis and Mathematical Physics," World Scientific (1994). doi:10.1142/1581
 
@@ -222,11 +222,11 @@ The Standard Model's particles and the condensed-matter catalog of quasiparticle
 
 [23] R. B. Quni-Gudzinas, "ODR Thesis: The Compton Count as the Only Primitive," Zenodo (2026). doi:10.5281/zenodo.21780909
 
-[24] R. B. Quni-Gudzinas, "The Boson/Fermion Distinction: Spin-Statistics as Structural Invariant," Zenodo (2026). doi:10.5281/zenodo.21962904
+[24] R. B. Quni-Gudzinas, "The Boson/Fermion Distinction: Spin-Statistics as Structural Invariant," Zenodo (2026). doi:10.5281/zenodo.21938970
 
 [25] R. B. Quni-Gudzinas, "The Exchange Phase as a Logical Scalar: R = e^(2 pi i s) from the Re-Entrant Calculus," Zenodo (2026). doi:10.5281/zenodo.21941184
 
-[26] R. B. Quni-Gudzinas, "Configuration-Space Topology and the Distinction Calculus: The Exchange Scalar, Its +-1 Shadow, and a Pre-Registered Derivation Program," Zenodo (2026). doi:10.5281/zenodo.21957291
+[26] R. B. Quni-Gudzinas, "Configuration-Space Topology and the Distinction Calculus: The Exchange Scalar, Its +-1 Shadow, and a Pre-Registered Derivation Program," Zenodo (2026). doi:10.5281/zenodo.21945449
 
 [27] QNFO, "Quasiparticles as Rational Functions: Extending ODR to Condensed Matter," Zenodo (2026). doi:10.5281/zenodo.21768756
 
