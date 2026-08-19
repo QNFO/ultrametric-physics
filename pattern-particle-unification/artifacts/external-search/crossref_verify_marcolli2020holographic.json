@@ -1,0 +1,138 @@
+{
+ "doi": "10.4310/pamq.2020.v16.n1.a1",
+ "message": {
+  "indexed": {
+   "date-parts": [
+    [
+     2026,
+     1,
+     18
+    ]
+   ],
+   "date-time": "2026-01-18T06:14:49Z",
+   "timestamp": 1768716889937,
+   "version": "3.49.0"
+  },
+  "reference-count": 0,
+  "publisher": "International Press of Boston",
+  "issue": "1",
+  "content-domain": {
+   "domain": [],
+   "crossmark-restriction": false
+  },
+  "short-container-title": [],
+  "published-print": {
+   "date-parts": [
+    [
+     2020
+    ]
+   ]
+  },
+  "DOI": "10.4310/pamq.2020.v16.n1.a1",
+  "type": "journal-article",
+  "created": {
+   "date-parts": [
+    [
+     2020,
+     2,
+     6
+    ]
+   ],
+   "date-time": "2020-02-06T16:56:41Z",
+   "timestamp": 1581008201000
+  },
+  "page": "1-33",
+  "source": "Crossref",
+  "is-referenced-by-count": 4,
+  "title": [
+   "Holographic codes on Bruhat\u2013Tits buildings and Drinfeld symmetric spaces"
+  ],
+  "prefix": "10.4310",
+  "volume": "16",
+  "author": [
+   {
+    "given": "Matilde",
+    "family": "Marcolli",
+    "sequence": "first",
+    "affiliation": [
+     {
+      "name": "California Institute of Technology, Pasadena, Cal., U.S.A.; University of Toronto, Ontario, Canada; and Perimeter Institute for Theoretical Physics, Waterloo, Ontario, Canada"
+     }
+    ],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   }
+  ],
+  "member": "2902",
+  "container-title": [
+   "Pure and Applied Mathematics Quarterly"
+  ],
+  "original-title": [],
+  "language": "en",
+  "deposited": {
+   "date-parts": [
+    [
+     2024,
+     10,
+     9
+    ]
+   ],
+   "date-time": "2024-10-09T06:53:28Z",
+   "timestamp": 1728456808000
+  },
+  "score": 1,
+  "resource": {
+   "primary": {
+    "URL": "https://link.intlpress.com/JDetail/1806164036658081793"
+   }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+   "date-parts": [
+    [
+     2020
+    ]
+   ]
+  },
+  "references-count": 0,
+  "journal-issue": {
+   "issue": "1",
+   "published-print": {
+    "date-parts": [
+     [
+      2020
+     ]
+    ]
+   }
+  },
+  "URL": "https://doi.org/10.4310/pamq.2020.v16.n1.a1",
+  "relation": {},
+  "ISSN": [
+   "1558-8599",
+   "1558-8602"
+  ],
+  "issn-type": [
+   {
+    "value": "1558-8599",
+    "type": "print"
+   },
+   {
+    "value": "1558-8602",
+    "type": "electronic"
+   }
+  ],
+  "subject": [],
+  "published": {
+   "date-parts": [
+    [
+     2020
+    ]
+   ]
+  }
+ }
+}

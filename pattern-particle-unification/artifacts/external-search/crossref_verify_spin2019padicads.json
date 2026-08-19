@@ -1,0 +1,646 @@
+{
+ "doi": "10.1088/1751-8121/ab0757",
+ "message": {
+  "indexed": {
+   "date-parts": [
+    [
+     2026,
+     6,
+     16
+    ]
+   ],
+   "date-time": "2026-06-16T02:43:47Z",
+   "timestamp": 1781577827958,
+   "version": "3.54.5"
+  },
+  "reference-count": 22,
+  "publisher": "IOP Publishing",
+  "issue": "14",
+  "license": [
+   {
+    "start": {
+     "date-parts": [
+      [
+       2019,
+       3,
+       12
+      ]
+     ],
+     "date-time": "2019-03-12T00:00:00Z",
+     "timestamp": 1552348800000
+    },
+    "content-version": "vor",
+    "delay-in-days": 0,
+    "URL": "https://publishingsupport.iopscience.iop.org/iop-standard/v1"
+   },
+   {
+    "start": {
+     "date-parts": [
+      [
+       2019,
+       3,
+       12
+      ]
+     ],
+     "date-time": "2019-03-12T00:00:00Z",
+     "timestamp": 1552348800000
+    },
+    "content-version": "tdm",
+    "delay-in-days": 0,
+    "URL": "https://iopscience.iop.org/info/page/text-and-data-mining"
+   }
+  ],
+  "funder": [
+   {
+    "DOI": "10.13039/100000893",
+    "name": "Simons Foundation",
+    "doi-asserted-by": "crossref",
+    "award": [
+     "511167 (SSG)"
+    ],
+    "award-info": [
+     {
+      "award-number": [
+       "511167 (SSG)"
+      ]
+     }
+    ],
+    "id": [
+     {
+      "id": "10.13039/100000893",
+      "id-type": "DOI",
+      "asserted-by": "crossref"
+     }
+    ]
+   },
+   {
+    "DOI": "10.13039/100006208",
+    "name": "High Energy Physics",
+    "doi-asserted-by": "crossref",
+    "award": [
+     "DE-FG02-91ER40671"
+    ],
+    "award-info": [
+     {
+      "award-number": [
+       "DE-FG02-91ER40671"
+      ]
+     }
+    ],
+    "id": [
+     {
+      "id": "10.13039/100006208",
+      "id-type": "DOI",
+      "asserted-by": "crossref"
+     }
+    ]
+   }
+  ],
+  "content-domain": {
+   "domain": [
+    "iopscience.iop.org"
+   ],
+   "crossmark-restriction": false
+  },
+  "short-container-title": [
+   "J. Phys. A: Math. Theor."
+  ],
+  "published-print": {
+   "date-parts": [
+    [
+     2019,
+     4,
+     5
+    ]
+   ]
+  },
+  "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>\n                    We study the holographic dual of the simplest notion of spin in a\n                    <jats:italic>p</jats:italic>\n                    \u200a-adic field theory, namely Green\u2019s functions which involve non-trivial sign characters over the\n                    <jats:italic>p</jats:italic>\n                    \u200a-adic numbers. In order to recover these sign characters from bulk constructions, we find that we must introduce a non-dynamical\n                    <jats:inline-formula/>\n                    gauge field on the line graph of the Bruhat\u2013Tits tree. Wilson lines of this gauge field on suitable paths yield the desired sign characters. We show explicitly how to start with complex scalars or fermions in the bulk, coupled to the\n                    <jats:inline-formula/>\n                    gauge field, and compute the holographic two-point functions of their dual operators on the boundary.\n                  </jats:p>",
+  "DOI": "10.1088/1751-8121/ab0757",
+  "type": "journal-article",
+  "created": {
+   "date-parts": [
+    [
+     2019,
+     2,
+     15
+    ]
+   ],
+   "date-time": "2019-02-15T17:15:58Z",
+   "timestamp": 1550250958000
+  },
+  "page": "144004",
+  "update-policy": "https://doi.org/10.1088/crossmark-policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 18,
+  "title": [
+   "Spin in\n                    <i>p</i>\n                    \u200a-adic AdS/CFT"
+  ],
+  "prefix": "10.1088",
+  "volume": "52",
+  "author": [
+   {
+    "ORCID": "https://orcid.org/0000-0001-5214-1786",
+    "authenticated-orcid": false,
+    "given": "Steven S",
+    "family": "Gubser",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "ORCID": "https://orcid.org/0000-0002-1159-0574",
+    "authenticated-orcid": false,
+    "given": "Christian",
+    "family": "Jepsen",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Brian",
+    "family": "Trundy",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "member": "266",
+  "published-online": {
+   "date-parts": [
+    [
+     2019,
+     3,
+     12
+    ]
+   ]
+  },
+  "reference": [
+   {
+    "key": "aab0757bib001",
+    "doi-asserted-by": "publisher",
+    "first-page": "186",
+    "DOI": "10.1016/0370-2693(87)91356-6",
+    "type": "journal-article",
+    "article-title": "Nonarchimedean strings",
+    "volume": "199",
+    "author": "Freund",
+    "year": "1987",
+    "journal-title": "Phys. Lett. B"
+   },
+   {
+    "key": "aab0757bib002",
+    "doi-asserted-by": "publisher",
+    "first-page": "191",
+    "DOI": "10.1016/0370-2693(87)91357-8",
+    "type": "journal-article",
+    "article-title": "Adelic string amplitudes",
+    "volume": "199",
+    "author": "Freund",
+    "year": "1987",
+    "journal-title": "Phys. Lett. B"
+   },
+   {
+    "key": "aab0757bib003",
+    "doi-asserted-by": "publisher",
+    "first-page": "365",
+    "DOI": "10.1016/0550-3213(88)90207-6",
+    "type": "journal-article",
+    "article-title": "Non-archimedean string dynamics",
+    "volume": "302",
+    "author": "Brekke",
+    "year": "1988",
+    "journal-title": "Nucl. Phys. B"
+   },
+   {
+    "key": "aab0757bib004",
+    "doi-asserted-by": "publisher",
+    "first-page": "L83",
+    "DOI": "10.1088/0264-9381/4/4/003",
+    "type": "journal-article",
+    "article-title": "p\u200a-adic string",
+    "volume": "4",
+    "author": "Volovich",
+    "year": "1987",
+    "journal-title": "Class. Quantum Grav."
+   },
+   {
+    "key": "aab0757bib005",
+    "doi-asserted-by": "publisher",
+    "first-page": "1019",
+    "DOI": "10.1007/s00220-016-2813-6",
+    "type": "journal-article",
+    "article-title": "p\u200a-adic AdS/CFT",
+    "volume": "352",
+    "author": "Gubser",
+    "year": "2016",
+    "journal-title": "Commun. Math. Phys."
+   },
+   {
+    "key": "aab0757bib006",
+    "doi-asserted-by": "publisher",
+    "first-page": "93",
+    "DOI": "10.4310/ATMP.2018.v22.n1.a4",
+    "type": "preprint",
+    "article-title": "Tensor networks, p\u200a-adic fields, and algebraic curves: arithmetic and the AdS3/CFT2 correspondence",
+    "volume": "22",
+    "author": "Heydeman",
+    "year": "2018"
+   },
+   {
+    "key": "aab0757bib007",
+    "doi-asserted-by": "publisher",
+    "first-page": "463",
+    "DOI": "10.1007/BF01238811",
+    "type": "journal-article",
+    "article-title": "Nonarchimedean strings and Bruhat\u2013Tits trees",
+    "volume": "123",
+    "author": "Zabrodin",
+    "year": "1989",
+    "journal-title": "Commun. Math. Phys."
+   },
+   {
+    "key": "aab0757bib008",
+    "doi-asserted-by": "publisher",
+    "first-page": "165",
+    "DOI": "10.1016/j.physletb.2018.09.043",
+    "type": "journal-article",
+    "article-title": "Scalar fields on p\u200aAdS",
+    "volume": "786",
+    "author": "Qu",
+    "year": "2018",
+    "journal-title": "Phys. Lett. B"
+   },
+   {
+    "key": "aab0757bib009",
+    "doi-asserted-by": "publisher",
+    "first-page": "4877",
+    "DOI": "10.1142/S0217751X89002065",
+    "type": "journal-article",
+    "article-title": "Nonarchimedean conformal field theories",
+    "volume": "04",
+    "author": "Melzer",
+    "year": "1989",
+    "journal-title": "Int. J. Mod. Phys. A"
+   },
+   {
+    "key": "aab0757bib010",
+    "doi-asserted-by": "publisher",
+    "first-page": "157",
+    "DOI": "10.1007/JHEP06(2017)157",
+    "type": "journal-article",
+    "article-title": "Edge length dynamics on graphs with applications to p\u200a-adic AdS/CFT",
+    "volume": "JHEP06(2017)",
+    "author": "Gubser",
+    "year": "2017",
+    "journal-title": "J. High Energy Phys."
+   },
+   {
+    "key": "aab0757bib011",
+    "doi-asserted-by": "publisher",
+    "first-page": "283",
+    "DOI": "10.1016/0370-2693(88)91318-4",
+    "type": "journal-article",
+    "article-title": "Open and closed p\u200a-adic strings and quadratic extensions of number fields",
+    "volume": "212",
+    "author": "Arefeva",
+    "year": "1988",
+    "journal-title": "Phys. Lett. B"
+   },
+   {
+    "key": "aab0757bib012",
+    "doi-asserted-by": "publisher",
+    "first-page": "339",
+    "DOI": "10.1016/0370-2693(88)91374-3",
+    "type": "journal-article",
+    "article-title": "p\u200a-adic superstrings",
+    "volume": "214",
+    "author": "Arefeva",
+    "year": "1988",
+    "journal-title": "Phys. Lett. B"
+   },
+   {
+    "key": "aab0757bib013",
+    "doi-asserted-by": "publisher",
+    "first-page": "1745",
+    "DOI": "10.1142/S0217732389001970",
+    "type": "journal-article",
+    "article-title": "Adelic string and superstring amplitudes",
+    "volume": "4",
+    "author": "Ruelle",
+    "year": "1989",
+    "journal-title": "Mod. Phys. Lett. A"
+   },
+   {
+    "key": "aab0757bib014a",
+    "doi-asserted-by": "publisher",
+    "first-page": "265",
+    "DOI": "10.1142/S0217732390000317",
+    "type": "journal-article",
+    "article-title": "New p\u200a-adic string amplitudes",
+    "volume": "5",
+    "author": "Marshakov",
+    "year": "1990",
+    "journal-title": "Mod. Phys. Lett. A"
+   },
+   {
+    "key": "aab0757bib014b",
+    "first-page": "286",
+    "type": "journal-article",
+    "article-title": "New p\u200a-adic string amplitudes",
+    "volume": "51",
+    "author": "Marshakov",
+    "year": "1990",
+    "journal-title": "Yad. Fiz. A"
+   },
+   {
+    "key": "aab0757bib015a",
+    "doi-asserted-by": "publisher",
+    "first-page": "1353",
+    "DOI": "10.1007/BF01018283",
+    "type": "journal-article",
+    "article-title": "Renormalization group in a fermionic hierarchical model",
+    "volume": "101",
+    "author": "Lerner",
+    "year": "1994",
+    "journal-title": "Theor. Math. Phys."
+   },
+   {
+    "key": "aab0757bib015b",
+    "doi-asserted-by": "publisher",
+    "first-page": "282",
+    "DOI": "10.1007/BF01018283",
+    "type": "journal-article",
+    "article-title": "Renormalization group in a fermionic hierarchical model",
+    "volume": "101",
+    "author": "Lerner",
+    "year": "1994",
+    "journal-title": "Teor. Mat. Fiz."
+   },
+   {
+    "key": "aab0757bib016",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevD.98.126007",
+    "type": "preprint",
+    "article-title": "Signs of the time: melonic theories over diverse number systems",
+    "volume": "98",
+    "author": "Gubser",
+    "year": "2018"
+   },
+   {
+    "key": "aab0757bib017",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevD.85.063516",
+    "type": "journal-article",
+    "article-title": "Tree-like structure of eternal inflation: a solvable model",
+    "volume": "85",
+    "author": "Harlow",
+    "year": "2012",
+    "journal-title": "Phys. Rev. D"
+   },
+   {
+    "key": "aab0757bib018",
+    "doi-asserted-by": "publisher",
+    "first-page": "367",
+    "DOI": "10.1002/prop.200900057",
+    "type": "journal-article",
+    "article-title": "Real-time response in AdS/CFT with application to spinors",
+    "volume": "57",
+    "author": "Iqbal",
+    "year": "2009",
+    "journal-title": "Fortschr. Phys."
+   },
+   {
+    "key": "aab0757bib019",
+    "article-title": "p\u200a-adic strings then and now",
+    "author": "Freund",
+    "year": "2017",
+    "type": "preprint"
+   },
+   {
+    "key": "aab0757bib020",
+    "article-title": "The Dirac operator of a graph",
+    "author": "Knill",
+    "year": "2013",
+    "type": "preprint"
+   }
+  ],
+  "container-title": [
+   "Journal of Physics A: Mathematical and Theoretical"
+  ],
+  "original-title": [],
+  "link": [
+   {
+    "URL": "http://iopscience.iop.org/article/10.1088/1751-8121/ab0757",
+    "content-type": "text/html",
+    "content-version": "am",
+    "intended-application": "text-mining"
+   },
+   {
+    "URL": "http://iopscience.iop.org/article/10.1088/1751-8121/ab0757/pdf",
+    "content-type": "application/pdf",
+    "content-version": "am",
+    "intended-application": "text-mining"
+   },
+   {
+    "URL": "http://stacks.iop.org/1751-8121/52/i=14/a=144004/pdf",
+    "content-type": "application/pdf",
+    "content-version": "vor",
+    "intended-application": "text-mining"
+   },
+   {
+    "URL": "http://stacks.iop.org/1751-8121/52/i=14/a=144004?key=crossref.98ba66753d7d8d1acba46fc9ae17f685",
+    "content-type": "text/html",
+    "content-version": "vor",
+    "intended-application": "text-mining"
+   },
+   {
+    "URL": "https://iopscience.iop.org/article/10.1088/1751-8121/ab0757",
+    "content-type": "text/html",
+    "content-version": "vor",
+    "intended-application": "text-mining"
+   },
+   {
+    "URL": "https://iopscience.iop.org/article/10.1088/1751-8121/ab0757/pdf",
+    "content-type": "application/pdf",
+    "content-version": "vor",
+    "intended-application": "text-mining"
+   },
+   {
+    "URL": "http://iopscience.iop.org/article/10.1088/1751-8121/ab0757/pdf",
+    "content-type": "application/pdf",
+    "content-version": "am",
+    "intended-application": "syndication"
+   },
+   {
+    "URL": "https://iopscience.iop.org/article/10.1088/1751-8121/ab0757/pdf",
+    "content-type": "application/pdf",
+    "content-version": "vor",
+    "intended-application": "syndication"
+   },
+   {
+    "URL": "http://iopscience.iop.org/article/10.1088/1751-8121/ab0757/pdf",
+    "content-type": "application/pdf",
+    "content-version": "am",
+    "intended-application": "similarity-checking"
+   },
+   {
+    "URL": "http://stacks.iop.org/1751-8121/52/i=14/a=144004/pdf",
+    "content-type": "application/pdf",
+    "content-version": "vor",
+    "intended-application": "similarity-checking"
+   },
+   {
+    "URL": "http://stacks.iop.org/1751-8121/52/i=14/a=144004?key=crossref.98ba66753d7d8d1acba46fc9ae17f685",
+    "content-type": "text/html",
+    "content-version": "vor",
+    "intended-application": "similarity-checking"
+   },
+   {
+    "URL": "https://iopscience.iop.org/article/10.1088/1751-8121/ab0757/pdf",
+    "content-type": "application/pdf",
+    "content-version": "vor",
+    "intended-application": "similarity-checking"
+   }
+  ],
+  "deposited": {
+   "date-parts": [
+    [
+     2026,
+     3,
+     14
+    ]
+   ],
+   "date-time": "2026-03-14T13:28:07Z",
+   "timestamp": 1773494887000
+  },
+  "score": 1,
+  "resource": {
+   "primary": {
+    "URL": "https://iopscience.iop.org/article/10.1088/1751-8121/ab0757"
+   }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+   "date-parts": [
+    [
+     2019,
+     3,
+     12
+    ]
+   ]
+  },
+  "references-count": 22,
+  "journal-issue": {
+   "issue": "14",
+   "published-online": {
+    "date-parts": [
+     [
+      2019,
+      3,
+      12
+     ]
+    ]
+   },
+   "published-print": {
+    "date-parts": [
+     [
+      2019,
+      4,
+      5
+     ]
+    ]
+   }
+  },
+  "URL": "https://doi.org/10.1088/1751-8121/ab0757",
+  "relation": {},
+  "ISSN": [
+   "1751-8113",
+   "1751-8121"
+  ],
+  "issn-type": [
+   {
+    "value": "1751-8113",
+    "type": "print"
+   },
+   {
+    "value": "1751-8121",
+    "type": "electronic"
+   }
+  ],
+  "subject": [],
+  "published": {
+   "date-parts": [
+    [
+     2019,
+     3,
+     12
+    ]
+   ]
+  },
+  "assertion": [
+   {
+    "value": "Spin in\n                      p\n                      \u200a-adic AdS/CFT",
+    "name": "article_title",
+    "label": "Article Title"
+   },
+   {
+    "value": "Journal of Physics A: Mathematical and Theoretical",
+    "name": "journal_title",
+    "label": "Journal Title"
+   },
+   {
+    "value": "paper",
+    "name": "article_type",
+    "label": "Article Type"
+   },
+   {
+    "value": "\u00a9 2019 IOP Publishing Ltd. All rights, including for text and data mining, AI training, and similar technologies, are reserved.",
+    "name": "copyright_information",
+    "label": "Copyright Information"
+   },
+   {
+    "value": "2018-12-20",
+    "name": "date_received",
+    "label": "Date Received",
+    "group": {
+     "name": "publication_dates",
+     "label": "Publication dates"
+    }
+   },
+   {
+    "value": "2019-02-15",
+    "name": "date_accepted",
+    "label": "Date Accepted",
+    "group": {
+     "name": "publication_dates",
+     "label": "Publication dates"
+    }
+   },
+   {
+    "value": "2019-03-12",
+    "name": "date_epub",
+    "label": "Online publication date",
+    "group": {
+     "name": "publication_dates",
+     "label": "Publication dates"
+    }
+   }
+  ]
+ }
+}

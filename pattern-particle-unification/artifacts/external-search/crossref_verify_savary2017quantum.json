@@ -1,0 +1,3703 @@
+{
+ "doi": "10.1088/0034-4885/80/1/016502",
+ "message": {
+  "indexed": {
+   "date-parts": [
+    [
+     2026,
+     8,
+     19
+    ]
+   ],
+   "date-time": "2026-08-19T04:45:20Z",
+   "timestamp": 1787114720557,
+   "version": "3.56.0"
+  },
+  "reference-count": 327,
+  "publisher": "IOP Publishing",
+  "issue": "1",
+  "license": [
+   {
+    "start": {
+     "date-parts": [
+      [
+       2016,
+       11,
+       8
+      ]
+     ],
+     "date-time": "2016-11-08T00:00:00Z",
+     "timestamp": 1478563200000
+    },
+    "content-version": "vor",
+    "delay-in-days": 0,
+    "URL": "https://publishingsupport.iopscience.iop.org/iop-standard/v1"
+   },
+   {
+    "start": {
+     "date-parts": [
+      [
+       2016,
+       11,
+       8
+      ]
+     ],
+     "date-time": "2016-11-08T00:00:00Z",
+     "timestamp": 1478563200000
+    },
+    "content-version": "tdm",
+    "delay-in-days": 0,
+    "URL": "https://iopscience.iop.org/info/page/text-and-data-mining"
+   }
+  ],
+  "funder": [
+   {
+    "DOI": "10.13039/100000936",
+    "name": "Gordon and Betty Moore Foundation",
+    "doi-asserted-by": "crossref",
+    "award": [
+     "GBMF-4303"
+    ],
+    "award-info": [
+     {
+      "award-number": [
+       "GBMF-4303"
+      ]
+     }
+    ],
+    "id": [
+     {
+      "id": "10.13039/100000936",
+      "id-type": "DOI",
+      "asserted-by": "crossref"
+     }
+    ]
+   },
+   {
+    "DOI": "10.13039/100000078",
+    "name": "Division of Materials Research",
+    "doi-asserted-by": "crossref",
+    "award": [
+     "DMR1506119"
+    ],
+    "award-info": [
+     {
+      "award-number": [
+       "DMR1506119"
+      ]
+     }
+    ],
+    "id": [
+     {
+      "id": "10.13039/100000078",
+      "id-type": "DOI",
+      "asserted-by": "crossref"
+     }
+    ]
+   },
+   {
+    "DOI": "10.13039/100006151",
+    "name": "Basic Energy Sciences",
+    "doi-asserted-by": "crossref",
+    "award": [
+     "DE-FG02-08ER46524"
+    ],
+    "award-info": [
+     {
+      "award-number": [
+       "DE-FG02-08ER46524"
+      ]
+     }
+    ],
+    "id": [
+     {
+      "id": "10.13039/100006151",
+      "id-type": "DOI",
+      "asserted-by": "crossref"
+     }
+    ]
+   }
+  ],
+  "content-domain": {
+   "domain": [
+    "iopscience.iop.org"
+   ],
+   "crossmark-restriction": false
+  },
+  "short-container-title": [
+   "Rep. Prog. Phys."
+  ],
+  "published-print": {
+   "date-parts": [
+    [
+     2017,
+     1,
+     1
+    ]
+   ]
+  },
+  "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>\n                    Quantum spin liquids may be considered \u2018quantum disordered\u2019 ground states of spin systems, in which zero-point fluctuations are so strong that they prevent conventional magnetic long-range order. More interestingly, quantum spin liquids are prototypical examples of ground states with massive many-body entanglement, which is of a degree sufficient to render these states distinct\n                    <jats:italic>phases</jats:italic>\n                    of matter. Their highly entangled nature imbues quantum spin liquids with unique physical aspects, such as non-local excitations, topological properties, and more. In this review, we discuss the nature of such phases and their properties based on paradigmatic models and general arguments, and introduce theoretical technology such as gauge theory and partons, which are conveniently used in the study of quantum spin liquids. An overview is given of the different types of quantum spin liquids and the models and theories used to describe them. We also provide a guide to the current status of experiments in relation to study quantum spin liquids, and to the diverse probes used therein.\n                  </jats:p>",
+  "DOI": "10.1088/0034-4885/80/1/016502",
+  "type": "journal-article",
+  "created": {
+   "date-parts": [
+    [
+     2016,
+     11,
+     8
+    ]
+   ],
+   "date-time": "2016-11-08T05:13:34Z",
+   "timestamp": 1478582014000
+  },
+  "page": "016502",
+  "update-policy": "https://doi.org/10.1088/crossmark-policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 1924,
+  "title": [
+   "Quantum spin liquids: a review"
+  ],
+  "prefix": "10.1088",
+  "volume": "80",
+  "author": [
+   {
+    "given": "Lucile",
+    "family": "Savary",
+    "sequence": "first",
+    "affiliation": [
+     {
+      "name": "Massachusetts Institute of Technology"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Leon",
+    "family": "Balents",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "University of California"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "member": "266",
+  "published-online": {
+   "date-parts": [
+    [
+     2016,
+     11,
+     8
+    ]
+   ]
+  },
+  "reference": [
+   {
+    "key": "ropaa3cbebib001",
+    "doi-asserted-by": "publisher",
+    "first-page": "153",
+    "DOI": "10.1016/0025-5408(73)90167-0",
+    "type": "journal-article",
+    "volume": "8",
+    "author": "Anderson",
+    "year": "1973",
+    "journal-title": "Mater. Res. Bull."
+   },
+   {
+    "key": "ropaa3cbebib002",
+    "doi-asserted-by": "publisher",
+    "first-page": "1196",
+    "DOI": "10.1126/science.235.4793.1196",
+    "type": "journal-article",
+    "volume": "235",
+    "author": "Anderson",
+    "year": "1987",
+    "journal-title": "Science"
+   },
+   {
+    "key": "ropaa3cbebib003",
+    "doi-asserted-by": "publisher",
+    "first-page": "973",
+    "DOI": "10.1016/0038-1098(87)90642-9",
+    "type": "journal-article",
+    "volume": "63",
+    "author": "Baskaran",
+    "year": "1987",
+    "journal-title": "Solid State Commun."
+   },
+   {
+    "key": "ropaa3cbebib004",
+    "doi-asserted-by": "publisher",
+    "first-page": "2095",
+    "DOI": "10.1103/PhysRevLett.59.2095",
+    "type": "journal-article",
+    "volume": "59",
+    "author": "Kalmeyer",
+    "year": "1987",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa3cbebib005",
+    "doi-asserted-by": "publisher",
+    "first-page": "8865",
+    "DOI": "10.1103/PhysRevB.35.8865",
+    "type": "journal-article",
+    "volume": "35",
+    "author": "Kivelson",
+    "year": "1987",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa3cbebib006",
+    "doi-asserted-by": "publisher",
+    "first-page": "2376",
+    "DOI": "10.1103/PhysRevLett.61.2376",
+    "type": "journal-article",
+    "volume": "61",
+    "author": "Rokhsar",
+    "year": "1988",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa3cbebib007",
+    "doi-asserted-by": "publisher",
+    "first-page": "3774",
+    "DOI": "10.1103/PhysRevB.37.3774",
+    "type": "journal-article",
+    "volume": "37",
+    "author": "Affleck",
+    "year": "1988",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa3cbebib008",
+    "doi-asserted-by": "publisher",
+    "first-page": "1773",
+    "DOI": "10.1103/PhysRevLett.66.1773",
+    "type": "journal-article",
+    "volume": "66",
+    "author": "Read",
+    "year": "1991",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa3cbebib009",
+    "doi-asserted-by": "publisher",
+    "first-page": "7387",
+    "DOI": "10.1103/PhysRevB.40.7387",
+    "type": "journal-article",
+    "volume": "40",
+    "author": "Wen",
+    "year": "1989",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa3cbebib010",
+    "doi-asserted-by": "publisher",
+    "first-page": "2664",
+    "DOI": "10.1103/PhysRevB.44.2664",
+    "type": "journal-article",
+    "volume": "44",
+    "author": "Wen",
+    "year": "1991",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa3cbebib011",
+    "doi-asserted-by": "publisher",
+    "first-page": "7850",
+    "DOI": "10.1103/PhysRevB.62.7850",
+    "type": "journal-article",
+    "volume": "62",
+    "author": "Senthil",
+    "year": "2000",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa3cbebib012",
+    "doi-asserted-by": "publisher",
+    "first-page": "292",
+    "DOI": "10.1103/PhysRevLett.86.292",
+    "type": "journal-article",
+    "volume": "86",
+    "author": "Senthil",
+    "year": "2001",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa3cbebib013",
+    "doi-asserted-by": "publisher",
+    "first-page": "2259",
+    "DOI": "10.1063/1.1665530",
+    "type": "journal-article",
+    "volume": "12",
+    "author": "Wegner",
+    "year": "1971",
+    "journal-title": "J. Math. Phys."
+   },
+   {
+    "key": "ropaa3cbebib014",
+    "doi-asserted-by": "publisher",
+    "first-page": "659",
+    "DOI": "10.1103/RevModPhys.51.659",
+    "type": "journal-article",
+    "volume": "51",
+    "author": "Kogut",
+    "year": "1979",
+    "journal-title": "Rev. Mod. Phys."
+   },
+   {
+    "key": "ropaa3cbebib015",
+    "doi-asserted-by": "publisher",
+    "first-page": "1881",
+    "DOI": "10.1103/PhysRevLett.86.1881",
+    "type": "journal-article",
+    "volume": "86",
+    "author": "Moessner",
+    "year": "2001",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa3cbebib016",
+    "doi-asserted-by": "publisher",
+    "first-page": "2",
+    "DOI": "10.1016/S0003-4916(02)00018-0",
+    "type": "journal-article",
+    "volume": "303",
+    "author": "Kitaev",
+    "year": "2003",
+    "journal-title": "Ann. Phys."
+   },
+   {
+    "key": "ropaa3cbebib017",
+    "doi-asserted-by": "publisher",
+    "first-page": "2",
+    "DOI": "10.1016/j.aop.2005.10.005",
+    "type": "journal-article",
+    "volume": "321",
+    "author": "Kitaev",
+    "year": "2006",
+    "journal-title": "Ann. Phys."
+   },
+   {
+    "key": "ropaa3cbebib018",
+    "doi-asserted-by": "publisher",
+    "first-page": "357",
+    "DOI": "10.1103/PhysRev.79.357",
+    "type": "journal-article",
+    "volume": "79",
+    "author": "Wannier",
+    "year": "1950",
+    "journal-title": "Phys. Rev."
+   },
+   {
+    "key": "ropaa3cbebib019",
+    "doi-asserted-by": "publisher",
+    "first-page": "293",
+    "DOI": "10.1007/978-3-642-10589-0_12",
+    "type": "book",
+    "author": "Gingras",
+    "year": "2011"
+   },
+   {
+    "key": "ropaa3cbebib020",
+    "doi-asserted-by": "publisher",
+    "first-page": "35",
+    "DOI": "10.1146/annurev-conmatphys-020911-125058",
+    "type": "journal-article",
+    "volume": "3",
+    "author": "Castelnovo",
+    "year": "2012",
+    "journal-title": "Annu. Rev. Condens. Matter Phys."
+   },
+   {
+    "key": "ropaa3cbebib021",
+    "doi-asserted-by": "publisher",
+    "first-page": "453",
+    "DOI": "10.1146/annurev.ms.24.080194.002321",
+    "type": "journal-article",
+    "volume": "24",
+    "author": "Ramirez",
+    "year": "1994",
+    "journal-title": "Annu. Rev. Mater. Sci."
+   },
+   {
+    "key": "ropaa3cbebib022",
+    "doi-asserted-by": "publisher",
+    "first-page": "3",
+    "DOI": "10.1007/978-3-642-10589-0_1",
+    "type": "book",
+    "author": "Chalker",
+    "year": "2011"
+   },
+   {
+    "key": "ropaa3cbebib023",
+    "first-page": "p 101",
+    "type": "book",
+    "article-title": "Topological phases and quantum computation",
+    "author": "Kitaev",
+    "year": "2010"
+   },
+   {
+    "key": "ropaa3cbebib024",
+    "doi-asserted-by": "publisher",
+    "first-page": "902",
+    "DOI": "10.1038/nphys2465",
+    "type": "journal-article",
+    "volume": "8",
+    "author": "Jiang",
+    "year": "2012",
+    "journal-title": "Nat. Phys."
+   },
+   {
+    "key": "ropaa3cbebib025",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevLett.111.107205",
+    "type": "journal-article",
+    "volume": "111",
+    "author": "Jiang",
+    "year": "2013",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa3cbebib026",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevLett.96.110404",
+    "type": "journal-article",
+    "volume": "96",
+    "author": "Kitaev",
+    "year": "2006",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa3cbebib027",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevLett.96.110405",
+    "type": "journal-article",
+    "volume": "96",
+    "author": "Levin",
+    "year": "2006",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa3cbebib028",
+    "doi-asserted-by": "publisher",
+    "first-page": "772",
+    "DOI": "10.1038/nphys2036",
+    "type": "journal-article",
+    "volume": "7",
+    "author": "Isakov",
+    "year": "2011",
+    "journal-title": "Nat. Phys."
+   },
+   {
+    "key": "ropaa3cbebib029",
+    "type": "journal-article",
+    "volume": "3",
+    "author": "Levin",
+    "year": "2013",
+    "journal-title": "Phys. Rev. X"
+   },
+   {
+    "key": "ropaa3cbebib030",
+    "doi-asserted-by": "publisher",
+    "first-page": "7312",
+    "DOI": "10.1103/PhysRevB.47.7312",
+    "type": "journal-article",
+    "volume": "47",
+    "author": "Halperin",
+    "year": "1993",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa3cbebib031",
+    "type": "journal-article",
+    "volume": "5",
+    "author": "Son",
+    "year": "2015",
+    "journal-title": "Phys. Rev. X"
+   },
+   {
+    "key": "ropaa3cbebib032",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.93.245151",
+    "type": "journal-article",
+    "volume": "93",
+    "author": "Metlitski",
+    "year": "2016",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa3cbebib033",
+    "type": "journal-article",
+    "volume": "5",
+    "author": "Wang",
+    "year": "2015",
+    "journal-title": "Phys. Rev. X"
+   },
+   {
+    "key": "ropaa3cbebib034",
+    "doi-asserted-by": "publisher",
+    "first-page": "143",
+    "DOI": "10.1080/14789940801912366",
+    "type": "journal-article",
+    "volume": "57",
+    "author": "Verstraete",
+    "year": "2008",
+    "journal-title": "Adv. Phys."
+   },
+   {
+    "key": "ropaa3cbebib035",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevLett.96.220601",
+    "type": "journal-article",
+    "volume": "96",
+    "author": "Verstraete",
+    "year": "2006",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa3cbebib036",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.83.035107",
+    "type": "journal-article",
+    "volume": "83",
+    "author": "Chen",
+    "year": "2011",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa3cbebib037",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevLett.111.236805",
+    "type": "journal-article",
+    "volume": "111",
+    "author": "Wahl",
+    "year": "2013",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa3cbebib038",
+    "doi-asserted-by": "publisher",
+    "first-page": "1604",
+    "DOI": "10.1126/science.1227224",
+    "type": "journal-article",
+    "volume": "338",
+    "author": "Chen",
+    "year": "2012",
+    "journal-title": "Science"
+   },
+   {
+    "key": "ropaa3cbebib039",
+    "doi-asserted-by": "publisher",
+    "first-page": "96",
+    "DOI": "10.1016/j.aop.2010.09.012",
+    "type": "journal-article",
+    "volume": "326",
+    "author": "Schollw\u00f6ck",
+    "year": "2011",
+    "journal-title": "Ann. Phys."
+   },
+   {
+    "key": "ropaa3cbebib040",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevLett.101.250602",
+    "type": "journal-article",
+    "volume": "101",
+    "author": "Jordan",
+    "year": "2008",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa3cbebib041",
+    "doi-asserted-by": "publisher",
+    "first-page": "493",
+    "DOI": "10.1016/0550-3213(77)90129-8",
+    "type": "journal-article",
+    "volume": "129",
+    "author": "Banks",
+    "year": "1977",
+    "journal-title": "Nucl. Phys. B"
+   },
+   {
+    "key": "ropaa3cbebib042",
+    "doi-asserted-by": "publisher",
+    "first-page": "3682",
+    "DOI": "10.1103/PhysRevD.19.3682",
+    "type": "journal-article",
+    "volume": "19",
+    "author": "Fradkin",
+    "year": "1979",
+    "journal-title": "Phys. Rev. D"
+   },
+   {
+    "key": "ropaa3cbebib043",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.69.064404",
+    "type": "journal-article",
+    "volume": "69",
+    "author": "Hermele",
+    "year": "2004",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa3cbebib044",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.72.045141",
+    "type": "journal-article",
+    "volume": "72",
+    "author": "Hastings",
+    "year": "2005",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa3cbebib045",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.79.033109",
+    "type": "journal-article",
+    "volume": "79",
+    "author": "Vidal",
+    "year": "2009",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa3cbebib046",
+    "doi-asserted-by": "publisher",
+    "first-page": "429",
+    "DOI": "10.1016/0550-3213(77)90086-4",
+    "type": "journal-article",
+    "volume": "120",
+    "author": "Polyakov",
+    "year": "1977",
+    "journal-title": "Nucl. Phys. B"
+   },
+   {
+    "key": "ropaa3cbebib047",
+    "doi-asserted-by": "publisher",
+    "first-page": "3978",
+    "DOI": "10.1103/PhysRevD.12.3978",
+    "type": "journal-article",
+    "volume": "12",
+    "author": "Elitzur",
+    "year": "1975",
+    "journal-title": "Phys. Rev. D"
+   },
+   {
+    "key": "ropaa3cbebib048",
+    "doi-asserted-by": "publisher",
+    "first-page": "135",
+    "DOI": "10.1016/0370-2693(80)90842-4",
+    "type": "journal-article",
+    "volume": "94",
+    "author": "Foerster",
+    "year": "1980",
+    "journal-title": "Phys. Lett. B"
+   },
+   {
+    "key": "ropaa3cbebib049",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.88.035131",
+    "type": "journal-article",
+    "volume": "88",
+    "author": "Metlitski",
+    "year": "2013",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa3cbebib050",
+    "doi-asserted-by": "publisher",
+    "first-page": "17",
+    "DOI": "10.1016/0550-3213(82)90464-3",
+    "type": "journal-article",
+    "volume": "205",
+    "author": "Cardy",
+    "year": "1982",
+    "journal-title": "Nucl. Phys. B"
+   },
+   {
+    "key": "ropaa3cbebib051",
+    "doi-asserted-by": "publisher",
+    "first-page": "629",
+    "DOI": "10.1126/science.1243326",
+    "type": "journal-article",
+    "volume": "343",
+    "author": "Wang",
+    "year": "2014",
+    "journal-title": "Science"
+   },
+   {
+    "key": "ropaa3cbebib052",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevD.92.085024",
+    "type": "journal-article",
+    "volume": "92",
+    "author": "Kravec",
+    "year": "2015",
+    "journal-title": "Phys. Rev. D"
+   },
+   {
+    "key": "ropaa3cbebib053",
+    "doi-asserted-by": "publisher",
+    "first-page": "11025",
+    "DOI": "10.1103/PhysRevB.43.11025",
+    "type": "journal-article",
+    "volume": "43",
+    "author": "Wen",
+    "year": "1991",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa3cbebib054",
+    "doi-asserted-by": "publisher",
+    "first-page": "2290",
+    "DOI": "10.1103/PhysRevB.46.2290",
+    "type": "journal-article",
+    "volume": "46",
+    "author": "Wen",
+    "year": "1992",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa3cbebib055",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.93.155121",
+    "type": "journal-article",
+    "volume": "93",
+    "author": "Lu",
+    "year": "2016",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa3cbebib056",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.86.125119",
+    "type": "journal-article",
+    "volume": "86",
+    "author": "Lu",
+    "year": "2012",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa3cbebib057",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.86.115109",
+    "type": "journal-article",
+    "volume": "86",
+    "author": "Levin",
+    "year": "2012",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa3cbebib058",
+    "doi-asserted-by": "publisher",
+    "first-page": "497",
+    "DOI": "10.1016/j.aop.2004.05.006",
+    "type": "journal-article",
+    "volume": "313",
+    "author": "Hansson",
+    "year": "2004",
+    "journal-title": "Ann. Phys."
+   },
+   {
+    "key": "ropaa3cbebib059",
+    "doi-asserted-by": "publisher",
+    "first-page": "1515",
+    "DOI": "10.1016/j.aop.2010.12.011",
+    "type": "journal-article",
+    "volume": "326",
+    "author": "Cho",
+    "year": "2011",
+    "journal-title": "Ann. Phys."
+   },
+   {
+    "key": "ropaa3cbebib060",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.79.045316",
+    "type": "journal-article",
+    "volume": "79",
+    "author": "Bais",
+    "year": "2009",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa3cbebib061",
+    "doi-asserted-by": "publisher",
+    "first-page": "122",
+    "DOI": "10.1016/0003-4916(78)90252-X",
+    "type": "journal-article",
+    "volume": "113",
+    "author": "Peskin",
+    "year": "1978",
+    "journal-title": "Ann. Phys."
+   },
+   {
+    "key": "ropaa3cbebib062",
+    "doi-asserted-by": "publisher",
+    "first-page": "292",
+    "DOI": "10.1103/PhysRevLett.32.292",
+    "type": "journal-article",
+    "volume": "32",
+    "author": "Halperin",
+    "year": "1974",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa3cbebib063",
+    "doi-asserted-by": "publisher",
+    "first-page": "316",
+    "DOI": "10.1103/PhysRevB.38.316",
+    "type": "journal-article",
+    "volume": "38",
+    "author": "Arovas",
+    "year": "1988",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa3cbebib064",
+    "doi-asserted-by": "publisher",
+    "first-page": "3871",
+    "DOI": "10.1103/PhysRevLett.86.3871",
+    "type": "journal-article",
+    "volume": "86",
+    "author": "Rantner",
+    "year": "2001",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa3cbebib065",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevLett.98.117205",
+    "type": "journal-article",
+    "volume": "98",
+    "author": "Ran",
+    "year": "2007",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa3cbebib066",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.70.214437",
+    "type": "journal-article",
+    "volume": "70",
+    "author": "Hermele",
+    "year": "2004",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa3cbebib067",
+    "doi-asserted-by": "publisher",
+    "first-page": "8988",
+    "DOI": "10.1103/PhysRevB.39.8988",
+    "type": "journal-article",
+    "volume": "39",
+    "author": "Ioffe",
+    "year": "1989",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa3cbebib068",
+    "doi-asserted-by": "publisher",
+    "first-page": "2450",
+    "DOI": "10.1103/PhysRevLett.64.2450",
+    "type": "journal-article",
+    "volume": "64",
+    "author": "Nagaosa",
+    "year": "1990",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa3cbebib069",
+    "doi-asserted-by": "publisher",
+    "first-page": "5621",
+    "DOI": "10.1103/PhysRevB.46.5621",
+    "type": "journal-article",
+    "volume": "46",
+    "author": "Lee",
+    "year": "1992",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa3cbebib070",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.82.075127",
+    "type": "journal-article",
+    "volume": "82",
+    "author": "Metlitski",
+    "year": "2010",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa3cbebib071",
+    "doi-asserted-by": "publisher",
+    "first-page": "1490",
+    "DOI": "10.1126/science.1091806",
+    "type": "journal-article",
+    "volume": "303",
+    "author": "Senthil",
+    "year": "2004",
+    "journal-title": "Science"
+   },
+   {
+    "key": "ropaa3cbebib072",
+    "doi-asserted-by": "publisher",
+    "first-page": "343",
+    "DOI": "10.1007/s00220-009-0908-z",
+    "type": "journal-article",
+    "volume": "292",
+    "author": "Rowell",
+    "year": "2009",
+    "journal-title": "Commun. Math. Phys."
+   },
+   {
+    "key": "ropaa3cbebib073",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.66.115111",
+    "type": "journal-article",
+    "volume": "66",
+    "author": "Ivanov",
+    "year": "2002",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa3cbebib074",
+    "doi-asserted-by": "publisher",
+    "first-page": "543",
+    "DOI": "10.1007/978-3-662-06390-3_35",
+    "type": "book",
+    "author": "Lieb",
+    "year": "2004"
+   },
+   {
+    "key": "ropaa3cbebib075",
+    "doi-asserted-by": "publisher",
+    "first-page": "1535",
+    "DOI": "10.1103/PhysRevLett.84.1535",
+    "type": "journal-article",
+    "volume": "84",
+    "author": "Oshikawa",
+    "year": "2000",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa3cbebib076",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.69.104431",
+    "type": "journal-article",
+    "volume": "69",
+    "author": "Hastings",
+    "year": "2004",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa3cbebib077",
+    "doi-asserted-by": "publisher",
+    "first-page": "14551",
+    "DOI": "10.1073/pnas.1514665112",
+    "type": "journal-article",
+    "article-title": "Filling constraints for spin-orbit coupled insulators in symmorphic and nonsymmorphic crystals",
+    "volume": "112",
+    "author": "Watanabe",
+    "year": "2015",
+    "journal-title": "Proc. Natl Acad. Soc."
+   },
+   {
+    "key": "ropaa3cbebib078",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.65.165113",
+    "type": "journal-article",
+    "volume": "65",
+    "author": "Wen",
+    "year": "2002",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa3cbebib079",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.87.104406",
+    "type": "journal-article",
+    "volume": "87",
+    "author": "Essin",
+    "year": "2013",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa3cbebib080",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevLett.112.167203",
+    "type": "journal-article",
+    "volume": "112",
+    "author": "Huang",
+    "year": "2014",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa3cbebib081",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.87.155115",
+    "type": "journal-article",
+    "volume": "87",
+    "author": "Mesaros",
+    "year": "2013",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa3cbebib082",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevLett.114.077201",
+    "type": "journal-article",
+    "volume": "114",
+    "author": "Zaletel",
+    "year": "2015",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa3cbebib083",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.71.125102",
+    "type": "journal-article",
+    "volume": "71",
+    "author": "Motrunich",
+    "year": "2005",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa3cbebib084",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.73.134402",
+    "type": "journal-article",
+    "volume": "73",
+    "author": "Bergman",
+    "year": "2006",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa3cbebib085",
+    "type": "journal-article",
+    "volume": "6",
+    "author": "Wang",
+    "year": "2016",
+    "journal-title": "Phys. Rev. X"
+   },
+   {
+    "key": "ropaa3cbebib086",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.72.104404",
+    "type": "journal-article",
+    "volume": "72",
+    "author": "Hermele",
+    "year": "2005",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa3cbebib087",
+    "doi-asserted-by": "publisher",
+    "first-page": "2158",
+    "DOI": "10.1103/PhysRevLett.73.2158",
+    "type": "journal-article",
+    "volume": "73",
+    "author": "Lieb",
+    "year": "1994",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa3cbebib088",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevLett.112.207203",
+    "type": "journal-article",
+    "volume": "112",
+    "author": "Knolle",
+    "year": "2014",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa3cbebib089",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevLett.117.037209",
+    "type": "journal-article",
+    "volume": "117",
+    "author": "Song",
+    "year": "2016",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa3cbebib090",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevLett.113.187201",
+    "type": "journal-article",
+    "volume": "113",
+    "author": "Knolle",
+    "year": "2014",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa3cbebib091",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.89.235102",
+    "type": "journal-article",
+    "volume": "89",
+    "author": "Hermanns",
+    "year": "2014",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa3cbebib092",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevLett.114.157202",
+    "type": "journal-article",
+    "volume": "114",
+    "author": "Hermanns",
+    "year": "2015",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa3cbebib093",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.89.045117",
+    "type": "journal-article",
+    "volume": "89",
+    "author": "Lee",
+    "year": "2014",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa3cbebib094",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevLett.114.116803",
+    "type": "journal-article",
+    "volume": "114",
+    "author": "Schaffer",
+    "year": "2015",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa3cbebib095",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.93.085101",
+    "type": "journal-article",
+    "volume": "93",
+    "author": "O\u2019Brien",
+    "year": "2016",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa3cbebib096",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevLett.114.077202",
+    "type": "journal-article",
+    "volume": "114",
+    "author": "Takayama",
+    "year": "2015",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa3cbebib097",
+    "doi-asserted-by": "publisher",
+    "first-page": "4203",
+    "DOI": "10.1038/ncomms5203",
+    "type": "journal-article",
+    "volume": "5",
+    "author": "Modic",
+    "year": "2014",
+    "journal-title": "Nat. Commun."
+   },
+   {
+    "key": "ropaa3cbebib098",
+    "doi-asserted-by": "publisher",
+    "first-page": "277",
+    "DOI": "10.1007/s00220-013-1762-6",
+    "type": "journal-article",
+    "volume": "322",
+    "author": "Michalakis",
+    "year": "2013",
+    "journal-title": "Commun. Math. Phys."
+   },
+   {
+    "key": "ropaa3cbebib099",
+    "doi-asserted-by": "publisher",
+    "first-page": "1462",
+    "DOI": "10.1137/08072689X",
+    "type": "journal-article",
+    "volume": "39",
+    "author": "Bravyi",
+    "year": "2009",
+    "journal-title": "SIAM J. Comput."
+   },
+   {
+    "key": "ropaa3cbebib100",
+    "first-page": "650",
+    "type": "journal-article",
+    "volume": "8",
+    "author": "Perez-Garc\u00eda",
+    "year": "2008",
+    "journal-title": "Quantum Inf. Comput."
+   },
+   {
+    "key": "ropaa3cbebib101",
+    "doi-asserted-by": "publisher",
+    "first-page": "437",
+    "DOI": "10.1007/978-3-642-10589-0_17",
+    "type": "book",
+    "author": "Moessner",
+    "year": "2011"
+   },
+   {
+    "key": "ropaa3cbebib102",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.75.214407",
+    "type": "journal-article",
+    "volume": "75",
+    "author": "Furukawa",
+    "year": "2007",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa3cbebib103",
+    "doi-asserted-by": "publisher",
+    "first-page": "179",
+    "DOI": "10.1146/annurev-conmatphys-070909-104138",
+    "type": "journal-article",
+    "volume": "1",
+    "author": "Henley",
+    "year": "2010",
+    "journal-title": "Annu. Rev. Condens. Matter Phys."
+   },
+   {
+    "key": "ropaa3cbebib104",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.81.180402",
+    "type": "journal-article",
+    "volume": "81",
+    "author": "Poilblanc",
+    "year": "2010",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa3cbebib105",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevLett.89.137202",
+    "type": "journal-article",
+    "volume": "89",
+    "author": "Misguich",
+    "year": "2002",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa3cbebib106",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.65.224412",
+    "type": "journal-article",
+    "volume": "65",
+    "author": "Balents",
+    "year": "2002",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa3cbebib107",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevLett.94.146805",
+    "type": "journal-article",
+    "volume": "94",
+    "author": "Sheng",
+    "year": "2005",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa3cbebib108",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.84.132409",
+    "type": "journal-article",
+    "volume": "84",
+    "author": "Dang",
+    "year": "2011",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa3cbebib109",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevLett.97.207204",
+    "type": "journal-article",
+    "volume": "97",
+    "author": "Isakov",
+    "year": "2006",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa3cbebib110",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevLett.108.067204",
+    "type": "journal-article",
+    "volume": "108",
+    "author": "Shannon",
+    "year": "2012",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa3cbebib111",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevLett.100.047208",
+    "type": "journal-article",
+    "volume": "100",
+    "author": "Banerjee",
+    "year": "2008",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa3cbebib112",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.86.075154",
+    "type": "journal-article",
+    "volume": "86",
+    "author": "Benton",
+    "year": "2012",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa3cbebib113",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevLett.115.077202",
+    "type": "journal-article",
+    "volume": "115",
+    "author": "Kato",
+    "year": "2015",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa3cbebib114",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevLett.113.197205",
+    "type": "journal-article",
+    "volume": "113",
+    "author": "Nasu",
+    "year": "2014",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa3cbebib115",
+    "doi-asserted-by": "publisher",
+    "first-page": "100403",
+    "DOI": "10.1103/PhysRevB.92.100403",
+    "type": "journal-article",
+    "volume": "92",
+    "author": "Kamiya",
+    "year": "2015",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa3cbebib116",
+    "doi-asserted-by": "publisher",
+    "first-page": "179",
+    "DOI": "10.1146/annurev-conmatphys-030212-184215",
+    "type": "journal-article",
+    "volume": "4",
+    "author": "Kaul",
+    "year": "2013",
+    "journal-title": "Annu. Rev. Condens. Matter Phys."
+   },
+   {
+    "key": "ropaa3cbebib117",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevLett.98.227202",
+    "type": "journal-article",
+    "volume": "98",
+    "author": "Sandvik",
+    "year": "2007",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa3cbebib118",
+    "doi-asserted-by": "publisher",
+    "first-page": "847",
+    "DOI": "10.1038/nature08942",
+    "type": "journal-article",
+    "volume": "464",
+    "author": "Meng",
+    "year": "2010",
+    "journal-title": "Nature"
+   },
+   {
+    "key": "ropaa3cbebib119",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.71.075103",
+    "type": "journal-article",
+    "volume": "71",
+    "author": "Assaad",
+    "year": "2005",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa3cbebib120",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.88.125108",
+    "type": "journal-article",
+    "volume": "88",
+    "author": "Cai",
+    "year": "2013",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa3cbebib121",
+    "doi-asserted-by": "publisher",
+    "first-page": "992",
+    "DOI": "10.1038/srep00992",
+    "type": "journal-article",
+    "volume": "2",
+    "author": "Sorella",
+    "year": "2012",
+    "journal-title": "Sci. Rep."
+   },
+   {
+    "key": "ropaa3cbebib122",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.72.064413",
+    "type": "journal-article",
+    "volume": "72",
+    "author": "Raman",
+    "year": "2005",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa3cbebib123",
+    "doi-asserted-by": "publisher",
+    "first-page": "12377",
+    "DOI": "10.1103/PhysRevB.45.12377",
+    "type": "journal-article",
+    "volume": "45",
+    "author": "Sachdev",
+    "year": "1992",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa3cbebib124",
+    "author": "L\u00e4uchli",
+    "type": "web-resource"
+   },
+   {
+    "key": "ropaa3cbebib125",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevLett.110.067208",
+    "type": "journal-article",
+    "volume": "110",
+    "author": "Cincio",
+    "year": "2013",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa3cbebib126",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.90.245116",
+    "type": "journal-article",
+    "volume": "90",
+    "author": "Balents",
+    "year": "2014",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa3cbebib127",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.89.020408",
+    "type": "journal-article",
+    "volume": "89",
+    "author": "Suttner",
+    "year": "2014",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa3cbebib128",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.81.144410",
+    "type": "journal-article",
+    "volume": "81",
+    "author": "Reuther",
+    "year": "2010",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa3cbebib129",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevLett.116.177203",
+    "type": "journal-article",
+    "volume": "116",
+    "author": "Huang",
+    "year": "2016",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa3cbebib130",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.87.024407",
+    "type": "journal-article",
+    "volume": "87",
+    "author": "Kulagin",
+    "year": "2013",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa3cbebib131",
+    "doi-asserted-by": "publisher",
+    "first-page": "855",
+    "DOI": "10.1103/PhysRevLett.68.855",
+    "type": "journal-article",
+    "volume": "68",
+    "author": "Chalker",
+    "year": "1992",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa3cbebib132",
+    "doi-asserted-by": "publisher",
+    "first-page": "2405",
+    "DOI": "10.1103/PhysRevLett.62.2405",
+    "type": "journal-article",
+    "volume": "62",
+    "author": "Elser",
+    "year": "1989",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa3cbebib133",
+    "doi-asserted-by": "publisher",
+    "first-page": "2521",
+    "DOI": "10.1103/PhysRevB.56.2521",
+    "type": "journal-article",
+    "volume": "56",
+    "author": "Lecheminant",
+    "year": "1997",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa3cbebib134",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.76.180407",
+    "type": "journal-article",
+    "volume": "76",
+    "author": "Singh",
+    "year": "2007",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa3cbebib135",
+    "doi-asserted-by": "publisher",
+    "first-page": "1173",
+    "DOI": "10.1126/science.1201080",
+    "type": "journal-article",
+    "volume": "332",
+    "author": "Yan",
+    "year": "2011",
+    "journal-title": "Science"
+   },
+   {
+    "key": "ropaa3cbebib136",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevLett.109.067201",
+    "type": "journal-article",
+    "volume": "109",
+    "author": "Depenbrock",
+    "year": "2012",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa3cbebib137",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.83.224413",
+    "type": "journal-article",
+    "volume": "83",
+    "author": "Lu",
+    "year": "2011",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa3cbebib138",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.84.020407",
+    "type": "journal-article",
+    "volume": "84",
+    "author": "Iqbal",
+    "year": "2011",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa3cbebib139",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.84.020404",
+    "type": "journal-article",
+    "volume": "84",
+    "author": "Tay",
+    "year": "2011",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa3cbebib140",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.91.100401",
+    "type": "journal-article",
+    "volume": "91",
+    "author": "Qi",
+    "year": "2015",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa3cbebib141",
+    "author": "Zaletel",
+    "year": "2015",
+    "type": "preprint"
+   },
+   {
+    "key": "ropaa3cbebib142",
+    "author": "Lu",
+    "year": "2014",
+    "type": "preprint"
+   },
+   {
+    "key": "ropaa3cbebib143",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevLett.109.147209",
+    "type": "journal-article",
+    "volume": "109",
+    "author": "Yang",
+    "year": "2012",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa3cbebib144",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.89.020407",
+    "type": "journal-article",
+    "volume": "89",
+    "author": "Iqbal",
+    "year": "2014",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa3cbebib145",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.87.060405",
+    "type": "journal-article",
+    "volume": "87",
+    "author": "Iqbal",
+    "year": "2013",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa3cbebib146",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.91.075112",
+    "type": "journal-article",
+    "volume": "91",
+    "author": "Gong",
+    "year": "2015",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa3cbebib147",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevLett.112.137202",
+    "type": "journal-article",
+    "volume": "112",
+    "author": "He",
+    "year": "2014",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa3cbebib148",
+    "doi-asserted-by": "publisher",
+    "first-page": "6317",
+    "DOI": "10.1038/srep06317",
+    "type": "journal-article",
+    "volume": "4",
+    "author": "Gong",
+    "year": "2014",
+    "journal-title": "Sci. Rep."
+   },
+   {
+    "key": "ropaa3cbebib149",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.91.041124",
+    "type": "journal-article",
+    "volume": "91",
+    "author": "Hu",
+    "year": "2015",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa3cbebib150",
+    "doi-asserted-by": "publisher",
+    "first-page": "5137",
+    "DOI": "10.1038/ncomms6137",
+    "type": "journal-article",
+    "volume": "5",
+    "author": "Bauer",
+    "year": "2014",
+    "journal-title": "Nat. Commun."
+   },
+   {
+    "key": "ropaa3cbebib151",
+    "doi-asserted-by": "publisher",
+    "first-page": "9335",
+    "DOI": "10.1103/PhysRevB.38.9335",
+    "type": "journal-article",
+    "volume": "38",
+    "author": "Chandra",
+    "year": "1988",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa3cbebib152",
+    "doi-asserted-by": "publisher",
+    "first-page": "7278",
+    "DOI": "10.1103/PhysRevB.60.7278",
+    "type": "journal-article",
+    "volume": "60",
+    "author": "Singh",
+    "year": "1999",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa3cbebib153",
+    "doi-asserted-by": "publisher",
+    "first-page": "3173",
+    "DOI": "10.1103/PhysRevLett.84.3173",
+    "type": "journal-article",
+    "volume": "84",
+    "author": "Capriotti",
+    "year": "2000",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa3cbebib154",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.86.075111",
+    "type": "journal-article",
+    "volume": "86",
+    "author": "Li",
+    "year": "2012",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa3cbebib155",
+    "doi-asserted-by": "publisher",
+    "first-page": "117",
+    "DOI": "10.1140/epjb/e2009-00400-4",
+    "type": "journal-article",
+    "volume": "73",
+    "author": "Richter",
+    "year": "2010",
+    "journal-title": "Eur. Phys. J. B"
+   },
+   {
+    "key": "ropaa3cbebib156",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.86.024424",
+    "type": "journal-article",
+    "volume": "86",
+    "author": "Jiang",
+    "year": "2012",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa3cbebib157",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevLett.113.027201",
+    "type": "journal-article",
+    "volume": "113",
+    "author": "Gong",
+    "year": "2014",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa3cbebib158",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.88.060402",
+    "type": "journal-article",
+    "volume": "88",
+    "author": "Hu",
+    "year": "2013",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa3cbebib159",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevLett.99.127004",
+    "type": "journal-article",
+    "volume": "99",
+    "author": "White",
+    "year": "2007",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa3cbebib160",
+    "doi-asserted-by": "publisher",
+    "first-page": "3899",
+    "DOI": "10.1103/PhysRevLett.82.3899",
+    "type": "journal-article",
+    "volume": "82",
+    "author": "Capriotti",
+    "year": "1999",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa3cbebib161",
+    "doi-asserted-by": "publisher",
+    "first-page": "2590",
+    "DOI": "10.1103/PhysRevLett.69.2590",
+    "type": "journal-article",
+    "volume": "69",
+    "author": "Bernu",
+    "year": "1992",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa3cbebib162",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.92.041105",
+    "type": "journal-article",
+    "volume": "92",
+    "author": "Zhu",
+    "year": "2015",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa3cbebib163",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.92.140403",
+    "type": "journal-article",
+    "volume": "92",
+    "author": "Hu",
+    "year": "2015",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa3cbebib164",
+    "type": "journal-article",
+    "volume": "83",
+    "author": "Kaneko",
+    "year": "2014",
+    "journal-title": "J. Phys. Soc. Japan"
+   },
+   {
+    "key": "ropaa3cbebib165",
+    "doi-asserted-by": "publisher",
+    "first-page": "2933",
+    "DOI": "10.1103/PhysRevLett.80.2933",
+    "type": "journal-article",
+    "volume": "80",
+    "author": "Canals",
+    "year": "1998",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa3cbebib166",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.79.144432",
+    "type": "journal-article",
+    "volume": "79",
+    "author": "Burnell",
+    "year": "2009",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa3cbebib167",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.78.180410",
+    "type": "journal-article",
+    "volume": "78",
+    "author": "Kim",
+    "year": "2008",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa3cbebib168",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevLett.90.147204",
+    "type": "journal-article",
+    "volume": "90",
+    "author": "Berg",
+    "year": "2003",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa3cbebib169",
+    "doi-asserted-by": "publisher",
+    "first-page": "640",
+    "DOI": "10.1143/JPSJ.70.640",
+    "type": "journal-article",
+    "volume": "70",
+    "author": "Tsunetsugu",
+    "year": "2001",
+    "journal-title": "J. Phys. Soc. Japan"
+   },
+   {
+    "key": "ropaa3cbebib170",
+    "first-page": "1429",
+    "type": "journal-article",
+    "volume": "64",
+    "author": "Kugel",
+    "year": "1973",
+    "journal-title": "Zh. Eksp. Teor. Fiz."
+   },
+   {
+    "key": "ropaa3cbebib171",
+    "first-page": "231",
+    "type": "journal-article",
+    "volume": "25",
+    "author": "Kugel\u2019",
+    "year": "1982",
+    "journal-title": "Phys.-Usp."
+   },
+   {
+    "key": "ropaa3cbebib172",
+    "doi-asserted-by": "publisher",
+    "first-page": "3527",
+    "DOI": "10.1103/PhysRevLett.81.3527",
+    "type": "journal-article",
+    "volume": "81",
+    "author": "Li",
+    "year": "1998",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa3cbebib173",
+    "doi-asserted-by": "publisher",
+    "first-page": "686",
+    "DOI": "10.1103/PhysRevB.56.686",
+    "type": "journal-article",
+    "volume": "56",
+    "author": "Ishihara",
+    "year": "1997",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa3cbebib174",
+    "doi-asserted-by": "publisher",
+    "first-page": "3950",
+    "DOI": "10.1103/PhysRevLett.85.3950",
+    "type": "journal-article",
+    "volume": "85",
+    "author": "Khaliullin",
+    "year": "2000",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa3cbebib175",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1088/0953-8984/19/14/145201",
+    "type": "journal-article",
+    "volume": "19",
+    "author": "Mila",
+    "year": "2007",
+    "journal-title": "J. Phys.: Condens. Matter"
+   },
+   {
+    "key": "ropaa3cbebib176",
+    "type": "journal-article",
+    "volume": "2",
+    "author": "Corboz",
+    "year": "2012",
+    "journal-title": "Phys. Rev. X"
+   },
+   {
+    "key": "ropaa3cbebib177",
+    "author": "Savary",
+    "year": "2015",
+    "type": "preprint"
+   },
+   {
+    "key": "ropaa3cbebib178",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.82.174440",
+    "type": "journal-article",
+    "volume": "82",
+    "author": "Chen",
+    "year": "2010",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa3cbebib179",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevLett.117.017204",
+    "type": "journal-article",
+    "volume": "117",
+    "author": "Natori",
+    "year": "2016",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa3cbebib180",
+    "doi-asserted-by": "publisher",
+    "first-page": "2109",
+    "DOI": "10.1143/JPSJ.71.2109",
+    "type": "journal-article",
+    "volume": "71",
+    "author": "Morita",
+    "year": "2002",
+    "journal-title": "J. Phys. Soc. Japan"
+   },
+   {
+    "key": "ropaa3cbebib181",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevLett.95.036403",
+    "type": "journal-article",
+    "volume": "95",
+    "author": "Lee",
+    "year": "2005",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa3cbebib182",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.70.035114",
+    "type": "journal-article",
+    "volume": "70",
+    "author": "Florens",
+    "year": "2004",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa3cbebib183",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.82.045121",
+    "type": "journal-article",
+    "volume": "82",
+    "author": "Mross",
+    "year": "2010",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa3cbebib184",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.78.035103",
+    "type": "journal-article",
+    "volume": "78",
+    "author": "Senthil",
+    "year": "2008",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa3cbebib185",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.80.165102",
+    "type": "journal-article",
+    "volume": "80",
+    "author": "Lee",
+    "year": "2009",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa3cbebib186",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.72.045105",
+    "type": "journal-article",
+    "volume": "72",
+    "author": "Motrunich",
+    "year": "2005",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa3cbebib187",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevLett.106.157202",
+    "type": "journal-article",
+    "volume": "106",
+    "author": "Block",
+    "year": "2011",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa3cbebib188",
+    "doi-asserted-by": "publisher",
+    "first-page": "199",
+    "DOI": "10.1038/nature08917",
+    "type": "journal-article",
+    "volume": "464",
+    "author": "Balents",
+    "year": "2010",
+    "journal-title": "Nature"
+   },
+   {
+    "key": "ropaa3cbebib189",
+    "doi-asserted-by": "publisher",
+    "first-page": "807",
+    "DOI": "10.1103/RevModPhys.81.807",
+    "type": "journal-article",
+    "volume": "81",
+    "author": "Santini",
+    "year": "2009",
+    "journal-title": "Rev. Mod. Phys."
+   },
+   {
+    "key": "ropaa3cbebib190",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevLett.102.096406",
+    "type": "journal-article",
+    "volume": "102",
+    "author": "Chen",
+    "year": "2009",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa3cbebib191",
+    "doi-asserted-by": "publisher",
+    "first-page": "705",
+    "DOI": "10.1103/RevModPhys.83.705",
+    "type": "journal-article",
+    "volume": "83",
+    "author": "Ament",
+    "year": "2011",
+    "journal-title": "Rev. Mod. Phys."
+   },
+   {
+    "key": "ropaa3cbebib192",
+    "author": "Savary",
+    "year": "2015",
+    "type": "preprint"
+   },
+   {
+    "key": "ropaa3cbebib193",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevLett.108.037202",
+    "type": "journal-article",
+    "volume": "108",
+    "author": "Savary",
+    "year": "2012",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa3cbebib194",
+    "doi-asserted-by": "publisher",
+    "first-page": "79",
+    "DOI": "10.1007/978-3-642-10589-0_4",
+    "type": "book",
+    "author": "Carretta",
+    "year": "2011"
+   },
+   {
+    "key": "ropaa3cbebib195",
+    "doi-asserted-by": "publisher",
+    "first-page": "175",
+    "DOI": "10.1080/001075199181521",
+    "type": "journal-article",
+    "volume": "40",
+    "author": "Blundell",
+    "year": "1999",
+    "journal-title": "Contemp. Phys."
+   },
+   {
+    "key": "ropaa3cbebib196",
+    "author": "Yaouanc",
+    "year": "2011",
+    "type": "book"
+   },
+   {
+    "key": "ropaa3cbebib197",
+    "doi-asserted-by": "publisher",
+    "first-page": "904",
+    "DOI": "10.1038/ncomms1904",
+    "type": "journal-article",
+    "volume": "3",
+    "author": "Khomskii",
+    "year": "2012",
+    "journal-title": "Nat. Commun."
+   },
+   {
+    "key": "ropaa3cbebib198",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.78.024402",
+    "type": "journal-article",
+    "volume": "78",
+    "author": "Bulaevskii",
+    "year": "2008",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa3cbebib199",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.87.245106",
+    "type": "journal-article",
+    "volume": "87",
+    "author": "Potter",
+    "year": "2013",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa3cbebib200",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevLett.99.156402",
+    "type": "journal-article",
+    "volume": "99",
+    "author": "Ng",
+    "year": "2007",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa3cbebib201",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevLett.112.137403",
+    "type": "journal-article",
+    "volume": "112",
+    "author": "Morris",
+    "year": "2014",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa3cbebib202",
+    "doi-asserted-by": "publisher",
+    "first-page": "4970",
+    "DOI": "10.1038/ncomms5970",
+    "type": "journal-article",
+    "volume": "5",
+    "author": "Pan",
+    "year": "2014",
+    "journal-title": "Nat. Commun."
+   },
+   {
+    "key": "ropaa3cbebib203",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.53.R14733",
+    "type": "journal-article",
+    "volume": "53",
+    "author": "Misochko",
+    "year": "1996",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa3cbebib204",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.82.144412",
+    "type": "journal-article",
+    "volume": "82",
+    "author": "Wulferding",
+    "year": "2010",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa3cbebib205",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.78.134420",
+    "type": "journal-article",
+    "volume": "78",
+    "author": "Maczka",
+    "year": "2008",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa3cbebib206",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevLett.104.066403",
+    "type": "journal-article",
+    "volume": "104",
+    "author": "Katsura",
+    "year": "2010",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa3cbebib207",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.84.041102",
+    "type": "journal-article",
+    "volume": "84",
+    "author": "Mross",
+    "year": "2011",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa3cbebib208",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevLett.102.067204",
+    "type": "journal-article",
+    "volume": "102",
+    "author": "Norman",
+    "year": "2009",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa3cbebib209",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.87.045119",
+    "type": "journal-article",
+    "volume": "87",
+    "author": "Tang",
+    "year": "2013",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa3cbebib210",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.63.134521",
+    "type": "journal-article",
+    "volume": "63",
+    "author": "Senthil",
+    "year": "2001",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa3cbebib211",
+    "doi-asserted-by": "publisher",
+    "first-page": "887",
+    "DOI": "10.1038/414887a",
+    "type": "journal-article",
+    "volume": "414",
+    "author": "Bonn",
+    "year": "2001",
+    "journal-title": "Nature"
+   },
+   {
+    "key": "ropaa3cbebib212",
+    "doi-asserted-by": "publisher",
+    "first-page": "722",
+    "DOI": "10.1126/science.1253251",
+    "type": "journal-article",
+    "volume": "346",
+    "author": "Barkeshli",
+    "year": "2014",
+    "journal-title": "Science"
+   },
+   {
+    "key": "ropaa3cbebib213",
+    "doi-asserted-by": "publisher",
+    "first-page": "200",
+    "DOI": "10.1126/science.1209284",
+    "type": "journal-article",
+    "volume": "334",
+    "author": "Endres",
+    "year": "2011",
+    "journal-title": "Science"
+   },
+   {
+    "key": "ropaa3cbebib214",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevLett.109.020505",
+    "type": "journal-article",
+    "volume": "109",
+    "author": "Daley",
+    "year": "2012",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa3cbebib215",
+    "doi-asserted-by": "publisher",
+    "first-page": "306",
+    "DOI": "10.1126/science.1250057",
+    "type": "journal-article",
+    "volume": "345",
+    "author": "Kaufman",
+    "year": "2014",
+    "journal-title": "Science"
+   },
+   {
+    "key": "ropaa3cbebib216",
+    "author": "Greiner",
+    "type": "web-resource"
+   },
+   {
+    "key": "ropaa3cbebib217",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevLett.102.017205",
+    "type": "journal-article",
+    "volume": "102",
+    "author": "Jackeli",
+    "year": "2009",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa3cbebib218",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevLett.105.027204",
+    "type": "journal-article",
+    "volume": "105",
+    "author": "Chaloupka",
+    "year": "2010",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa3cbebib219",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.83.220403",
+    "type": "journal-article",
+    "volume": "83",
+    "author": "Liu",
+    "year": "2011",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa3cbebib220",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevLett.108.127204",
+    "type": "journal-article",
+    "volume": "108",
+    "author": "Choi",
+    "year": "2012",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa3cbebib221",
+    "doi-asserted-by": "publisher",
+    "first-page": "462",
+    "DOI": "10.1038/nphys3322",
+    "type": "journal-article",
+    "volume": "11",
+    "author": "Chun",
+    "year": "2015",
+    "journal-title": "Nat. Phys."
+   },
+   {
+    "key": "ropaa3cbebib222",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevLett.112.077204",
+    "type": "journal-article",
+    "volume": "112",
+    "author": "Rau",
+    "year": "2014",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa3cbebib223",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.88.035107",
+    "type": "journal-article",
+    "volume": "88",
+    "author": "Foyevtsova",
+    "year": "2013",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa3cbebib224",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevLett.109.197201",
+    "type": "journal-article",
+    "volume": "109",
+    "author": "Mazin",
+    "year": "2012",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa3cbebib225",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.90.205116",
+    "type": "journal-article",
+    "volume": "90",
+    "author": "Biffin",
+    "year": "2014",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa3cbebib226",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.90.041112",
+    "type": "journal-article",
+    "volume": "90",
+    "author": "Plumb",
+    "year": "2014",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa3cbebib227",
+    "doi-asserted-by": "publisher",
+    "first-page": "4570",
+    "DOI": "10.1021/ic00048a025",
+    "type": "journal-article",
+    "volume": "31",
+    "author": "Kobayashi",
+    "year": "1992",
+    "journal-title": "Inorg. Chem."
+   },
+   {
+    "key": "ropaa3cbebib228",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.91.094422",
+    "type": "journal-article",
+    "volume": "91",
+    "author": "Kubota",
+    "year": "2015",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa3cbebib229",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.91.180401",
+    "type": "journal-article",
+    "volume": "91",
+    "author": "Majumder",
+    "year": "2015",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa3cbebib230",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.91.144420",
+    "type": "journal-article",
+    "volume": "91",
+    "author": "Sears",
+    "year": "2015",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa3cbebib231",
+    "doi-asserted-by": "publisher",
+    "first-page": "733",
+    "DOI": "10.1038/nmat4604",
+    "type": "journal-article",
+    "volume": "15",
+    "author": "Banerjee",
+    "year": "2016",
+    "journal-title": "Nat. Mater."
+   },
+   {
+    "key": "ropaa3cbebib232",
+    "doi-asserted-by": "publisher",
+    "first-page": "1038",
+    "DOI": "10.1039/J19670001038",
+    "type": "journal-article",
+    "author": "Fletcher",
+    "year": "1967",
+    "journal-title": "J. Chem. Soc. A"
+   },
+   {
+    "key": "ropaa3cbebib233",
+    "doi-asserted-by": "publisher",
+    "first-page": "53",
+    "DOI": "10.1103/RevModPhys.82.53",
+    "type": "journal-article",
+    "volume": "82",
+    "author": "Gardner",
+    "year": "2010",
+    "journal-title": "Rev. Mod. Phys."
+   },
+   {
+    "key": "ropaa3cbebib234",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.78.094418",
+    "type": "journal-article",
+    "volume": "78",
+    "author": "Curnoe",
+    "year": "2008",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa3cbebib235",
+    "type": "journal-article",
+    "volume": "1",
+    "author": "Ross",
+    "year": "2011",
+    "journal-title": "Phys. Rev. X"
+   },
+   {
+    "key": "ropaa3cbebib236",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.86.104412",
+    "type": "journal-article",
+    "volume": "86",
+    "author": "Lee",
+    "year": "2012",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa3cbebib237",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.90.214430",
+    "type": "journal-article",
+    "volume": "90",
+    "author": "Hao",
+    "year": "2014",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa3cbebib238",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevLett.103.227202",
+    "type": "journal-article",
+    "volume": "103",
+    "author": "Ross",
+    "year": "2009",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa3cbebib239",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevLett.109.167201",
+    "type": "journal-article",
+    "volume": "109",
+    "author": "Savary",
+    "year": "2012",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa3cbebib240",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.92.064425",
+    "type": "journal-article",
+    "volume": "92",
+    "author": "Robert",
+    "year": "2015",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa3cbebib241",
+    "doi-asserted-by": "publisher",
+    "first-page": "992",
+    "DOI": "10.1038/ncomms1989",
+    "type": "journal-article",
+    "volume": "3",
+    "author": "Chang",
+    "year": "2012",
+    "journal-title": "Nat. Commun."
+   },
+   {
+    "key": "ropaa3cbebib242",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.87.205130",
+    "type": "journal-article",
+    "volume": "87",
+    "author": "Savary",
+    "year": "2013",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa3cbebib243",
+    "doi-asserted-by": "publisher",
+    "first-page": "3014",
+    "DOI": "10.1143/JPSJ.72.3014",
+    "type": "journal-article",
+    "volume": "72",
+    "author": "Yasui",
+    "year": "2003",
+    "journal-title": "J. Phys. Soc. Japan"
+   },
+   {
+    "key": "ropaa3cbebib244",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.89.184416",
+    "type": "journal-article",
+    "volume": "89",
+    "author": "Chang",
+    "year": "2014",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa3cbebib245",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.89.224419",
+    "type": "journal-article",
+    "volume": "89",
+    "author": "Lhotel",
+    "year": "2014",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa3cbebib246",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.88.134428",
+    "type": "journal-article",
+    "volume": "88",
+    "author": "D\u2019Ortenzio",
+    "year": "2013",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa3cbebib247",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevLett.115.267208",
+    "type": "journal-article",
+    "volume": "115",
+    "author": "Jaubert",
+    "year": "2015",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa3cbebib248",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.86.174424",
+    "type": "journal-article",
+    "volume": "86",
+    "author": "Ross",
+    "year": "2012",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa3cbebib249",
+    "doi-asserted-by": "publisher",
+    "first-page": "10807",
+    "DOI": "10.1038/ncomms10807",
+    "type": "journal-article",
+    "volume": "7",
+    "author": "Tokiwa",
+    "year": "2016",
+    "journal-title": "Nat. Commun."
+   },
+   {
+    "key": "ropaa3cbebib250",
+    "doi-asserted-by": "publisher",
+    "first-page": "361",
+    "DOI": "10.1038/nphys3608",
+    "type": "journal-article",
+    "volume": "12",
+    "author": "Pan",
+    "year": "2016",
+    "journal-title": "Nat. Phys."
+   },
+   {
+    "key": "ropaa3cbebib251",
+    "doi-asserted-by": "publisher",
+    "first-page": "1012",
+    "DOI": "10.1103/PhysRevLett.82.1012",
+    "type": "journal-article",
+    "volume": "82",
+    "author": "Gardner",
+    "year": "1999",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa3cbebib252",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.64.224416",
+    "type": "journal-article",
+    "volume": "64",
+    "author": "Gardner",
+    "year": "2001",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa3cbebib253",
+    "doi-asserted-by": "publisher",
+    "first-page": "599",
+    "DOI": "10.1143/JPSJ.71.599",
+    "type": "journal-article",
+    "volume": "71",
+    "author": "Yasui",
+    "year": "2002",
+    "journal-title": "J. Phys. Soc. Japan"
+   },
+   {
+    "key": "ropaa3cbebib254",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.68.180401",
+    "type": "journal-article",
+    "volume": "68",
+    "author": "Gardner",
+    "year": "2003",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa3cbebib255",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevLett.96.177201",
+    "type": "journal-article",
+    "volume": "96",
+    "author": "Rule",
+    "year": "2006",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa3cbebib256",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.76.184436",
+    "type": "journal-article",
+    "volume": "76",
+    "author": "Mirebeau",
+    "year": "2007",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa3cbebib257",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevLett.109.017201",
+    "type": "journal-article",
+    "volume": "109",
+    "author": "Fennell",
+    "year": "2012",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa3cbebib258",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.87.094410",
+    "type": "journal-article",
+    "volume": "87",
+    "author": "Fritsch",
+    "year": "2013",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa3cbebib259",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.90.014429",
+    "type": "journal-article",
+    "volume": "90",
+    "author": "Fritsch",
+    "year": "2014",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa3cbebib260",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.84.184403",
+    "type": "journal-article",
+    "volume": "84",
+    "author": "Yaouanc",
+    "year": "2011",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa3cbebib261",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1088/0953-8984/24/5/052201",
+    "type": "journal-article",
+    "volume": "24",
+    "author": "Takatsu",
+    "year": "2012",
+    "journal-title": "J. Phys.: Condens. Matter"
+   },
+   {
+    "key": "ropaa3cbebib262",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.87.214408",
+    "type": "journal-article",
+    "volume": "87",
+    "author": "Li",
+    "year": "2013",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa3cbebib263",
+    "doi-asserted-by": "publisher",
+    "first-page": "106",
+    "DOI": "10.1126/science.1257340",
+    "type": "journal-article",
+    "volume": "348",
+    "author": "Hirschberger",
+    "year": "2015",
+    "journal-title": "Science"
+   },
+   {
+    "key": "ropaa3cbebib264",
+    "doi-asserted-by": "publisher",
+    "first-page": "1934",
+    "DOI": "10.1038/ncomms2914",
+    "type": "journal-article",
+    "volume": "4",
+    "author": "Kimura",
+    "year": "2013",
+    "journal-title": "Nat. Commun."
+   },
+   {
+    "key": "ropaa3cbebib265",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.83.094411",
+    "type": "journal-article",
+    "volume": "83",
+    "author": "Onoda",
+    "year": "2011",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa3cbebib266",
+    "author": "Savary",
+    "year": "2016",
+    "type": "preprint"
+   },
+   {
+    "key": "ropaa3cbebib267",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1088/0034-4885/74/5/056501",
+    "type": "journal-article",
+    "volume": "74",
+    "author": "Powell",
+    "year": "2011",
+    "journal-title": "Rep. Prog. Phys."
+   },
+   {
+    "key": "ropaa3cbebib268",
+    "doi-asserted-by": "publisher",
+    "first-page": "459",
+    "DOI": "10.1038/nphys942",
+    "type": "journal-article",
+    "volume": "4",
+    "author": "Yamashita",
+    "year": "2008",
+    "journal-title": "Nat. Phys."
+   },
+   {
+    "key": "ropaa3cbebib269",
+    "doi-asserted-by": "publisher",
+    "first-page": "275",
+    "DOI": "10.1038/ncomms1274",
+    "type": "journal-article",
+    "volume": "2",
+    "author": "Yamashita",
+    "year": "2011",
+    "journal-title": "Nat. Commun."
+   },
+   {
+    "key": "ropaa3cbebib270",
+    "doi-asserted-by": "publisher",
+    "first-page": "1246",
+    "DOI": "10.1126/science.1188200",
+    "type": "journal-article",
+    "volume": "328",
+    "author": "Yamashita",
+    "year": "2010",
+    "journal-title": "Science"
+   },
+   {
+    "key": "ropaa3cbebib271",
+    "doi-asserted-by": "publisher",
+    "first-page": "44",
+    "DOI": "10.1038/nphys1134",
+    "type": "journal-article",
+    "volume": "5",
+    "author": "Yamashita",
+    "year": "2009",
+    "journal-title": "Nat. Phys."
+   },
+   {
+    "key": "ropaa3cbebib272",
+    "doi-asserted-by": "publisher",
+    "first-page": "3052",
+    "DOI": "10.1143/JPSJ.70.3052",
+    "type": "journal-article",
+    "volume": "70",
+    "author": "Kashima",
+    "year": "2001",
+    "journal-title": "J. Phys. Soc. Japan"
+   },
+   {
+    "key": "ropaa3cbebib273",
+    "doi-asserted-by": "publisher",
+    "first-page": "215",
+    "DOI": "10.1016/0375-9601(72)90483-5",
+    "type": "journal-article",
+    "volume": "38",
+    "author": "Stephens",
+    "year": "1972",
+    "journal-title": "Phys. Lett. A"
+   },
+   {
+    "key": "ropaa3cbebib274",
+    "doi-asserted-by": "publisher",
+    "first-page": "1133",
+    "DOI": "10.1016/0022-3697(83)90136-1",
+    "type": "journal-article",
+    "volume": "44",
+    "author": "Sorai",
+    "year": "1983",
+    "journal-title": "J. Phys. Chem. Solids"
+   },
+   {
+    "key": "ropaa3cbebib275",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.74.201101",
+    "type": "journal-article",
+    "volume": "74",
+    "author": "K\u00e9zsm\u00e1rki",
+    "year": "2006",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa3cbebib276",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.86.155150",
+    "type": "journal-article",
+    "volume": "86",
+    "author": "Els\u00e4sser",
+    "year": "2012",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa3cbebib277",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.89.045138",
+    "type": "journal-article",
+    "volume": "89",
+    "author": "Poirier",
+    "year": "2014",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa3cbebib278",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevLett.104.016403",
+    "type": "journal-article",
+    "volume": "104",
+    "author": "Manna",
+    "year": "2010",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa3cbebib279",
+    "doi-asserted-by": "publisher",
+    "first-page": "673",
+    "DOI": "10.1038/nphys1715",
+    "type": "journal-article",
+    "volume": "6",
+    "author": "Itou",
+    "year": "2010",
+    "journal-title": "Nat. Phys."
+   },
+   {
+    "key": "ropaa3cbebib280",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.84.094405",
+    "type": "journal-article",
+    "volume": "84",
+    "author": "Itou",
+    "year": "2011",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa3cbebib281",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.81.245121",
+    "type": "journal-article",
+    "volume": "81",
+    "author": "Grover",
+    "year": "2010",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa3cbebib282",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevLett.98.067006",
+    "type": "journal-article",
+    "volume": "98",
+    "author": "Lee",
+    "year": "2007",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa3cbebib283",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevLett.103.067004",
+    "type": "journal-article",
+    "volume": "103",
+    "author": "Kandpal",
+    "year": "2009",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa3cbebib284",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1143/JPSJ.78.083710",
+    "type": "journal-article",
+    "volume": "78",
+    "author": "Nakamura",
+    "year": "2009",
+    "journal-title": "J. Phys. Soc. Japan"
+   },
+   {
+    "key": "ropaa3cbebib285",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevLett.112.177201",
+    "type": "journal-article",
+    "volume": "112",
+    "author": "Isono",
+    "year": "2014",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa3cbebib286",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.90.195139",
+    "type": "journal-article",
+    "volume": "90",
+    "author": "Pinteri\u0107",
+    "year": "2014",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa3cbebib287",
+    "doi-asserted-by": "publisher",
+    "first-page": "211",
+    "DOI": "10.1016/j.physb.2014.11.073",
+    "type": "journal-article",
+    "volume": "460",
+    "author": "Padmalekha",
+    "year": "2015",
+    "journal-title": "Physica B"
+   },
+   {
+    "key": "ropaa3cbebib288",
+    "doi-asserted-by": "publisher",
+    "first-page": "063706",
+    "DOI": "10.1143/JPSJ.81.063706",
+    "type": "journal-article",
+    "volume": "81",
+    "author": "Nakajima",
+    "year": "2012",
+    "journal-title": "J. Phys. Soc. Japan"
+   },
+   {
+    "key": "ropaa3cbebib289",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.7566/JPSJ.83.034714",
+    "type": "journal-article",
+    "volume": "83",
+    "author": "Watanabe",
+    "year": "2014",
+    "journal-title": "J. Phys. Soc. Japan"
+   },
+   {
+    "key": "ropaa3cbebib290",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevLett.109.037208",
+    "type": "journal-article",
+    "volume": "109",
+    "author": "F\u00e5k",
+    "year": "2012",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa3cbebib291",
+    "doi-asserted-by": "publisher",
+    "first-page": "13462",
+    "DOI": "10.1021/ja053891p",
+    "type": "journal-article",
+    "volume": "127",
+    "author": "Shores",
+    "year": "2005",
+    "journal-title": "J. Am. Chem. Soc."
+   },
+   {
+    "key": "ropaa3cbebib292",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1143/JPSJ.79.011001",
+    "type": "journal-article",
+    "volume": "79",
+    "author": "Mendels",
+    "year": "2010",
+    "journal-title": "J. Phys. Soc. Japan"
+   },
+   {
+    "key": "ropaa3cbebib293",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.88.075106",
+    "type": "journal-article",
+    "volume": "88",
+    "author": "Jeschke",
+    "year": "2013",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa3cbebib294",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevLett.100.087202",
+    "type": "journal-article",
+    "volume": "100",
+    "author": "Olariu",
+    "year": "2008",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa3cbebib295",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevLett.104.147201",
+    "type": "journal-article",
+    "volume": "104",
+    "author": "Helton",
+    "year": "2010",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa3cbebib296",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevLett.103.237201",
+    "type": "journal-article",
+    "volume": "103",
+    "author": "De Vries",
+    "year": "2009",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa3cbebib297",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.76.132411",
+    "type": "journal-article",
+    "volume": "76",
+    "author": "Bert",
+    "year": "2007",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa3cbebib298",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevLett.98.107204",
+    "type": "journal-article",
+    "volume": "98",
+    "author": "Helton",
+    "year": "2007",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa3cbebib299",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevLett.108.157202",
+    "type": "journal-article",
+    "volume": "108",
+    "author": "Han",
+    "year": "2012",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa3cbebib300",
+    "doi-asserted-by": "publisher",
+    "first-page": "406",
+    "DOI": "10.1038/nature11659",
+    "type": "journal-article",
+    "volume": "492",
+    "author": "Han",
+    "year": "2012",
+    "journal-title": "Nature"
+   },
+   {
+    "key": "ropaa3cbebib301",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.78.140405",
+    "type": "journal-article",
+    "volume": "78",
+    "author": "C\u00e9pas",
+    "year": "2008",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa3cbebib302",
+    "doi-asserted-by": "publisher",
+    "first-page": "289",
+    "DOI": "10.1038/nphys2887",
+    "type": "journal-article",
+    "volume": "10",
+    "author": "Punk",
+    "year": "2014",
+    "journal-title": "Nat. Phys."
+   },
+   {
+    "key": "ropaa3cbebib303",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.7566/JPSJ.83.103704",
+    "type": "journal-article",
+    "volume": "83",
+    "author": "Kawamura",
+    "year": "2014",
+    "journal-title": "J. Phys. Soc. Japan"
+   },
+   {
+    "key": "ropaa3cbebib304",
+    "author": "Fu",
+    "type": "other"
+   },
+   {
+    "key": "ropaa3cbebib305",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.94.060409",
+    "type": "journal-article",
+    "volume": "94",
+    "author": "Han",
+    "year": "2016",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa3cbebib306",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevLett.111.200501",
+    "type": "journal-article",
+    "volume": "111",
+    "author": "Bravyi",
+    "year": "2013",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa3cbebib307",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevA.83.042330",
+    "type": "journal-article",
+    "volume": "83",
+    "author": "Haah",
+    "year": "2011",
+    "journal-title": "Phys. Rev. A"
+   },
+   {
+    "key": "ropaa3cbebib308",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevLett.107.150504",
+    "type": "journal-article",
+    "volume": "107",
+    "author": "Bravyi",
+    "year": "2011",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa3cbebib309",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.88.125122",
+    "type": "journal-article",
+    "volume": "88",
+    "author": "Yoshida",
+    "year": "2013",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa3cbebib310",
+    "doi-asserted-by": "publisher",
+    "first-page": "3045",
+    "DOI": "10.1103/RevModPhys.82.3045",
+    "type": "journal-article",
+    "volume": "82",
+    "author": "Hasan",
+    "year": "2010",
+    "journal-title": "Rev. Mod. Phys."
+   },
+   {
+    "key": "ropaa3cbebib311",
+    "doi-asserted-by": "publisher",
+    "first-page": "799",
+    "DOI": "10.1103/PhysRevLett.59.799",
+    "type": "journal-article",
+    "volume": "59",
+    "author": "Affleck",
+    "year": "1987",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa3cbebib312",
+    "doi-asserted-by": "publisher",
+    "first-page": "277",
+    "DOI": "10.1103/RevModPhys.82.277",
+    "type": "journal-article",
+    "volume": "82",
+    "author": "Eisert",
+    "year": "2010",
+    "journal-title": "Rev. Mod. Phys."
+   },
+   {
+    "key": "ropaa3cbebib313",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevD.82.046006",
+    "type": "journal-article",
+    "volume": "82",
+    "author": "Myers",
+    "year": "2010",
+    "journal-title": "Phys. Rev. D"
+   },
+   {
+    "key": "ropaa3cbebib314",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevD.85.125016",
+    "type": "journal-article",
+    "volume": "85",
+    "author": "Casini",
+    "year": "2012",
+    "journal-title": "Phys. Rev. D"
+   },
+   {
+    "key": "ropaa3cbebib315",
+    "doi-asserted-by": "publisher",
+    "first-page": "749",
+    "DOI": "10.1016/0370-2693(88)90054-8",
+    "type": "journal-article",
+    "volume": "215",
+    "author": "Cardy",
+    "year": "1988",
+    "journal-title": "Phys. Lett. B"
+   },
+   {
+    "key": "ropaa3cbebib316",
+    "doi-asserted-by": "publisher",
+    "first-page": "1",
+    "DOI": "10.1007/JHEP02(2011)019",
+    "type": "journal-article",
+    "volume": "JHEP12(2011)",
+    "author": "Komargodski",
+    "year": "2011",
+    "journal-title": "J. High Energy Phys."
+   },
+   {
+    "key": "ropaa3cbebib317",
+    "first-page": "730",
+    "type": "journal-article",
+    "volume": "43",
+    "author": "Zamolodchikov",
+    "year": "1986",
+    "journal-title": "JETP Lett."
+   },
+   {
+    "key": "ropaa3cbebib318",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevLett.112.151601",
+    "type": "journal-article",
+    "volume": "112",
+    "author": "Grover",
+    "year": "2014",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa3cbebib319",
+    "doi-asserted-by": "publisher",
+    "first-page": "376",
+    "DOI": "10.1038/nphys1606",
+    "type": "journal-article",
+    "volume": "6",
+    "author": "Pesin",
+    "year": "2010",
+    "journal-title": "Nat. Phys."
+   },
+   {
+    "key": "ropaa3cbebib320",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevLett.103.196803",
+    "type": "journal-article",
+    "volume": "103",
+    "author": "Levin",
+    "year": "2009",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa3cbebib321",
+    "doi-asserted-by": "publisher",
+    "first-page": "385",
+    "DOI": "10.1038/nphys3311",
+    "type": "journal-article",
+    "volume": "11",
+    "author": "Maciejko",
+    "year": "2015",
+    "journal-title": "Nat. Phys."
+   },
+   {
+    "key": "ropaa3cbebib322",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.84.174441",
+    "type": "journal-article",
+    "volume": "84",
+    "author": "Hermele",
+    "year": "2011",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa3cbebib323",
+    "doi-asserted-by": "publisher",
+    "first-page": "289",
+    "DOI": "10.1038/nphys1535",
+    "type": "journal-article",
+    "volume": "6",
+    "author": "Gorshkov",
+    "year": "2010",
+    "journal-title": "Nat. Phys."
+   },
+   {
+    "key": "ropaa3cbebib324",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevA.88.043619",
+    "type": "journal-article",
+    "volume": "88",
+    "author": "Sinkovicz",
+    "year": "2013",
+    "journal-title": "Phys. Rev. A"
+   },
+   {
+    "key": "ropaa3cbebib325",
+    "author": "Islam",
+    "type": "other"
+   },
+   {
+    "key": "ropaa3cbebib326",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevLett.115.077001",
+    "type": "journal-article",
+    "volume": "115",
+    "author": "Furukawa",
+    "year": "2015",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa3cbebib327",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1088/0034-4885/78/5/052502",
+    "type": "journal-article",
+    "volume": "78",
+    "author": "Starykh",
+    "year": "2015",
+    "journal-title": "Rep. Prog. Phys."
+   }
+  ],
+  "container-title": [
+   "Reports on Progress in Physics"
+  ],
+  "original-title": [],
+  "link": [
+   {
+    "URL": "http://stacks.iop.org/0034-4885/80/i=1/a=016502/pdf",
+    "content-type": "application/pdf",
+    "content-version": "vor",
+    "intended-application": "text-mining"
+   },
+   {
+    "URL": "http://stacks.iop.org/0034-4885/80/i=1/a=016502?key=crossref.cb370ce1265798431a7f25b83310bf73",
+    "content-type": "text/html",
+    "content-version": "vor",
+    "intended-application": "text-mining"
+   },
+   {
+    "URL": "https://iopscience.iop.org/article/10.1088/0034-4885/80/1/016502",
+    "content-type": "text/html",
+    "content-version": "vor",
+    "intended-application": "text-mining"
+   },
+   {
+    "URL": "https://iopscience.iop.org/article/10.1088/0034-4885/80/1/016502/pdf",
+    "content-type": "application/pdf",
+    "content-version": "vor",
+    "intended-application": "text-mining"
+   },
+   {
+    "URL": "http://stacks.iop.org/0034-4885/80/i=1/a=016502/ampdf",
+    "content-type": "application/pdf",
+    "content-version": "am",
+    "intended-application": "unspecified"
+   },
+   {
+    "URL": "https://iopscience.iop.org/article/10.1088/0034-4885/80/1/016502/pdf",
+    "content-type": "application/pdf",
+    "content-version": "vor",
+    "intended-application": "syndication"
+   },
+   {
+    "URL": "https://iopscience.iop.org/article/10.1088/0034-4885/80/1/016502/pdf",
+    "content-type": "application/pdf",
+    "content-version": "vor",
+    "intended-application": "similarity-checking"
+   }
+  ],
+  "deposited": {
+   "date-parts": [
+    [
+     2026,
+     6,
+     27
+    ]
+   ],
+   "date-time": "2026-06-27T12:03:54Z",
+   "timestamp": 1782561834000
+  },
+  "score": 1,
+  "resource": {
+   "primary": {
+    "URL": "https://iopscience.iop.org/article/10.1088/0034-4885/80/1/016502"
+   }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+   "date-parts": [
+    [
+     2016,
+     11,
+     8
+    ]
+   ]
+  },
+  "references-count": 327,
+  "journal-issue": {
+   "issue": "1",
+   "published-online": {
+    "date-parts": [
+     [
+      2016,
+      11,
+      8
+     ]
+    ]
+   },
+   "published-print": {
+    "date-parts": [
+     [
+      2017,
+      1,
+      1
+     ]
+    ]
+   }
+  },
+  "URL": "https://doi.org/10.1088/0034-4885/80/1/016502",
+  "relation": {},
+  "ISSN": [
+   "0034-4885",
+   "1361-6633"
+  ],
+  "issn-type": [
+   {
+    "value": "0034-4885",
+    "type": "print"
+   },
+   {
+    "value": "1361-6633",
+    "type": "electronic"
+   }
+  ],
+  "subject": [],
+  "published": {
+   "date-parts": [
+    [
+     2016,
+     11,
+     8
+    ]
+   ]
+  },
+  "assertion": [
+   {
+    "value": "Quantum spin liquids: a review",
+    "name": "article_title",
+    "label": "Article Title"
+   },
+   {
+    "value": "Reports on Progress in Physics",
+    "name": "journal_title",
+    "label": "Journal Title"
+   },
+   {
+    "value": "paper",
+    "name": "article_type",
+    "label": "Article Type"
+   },
+   {
+    "value": "\u00a9 2016 IOP Publishing Ltd. All rights, including for text and data mining, AI training, and similar technologies, are reserved.",
+    "name": "copyright_information",
+    "label": "Copyright Information"
+   },
+   {
+    "value": "2015-12-29",
+    "name": "date_received",
+    "label": "Date Received",
+    "group": {
+     "name": "publication_dates",
+     "label": "Publication dates"
+    }
+   },
+   {
+    "value": "2016-08-25",
+    "name": "date_accepted",
+    "label": "Date Accepted",
+    "group": {
+     "name": "publication_dates",
+     "label": "Publication dates"
+    }
+   },
+   {
+    "value": "2016-11-08",
+    "name": "date_epub",
+    "label": "Online publication date",
+    "group": {
+     "name": "publication_dates",
+     "label": "Publication dates"
+    }
+   }
+  ]
+ }
+}

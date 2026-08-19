@@ -1,0 +1,3563 @@
+{
+ "doi": "10.1088/1361-6633/aa6ac7",
+ "message": {
+  "indexed": {
+   "date-parts": [
+    [
+     2026,
+     8,
+     18
+    ]
+   ],
+   "date-time": "2026-08-18T14:10:28Z",
+   "timestamp": 1787062228071,
+   "version": "3.56.0"
+  },
+  "reference-count": 283,
+  "publisher": "IOP Publishing",
+  "issue": "7",
+  "license": [
+   {
+    "start": {
+     "date-parts": [
+      [
+       2017,
+       5,
+       5
+      ]
+     ],
+     "date-time": "2017-05-05T00:00:00Z",
+     "timestamp": 1493942400000
+    },
+    "content-version": "vor",
+    "delay-in-days": 0,
+    "URL": "https://publishingsupport.iopscience.iop.org/iop-standard/v1"
+   },
+   {
+    "start": {
+     "date-parts": [
+      [
+       2017,
+       5,
+       5
+      ]
+     ],
+     "date-time": "2017-05-05T00:00:00Z",
+     "timestamp": 1493942400000
+    },
+    "content-version": "tdm",
+    "delay-in-days": 0,
+    "URL": "https://iopscience.iop.org/info/page/text-and-data-mining"
+   }
+  ],
+  "funder": [
+   {
+    "DOI": "10.13039/501100001691",
+    "name": "Japan Society for the Promotion of Science",
+    "doi-asserted-by": "crossref",
+    "award": [
+     "JP15H05853"
+    ],
+    "award-info": [
+     {
+      "award-number": [
+       "JP15H05853"
+      ]
+     }
+    ],
+    "id": [
+     {
+      "id": "10.13039/501100001691",
+      "id-type": "DOI",
+      "asserted-by": "crossref"
+     }
+    ]
+   },
+   {
+    "name": "National Science Foundation",
+    "award": [
+     "PHY-1066293"
+    ],
+    "award-info": [
+     {
+      "award-number": [
+       "PHY-1066293"
+      ]
+     }
+    ]
+   },
+   {
+    "DOI": "10.13039/501100001659",
+    "name": "Deutsche Forschungsgemeinschaft",
+    "doi-asserted-by": "crossref",
+    "award": [
+     "CRC1238-A04"
+    ],
+    "award-info": [
+     {
+      "award-number": [
+       "CRC1238-A04"
+      ]
+     }
+    ],
+    "id": [
+     {
+      "id": "10.13039/501100001659",
+      "id-type": "DOI",
+      "asserted-by": "crossref"
+     }
+    ]
+   }
+  ],
+  "content-domain": {
+   "domain": [
+    "iopscience.iop.org"
+   ],
+   "crossmark-restriction": false
+  },
+  "short-container-title": [
+   "Rep. Prog. Phys."
+  ],
+  "published-print": {
+   "date-parts": [
+    [
+     2017,
+     7,
+     1
+    ]
+   ]
+  },
+  "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>This review elaborates pedagogically on the fundamental concept, basic theory, expected properties, and materials realizations of topological superconductors. The relation between topological superconductivity and Majorana fermions are explained, and the difference between dispersive Majorana fermions and a localized Majorana zero mode is emphasized. A variety of routes to topological superconductivity are explained with an emphasis on the roles of spin\u2013orbit coupling. Present experimental situations and possible signatures of topological superconductivity are summarized with an emphasis on intrinsic topological superconductors.</jats:p>",
+  "DOI": "10.1088/1361-6633/aa6ac7",
+  "type": "journal-article",
+  "created": {
+   "date-parts": [
+    [
+     2017,
+     4,
+     3
+    ]
+   ],
+   "date-time": "2017-04-03T08:15:12Z",
+   "timestamp": 1491207312000
+  },
+  "page": "076501",
+  "update-policy": "https://doi.org/10.1088/crossmark-policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 1504,
+  "title": [
+   "Topological superconductors: a review"
+  ],
+  "prefix": "10.1088",
+  "volume": "80",
+  "author": [
+   {
+    "given": "Masatoshi",
+    "family": "Sato",
+    "sequence": "first",
+    "affiliation": [
+     {
+      "name": "Kyoto University"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Yoichi",
+    "family": "Ando",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "University of Cologne"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "member": "266",
+  "published-online": {
+   "date-parts": [
+    [
+     2017,
+     5,
+     5
+    ]
+   ]
+  },
+  "reference": [
+   {
+    "key": "ropaa6ac7bib001",
+    "doi-asserted-by": "publisher",
+    "first-page": "405",
+    "DOI": "10.1103/PhysRevLett.49.405",
+    "type": "journal-article",
+    "article-title": "Quantized Hall conductance in a two-dimensional periodic potential",
+    "volume": "49",
+    "author": "Thouless",
+    "year": "1982",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa6ac7bib002",
+    "doi-asserted-by": "publisher",
+    "first-page": "343",
+    "DOI": "10.1016/0003-4916(85)90148-4",
+    "type": "journal-article",
+    "article-title": "Topological invariant and the quantization of the Hall conductance",
+    "volume": "160",
+    "author": "Kohmoto",
+    "year": "1985",
+    "journal-title": "Ann. Phys."
+   },
+   {
+    "key": "ropaa6ac7bib003",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevLett.95.226801",
+    "type": "journal-article",
+    "article-title": "Quantum spin Hall effect in graphene",
+    "volume": "95",
+    "author": "Kane",
+    "year": "2005",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa6ac7bib004",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevLett.95.146802",
+    "type": "journal-article",
+    "article-title": "Z2 topological order and the quantum spin Hall effect",
+    "volume": "95",
+    "author": "Kane",
+    "year": "2005",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa6ac7bib005",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.75.121306",
+    "type": "journal-article",
+    "article-title": "Topological invariants of time-reversal-invariant band structures",
+    "volume": "75",
+    "author": "Moore",
+    "year": "2007",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa6ac7bib006",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevLett.98.106803",
+    "type": "journal-article",
+    "article-title": "Topological insulators in three dimensions",
+    "volume": "98",
+    "author": "Fu",
+    "year": "2007",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa6ac7bib007",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.79.195322",
+    "type": "journal-article",
+    "article-title": "Topological phases and the quantum spin Hall effect in three dimensions",
+    "volume": "79",
+    "author": "Roy",
+    "year": "2009",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa6ac7bib008",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.7566/JPSJ.82.102001",
+    "type": "journal-article",
+    "article-title": "Topological insulator materials",
+    "volume": "82",
+    "author": "Ando",
+    "year": "2013",
+    "journal-title": "J. Phys. Soc. Japan"
+   },
+   {
+    "key": "ropaa6ac7bib009",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.78.195125",
+    "type": "journal-article",
+    "article-title": "Classification of topological insulators and superconductors in three spatial dimensions",
+    "volume": "78",
+    "author": "Schnyder",
+    "year": "2008",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa6ac7bib010",
+    "doi-asserted-by": "publisher",
+    "first-page": "22",
+    "DOI": "10.1063/1.3149495",
+    "type": "other",
+    "article-title": "Periodic table for topological insulators and superconductors",
+    "volume": "1134",
+    "author": "Kitaev",
+    "year": "2009"
+   },
+   {
+    "key": "ropaa6ac7bib011",
+    "author": "Volovik",
+    "year": "2003",
+    "type": "book"
+   },
+   {
+    "key": "ropaa6ac7bib012",
+    "doi-asserted-by": "publisher",
+    "first-page": "10267",
+    "DOI": "10.1103/PhysRevB.61.10267",
+    "type": "journal-article",
+    "article-title": "Paired states of fermions in two dimensions with breaking of parity and time-reversal symmetries and the fractional quantum Hall effect",
+    "volume": "61",
+    "author": "Read",
+    "year": "2000",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa6ac7bib013",
+    "doi-asserted-by": "publisher",
+    "first-page": "131",
+    "DOI": "10.1070/1063-7869/44/10S/S29",
+    "type": "journal-article",
+    "article-title": "Unpaired Majorana fermions in quantum wires",
+    "volume": "44",
+    "author": "Kitaev",
+    "year": "2001",
+    "journal-title": "Phys.\u2014Usp."
+   },
+   {
+    "key": "ropaa6ac7bib014",
+    "doi-asserted-by": "publisher",
+    "first-page": "126",
+    "DOI": "10.1016/j.physletb.2003.09.047",
+    "type": "journal-article",
+    "article-title": "Non-abelian statistics of axion strings",
+    "volume": "575",
+    "author": "Sato",
+    "year": "2003",
+    "journal-title": "Phys. Lett. B"
+   },
+   {
+    "key": "ropaa6ac7bib015",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1088/0034-4885/75/7/076501",
+    "type": "journal-article",
+    "article-title": "New directions in the pursuit of Majorana fermions in solid state systems",
+    "volume": "75",
+    "author": "Alicea",
+    "year": "2012",
+    "journal-title": "Rep. Prog. Phys."
+   },
+   {
+    "key": "ropaa6ac7bib016",
+    "doi-asserted-by": "publisher",
+    "first-page": "113",
+    "DOI": "10.1146/annurev-conmatphys-030212-184337",
+    "type": "journal-article",
+    "article-title": "Search for Majorana fermions in superconductors",
+    "volume": "4",
+    "author": "Beenakker",
+    "year": "2013",
+    "journal-title": "Annu. Rev. Condens. Matter Phys."
+   },
+   {
+    "key": "ropaa6ac7bib017",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.7566/JPSJ.85.072001",
+    "type": "journal-article",
+    "article-title": "Majorana fermions and topology in superconductors",
+    "volume": "85",
+    "author": "Sato",
+    "year": "2016",
+    "journal-title": "J. Phys. Soc. Japan"
+   },
+   {
+    "key": "ropaa6ac7bib018",
+    "doi-asserted-by": "publisher",
+    "first-page": "45",
+    "DOI": "10.1098/rspa.1984.0023",
+    "type": "journal-article",
+    "article-title": "Quantum phase factors accompanying adiabatic changes",
+    "volume": "392",
+    "author": "Berry",
+    "year": "1984",
+    "journal-title": "Proc. R. Soc. Lond."
+   },
+   {
+    "key": "ropaa6ac7bib019",
+    "doi-asserted-by": "publisher",
+    "first-page": "2167",
+    "DOI": "10.1103/PhysRevLett.51.2167",
+    "type": "journal-article",
+    "article-title": "Holonomy, the quantum adiabatic theorem and Berry\u2019s phase",
+    "volume": "51",
+    "author": "Simon",
+    "year": "1983",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa6ac7bib020",
+    "doi-asserted-by": "publisher",
+    "first-page": "51",
+    "DOI": "10.1103/PhysRevLett.51.51",
+    "type": "journal-article",
+    "article-title": "Homotopy and quantization in condensed matter physics",
+    "volume": "51",
+    "author": "Avron",
+    "year": "1983",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa6ac7bib021",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevLett.96.106802",
+    "type": "journal-article",
+    "article-title": "Quantum spin Hall effect",
+    "volume": "96",
+    "author": "Bernevig",
+    "year": "2006",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa6ac7bib022",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.78.195424",
+    "type": "journal-article",
+    "article-title": "Topological field theory of time-reversal invariant insulators",
+    "volume": "78",
+    "author": "Qi",
+    "year": "2008",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa6ac7bib023",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevLett.97.036808",
+    "type": "journal-article",
+    "article-title": "Quantum spin Hall effect and topologically invariant Chern numbers",
+    "volume": "97",
+    "author": "Sheng",
+    "year": "2006",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa6ac7bib024",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.76.045302",
+    "type": "journal-article",
+    "article-title": "Topological insulators with inversion symmetry",
+    "volume": "76",
+    "author": "Fu",
+    "year": "2007",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa6ac7bib025",
+    "doi-asserted-by": "publisher",
+    "first-page": "3045",
+    "DOI": "10.1103/RevModPhys.82.3045",
+    "type": "journal-article",
+    "article-title": "Colloquium: Topological insulators",
+    "volume": "82",
+    "author": "Hasan",
+    "year": "2010",
+    "journal-title": "Rev. Mod. Phys."
+   },
+   {
+    "key": "ropaa6ac7bib026",
+    "doi-asserted-by": "publisher",
+    "first-page": "1057",
+    "DOI": "10.1103/RevModPhys.83.1057",
+    "type": "journal-article",
+    "article-title": "Topological insulators and superconductors",
+    "volume": "83",
+    "author": "Qi",
+    "year": "2011",
+    "journal-title": "Rev. Mod. Phys."
+   },
+   {
+    "key": "ropaa6ac7bib027",
+    "doi-asserted-by": "publisher",
+    "first-page": "438",
+    "DOI": "10.1038/nphys1270",
+    "type": "journal-article",
+    "article-title": "Topological insulators in Bi2Se3, Bi2Te3 and Sb2Te3 with a single Dirac cone on the surface",
+    "volume": "5",
+    "author": "Zhang",
+    "year": "2009",
+    "journal-title": "Nat. Phys."
+   },
+   {
+    "key": "ropaa6ac7bib028",
+    "doi-asserted-by": "publisher",
+    "first-page": "389",
+    "DOI": "10.1016/0370-2693(83)91529-0",
+    "type": "journal-article",
+    "article-title": "The Adler\u2013Bell\u2013Jackiw anomaly and Weyl fermions in a crystal",
+    "volume": "130",
+    "author": "Nielsen",
+    "year": "1983",
+    "journal-title": "Phys. Lett. B"
+   },
+   {
+    "key": "ropaa6ac7bib029",
+    "doi-asserted-by": "publisher",
+    "first-page": "356",
+    "DOI": "10.1088/1367-2630/9/9/356",
+    "type": "journal-article",
+    "article-title": "Phase transition between the quantum spin Hall and insulator phases in 3d: emergence of a topological gapless phase",
+    "volume": "9",
+    "author": "Murakami",
+    "year": "2007",
+    "journal-title": "New J. Phys."
+   },
+   {
+    "key": "ropaa6ac7bib030",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.83.205101",
+    "type": "journal-article",
+    "article-title": "Topological semimetal and fermi-arc surface states in the electronic structure of pyrochlore iridates",
+    "volume": "83",
+    "author": "Wan",
+    "year": "2011",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa6ac7bib031",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevLett.107.127205",
+    "type": "journal-article",
+    "article-title": "Weyl semimetal in a topological insulator multilayer",
+    "volume": "107",
+    "author": "Burkov",
+    "year": "2011",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa6ac7bib032",
+    "doi-asserted-by": "publisher",
+    "first-page": "20",
+    "DOI": "10.1016/0550-3213(81)90361-8",
+    "type": "journal-article",
+    "article-title": "Absence of neutrinos on a lattice. (I). Proof by homotopy theory",
+    "volume": "185",
+    "author": "Nielsen",
+    "year": "1981",
+    "journal-title": "Nucl. Phys. B"
+   },
+   {
+    "key": "ropaa6ac7bib033",
+    "doi-asserted-by": "publisher",
+    "first-page": "173",
+    "DOI": "10.1016/0550-3213(81)90524-1",
+    "type": "journal-article",
+    "article-title": "Absence of neutrinos on a lattice. (II). Intuitive topological proof",
+    "volume": "193",
+    "author": "Nielsen",
+    "year": "1981",
+    "journal-title": "Nucl. Phys. B"
+   },
+   {
+    "key": "ropaa6ac7bib034",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevLett.108.140405",
+    "type": "journal-article",
+    "article-title": "Dirac semimetal in three dimensions",
+    "volume": "108",
+    "author": "Young",
+    "year": "2012",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa6ac7bib035",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.85.195320",
+    "type": "journal-article",
+    "article-title": "Dirac semimetal and topological phase transitions in A3Bi (A\u2009\u2009=\u2009\u2009Na, K Rb)",
+    "volume": "85",
+    "author": "Wang",
+    "year": "2012",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa6ac7bib036",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.88.125427",
+    "type": "journal-article",
+    "article-title": "Three-dimensional Dirac semimetal and quantum transport in Cd3As2",
+    "volume": "88",
+    "author": "Wang",
+    "year": "2013",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa6ac7bib037",
+    "doi-asserted-by": "publisher",
+    "first-page": "4898",
+    "DOI": "10.1038/ncomms5898",
+    "type": "journal-article",
+    "article-title": "Classification of stable three-dimensional Dirac semimetals with nontrivial topology",
+    "volume": "5",
+    "author": "Yang",
+    "year": "2014",
+    "journal-title": "Nat. Commun."
+   },
+   {
+    "key": "ropaa6ac7bib038",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.91.041203",
+    "type": "journal-article",
+    "article-title": "Large linear magnetoresistance in the dirac semimetal TlBiSSe",
+    "volume": "91",
+    "author": "Novak",
+    "year": "2015",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa6ac7bib039",
+    "doi-asserted-by": "publisher",
+    "first-page": "3786",
+    "DOI": "10.1038/ncomms4786",
+    "type": "journal-article",
+    "article-title": "Observation of a three-dimensional topological Dirac semimetal phase in high-mobility Cd3As2",
+    "volume": "5",
+    "author": "Neupane",
+    "year": "2014",
+    "journal-title": "Nat. Commun."
+   },
+   {
+    "key": "ropaa6ac7bib040",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevLett.113.027603",
+    "type": "journal-article",
+    "article-title": "Experimental realization of a three-dimensional Dirac semimetal",
+    "volume": "113",
+    "author": "Borisenko",
+    "year": "2014",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa6ac7bib041",
+    "doi-asserted-by": "publisher",
+    "first-page": "677",
+    "DOI": "10.1038/nmat3990",
+    "type": "journal-article",
+    "article-title": "A stable three-dimensional topological Dirac semimetal Cd3As2",
+    "volume": "13",
+    "author": "Liu",
+    "year": "2014",
+    "journal-title": "Nat. Mater."
+   },
+   {
+    "key": "ropaa6ac7bib042",
+    "doi-asserted-by": "publisher",
+    "first-page": "6106",
+    "DOI": "10.1038/srep06106",
+    "type": "journal-article",
+    "article-title": "Evidence of topological surface state in three-dimensional Dirac semimetal Cd3As2",
+    "volume": "4",
+    "author": "Yi",
+    "year": "2014",
+    "journal-title": "Sci. Rep."
+   },
+   {
+    "key": "ropaa6ac7bib043",
+    "doi-asserted-by": "publisher",
+    "first-page": "239",
+    "DOI": "10.1103/RevModPhys.63.239",
+    "type": "journal-article",
+    "article-title": "Phenomenological theory of unconventional superconductivity",
+    "volume": "63",
+    "author": "Sigrist",
+    "year": "1991",
+    "journal-title": "Rev. Mod. Phys."
+   },
+   {
+    "key": "ropaa6ac7bib044",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevLett.92.097001",
+    "type": "journal-article",
+    "article-title": "Superconductivity without inversion symmetry: Mnsi versus CePt3Si",
+    "volume": "92",
+    "author": "Frigeri",
+    "year": "2004",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa6ac7bib045",
+    "doi-asserted-by": "publisher",
+    "author": "Bauer",
+    "year": "2012",
+    "DOI": "10.1007/978-3-642-24624-1",
+    "type": "book"
+   },
+   {
+    "key": "ropaa6ac7bib046",
+    "doi-asserted-by": "publisher",
+    "first-page": "307",
+    "DOI": "10.1016/0031-9163(64)90375-0",
+    "type": "journal-article",
+    "article-title": "Bound Fermion states on a vortex line in a type II superconductor",
+    "volume": "9",
+    "author": "Caroli",
+    "year": "1964",
+    "journal-title": "Phys. Lett."
+   },
+   {
+    "key": "ropaa6ac7bib047",
+    "doi-asserted-by": "publisher",
+    "first-page": "1641",
+    "DOI": "10.1088/0034-4885/63/10/202",
+    "type": "journal-article",
+    "article-title": "Tunnelling effects on surface bound states in unconventional superconductors",
+    "volume": "63",
+    "author": "Kashiwaya",
+    "year": "2000",
+    "journal-title": "Rep. Prog. Phys."
+   },
+   {
+    "key": "ropaa6ac7bib048",
+    "doi-asserted-by": "publisher",
+    "first-page": "R53",
+    "DOI": "10.1088/0953-2048/14/5/201",
+    "type": "journal-article",
+    "article-title": "Andreev bound states in high-Tc superconducting junctions",
+    "volume": "14",
+    "author": "Lofwander",
+    "year": "2001",
+    "journal-title": "Supercond. Sci. Technol."
+   },
+   {
+    "key": "ropaa6ac7bib049",
+    "doi-asserted-by": "publisher",
+    "first-page": "1237",
+    "DOI": "10.1143/PTP.76.1237",
+    "type": "journal-article",
+    "article-title": "A polar state in a slab as a soluble model of p-wave fermi superfluid in finite geometry",
+    "volume": "76",
+    "author": "Hara",
+    "year": "1986",
+    "journal-title": "Prog. Theor. Phys."
+   },
+   {
+    "key": "ropaa6ac7bib050",
+    "doi-asserted-by": "publisher",
+    "first-page": "1526",
+    "DOI": "10.1103/PhysRevLett.72.1526",
+    "type": "journal-article",
+    "article-title": "Midgap surface states as a novel signature for dxa2\u2212xb2-wave superconductivity",
+    "volume": "72",
+    "author": "Hu",
+    "year": "1994",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa6ac7bib051",
+    "doi-asserted-by": "publisher",
+    "first-page": "9667",
+    "DOI": "10.1103/PhysRevB.44.9667",
+    "type": "journal-article",
+    "article-title": "Mutual friction in superfluid 3He: effects of bound states in the vortex core",
+    "volume": "44",
+    "author": "Kopnin",
+    "year": "1991",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa6ac7bib052",
+    "doi-asserted-by": "publisher",
+    "first-page": "3451",
+    "DOI": "10.1103/PhysRevLett.74.3451",
+    "type": "journal-article",
+    "article-title": "Theory of tunneling spectroscopy of d-wave superconductors",
+    "volume": "74",
+    "author": "Tanaka",
+    "year": "1995",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa6ac7bib053",
+    "doi-asserted-by": "publisher",
+    "author": "Manton",
+    "year": "2004",
+    "DOI": "10.1017/CBO9780511617034",
+    "type": "book"
+   },
+   {
+    "key": "ropaa6ac7bib054",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.79.094504",
+    "type": "journal-article",
+    "article-title": "Topological phases of noncentrosymmetric superconductors: edge states, Majorana fermions and non-abelian statistics",
+    "volume": "79",
+    "author": "Sato",
+    "year": "2009",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa6ac7bib055",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.79.060505",
+    "type": "journal-article",
+    "article-title": "Theory of topological spin current in noncentrosymmetric superconductors",
+    "volume": "79",
+    "author": "Tanaka",
+    "year": "2009",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa6ac7bib056",
+    "doi-asserted-by": "publisher",
+    "first-page": "371",
+    "DOI": "10.1007/BF00682148",
+    "type": "journal-article",
+    "article-title": "Topology of gap nodes in superfluid3he: \u03c04 homotopy group for 3He-B disclination",
+    "volume": "72",
+    "author": "Grinevich",
+    "year": "1988",
+    "journal-title": "J. Low Temp. Phys."
+   },
+   {
+    "key": "ropaa6ac7bib057",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1143/JPSJ.81.011013",
+    "type": "journal-article",
+    "article-title": "Symmetry and topology in superconductors \u2018odd-frequency pairing and edge states\u2019",
+    "volume": "81",
+    "author": "Tanaka",
+    "year": "2012",
+    "journal-title": "J. Phys. Soc. Japan"
+   },
+   {
+    "key": "ropaa6ac7bib058",
+    "doi-asserted-by": "publisher",
+    "first-page": "3697",
+    "DOI": "10.1103/PhysRevLett.71.3697",
+    "type": "journal-article",
+    "article-title": "Chern number and edge states in the integer quantum Hall effect",
+    "volume": "71",
+    "author": "Hatsugai",
+    "year": "1993",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa6ac7bib059",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.82.115120",
+    "type": "journal-article",
+    "article-title": "Topological defects and gapless modes in insulators and superconductors",
+    "volume": "82",
+    "author": "Teo",
+    "year": "2010",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa6ac7bib060",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.83.224511",
+    "type": "journal-article",
+    "article-title": "Topology of Andreev bound states with flat dispersion",
+    "volume": "83",
+    "author": "Sato",
+    "year": "2011",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa6ac7bib061",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.84.125132",
+    "type": "journal-article",
+    "article-title": "Bulk-boundary correspondence of topological insulators from their respective Green\u2019s functions",
+    "volume": "84",
+    "author": "Essin",
+    "year": "2011",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa6ac7bib062",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevLett.111.047006",
+    "type": "journal-article",
+    "article-title": "Existence of Majorana-fermion bound states on disclinations and the classification of topological crystalline superconductors in two dimensions",
+    "volume": "111",
+    "author": "Teo",
+    "year": "2013",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa6ac7bib063",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevLett.111.087002",
+    "type": "journal-article",
+    "article-title": "Symmetry-protected Majorana fermions in topological crystalline superconductors: theory and application to Sr2RuO4",
+    "volume": "111",
+    "author": "Ueno",
+    "year": "2013",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa6ac7bib064",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.89.224503",
+    "type": "journal-article",
+    "article-title": "Classification of two-dimensional topological crystalline superconductors and Majorana bound states at disclinations",
+    "volume": "89",
+    "author": "Benalcazar",
+    "year": "2014",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa6ac7bib065",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.90.165114",
+    "type": "journal-article",
+    "article-title": "Topology of crystalline insulators and superconductors",
+    "volume": "90",
+    "author": "Shiozaki",
+    "year": "2014",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa6ac7bib066",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.7566/JPSJ.82.113707",
+    "type": "journal-article",
+    "article-title": "UPt3 as a topological crystalline superconductor",
+    "volume": "82",
+    "author": "Tsutsumi",
+    "year": "2013",
+    "journal-title": "J. Phys. Soc. Japan"
+   },
+   {
+    "key": "ropaa6ac7bib067",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.90.174504",
+    "type": "journal-article",
+    "article-title": "Majorana vortex-bound states in three-dimensional nodal noncentrosymmetric superconductors",
+    "volume": "90",
+    "author": "Chang",
+    "year": "2014",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa6ac7bib068",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.93.064522",
+    "type": "journal-article",
+    "article-title": "Structure of vortex-bound states in spin-singlet chiral superconductors",
+    "volume": "93",
+    "author": "Lee",
+    "year": "2016",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa6ac7bib069",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.91.144504",
+    "type": "journal-article",
+    "article-title": "Symmetry-protected vortex bound state in superfluid 3He-B phase",
+    "volume": "91",
+    "author": "Tsutsumi",
+    "year": "2015",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa6ac7bib070",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevLett.106.106802",
+    "type": "journal-article",
+    "article-title": "Topological crystalline insulators",
+    "volume": "106",
+    "author": "Fu",
+    "year": "2011",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa6ac7bib071",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevLett.109.165301",
+    "type": "journal-article",
+    "article-title": "Symmetry protected topological order and spin susceptibility in superfluid 3He-B",
+    "volume": "109",
+    "author": "Mizushima",
+    "year": "2012",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa6ac7bib072",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevLett.111.056403",
+    "type": "journal-article",
+    "article-title": "Topological mirror superconductivity",
+    "volume": "111",
+    "author": "Zhang",
+    "year": "2013",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa6ac7bib073",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.88.075142",
+    "type": "journal-article",
+    "article-title": "Classification of topological insulators and superconductors in the presence of reflection symmetry",
+    "volume": "88",
+    "author": "Chiu",
+    "year": "2013",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa6ac7bib074",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.88.125129",
+    "type": "journal-article",
+    "article-title": "Topological classification with additional symmetries from Clifford algebras",
+    "volume": "88",
+    "author": "Morimoto",
+    "year": "2013",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa6ac7bib075",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.93.195413",
+    "type": "journal-article",
+    "article-title": "Topology of nonsymmorphic crystalline insulators and superconductors",
+    "volume": "93",
+    "author": "Shiozaki",
+    "year": "2016",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa6ac7bib076",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.78.045426",
+    "type": "journal-article",
+    "article-title": "Surface states and topological invariants in three-dimensional topological insulators: application to Bi1\u2212xSbx",
+    "volume": "78",
+    "author": "Teo",
+    "year": "2008",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa6ac7bib077",
+    "doi-asserted-by": "publisher",
+    "first-page": "982",
+    "DOI": "10.1038/ncomms1969",
+    "type": "journal-article",
+    "article-title": "Topological crystalline insulators in the snte material class",
+    "volume": "3",
+    "author": "Hsieh",
+    "year": "2012",
+    "journal-title": "Nat. Commun."
+   },
+   {
+    "key": "ropaa6ac7bib078",
+    "doi-asserted-by": "publisher",
+    "first-page": "800",
+    "DOI": "10.1038/nphys2442",
+    "type": "journal-article",
+    "article-title": "Experimental realization of a topological crystalline insulator in SnTe",
+    "volume": "8",
+    "author": "Tanaka",
+    "year": "2012",
+    "journal-title": "Nat. Phys."
+   },
+   {
+    "key": "ropaa6ac7bib079",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.86.054504",
+    "type": "journal-article",
+    "article-title": "Weyl superconductors",
+    "volume": "86",
+    "author": "Meng",
+    "year": "2012",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa6ac7bib080",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.73.214502",
+    "type": "journal-article",
+    "article-title": "Nodal structure of superconductors with time-reversal invariance and Z2 topological number",
+    "volume": "73",
+    "author": "Sato",
+    "year": "2006",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa6ac7bib081",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.81.134515",
+    "type": "journal-article",
+    "article-title": "Topologically stable gapless phases of time-reversal-invariant superconductors",
+    "volume": "81",
+    "author": "B\u00e9ri",
+    "year": "2010",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa6ac7bib082",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.84.060504",
+    "type": "journal-article",
+    "article-title": "Topological phases and surface flat bands in superconductors without inversion symmetry",
+    "volume": "84",
+    "author": "Schnyder",
+    "year": "2011",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa6ac7bib083",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevLett.105.097002",
+    "type": "journal-article",
+    "article-title": "Anomalous Andreev bound state in noncentrosymmetric superconductors",
+    "volume": "105",
+    "author": "Tanaka",
+    "year": "2010",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa6ac7bib084",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.83.064505",
+    "type": "journal-article",
+    "article-title": "Surface density of states and topological edge states in noncentrosymmetric superconductors",
+    "volume": "83",
+    "author": "Yada",
+    "year": "2011",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa6ac7bib085",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.85.024522",
+    "type": "journal-article",
+    "article-title": "Types of topological surface states in nodal noncentrosymmetric superconductors",
+    "volume": "85",
+    "author": "Schnyder",
+    "year": "2012",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa6ac7bib086",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.94.054512",
+    "type": "journal-article",
+    "article-title": "Quantization of conductance minimum and index theorem",
+    "volume": "94",
+    "author": "Ikegaya",
+    "year": "2016",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa6ac7bib087",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.90.024516",
+    "type": "journal-article",
+    "article-title": "Topological Blount\u2019s theorem of odd-parity superconductors",
+    "volume": "90",
+    "author": "Kobayashi",
+    "year": "2014",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa6ac7bib088",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevLett.116.156402",
+    "type": "journal-article",
+    "article-title": "Unified theory of PT and CP invariant topological metals and nodal superconductors",
+    "volume": "116",
+    "author": "Zhao",
+    "year": "2016",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa6ac7bib089",
+    "doi-asserted-by": "publisher",
+    "first-page": "2935",
+    "DOI": "10.1103/PhysRevB.32.2935",
+    "type": "journal-article",
+    "article-title": "Symmetry properties of triplet superconductors",
+    "volume": "32",
+    "author": "Blount",
+    "year": "1985",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa6ac7bib090",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevLett.118.127001",
+    "type": "preprint",
+    "article-title": "Inflated nodes in superconductors with broken time-reversal symmetry",
+    "volume": "118",
+    "author": "Agterberg",
+    "year": "2017"
+   },
+   {
+    "key": "ropaa6ac7bib091",
+    "doi-asserted-by": "publisher",
+    "first-page": "15093",
+    "DOI": "10.1103/PhysRevB.52.15093",
+    "type": "journal-article",
+    "article-title": "Odd parity and line nodes in heavy-fermion superconductors",
+    "volume": "52",
+    "author": "Norman",
+    "year": "1995",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa6ac7bib092",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.80.100506",
+    "type": "journal-article",
+    "article-title": "Odd parity and line nodes in nonsymmorphic superconductors",
+    "volume": "80",
+    "author": "Micklitz",
+    "year": "2009",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa6ac7bib093",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.7566/jpsj.86.023703",
+    "type": "preprint",
+    "article-title": "Symmetry protected line nodes in non-symmorphic magnetic space groups: applications to UCoGe and UPd2Al3",
+    "volume": "86",
+    "author": "Nomoto",
+    "year": "2017"
+   },
+   {
+    "key": "ropaa6ac7bib094",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevLett.113.046401",
+    "type": "journal-article",
+    "article-title": "Dirac and Weyl superconductors in three dimensions",
+    "volume": "113",
+    "author": "Yang",
+    "year": "2014",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa6ac7bib095",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.90.205136",
+    "type": "journal-article",
+    "article-title": "Classification of reflection-symmetry-protected topological semimetals and nodal superconductors",
+    "volume": "90",
+    "author": "Chiu",
+    "year": "2014",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa6ac7bib096",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.92.214514",
+    "type": "journal-article",
+    "article-title": "Fragile surface zero-energy flat bands in three-dimensional chiral superconductors",
+    "volume": "92",
+    "author": "Kobayashi",
+    "year": "2015",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa6ac7bib097",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.94.134512",
+    "type": "journal-article",
+    "article-title": "Topologically stable gapless phases in nonsymmorphic superconductors",
+    "volume": "94",
+    "author": "Kobayashi",
+    "year": "2016",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa6ac7bib098",
+    "article-title": "Nodal-line superconductors and band-sticking",
+    "author": "Micklitz",
+    "year": "2016",
+    "type": "preprint"
+   },
+   {
+    "key": "ropaa6ac7bib099",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.7566/JPSJ.85.022001",
+    "type": "journal-article",
+    "article-title": "Symmetry-protected topological superfluids and superconductors\u2014from the basics to 3He",
+    "volume": "85",
+    "author": "Mizushima",
+    "year": "2016",
+    "journal-title": "J. Phys. Soc. Japan"
+   },
+   {
+    "key": "ropaa6ac7bib100",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.86.214511",
+    "type": "journal-article",
+    "article-title": "Topological fermi arcs in superfluid 3He",
+    "volume": "86",
+    "author": "Silaev",
+    "year": "2012",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa6ac7bib101",
+    "article-title": "Topological properties of possible Weyl superconducting states of URu2Si2",
+    "author": "Goswami",
+    "year": "2013",
+    "type": "preprint"
+   },
+   {
+    "key": "ropaa6ac7bib102",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.89.020509",
+    "type": "journal-article",
+    "article-title": "Chiral d-wave superconductivity in srptas",
+    "volume": "89",
+    "author": "Fischer",
+    "year": "2014",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa6ac7bib103",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.92.214504",
+    "type": "journal-article",
+    "article-title": "Topological Weyl superconductor to diffusive thermal Hall metal crossover in the B phase of UPt3",
+    "volume": "92",
+    "author": "Goswami",
+    "year": "2015",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa6ac7bib104",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevLett.114.096804",
+    "type": "journal-article",
+    "article-title": "Crossed surface flat bands of Weyl semimetal superconductors",
+    "volume": "114",
+    "author": "Lu",
+    "year": "2015",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa6ac7bib105",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevLett.89.077002",
+    "type": "journal-article",
+    "article-title": "Topological origin of zero-energy edge states in particle-hole symmetric systems",
+    "volume": "89",
+    "author": "Ryu",
+    "year": "2002",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa6ac7bib106",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.84.020501",
+    "type": "journal-article",
+    "article-title": "Topologically protected flat zero-energy surface bands in noncentrosymmetric superconductors",
+    "volume": "84",
+    "author": "Brydon",
+    "year": "2011",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa6ac7bib107",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevLett.105.217001",
+    "type": "journal-article",
+    "article-title": "Existence of Majorana fermions and topological order in nodal superconductors with spin\u2013orbit interactions in external magnetic fields",
+    "volume": "105",
+    "author": "Sato",
+    "year": "2010",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa6ac7bib108",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevLett.107.217001",
+    "type": "journal-article",
+    "article-title": "Topological superconductivity in CuxBi2Se3",
+    "volume": "107",
+    "author": "Sasaki",
+    "year": "2011",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa6ac7bib109",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevLett.114.136801",
+    "type": "journal-article",
+    "article-title": "Coexisting edge states and gapless bulk in topological states of matter",
+    "volume": "114",
+    "author": "Baum",
+    "year": "2015",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa6ac7bib110",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.92.045128",
+    "type": "journal-article",
+    "article-title": "Gapless topological superconductors: model hamiltonian and realization",
+    "volume": "92",
+    "author": "Baum",
+    "year": "2015",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa6ac7bib111",
+    "doi-asserted-by": "publisher",
+    "first-page": "171",
+    "DOI": "10.1007/BF02961314",
+    "type": "journal-article",
+    "article-title": "Teoria simmetrica dell\u2019elettrone e del positrone",
+    "volume": "14",
+    "author": "Majorana",
+    "year": "1937",
+    "journal-title": "Nuovo Cimento"
+   },
+   {
+    "key": "ropaa6ac7bib112",
+    "doi-asserted-by": "publisher",
+    "first-page": "614",
+    "DOI": "10.1038/nphys1380",
+    "type": "journal-article",
+    "article-title": "Majorana returns",
+    "volume": "5",
+    "author": "Wilczek",
+    "year": "2009",
+    "journal-title": "Nat. Phys."
+   },
+   {
+    "key": "ropaa6ac7bib113",
+    "doi-asserted-by": "publisher",
+    "first-page": "268",
+    "DOI": "10.1103/PhysRevLett.86.268",
+    "type": "journal-article",
+    "article-title": "Non-abelian statistics of half-quantum vortices in p-wave superconductors",
+    "volume": "86",
+    "author": "Ivanov",
+    "year": "2001",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa6ac7bib114",
+    "doi-asserted-by": "publisher",
+    "first-page": "412",
+    "DOI": "10.1038/nphys1915",
+    "type": "journal-article",
+    "article-title": "Non-Abelian statistics and topological quantum information processing in 1D wire networks",
+    "volume": "7",
+    "author": "Alicea",
+    "year": "2011",
+    "journal-title": "Nat. Phys."
+   },
+   {
+    "key": "ropaa6ac7bib115",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.84.094505",
+    "type": "journal-article",
+    "article-title": "Controlling non-abelian statistics of Majorana fermions in semiconductor nanowires",
+    "volume": "84",
+    "author": "Sau",
+    "year": "2011",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa6ac7bib116",
+    "doi-asserted-by": "publisher",
+    "first-page": "1558",
+    "DOI": "10.3938/jkps.62.1558",
+    "type": "journal-article",
+    "article-title": "Engineering and manipulating topological qubits in 1d quantum wires",
+    "volume": "62",
+    "author": "Kotetes",
+    "year": "2013",
+    "journal-title": "J. Korean Phys. Soc."
+   },
+   {
+    "key": "ropaa6ac7bib117",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevA.82.052322",
+    "type": "journal-article",
+    "article-title": "Universal quantum computation in a semiconductor quantum wire network",
+    "volume": "82",
+    "author": "Sau",
+    "year": "2010",
+    "journal-title": "Phys. Rev. A"
+   },
+   {
+    "key": "ropaa6ac7bib118",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.85.144501",
+    "type": "journal-article",
+    "article-title": "Adiabatic manipulations of Majorana fermions in a three-dimensional network of quantum wires",
+    "volume": "85",
+    "author": "Halperin",
+    "year": "2012",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa6ac7bib119",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.88.035121",
+    "type": "journal-article",
+    "article-title": "Flux-controlled quantum computation with Majorana fermions",
+    "volume": "88",
+    "author": "Hyart",
+    "year": "2013",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa6ac7bib120",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevLett.111.203001",
+    "type": "journal-article",
+    "article-title": "Braiding of atomic Majorana fermions in wire networks and implementation of the Deutsch\u2013Jozsa algorithm",
+    "volume": "111",
+    "author": "Kraus",
+    "year": "2013",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa6ac7bib121",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.87.060504",
+    "type": "journal-article",
+    "article-title": "Manipulating Majorana fermions in quantum nanowires with broken inversion symmetry",
+    "volume": "87",
+    "author": "Liu",
+    "year": "2013",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa6ac7bib122",
+    "doi-asserted-by": "publisher",
+    "first-page": "10001",
+    "DOI": "10.1209/0295-5075/110/10001",
+    "type": "journal-article",
+    "article-title": "Majorana fermion exchange in strictly one-dimensional structures",
+    "volume": "110",
+    "author": "Chiu",
+    "year": "2015",
+    "journal-title": "Europhys. Lett."
+   },
+   {
+    "key": "ropaa6ac7bib123",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.91.174305",
+    "type": "journal-article",
+    "article-title": "Majorana braiding dynamics in nanowires",
+    "volume": "91",
+    "author": "Amorim",
+    "year": "2015",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa6ac7bib124",
+    "doi-asserted-by": "publisher",
+    "first-page": "2",
+    "DOI": "10.1016/S0003-4916(02)00018-0",
+    "type": "journal-article",
+    "article-title": "Fault-tolerant quantum computation by anyons",
+    "volume": "303",
+    "author": "Kitaev",
+    "year": "2003",
+    "journal-title": "Ann. Phys."
+   },
+   {
+    "key": "ropaa6ac7bib125",
+    "doi-asserted-by": "publisher",
+    "first-page": "1083",
+    "DOI": "10.1103/RevModPhys.80.1083",
+    "type": "journal-article",
+    "article-title": "Non-abelian anyons and topological quantum computation",
+    "volume": "80",
+    "author": "Nayak",
+    "year": "2008",
+    "journal-title": "Rev. Mod. Phys."
+   },
+   {
+    "key": "ropaa6ac7bib126",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevLett.103.235301",
+    "type": "journal-article",
+    "article-title": "Detecting the Majorana fermion surface state of 3He-B through spin relaxation",
+    "volume": "103",
+    "author": "Chung",
+    "year": "2009",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa6ac7bib127",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1143/JPSJ.78.123603",
+    "type": "journal-article",
+    "article-title": "Strong anisotropy in spin susceptibility of superfluid 3He-B film caused by surface bound states",
+    "volume": "78",
+    "author": "Nagato",
+    "year": "2009",
+    "journal-title": "J. Phys. Soc. Japan"
+   },
+   {
+    "key": "ropaa6ac7bib128",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.82.180505",
+    "type": "journal-article",
+    "article-title": "Quantum impurity spin in Majorana edge fermions",
+    "volume": "82",
+    "author": "Shindou",
+    "year": "2010",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa6ac7bib129",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.79.214526",
+    "type": "journal-article",
+    "article-title": "Topological properties of spin-triplet superconductors and fermi surface topology in the normal state",
+    "volume": "79",
+    "author": "Sato",
+    "year": "2009",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa6ac7bib130",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.81.220504",
+    "type": "journal-article",
+    "article-title": "Topological odd-parity superconductors",
+    "volume": "81",
+    "author": "Sato",
+    "year": "2010",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa6ac7bib131",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevLett.105.097001",
+    "type": "journal-article",
+    "article-title": "Odd-parity topological superconductors: theory and application to CuxBi2Se3",
+    "volume": "105",
+    "author": "Fu",
+    "year": "2010",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa6ac7bib132",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.90.184512",
+    "type": "journal-article",
+    "article-title": "Odd-parity superconductivity from phonon-mediated pairing: application to CuxBi2Se3",
+    "volume": "90",
+    "author": "Brydon",
+    "year": "2014",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa6ac7bib133",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.90.100509",
+    "type": "journal-article",
+    "article-title": "Odd-parity topological superconductor with nematic order: application to CuxBi2Se3",
+    "volume": "90",
+    "author": "Fu",
+    "year": "2014",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa6ac7bib134",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.7566/JPSJ.82.044704",
+    "type": "journal-article",
+    "article-title": "Bulk electronic state of superconducting topological insulator",
+    "volume": "82",
+    "author": "Hashimoto",
+    "year": "2013",
+    "journal-title": "J. Phys. Soc. Japan"
+   },
+   {
+    "key": "ropaa6ac7bib135",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1088/0953-2048/27/10/104002",
+    "type": "journal-article",
+    "article-title": "Effect of fermi surface evolution on superconducting gap in superconducting topological insulator",
+    "volume": "27",
+    "author": "Hashimoto",
+    "year": "2014",
+    "journal-title": "Supercond. Sci. Technol."
+   },
+   {
+    "key": "ropaa6ac7bib136",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.86.094507",
+    "type": "journal-article",
+    "article-title": "Rotational isotropy breaking as proof for spin-polarized Cooper pairs in the topological superconductor CuxBi2Se3",
+    "volume": "86",
+    "author": "Nagai",
+    "year": "2012",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa6ac7bib137",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.83.134516",
+    "type": "journal-article",
+    "article-title": "Surface spectral function in the superconducting state of a topological insulator",
+    "volume": "83",
+    "author": "Hao",
+    "year": "2011",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa6ac7bib138",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.85.180509",
+    "type": "journal-article",
+    "article-title": "Theory of tunneling conductance and surface-state transition in superconducting topological insulators",
+    "volume": "85",
+    "author": "Yamakage",
+    "year": "2012",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa6ac7bib139",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevLett.108.107005",
+    "type": "journal-article",
+    "article-title": "Majorana fermions and exotic surface Andreev bound states in topological superconductors: application to CuxBi2Se3",
+    "volume": "108",
+    "author": "Hsieh",
+    "year": "2012",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa6ac7bib140",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.7566/JPSJ.83.064705",
+    "type": "journal-article",
+    "article-title": "Quasi-classical theory of tunneling spectroscopy in superconducting topological insulator",
+    "volume": "83",
+    "author": "Takami",
+    "year": "2014",
+    "journal-title": "J. Phys. Soc. Japan"
+   },
+   {
+    "key": "ropaa6ac7bib141",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.90.184516",
+    "type": "journal-article",
+    "article-title": "Dirac-fermion-induced parity mixing in superconducting topological insulators",
+    "volume": "90",
+    "author": "Mizushima",
+    "year": "2014",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa6ac7bib142",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevLett.108.147003",
+    "type": "journal-article",
+    "article-title": "Topological superconductivity in bilayer Rashba system",
+    "volume": "108",
+    "author": "Nakosai",
+    "year": "2012",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa6ac7bib143",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.86.214514",
+    "type": "journal-article",
+    "article-title": "Superconductivity of doped Weyl semimetals: finite-momentum pairing and electronic analog of the 3He-A phase",
+    "volume": "86",
+    "author": "Cho",
+    "year": "2012",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa6ac7bib144",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.92.035153",
+    "type": "journal-article",
+    "article-title": "Superconductivity in Weyl metals",
+    "volume": "92",
+    "author": "Bednik",
+    "year": "2015",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa6ac7bib145",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.93.094517",
+    "type": "journal-article",
+    "article-title": "Superconductivity in doped inversion-symmetric Weyl semimetals",
+    "volume": "93",
+    "author": "Zhou",
+    "year": "2016",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa6ac7bib146",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevLett.90.057002",
+    "type": "journal-article",
+    "article-title": "Berry phase in magnetic superconductors",
+    "volume": "90",
+    "author": "Murakami",
+    "year": "2003",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa6ac7bib147",
+    "article-title": "Topological nodal Cooper pairing in doped Weyl metals",
+    "author": "Li",
+    "year": "2015",
+    "type": "preprint"
+   },
+   {
+    "key": "ropaa6ac7bib148",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevLett.115.187001",
+    "type": "journal-article",
+    "article-title": "Topological superconductivity in Dirac semimetals",
+    "volume": "115",
+    "author": "Kobayashi",
+    "year": "2015",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa6ac7bib149",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.94.014510",
+    "type": "journal-article",
+    "article-title": "Superconductivity in doped Dirac semimetals",
+    "volume": "94",
+    "author": "Hashimoto",
+    "year": "2016",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa6ac7bib150",
+    "doi-asserted-by": "publisher",
+    "first-page": "16014",
+    "DOI": "10.1038/npjquantmats.2016.14",
+    "type": "journal-article",
+    "article-title": "Pressure-induced superconductivity in the three-dimensional Dirac semimetal Cd3As2",
+    "volume": "1",
+    "author": "He",
+    "year": "2016",
+    "journal-title": "NPJ Quantum Mater."
+   },
+   {
+    "key": "ropaa6ac7bib151",
+    "doi-asserted-by": "publisher",
+    "first-page": "32",
+    "DOI": "10.1038/nmat4455",
+    "type": "journal-article",
+    "article-title": "Unconventional superconductivity at mesoscopic point contacts on the 3D Dirac semimetal Cd3As2",
+    "volume": "15",
+    "author": "Aggarwal",
+    "year": "2016",
+    "journal-title": "Nat. Mater."
+   },
+   {
+    "key": "ropaa6ac7bib152",
+    "doi-asserted-by": "publisher",
+    "first-page": "38",
+    "DOI": "10.1038/nmat4456",
+    "type": "journal-article",
+    "article-title": "Observation of superconductivity induced by a point contact on 3D Dirac semimetal Cd3As2 crystals",
+    "volume": "15",
+    "author": "Wang",
+    "year": "2016",
+    "journal-title": "Nat. Mater."
+   },
+   {
+    "key": "ropaa6ac7bib153",
+    "doi-asserted-by": "publisher",
+    "first-page": "362",
+    "DOI": "10.1016/0550-3213(91)90407-O",
+    "type": "journal-article",
+    "article-title": "Nonabelions in the fractional quantum Hall effect",
+    "volume": "360",
+    "author": "Moore",
+    "year": "1991",
+    "journal-title": "Nucl. Phys. B"
+   },
+   {
+    "key": "ropaa6ac7bib154",
+    "doi-asserted-by": "publisher",
+    "first-page": "2669",
+    "DOI": "10.1103/PhysRevD.24.2669",
+    "type": "journal-article",
+    "article-title": "Index calculations for the fermion-vortex system",
+    "volume": "24",
+    "author": "Weinberg",
+    "year": "1981",
+    "journal-title": "Phys. Rev. D"
+   },
+   {
+    "key": "ropaa6ac7bib155",
+    "doi-asserted-by": "publisher",
+    "first-page": "681",
+    "DOI": "10.1016/0550-3213(81)90044-4",
+    "type": "journal-article",
+    "article-title": "Zero modes of the vortex-fermion system",
+    "volume": "190",
+    "author": "Jackiw",
+    "year": "1981",
+    "journal-title": "Nucl. Phys. B"
+   },
+   {
+    "key": "ropaa6ac7bib156",
+    "doi-asserted-by": "publisher",
+    "first-page": "427",
+    "DOI": "10.1016/0550-3213(85)90489-4",
+    "type": "journal-article",
+    "article-title": "Anomalies and fermion zero modes on strings and domain walls",
+    "volume": "250",
+    "author": "Callan",
+    "year": "1985",
+    "journal-title": "Nucl. Phys. B"
+   },
+   {
+    "key": "ropaa6ac7bib157",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevLett.100.096407",
+    "type": "journal-article",
+    "article-title": "Superconducting proximity effect and Majorana fermions at the surface of a topological insulator",
+    "volume": "100",
+    "author": "Fu",
+    "year": "2008",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa6ac7bib158",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1143/JPSJ.79.033701",
+    "type": "journal-article",
+    "article-title": "Topological stability of Majorana zero modes in superconductor-topological insulator systems",
+    "volume": "79",
+    "author": "Fukui",
+    "year": "2010",
+    "journal-title": "J. Phys. Soc. Japan"
+   },
+   {
+    "key": "ropaa6ac7bib159",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.81.214516",
+    "type": "journal-article",
+    "article-title": "Majorana zero modes bound to a vortex line in a topological superconductor",
+    "volume": "81",
+    "author": "Fukui",
+    "year": "2010",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa6ac7bib160",
+    "doi-asserted-by": "publisher",
+    "first-page": "1652",
+    "DOI": "10.3390/ma7031652",
+    "type": "journal-article",
+    "article-title": "Topological defects in topological insulators and bound states at topological superconductor vortices",
+    "volume": "7",
+    "author": "Parente",
+    "year": "2014",
+    "journal-title": "Materials"
+   },
+   {
+    "key": "ropaa6ac7bib161",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevLett.103.020401",
+    "type": "journal-article",
+    "article-title": "Non-abelian topological order in s-wave superfluids of ultracold fermionic atoms",
+    "volume": "103",
+    "author": "Sato",
+    "year": "2009",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa6ac7bib162",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.82.134521",
+    "type": "journal-article",
+    "article-title": "Non-abelian topological orders and Majorana fermions in spin-singlet superconductors",
+    "volume": "82",
+    "author": "Sato",
+    "year": "2010",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa6ac7bib163",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevLett.104.040502",
+    "type": "journal-article",
+    "article-title": "Generic new platform for topological quantum computation using semiconductor heterostructures",
+    "volume": "104",
+    "author": "Sau",
+    "year": "2010",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa6ac7bib164",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevLett.105.077001",
+    "type": "journal-article",
+    "article-title": "Majorana fermions and a topological phase transition in semiconductor-superconductor heterostructures",
+    "volume": "105",
+    "author": "Lutchyn",
+    "year": "2010",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa6ac7bib165",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevLett.105.177002",
+    "type": "journal-article",
+    "article-title": "Helical liquids and Majorana bound states in quantum wires",
+    "volume": "105",
+    "author": "Oreg",
+    "year": "2010",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa6ac7bib166",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevLett.104.067001",
+    "type": "journal-article",
+    "article-title": "Unconventional superconductivity on a topological insulator",
+    "volume": "104",
+    "author": "Linder",
+    "year": "2010",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa6ac7bib167",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.94.054519",
+    "type": "journal-article",
+    "article-title": "Paramagnetically induced gapful topological superconductors",
+    "volume": "94",
+    "author": "Daido",
+    "year": "2016",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa6ac7bib168",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.86.184516",
+    "type": "journal-article",
+    "article-title": "Majorana kramers doublets in dx2\u2212y2-wave superconductors with Rashba spin\u2013orbit coupling",
+    "volume": "86",
+    "author": "Wong",
+    "year": "2012",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa6ac7bib169",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevLett.109.197001",
+    "type": "journal-article",
+    "article-title": "Edge properties and Majorana fermions in the proposed chiral d-wave superconducting state of doped graphene",
+    "volume": "109",
+    "author": "Black-Schaffer",
+    "year": "2012",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa6ac7bib170",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.87.214517",
+    "type": "journal-article",
+    "article-title": "Topological superconductivity without proximity effect",
+    "volume": "87",
+    "author": "Farrell",
+    "year": "2013",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa6ac7bib171",
+    "doi-asserted-by": "publisher",
+    "first-page": "24102",
+    "DOI": "10.1038/srep24102",
+    "type": "journal-article",
+    "article-title": "Helical Majorana fermions in dx2\u2212y2+idxy-wave topological superconductivity of doped correlated quantum spin Hall insulators",
+    "volume": "6",
+    "author": "Sun",
+    "year": "2016",
+    "journal-title": "Sci. Rep."
+   },
+   {
+    "key": "ropaa6ac7bib172",
+    "doi-asserted-by": "publisher",
+    "first-page": "1142",
+    "DOI": "10.1103/PhysRevB.55.1142",
+    "type": "journal-article",
+    "article-title": "Nonstandard symmetry classes in mesoscopic normal-superconducting hybrid structures",
+    "volume": "55",
+    "author": "Altland",
+    "year": "1997",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa6ac7bib173",
+    "doi-asserted-by": "publisher",
+    "first-page": "532",
+    "DOI": "10.1038/372532a0",
+    "type": "journal-article",
+    "article-title": "Superconductivity in a layered perovskite without copper",
+    "volume": "372",
+    "author": "Maeno",
+    "year": "1994",
+    "journal-title": "Nature"
+   },
+   {
+    "key": "ropaa6ac7bib174",
+    "doi-asserted-by": "publisher",
+    "first-page": "L643",
+    "DOI": "10.1088/0953-8984/7/47/002",
+    "type": "journal-article",
+    "article-title": "Sr2 RuO4: an electronic analogue of 3He?",
+    "volume": "7",
+    "author": "Rice",
+    "year": "1995",
+    "journal-title": "J. Phys.: Condens. Matter."
+   },
+   {
+    "key": "ropaa6ac7bib175",
+    "doi-asserted-by": "publisher",
+    "first-page": "658",
+    "DOI": "10.1038/25315",
+    "type": "journal-article",
+    "article-title": "Spin-triplet superconductivity in Sr2RuO4 identified by 17O knight shift",
+    "volume": "396",
+    "author": "Ishida",
+    "year": "1998",
+    "journal-title": "Nature"
+   },
+   {
+    "key": "ropaa6ac7bib176",
+    "doi-asserted-by": "publisher",
+    "first-page": "558",
+    "DOI": "10.1038/29038",
+    "type": "journal-article",
+    "article-title": "Time-reversal symmetry-breaking superconductivity in Sr2RuO4",
+    "volume": "394",
+    "author": "Luke",
+    "year": "1998",
+    "journal-title": "Nature"
+   },
+   {
+    "key": "ropaa6ac7bib177",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1088/0034-4885/79/5/054502",
+    "type": "journal-article",
+    "article-title": "Chiral superconductors",
+    "volume": "79",
+    "author": "Catherine",
+    "year": "2016",
+    "journal-title": "Rep. Prog. Phys."
+   },
+   {
+    "key": "ropaa6ac7bib178",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1143/JPSJ.81.011009",
+    "type": "journal-article",
+    "article-title": "Evaluation of spin-triplet superconductivity in Sr2RuO4",
+    "volume": "81",
+    "author": "Maeno",
+    "year": "2012",
+    "journal-title": "J. Phys. Soc. Japan"
+   },
+   {
+    "key": "ropaa6ac7bib179",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevLett.107.077003",
+    "type": "journal-article",
+    "article-title": "Edge states of Sr2RuO4 detected by in-plane tunneling spectroscopy",
+    "volume": "107",
+    "author": "Kashiwaya",
+    "year": "2011",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa6ac7bib180",
+    "doi-asserted-by": "publisher",
+    "first-page": "7847",
+    "DOI": "10.1103/PhysRevB.56.7847",
+    "type": "journal-article",
+    "article-title": "Theory of tunneling spectroscopy in superconducting Sr2RuO4",
+    "volume": "56",
+    "author": "Yamashiro",
+    "year": "1997",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa6ac7bib181",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.64.054514",
+    "type": "journal-article",
+    "article-title": "Spontaneous Hall effect in a chiral p-wave superconductor",
+    "volume": "64",
+    "author": "Furusaki",
+    "year": "2001",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa6ac7bib182",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.69.184511",
+    "type": "journal-article",
+    "article-title": "Edge modes, edge currents and gauge invariance in px+ipy superfluids and superconductors",
+    "volume": "69",
+    "author": "Stone",
+    "year": "2004",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa6ac7bib183",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.7566/JPSJ.83.074706",
+    "type": "journal-article",
+    "article-title": "Microscopic theory of tunneling spectroscopy in Sr2RuO4",
+    "volume": "83",
+    "author": "Yada",
+    "year": "2014",
+    "journal-title": "J. Phys. Soc. Japan"
+   },
+   {
+    "key": "ropaa6ac7bib184",
+    "doi-asserted-by": "publisher",
+    "first-page": "657",
+    "DOI": "10.1103/RevModPhys.75.657",
+    "type": "journal-article",
+    "article-title": "The superconductivity of Sr2RuO4 and the physics of spin-triplet pairing",
+    "volume": "75",
+    "author": "Mackenzie",
+    "year": "2003",
+    "journal-title": "Rev. Mod. Phys."
+   },
+   {
+    "key": "ropaa6ac7bib185",
+    "doi-asserted-by": "publisher",
+    "first-page": "186",
+    "DOI": "10.1126/science.1193839",
+    "type": "journal-article",
+    "article-title": "Observation of half-height magnetization steps in Sr2RuO4",
+    "volume": "331",
+    "author": "Jang",
+    "year": "2011",
+    "journal-title": "Science"
+   },
+   {
+    "key": "ropaa6ac7bib186",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevLett.98.010506",
+    "type": "journal-article",
+    "article-title": "Quantum computation using vortices and Majorana zero modes of a px+ipy superfluid of fermionic cold atoms",
+    "volume": "98",
+    "author": "Tewari",
+    "year": "2007",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa6ac7bib187",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevLett.104.057001",
+    "type": "journal-article",
+    "article-title": "Superconductivity in CuxBi2Se3 and its implications for pairing in the undoped topological insulator",
+    "volume": "104",
+    "author": "Hor",
+    "year": "2010",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa6ac7bib188",
+    "doi-asserted-by": "publisher",
+    "first-page": "855",
+    "DOI": "10.1038/nphys1762",
+    "type": "journal-article",
+    "article-title": "Observation of topological order in a superconducting doped topological insulator",
+    "volume": "6",
+    "author": "Wray",
+    "year": "2010",
+    "journal-title": "Nat. Phys."
+   },
+   {
+    "key": "ropaa6ac7bib189",
+    "doi-asserted-by": "publisher",
+    "first-page": "361",
+    "DOI": "10.1146/annurev-conmatphys-031214-014501",
+    "type": "journal-article",
+    "article-title": "Topological crystalline insulators and topological superconductors: from concepts to materials",
+    "volume": "6",
+    "author": "Ando",
+    "year": "2015",
+    "journal-title": "Annu. Rev. Condens. Matter Phys."
+   },
+   {
+    "key": "ropaa6ac7bib190",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.84.054513",
+    "type": "journal-article",
+    "article-title": "Electrochemical synthesis and superconducting phase diagram of CuxBi2Se3",
+    "volume": "84",
+    "author": "Kriener",
+    "year": "2011",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa6ac7bib191",
+    "doi-asserted-by": "publisher",
+    "first-page": "852",
+    "DOI": "10.1038/nphys3781",
+    "type": "journal-article",
+    "article-title": "Spin-rotation symmetry breaking in the superconducting state of CuxBi2Se3",
+    "volume": "12",
+    "author": "Matano",
+    "year": "2016",
+    "journal-title": "Nat. Phys."
+   },
+   {
+    "key": "ropaa6ac7bib192",
+    "doi-asserted-by": "publisher",
+    "first-page": "123",
+    "DOI": "10.1038/nphys3907",
+    "type": "journal-article",
+    "article-title": "Thermodynamic evidence for nematic superconductivity in CuxBi2Se3",
+    "volume": "13",
+    "author": "Yonezawa",
+    "year": "2017",
+    "journal-title": "Nat. Phys."
+   },
+   {
+    "key": "ropaa6ac7bib193",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevLett.106.127004",
+    "type": "journal-article",
+    "article-title": "Bulk superconducting phase with a full energy gap in the doped topological insulator CuxBi2Se3",
+    "volume": "106",
+    "author": "Kriener",
+    "year": "2011",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa6ac7bib194",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevLett.110.117001",
+    "type": "journal-article",
+    "article-title": "Experimental evidence for s-wave pairing symmetry in superconducting CuxBi2Se3 single crystals using a scanning tunneling microscope",
+    "volume": "110",
+    "author": "Levy",
+    "year": "2013",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa6ac7bib195",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.88.195107",
+    "type": "journal-article",
+    "article-title": "Evolution of the fermi surface of a doped topological insulator with carrier concentration",
+    "volume": "88",
+    "author": "Lahoud",
+    "year": "2013",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa6ac7bib196",
+    "doi-asserted-by": "publisher",
+    "first-page": "10512",
+    "DOI": "10.1021/jacs.5b06815",
+    "type": "journal-article",
+    "article-title": "Superconductivity with topological surface state in SrxBi2Se3",
+    "volume": "137",
+    "author": "Liu",
+    "year": "2015",
+    "journal-title": "J. Am. Chem. Soc."
+   },
+   {
+    "key": "ropaa6ac7bib197",
+    "doi-asserted-by": "publisher",
+    "first-page": "28632",
+    "DOI": "10.1038/srep28632",
+    "type": "journal-article",
+    "article-title": "Rotational symmetry breaking in the topological superconductor SrxBi2Se3 probed by upper-critical field experiments",
+    "volume": "6",
+    "author": "Pan",
+    "year": "2016",
+    "journal-title": "Sci. Rep."
+   },
+   {
+    "key": "ropaa6ac7bib198",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.94.144516",
+    "type": "journal-article",
+    "article-title": "High-pressure study of the basal-plane anisotropy of the upper critical field of the topological superconductor SrxBi2Se3",
+    "volume": "94",
+    "author": "Nikitin",
+    "year": "2016",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa6ac7bib199",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1007/s11433-016-0499-x",
+    "type": "journal-article",
+    "article-title": "Superconductivity with two-fold symmetry in topological superconductor SrxBi2Se3",
+    "volume": "60",
+    "author": "Du",
+    "year": "2017",
+    "journal-title": "Sci. China\u2014Phys. Mech. Astron."
+   },
+   {
+    "key": "ropaa6ac7bib200",
+    "article-title": "Time reversal symmetry breaking superconductivity in topological materials",
+    "author": "Qiu",
+    "year": "2015",
+    "type": "preprint"
+   },
+   {
+    "key": "ropaa6ac7bib201",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevX.7.011009",
+    "type": "journal-article",
+    "article-title": "Rotational symmetry breaking in a trigonal superconductor nb-doped Bi2Se3",
+    "volume": "7",
+    "author": "Asaba",
+    "year": "2017",
+    "journal-title": "Phys. Rev. X"
+   },
+   {
+    "key": "ropaa6ac7bib202",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.88.140502",
+    "type": "journal-article",
+    "article-title": "Unusual nature of fully gapped superconductivity in In-doped SnTe",
+    "volume": "88",
+    "author": "Novak",
+    "year": "2013",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa6ac7bib203",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.79.024520",
+    "type": "journal-article",
+    "article-title": "Enhanced superconducting pairing interaction in indium-doped tin telluride",
+    "volume": "79",
+    "author": "Erickson",
+    "year": "2009",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa6ac7bib204",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.88.020505",
+    "type": "journal-article",
+    "article-title": "Optimizing the superconducting transition temperature and upper critical field of Sn1\u2212xInxTe",
+    "volume": "88",
+    "author": "Zhong",
+    "year": "2013",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa6ac7bib205",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevLett.109.217004",
+    "type": "journal-article",
+    "article-title": "Odd-parity pairing and topological superconductivity in a strongly spin\u2013orbit coupled semiconductor",
+    "volume": "109",
+    "author": "Sasaki",
+    "year": "2012",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa6ac7bib206",
+    "doi-asserted-by": "publisher",
+    "first-page": "14650",
+    "DOI": "10.1103/PhysRevB.56.14650",
+    "type": "journal-article",
+    "article-title": "Local pairing at u impurities in bcs superconductors can enhance Tc",
+    "volume": "56",
+    "author": "Martin",
+    "year": "1997",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa6ac7bib207",
+    "doi-asserted-by": "publisher",
+    "first-page": "2748",
+    "DOI": "10.1021/acs.cgd.5b00058",
+    "type": "journal-article",
+    "article-title": "Superconducting Sn1\u2212xInxTe nanoplates",
+    "volume": "15",
+    "author": "Sasaki",
+    "year": "2015",
+    "journal-title": "Cryst. Growth Des."
+   },
+   {
+    "key": "ropaa6ac7bib208",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevLett.110.206804",
+    "type": "journal-article",
+    "article-title": "Fermiology of the strongly spin\u2013orbit coupled superconductor Sn1\u2212xInxTe: implications for topological superconductivity",
+    "volume": "110",
+    "author": "Sato",
+    "year": "2013",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa6ac7bib209",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.88.235126",
+    "type": "journal-article",
+    "article-title": "Two types of Dirac-cone surface states on the (1\u20091\u20091) surface of the topological crystalline insulator SnTe",
+    "volume": "88",
+    "author": "Tanaka",
+    "year": "2013",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa6ac7bib210",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevLett.112.106401",
+    "type": "journal-article",
+    "article-title": "New class of topological superconductors protected by magnetic group symmetries",
+    "volume": "112",
+    "author": "Fang",
+    "year": "2014",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa6ac7bib211",
+    "first-page": "484",
+    "type": "journal-article",
+    "article-title": "Sverkhprovodimost soedinenii sistemy Bi-Pd",
+    "volume": "23",
+    "author": "Alekseevskii",
+    "year": "1952",
+    "journal-title": "Zh. Eksp. Teor. Fiz."
+   },
+   {
+    "key": "ropaa6ac7bib212",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.93.174504",
+    "type": "journal-article",
+    "article-title": "Upper critical field of the noncentrosymmetric superconductor BiPd",
+    "volume": "93",
+    "author": "Peets",
+    "year": "2016",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa6ac7bib213",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevLett.92.027003",
+    "type": "journal-article",
+    "article-title": "Heavy fermion superconductivity and magnetic order in noncentrosymmetric CePt3Si",
+    "volume": "92",
+    "author": "Bauer",
+    "year": "2004",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa6ac7bib214",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1143/JPSJ.76.051009",
+    "type": "journal-article",
+    "article-title": "Heavy fermion superconductivity and antiferromagnetic ordering in CePt3Si without inversion symmetry",
+    "volume": "76",
+    "author": "Bauer",
+    "year": "2007",
+    "journal-title": "J. Phys. Soc. Japan"
+   },
+   {
+    "key": "ropaa6ac7bib215",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1143/JPSJ.76.051008",
+    "type": "journal-article",
+    "article-title": "Electron correlation and pairing states in superconductors without inversion symmetry",
+    "volume": "76",
+    "author": "Fujimoto",
+    "year": "2007",
+    "journal-title": "J. Phys. Soc. Japan"
+   },
+   {
+    "key": "ropaa6ac7bib216",
+    "doi-asserted-by": "publisher",
+    "first-page": "1014",
+    "DOI": "10.1143/JPSJ.74.1014",
+    "type": "journal-article",
+    "article-title": "Superconductivity in a new pseudo-binary Li2B(Pd1\u2212xPtx)3 (x\u2009\u2009=\u2009\u20090\u20131) boride system",
+    "volume": "74",
+    "author": "Badica",
+    "year": "2005",
+    "journal-title": "J. Phys. Soc. Japan"
+   },
+   {
+    "key": "ropaa6ac7bib217",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevLett.98.047002",
+    "type": "journal-article",
+    "article-title": "Spin triplet superconducting state due to broken inversion symmetry in li2pt3B",
+    "volume": "98",
+    "author": "Nishiyama",
+    "year": "2007",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa6ac7bib218",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.7566/JPSJ.83.032001",
+    "type": "journal-article",
+    "article-title": "Field-induced superconductivity in electric double layer transistors",
+    "volume": "83",
+    "author": "Ueno",
+    "year": "2014",
+    "journal-title": "J. Phys. Soc. Japan"
+   },
+   {
+    "key": "ropaa6ac7bib219",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.90.220504",
+    "type": "journal-article",
+    "article-title": "Superconductor derived from a topological insulator heterostructure",
+    "volume": "90",
+    "author": "Sasaki",
+    "year": "2014",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa6ac7bib220",
+    "doi-asserted-by": "publisher",
+    "first-page": "359",
+    "DOI": "10.1021/ar040176w",
+    "type": "journal-article",
+    "article-title": "Structural evolution and phase homologies for design and prediction of solid-state compounds",
+    "volume": "38",
+    "author": "Kanatzidis",
+    "year": "2004",
+    "journal-title": "Acc. Chem. Res."
+   },
+   {
+    "key": "ropaa6ac7bib221",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevLett.109.236804",
+    "type": "journal-article",
+    "article-title": "Manipulation of topological states and the bulk band gap using natural heterostructures of a topological insulator",
+    "volume": "109",
+    "author": "Nakayama",
+    "year": "2012",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa6ac7bib222",
+    "doi-asserted-by": "publisher",
+    "first-page": "196",
+    "DOI": "10.1016/j.jssc.2014.09.034",
+    "type": "journal-article",
+    "article-title": "Pb5bi24se41: a new member of the homologous series forming topological insulator heterostructures",
+    "volume": "221",
+    "author": "Segawa",
+    "year": "2015",
+    "journal-title": "J. Solid State Chem."
+   },
+   {
+    "key": "ropaa6ac7bib223",
+    "doi-asserted-by": "publisher",
+    "first-page": "3908",
+    "DOI": "10.1103/PhysRevB.29.3908",
+    "type": "journal-article",
+    "article-title": "High-field specific heats of A15 V3Si and Nb3Sn",
+    "volume": "29",
+    "author": "Stewart",
+    "year": "1984",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa6ac7bib224",
+    "doi-asserted-by": "publisher",
+    "first-page": "235",
+    "DOI": "10.1103/RevModPhys.74.235",
+    "type": "journal-article",
+    "article-title": "The superconducting phases of UPt3",
+    "volume": "74",
+    "author": "Joynt",
+    "year": "2002",
+    "journal-title": "Rev. Mod. Phys."
+   },
+   {
+    "key": "ropaa6ac7bib225",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevLett.108.157002",
+    "type": "journal-article",
+    "article-title": "Twofold spontaneous symmetry breaking in the heavy-fermion superconductor upt3",
+    "volume": "108",
+    "author": "Machida",
+    "year": "2012",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa6ac7bib226",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.94.174502",
+    "type": "journal-article",
+    "article-title": "Nonsymmorphic Weyl superconductivity in upt3 based on E2u representation",
+    "volume": "94",
+    "author": "Yanase",
+    "year": "2016",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa6ac7bib227",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.84.220504",
+    "type": "journal-article",
+    "article-title": "Superconductivity in the topological semimetal yptbi",
+    "volume": "84",
+    "author": "Butch",
+    "year": "2011",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa6ac7bib228",
+    "article-title": "Beyond spin-triplet: nodal topological superconductivity in a noncentrosymmetric semimetal",
+    "author": "Kim",
+    "year": "2016",
+    "type": "preprint"
+   },
+   {
+    "key": "ropaa6ac7bib229",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevLett.116.137001",
+    "type": "journal-article",
+    "article-title": "Unconventional superconductivity in YPtBi and related topological semimetals",
+    "volume": "116",
+    "author": "Meinert",
+    "year": "2016",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa6ac7bib230",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevLett.116.177001",
+    "type": "journal-article",
+    "article-title": "Pairing of j\u2009\u2009=\u2009\u20093/2 fermions in half-heusler superconductors",
+    "volume": "116",
+    "author": "Brydon",
+    "year": "2016",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa6ac7bib231",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.81.125318",
+    "type": "journal-article",
+    "article-title": "Majorana fermions in a tunable semiconductor device",
+    "volume": "81",
+    "author": "Alicea",
+    "year": "2010",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa6ac7bib232",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevLett.109.056803",
+    "type": "journal-article",
+    "article-title": "Unconventional Josephson effect in hybrid superconductor-topological insulator devices",
+    "volume": "109",
+    "author": "Williams",
+    "year": "2012",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa6ac7bib233",
+    "doi-asserted-by": "publisher",
+    "first-page": "52",
+    "DOI": "10.1126/science.1216466",
+    "type": "journal-article",
+    "article-title": "The coexistence of superconductivity and topological order in the Bi2Se3 thin films",
+    "volume": "336",
+    "author": "Wang",
+    "year": "2012",
+    "journal-title": "Science"
+   },
+   {
+    "key": "ropaa6ac7bib234",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.86.134504",
+    "type": "journal-article",
+    "article-title": "Proximity-effect-induced superconducting phase in the topological insulator Bi2Se3",
+    "volume": "86",
+    "author": "Yang",
+    "year": "2012",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa6ac7bib235",
+    "doi-asserted-by": "publisher",
+    "first-page": "621",
+    "DOI": "10.1038/nphys2744",
+    "type": "journal-article",
+    "article-title": "Fully gapped topological surface states in Bi2Se3 films induced by a d-wave high-temperature superconductor",
+    "volume": "9",
+    "author": "Wang",
+    "year": "2013",
+    "journal-title": "Nat. Phys."
+   },
+   {
+    "key": "ropaa6ac7bib236",
+    "doi-asserted-by": "publisher",
+    "first-page": "1689",
+    "DOI": "10.1038/ncomms2701",
+    "type": "journal-article",
+    "article-title": "Symmetry protected Josephson supercurrents in three-dimensional topological insulators",
+    "volume": "4",
+    "author": "Cho",
+    "year": "2013",
+    "journal-title": "Nat. Commun."
+   },
+   {
+    "key": "ropaa6ac7bib237",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevX.3.021007",
+    "type": "journal-article",
+    "article-title": "Josephson supercurrent through the topological surface states of strained bulk hgte",
+    "volume": "3",
+    "author": "Oostinga",
+    "year": "2013",
+    "journal-title": "Phys. Rev. X"
+   },
+   {
+    "key": "ropaa6ac7bib238",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevX.4.041022",
+    "type": "journal-article",
+    "article-title": "Phase coherence and Andreev reflection in topological insulator devices",
+    "volume": "4",
+    "author": "Finck",
+    "year": "2014",
+    "journal-title": "Phys. Rev. X"
+   },
+   {
+    "key": "ropaa6ac7bib239",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1088/0953-2048/27/10/104001",
+    "type": "journal-article",
+    "article-title": "Josephson supercurrent in a topological insulator without a bulk shunt",
+    "volume": "27",
+    "author": "Snelder",
+    "year": "2014",
+    "journal-title": "Supercond. Sci. Technol."
+   },
+   {
+    "key": "ropaa6ac7bib240",
+    "doi-asserted-by": "publisher",
+    "first-page": "10303",
+    "DOI": "10.1038/ncomms10303",
+    "type": "journal-article",
+    "article-title": "4\u03c0-periodic Josephson supercurrent in hgte-based topological Josephson junctions",
+    "volume": "7",
+    "author": "Wiedenmann",
+    "year": "2016",
+    "journal-title": "Nat. Commun."
+   },
+   {
+    "key": "ropaa6ac7bib241",
+    "doi-asserted-by": "publisher",
+    "first-page": "638",
+    "DOI": "10.1038/nphys3036",
+    "type": "journal-article",
+    "article-title": "Induced superconductivity in the quantum spin Hall edge",
+    "volume": "10",
+    "author": "Hart",
+    "year": "2014",
+    "journal-title": "Nat. Phys."
+   },
+   {
+    "key": "ropaa6ac7bib242",
+    "article-title": "Josephson radiation from gapless Andreev bound states in HgTe-based topological junctions",
+    "author": "Deacon",
+    "year": "2016",
+    "type": "preprint"
+   },
+   {
+    "key": "ropaa6ac7bib243",
+    "doi-asserted-by": "publisher",
+    "first-page": "1003",
+    "DOI": "10.1126/science.1222360",
+    "type": "journal-article",
+    "article-title": "Signatures of Majorana fermions in hybrid superconductor-semiconductor nanowire devices",
+    "volume": "336",
+    "author": "Mourik",
+    "year": "2012",
+    "journal-title": "Science"
+   },
+   {
+    "key": "ropaa6ac7bib244",
+    "doi-asserted-by": "publisher",
+    "first-page": "887",
+    "DOI": "10.1038/nphys2479",
+    "type": "journal-article",
+    "article-title": "Zero-bias peaks and splitting in an Al-InAs nanowire topological superconductor as a signature of Majorana fermions",
+    "volume": "8",
+    "author": "Das",
+    "year": "2012",
+    "journal-title": "Nat. Phys."
+   },
+   {
+    "key": "ropaa6ac7bib245",
+    "doi-asserted-by": "publisher",
+    "first-page": "6414",
+    "DOI": "10.1021/nl303758w",
+    "type": "journal-article",
+    "article-title": "Anomalous zero-bias conductance peak in a Nb-InSb nanowire\u2014Nb hybrid device",
+    "volume": "12",
+    "author": "Deng",
+    "year": "2012",
+    "journal-title": "Nano Lett."
+   },
+   {
+    "key": "ropaa6ac7bib246",
+    "doi-asserted-by": "publisher",
+    "first-page": "79",
+    "DOI": "10.1038/nnano.2013.267",
+    "type": "journal-article",
+    "article-title": "Spin-resolved Andreev levels and parity crossings in hybrid superconductor-semiconductor nanostructures",
+    "volume": "9",
+    "author": "Lee",
+    "year": "2014",
+    "journal-title": "Nat. Nanotechnol."
+   },
+   {
+    "key": "ropaa6ac7bib247",
+    "doi-asserted-by": "publisher",
+    "first-page": "206",
+    "DOI": "10.1038/nature17162",
+    "type": "journal-article",
+    "article-title": "Exponential protection of zero modes in Majorana islands",
+    "volume": "531",
+    "author": "Albrecht",
+    "year": "2016",
+    "journal-title": "Nature"
+   },
+   {
+    "key": "ropaa6ac7bib248",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.88.020407",
+    "type": "journal-article",
+    "article-title": "Proposal for realizing Majorana fermions in chains of magnetic atoms on a superconductor",
+    "volume": "88",
+    "author": "Nadj-Perge",
+    "year": "2013",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa6ac7bib249",
+    "doi-asserted-by": "publisher",
+    "first-page": "602",
+    "DOI": "10.1126/science.1259327",
+    "type": "journal-article",
+    "article-title": "Observation of Majorana fermions in ferromagnetic atomic chains on a superconductor",
+    "volume": "346",
+    "author": "Nadj-Perge",
+    "year": "2014",
+    "journal-title": "Science"
+   },
+   {
+    "key": "ropaa6ac7bib250",
+    "doi-asserted-by": "publisher",
+    "first-page": "158",
+    "DOI": "10.1038/nphys2208",
+    "type": "journal-article",
+    "article-title": "Chiral superconductivity from repulsive interactions in doped graphene",
+    "volume": "8",
+    "author": "Nandkishore",
+    "year": "2012",
+    "journal-title": "Nat. Phys."
+   },
+   {
+    "key": "ropaa6ac7bib251",
+    "doi-asserted-by": "publisher",
+    "first-page": "4515",
+    "DOI": "10.1103/PhysRevB.25.4515",
+    "type": "journal-article",
+    "article-title": "Transition from metallic to tunneling regimes in superconducting microconstrictions: excess current, charge imbalance and supercurrent conversion",
+    "volume": "25",
+    "author": "Blonder",
+    "year": "1982",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa6ac7bib252",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevLett.103.237001",
+    "type": "journal-article",
+    "article-title": "Majorana fermion induced resonant Andreev reflection",
+    "volume": "103",
+    "author": "Law",
+    "year": "2009",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa6ac7bib253",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.82.180516",
+    "type": "journal-article",
+    "article-title": "Tunneling characteristics of a chain of Majorana bound states",
+    "volume": "82",
+    "author": "Flensberg",
+    "year": "2010",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa6ac7bib254",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1088/1367-2630/15/5/055011",
+    "type": "journal-article",
+    "article-title": "Tunneling conductance due to a discrete spectrum of Andreev states",
+    "volume": "15",
+    "author": "Ioselevich",
+    "year": "2013",
+    "journal-title": "New J. Phys."
+   },
+   {
+    "key": "ropaa6ac7bib255",
+    "doi-asserted-by": "publisher",
+    "first-page": "13",
+    "DOI": "10.1016/j.physe.2013.08.030",
+    "type": "journal-article",
+    "article-title": "Interference of Majorana fermions in NS junctions",
+    "volume": "55",
+    "author": "Yamakage",
+    "year": "2014",
+    "journal-title": "Physica E"
+   },
+   {
+    "key": "ropaa6ac7bib256",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevLett.103.107002",
+    "type": "journal-article",
+    "article-title": "Manipulation of the Majorana fermion, Andreev reflection and Josephson current on topological insulators",
+    "volume": "103",
+    "author": "Tanaka",
+    "year": "2009",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa6ac7bib257",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.68.184506",
+    "type": "journal-article",
+    "article-title": "A theoretical study of tunneling conductance in PrOs4Sb12 superconducting junctions",
+    "volume": "68",
+    "author": "Asano",
+    "year": "2003",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa6ac7bib258",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.84.014527",
+    "type": "journal-article",
+    "article-title": "Topological field theory and thermal responses of interacting topological superconductors",
+    "volume": "84",
+    "author": "Wang",
+    "year": "2011",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa6ac7bib259",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevLett.108.026802",
+    "type": "journal-article",
+    "article-title": "Cross-correlated responses of topological superconductors and superfluids",
+    "volume": "108",
+    "author": "Nomura",
+    "year": "2012",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa6ac7bib260",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevLett.110.076804",
+    "type": "journal-article",
+    "article-title": "Electromagnetic and thermal responses of Z topological insulators and superconductors in odd spatial dimensions",
+    "volume": "110",
+    "author": "Shiozaki",
+    "year": "2013",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa6ac7bib261",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.88.214514",
+    "type": "journal-article",
+    "article-title": "Time-reversal anomaly and Josephson effect in time-reversal-invariant topological superconductors",
+    "volume": "88",
+    "author": "Chung",
+    "year": "2013",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa6ac7bib262",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.93.220507",
+    "type": "journal-article",
+    "article-title": "Signatures of topological phase transitions in Josephson current-phase discontinuities",
+    "volume": "93",
+    "author": "Marra",
+    "year": "2016",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa6ac7bib263",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.87.100510",
+    "type": "journal-article",
+    "article-title": "Anomalous Josephson current in superconducting topological insulator",
+    "volume": "87",
+    "author": "Yamakage",
+    "year": "2013",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa6ac7bib264",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.87.104513",
+    "type": "journal-article",
+    "article-title": "Majorana fermions and odd-frequency Cooper pairs in a normal-metal nanowire proximity-coupled to a topological superconductor",
+    "volume": "87",
+    "author": "Asano",
+    "year": "2013",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa6ac7bib265",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.70.012507",
+    "type": "journal-article",
+    "article-title": "Anomalous charge transport in triplet superconductor junctions",
+    "volume": "70",
+    "author": "Tanaka",
+    "year": "2004",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa6ac7bib266",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.71.094513",
+    "type": "journal-article",
+    "article-title": "Theory of enhanced proximity effect by midgap Andreev resonant state in diffusive normal-metal/triplet superconductor junctions",
+    "volume": "71",
+    "author": "Tanaka",
+    "year": "2005",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa6ac7bib267",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.72.140503",
+    "type": "journal-article",
+    "article-title": "Anomalous features of the proximity effect in triplet superconductors",
+    "volume": "72",
+    "author": "Tanaka",
+    "year": "2005",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa6ac7bib268",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevLett.99.037005",
+    "type": "journal-article",
+    "article-title": "Anomalous Josephson effect between even- and odd-frequency superconductors",
+    "volume": "99",
+    "author": "Tanaka",
+    "year": "2007",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa6ac7bib269",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.91.174511",
+    "type": "journal-article",
+    "article-title": "Anomalous proximity effect and theoretical design for its realization",
+    "volume": "91",
+    "author": "Ikegaya",
+    "year": "2015",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa6ac7bib270",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevX.6.031016",
+    "type": "preprint",
+    "article-title": "Milestones toward Majorana-based quantum computing",
+    "volume": "6",
+    "author": "Aasen",
+    "year": "2016"
+   },
+   {
+    "key": "ropaa6ac7bib271",
+    "first-page": "43",
+    "type": "journal-article",
+    "article-title": "Quantum codes on a lattice with boundary",
+    "volume": "2",
+    "author": "Bravyi",
+    "year": "2011",
+    "journal-title": "Quantum Comput. Comput."
+   },
+   {
+    "key": "ropaa6ac7bib272",
+    "doi-asserted-by": "publisher",
+    "first-page": "325",
+    "DOI": "10.1007/s102080010013",
+    "type": "journal-article",
+    "article-title": "Projective plane and planar quantum codes",
+    "volume": "1",
+    "author": "Freedman",
+    "year": "2001",
+    "journal-title": "Found. Comput. Math."
+   },
+   {
+    "key": "ropaa6ac7bib273",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevX.5.041038",
+    "type": "journal-article",
+    "article-title": "Majorana fermion surface code for universal quantum computation",
+    "volume": "5",
+    "author": "Vijay",
+    "year": "2015",
+    "journal-title": "Phys. Rev. X"
+   },
+   {
+    "key": "ropaa6ac7bib274",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevLett.116.050501",
+    "type": "journal-article",
+    "article-title": "Towards realistic implementations of a Majorana surface code",
+    "volume": "116",
+    "author": "Landau",
+    "year": "2016",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa6ac7bib275",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.94.174514",
+    "type": "journal-article",
+    "article-title": "Roadmap to Majorana surface codes",
+    "volume": "94",
+    "author": "Plugge",
+    "year": "2016",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa6ac7bib276",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/physrevb.95.165424",
+    "type": "preprint",
+    "article-title": "Majorana qubits in a topological insulator nanoribbon architecture",
+    "volume": "95",
+    "author": "Manousakis",
+    "year": "2017"
+   },
+   {
+    "key": "ropaa6ac7bib277",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.86.045102",
+    "type": "journal-article",
+    "article-title": "Strong side of weak topological insulators",
+    "volume": "86",
+    "author": "Ringel",
+    "year": "2012",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa6ac7bib278",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevLett.108.076804",
+    "type": "journal-article",
+    "article-title": "Quantum transport and two-parameter scaling at the surface of a weak topological insulator",
+    "volume": "108",
+    "author": "Mong",
+    "year": "2012",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa6ac7bib279",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevLett.109.246605",
+    "type": "journal-article",
+    "article-title": "Topology, delocalization via average symmetry and the symplectic anderson transition",
+    "volume": "109",
+    "author": "Fu",
+    "year": "2012",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa6ac7bib280",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.89.155424",
+    "type": "journal-article",
+    "article-title": "Statistical topological insulators",
+    "volume": "89",
+    "author": "Fulga",
+    "year": "2014",
+    "journal-title": "Phys. Rev. B"
+   },
+   {
+    "key": "ropaa6ac7bib281",
+    "doi-asserted-by": "publisher",
+    "first-page": "280",
+    "DOI": "10.1126/science.1248253",
+    "type": "journal-article",
+    "article-title": "Emergent space-time supersymmetry at the boundary of a topological phase",
+    "volume": "344",
+    "author": "Grover",
+    "year": "2014",
+    "journal-title": "Science"
+   },
+   {
+    "key": "ropaa6ac7bib282",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevLett.114.237001",
+    "type": "journal-article",
+    "article-title": "Emergent spacetime supersymmetry in 3d Weyl semimetals and 2d Dirac semimetals",
+    "volume": "114",
+    "author": "Jian",
+    "year": "2015",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "ropaa6ac7bib283",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevB.89.104519",
+    "type": "journal-article",
+    "article-title": "Tuning between singlet, triplet and mixed pairing states in an extended hubbard chain",
+    "volume": "89",
+    "author": "Sun",
+    "year": "2014",
+    "journal-title": "Phys. Rev. B"
+   }
+  ],
+  "container-title": [
+   "Reports on Progress in Physics"
+  ],
+  "original-title": [],
+  "link": [
+   {
+    "URL": "http://stacks.iop.org/0034-4885/80/i=7/a=076501?key=crossref.db5f5db067ad36cf0669f5cbf8ccb916",
+    "content-type": "text/html",
+    "content-version": "vor",
+    "intended-application": "text-mining"
+   },
+   {
+    "URL": "http://iopscience.iop.org/article/10.1088/1361-6633/aa6ac7/pdf",
+    "content-type": "application/pdf",
+    "content-version": "am",
+    "intended-application": "text-mining"
+   },
+   {
+    "URL": "http://stacks.iop.org/0034-4885/80/i=7/a=076501/pdf",
+    "content-type": "application/pdf",
+    "content-version": "vor",
+    "intended-application": "text-mining"
+   },
+   {
+    "URL": "http://iopscience.iop.org/article/10.1088/1361-6633/aa6ac7",
+    "content-type": "text/html",
+    "content-version": "am",
+    "intended-application": "text-mining"
+   },
+   {
+    "URL": "https://iopscience.iop.org/article/10.1088/1361-6633/aa6ac7",
+    "content-type": "text/html",
+    "content-version": "vor",
+    "intended-application": "text-mining"
+   },
+   {
+    "URL": "https://iopscience.iop.org/article/10.1088/1361-6633/aa6ac7/pdf",
+    "content-type": "application/pdf",
+    "content-version": "vor",
+    "intended-application": "text-mining"
+   },
+   {
+    "URL": "http://iopscience.iop.org/article/10.1088/1361-6633/aa6ac7/pdf",
+    "content-type": "application/pdf",
+    "content-version": "am",
+    "intended-application": "syndication"
+   },
+   {
+    "URL": "https://iopscience.iop.org/article/10.1088/1361-6633/aa6ac7/pdf",
+    "content-type": "application/pdf",
+    "content-version": "vor",
+    "intended-application": "syndication"
+   },
+   {
+    "URL": "http://iopscience.iop.org/article/10.1088/1361-6633/aa6ac7/pdf",
+    "content-type": "application/pdf",
+    "content-version": "am",
+    "intended-application": "similarity-checking"
+   },
+   {
+    "URL": "http://stacks.iop.org/0034-4885/80/i=7/a=076501/pdf",
+    "content-type": "application/pdf",
+    "content-version": "vor",
+    "intended-application": "similarity-checking"
+   },
+   {
+    "URL": "http://stacks.iop.org/0034-4885/80/i=7/a=076501?key=crossref.db5f5db067ad36cf0669f5cbf8ccb916",
+    "content-type": "text/html",
+    "content-version": "vor",
+    "intended-application": "similarity-checking"
+   },
+   {
+    "URL": "https://iopscience.iop.org/article/10.1088/1361-6633/aa6ac7/pdf",
+    "content-type": "application/pdf",
+    "content-version": "vor",
+    "intended-application": "similarity-checking"
+   }
+  ],
+  "deposited": {
+   "date-parts": [
+    [
+     2026,
+     6,
+     27
+    ]
+   ],
+   "date-time": "2026-06-27T12:07:15Z",
+   "timestamp": 1782562035000
+  },
+  "score": 1,
+  "resource": {
+   "primary": {
+    "URL": "https://iopscience.iop.org/article/10.1088/1361-6633/aa6ac7"
+   }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+   "date-parts": [
+    [
+     2017,
+     5,
+     5
+    ]
+   ]
+  },
+  "references-count": 283,
+  "journal-issue": {
+   "issue": "7",
+   "published-online": {
+    "date-parts": [
+     [
+      2017,
+      5,
+      5
+     ]
+    ]
+   },
+   "published-print": {
+    "date-parts": [
+     [
+      2017,
+      7,
+      1
+     ]
+    ]
+   }
+  },
+  "URL": "https://doi.org/10.1088/1361-6633/aa6ac7",
+  "relation": {},
+  "ISSN": [
+   "0034-4885",
+   "1361-6633"
+  ],
+  "issn-type": [
+   {
+    "value": "0034-4885",
+    "type": "print"
+   },
+   {
+    "value": "1361-6633",
+    "type": "electronic"
+   }
+  ],
+  "subject": [],
+  "published": {
+   "date-parts": [
+    [
+     2017,
+     5,
+     5
+    ]
+   ]
+  },
+  "assertion": [
+   {
+    "value": "Topological superconductors: a review",
+    "name": "article_title",
+    "label": "Article Title"
+   },
+   {
+    "value": "Reports on Progress in Physics",
+    "name": "journal_title",
+    "label": "Journal Title"
+   },
+   {
+    "value": "paper",
+    "name": "article_type",
+    "label": "Article Type"
+   },
+   {
+    "value": "\u00a9 2017 IOP Publishing Ltd. All rights, including for text and data mining, AI training, and similar technologies, are reserved.",
+    "name": "copyright_information",
+    "label": "Copyright Information"
+   },
+   {
+    "value": "2014-06-09",
+    "name": "date_received",
+    "label": "Date Received",
+    "group": {
+     "name": "publication_dates",
+     "label": "Publication dates"
+    }
+   },
+   {
+    "value": "2017-04-03",
+    "name": "date_accepted",
+    "label": "Date Accepted",
+    "group": {
+     "name": "publication_dates",
+     "label": "Publication dates"
+    }
+   },
+   {
+    "value": "2017-05-05",
+    "name": "date_epub",
+    "label": "Online publication date",
+    "group": {
+     "name": "publication_dates",
+     "label": "Publication dates"
+    }
+   }
+  ]
+ }
+}

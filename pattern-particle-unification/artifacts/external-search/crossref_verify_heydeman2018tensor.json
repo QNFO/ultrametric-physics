@@ -1,0 +1,766 @@
+{
+ "doi": "10.1007/jhep01(2018)139",
+ "message": {
+  "indexed": {
+   "date-parts": [
+    [
+     2026,
+     7,
+     14
+    ]
+   ],
+   "date-time": "2026-07-14T01:12:54Z",
+   "timestamp": 1783991574812,
+   "version": "3.55.0"
+  },
+  "reference-count": 69,
+  "publisher": "Springer Science and Business Media LLC",
+  "issue": "1",
+  "license": [
+   {
+    "start": {
+     "date-parts": [
+      [
+       2018,
+       1,
+       1
+      ]
+     ],
+     "date-time": "2018-01-01T00:00:00Z",
+     "timestamp": 1514764800000
+    },
+    "content-version": "tdm",
+    "delay-in-days": 0,
+    "URL": "http://creativecommons.org/licenses/by/4.0"
+   }
+  ],
+  "content-domain": {
+   "domain": [
+    "link.springer.com"
+   ],
+   "crossmark-restriction": false
+  },
+  "short-container-title": [
+   "J. High Energ. Phys."
+  ],
+  "published-print": {
+   "date-parts": [
+    [
+     2018,
+     1
+    ]
+   ]
+  },
+  "DOI": "10.1007/jhep01(2018)139",
+  "type": "journal-article",
+  "created": {
+   "date-parts": [
+    [
+     2018,
+     1,
+     30
+    ]
+   ],
+   "date-time": "2018-01-30T07:39:19Z",
+   "timestamp": 1517297959000
+  },
+  "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 30,
+  "title": [
+   "Tensor network and (p-adic) AdS/CFT"
+  ],
+  "prefix": "10.1007",
+  "volume": "2018",
+  "author": [
+   {
+    "given": "Arpan",
+    "family": "Bhattacharyya",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Ling-Yan",
+    "family": "Hung",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Yang",
+    "family": "Lei",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Wei",
+    "family": "Li",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "member": "297",
+  "published-online": {
+   "date-parts": [
+    [
+     2018,
+     1,
+     29
+    ]
+   ]
+  },
+  "reference": [
+   {
+    "key": "7505_CR1",
+    "unstructured": "G. \u2019t Hooft, Dimensional reduction in quantum gravity, Conf. Proc. C 930308 (1993) 284 [ gr-qc/9310026 ] [ INSPIRE ]."
+   },
+   {
+    "key": "7505_CR2",
+    "doi-asserted-by": "publisher",
+    "first-page": "6377",
+    "DOI": "10.1063/1.531249",
+    "volume": "36",
+    "author": "L Susskind",
+    "year": "1995",
+    "unstructured": "L. Susskind, The world as a hologram, J. Math. Phys. 36 (1995) 6377 [ hep-th/9409089 ] [ INSPIRE ].",
+    "journal-title": "J. Math. Phys."
+   },
+   {
+    "key": "7505_CR3",
+    "doi-asserted-by": "publisher",
+    "first-page": "1113",
+    "DOI": "10.1023/A:1026654312961",
+    "volume": "38",
+    "author": "JM Maldacena",
+    "year": "1999",
+    "unstructured": "J.M. Maldacena, The large-N limit of superconformal field theories and supergravity, Int. J. Theor. Phys. 38 (1999) 1113 [ hep-th/9711200 ] [ INSPIRE ].",
+    "journal-title": "Int. J. Theor. Phys."
+   },
+   {
+    "key": "7505_CR4",
+    "doi-asserted-by": "crossref",
+    "unstructured": "E. Bianchi and R.C. Myers, On the Architecture of Spacetime Geometry, Class. Quant. Grav. 31 (2014) 214002 [ arXiv:1212.5183 ] [ INSPIRE ].",
+    "DOI": "10.1088/0264-9381/31/21/214002"
+   },
+   {
+    "key": "7505_CR5",
+    "unstructured": "B. Swingle, Constructing holographic spacetimes using entanglement renormalization, arXiv:1209.3304 [ INSPIRE ]."
+   },
+   {
+    "key": "7505_CR6",
+    "doi-asserted-by": "crossref",
+    "unstructured": "B. Czech et al., Tensor network quotient takes the vacuum to the thermal state, Phys. Rev. B 94 (2016) 085101 [ arXiv:1510.07637 ] [ INSPIRE ].",
+    "DOI": "10.1103/PhysRevB.94.085101"
+   },
+   {
+    "key": "7505_CR7",
+    "doi-asserted-by": "publisher",
+    "first-page": "100",
+    "DOI": "10.1007/JHEP07(2016)100",
+    "volume": "07",
+    "author": "B Czech",
+    "year": "2016",
+    "unstructured": "B. Czech, L. Lamprou, S. McCandlish and J. Sully, Tensor Networks from Kinematic Space, JHEP 07 (2016) 100 [ arXiv:1512.01548 ] [ INSPIRE ].",
+    "journal-title": "JHEP"
+   },
+   {
+    "key": "7505_CR8",
+    "doi-asserted-by": "publisher",
+    "first-page": "193",
+    "DOI": "10.1007/JHEP10(2012)193",
+    "volume": "10",
+    "author": "M Nozaki",
+    "year": "2012",
+    "unstructured": "M. Nozaki, S. Ryu and T. Takayanagi, Holographic Geometry of Entanglement Renormalization in Quantum Field Theories, JHEP 10 (2012) 193 [ arXiv:1208.3469 ] [ INSPIRE ].",
+    "journal-title": "JHEP"
+   },
+   {
+    "key": "7505_CR9",
+    "doi-asserted-by": "publisher",
+    "first-page": "098",
+    "DOI": "10.1007/JHEP03(2014)098",
+    "volume": "03",
+    "author": "A Mollabashi",
+    "year": "2014",
+    "unstructured": "A. Mollabashi, M. Nozaki, S. Ryu and T. Takayanagi, Holographic Geometry of cMERA for Quantum Quenches and Finite Temperature, JHEP 03 (2014) 098 [ arXiv:1311.6095 ] [ INSPIRE ].",
+    "journal-title": "JHEP"
+   },
+   {
+    "key": "7505_CR10",
+    "unstructured": "M. Miyaji and T. Takayanagi, Surface/State Correspondence as a Generalized Holography, PTEP 2015 (2015) 073B03 [ arXiv:1503.03542 ] [ INSPIRE ]."
+   },
+   {
+    "key": "7505_CR11",
+    "doi-asserted-by": "publisher",
+    "first-page": "171602",
+    "DOI": "10.1103/PhysRevLett.115.171602",
+    "volume": "115",
+    "author": "M Miyaji",
+    "year": "2015",
+    "unstructured": "M. Miyaji, T. Numasawa, N. Shiba, T. Takayanagi and K. Watanabe, Continuous Multiscale Entanglement Renormalization Ansatz as Holographic Surface-State Correspondence, Phys. Rev. Lett. 115 (2015) 171602 [ arXiv:1506.01353 ] [ INSPIRE ].",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "7505_CR12",
+    "doi-asserted-by": "crossref",
+    "unstructured": "N. Bao et al., Consistency conditions for an AdS multiscale entanglement renormalization ansatz correspondence, Phys. Rev. D 91 (2015) 125036 [ arXiv:1504.06632 ] [ INSPIRE ].",
+    "DOI": "10.1103/PhysRevD.91.125036"
+   },
+   {
+    "key": "7505_CR13",
+    "doi-asserted-by": "publisher",
+    "first-page": "163",
+    "DOI": "10.1007/JHEP04(2015)163",
+    "volume": "04",
+    "author": "A Almheiri",
+    "year": "2015",
+    "unstructured": "A. Almheiri, X. Dong and D. Harlow, Bulk Locality and Quantum Error Correction in AdS/CFT, JHEP 04 (2015) 163 [ arXiv:1411.7041 ] [ INSPIRE ].",
+    "journal-title": "JHEP"
+   },
+   {
+    "key": "7505_CR14",
+    "doi-asserted-by": "publisher",
+    "first-page": "151601",
+    "DOI": "10.1103/PhysRevLett.115.151601",
+    "volume": "115",
+    "author": "E Mintun",
+    "year": "2015",
+    "unstructured": "E. Mintun, J. Polchinski and V. Rosenhaus, Bulk-Boundary Duality, Gauge Invariance and Quantum Error Corrections, Phys. Rev. Lett. 115 (2015) 151601 [ arXiv:1501.06577 ] [ INSPIRE ].",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "7505_CR15",
+    "doi-asserted-by": "crossref",
+    "unstructured": "E.M. Brehm and B. Richter, Classical Holographic Codes, Phys. Rev. D 96 (2017) 066005 [ arXiv:1609.03560 ] [ INSPIRE ].",
+    "DOI": "10.1103/PhysRevD.96.066005"
+   },
+   {
+    "key": "7505_CR16",
+    "doi-asserted-by": "crossref",
+    "unstructured": "M. Miyaji, T. Takayanagi and K. Watanabe, From path integrals to tensor networks for the AdS/CFT correspondence, Phys. Rev. D 95 (2017) 066004 [ arXiv:1609.04645 ] [ INSPIRE ].",
+    "DOI": "10.1103/PhysRevD.95.066004"
+   },
+   {
+    "key": "7505_CR17",
+    "doi-asserted-by": "publisher",
+    "first-page": "090",
+    "DOI": "10.1007/JHEP03(2017)090",
+    "volume": "03",
+    "author": "B Czech",
+    "year": "2017",
+    "unstructured": "B. Czech, P.H. Nguyen and S. Swaminathan, A defect in holographic interpretations of tensor networks, JHEP 03 (2017) 090 [ arXiv:1612.05698 ] [ INSPIRE ].",
+    "journal-title": "JHEP"
+   },
+   {
+    "key": "7505_CR18",
+    "doi-asserted-by": "publisher",
+    "first-page": "105011",
+    "DOI": "10.1088/1361-6382/aa6b0f",
+    "volume": "34",
+    "author": "A Peach",
+    "year": "2017",
+    "unstructured": "A. Peach and S.F. Ross, Tensor Network Models of Multiboundary Wormholes, Class. Quant. Grav. 34 (2017) 105011 [ arXiv:1702.05984 ] [ INSPIRE ].",
+    "journal-title": "Class. Quant. Grav."
+   },
+   {
+    "key": "7505_CR19",
+    "doi-asserted-by": "publisher",
+    "first-page": "149",
+    "DOI": "10.1007/JHEP06(2015)149",
+    "volume": "06",
+    "author": "F Pastawski",
+    "year": "2015",
+    "unstructured": "F. Pastawski, B. Yoshida, D. Harlow and J. Preskill, Holographic quantum error-correcting codes: Toy models for the bulk/boundary correspondence, JHEP 06 (2015) 149 [ arXiv:1503.06237 ] [ INSPIRE ].",
+    "journal-title": "JHEP"
+   },
+   {
+    "key": "7505_CR20",
+    "doi-asserted-by": "publisher",
+    "first-page": "009",
+    "DOI": "10.1007/JHEP11(2016)009",
+    "volume": "11",
+    "author": "P Hayden",
+    "year": "2016",
+    "unstructured": "P. Hayden, S. Nezami, X.-L. Qi, N. Thomas, M. Walter and Z. Yang, Holographic duality from random tensor networks, JHEP 11 (2016) 009 [ arXiv:1601.01694 ] [ INSPIRE ].",
+    "journal-title": "JHEP"
+   },
+   {
+    "key": "7505_CR21",
+    "doi-asserted-by": "publisher",
+    "first-page": "086",
+    "DOI": "10.1007/JHEP08(2016)086",
+    "volume": "08",
+    "author": "A Bhattacharyya",
+    "year": "2016",
+    "unstructured": "A. Bhattacharyya, Z.-S. Gao, L.-Y. Hung and S.-N. Liu, Exploring the Tensor Networks/AdS Correspondence, JHEP 08 (2016) 086 [ arXiv:1606.00621 ] [ INSPIRE ].",
+    "journal-title": "JHEP"
+   },
+   {
+    "key": "7505_CR22",
+    "doi-asserted-by": "crossref",
+    "unstructured": "M. Han and L.-Y. Hung, Loop Quantum Gravity, Exact Holographic Mapping and Holographic Entanglement Entropy, Phys. Rev. D 95 (2017) 024011 [ arXiv:1610.02134 ] [ INSPIRE ].",
+    "DOI": "10.1103/PhysRevD.95.024011"
+   },
+   {
+    "key": "7505_CR23",
+    "unstructured": "G. Chirco, D. Oriti and M. Zhang, Group Field theory and Tensor Networks: towards a Ryu-Takayanagi formula in full quantum gravity, arXiv:1701.01383 [ INSPIRE ]."
+   },
+   {
+    "key": "7505_CR24",
+    "doi-asserted-by": "crossref",
+    "unstructured": "C.H. Lee and X.-L. Qi, Exact holographic mapping in free fermion systems, Phys. Rev. B 93 (2016)035112 [ arXiv:1503.08592 ] [ INSPIRE ].",
+    "DOI": "10.1103/PhysRevB.93.035112"
+   },
+   {
+    "key": "7505_CR25",
+    "unstructured": "S. Singh and G.K. Brennen, Holographic Construction of Quantum Field Theory using Wavelets, arXiv:1606.05068 [ INSPIRE ]."
+   },
+   {
+    "key": "7505_CR26",
+    "unstructured": "M. Heydeman, M. Marcolli, I. Saberi and B. Stoica, Tensor networks, p-adic fields and algebraic curves: arithmetic and the AdS 3 /CFT 2 correspondence, arXiv:1605.07639 [ INSPIRE ]."
+   },
+   {
+    "key": "7505_CR27",
+    "doi-asserted-by": "crossref",
+    "unstructured": "S.S. Gubser, J. Knaute, S. Parikh, A. Samberg and P. Witaszczyk, p-adic AdS/CFT, Commun. Math. Phys. 352 (2017) 1019 [ arXiv:1605.01061 ] [ INSPIRE ].",
+    "DOI": "10.1007/s00220-016-2813-6"
+   },
+   {
+    "key": "7505_CR28",
+    "doi-asserted-by": "publisher",
+    "first-page": "157",
+    "DOI": "10.1007/JHEP06(2017)157",
+    "volume": "06",
+    "author": "SS Gubser",
+    "year": "2017",
+    "unstructured": "S.S. Gubser et al., Edge length dynamics on graphs with applications to p-adic AdS/CFT, JHEP 06 (2017) 157 [ arXiv:1612.09580 ] [ INSPIRE ].",
+    "journal-title": "JHEP"
+   },
+   {
+    "key": "7505_CR29",
+    "doi-asserted-by": "publisher",
+    "first-page": "117",
+    "DOI": "10.1016/j.aop.2014.06.013",
+    "volume": "349",
+    "author": "R Orus",
+    "year": "2014",
+    "unstructured": "R. Orus, A Practical Introduction to Tensor Networks: Matrix Product States and Projected Entangled Pair States, Annals Phys. 349 (2014) 117 [ arXiv:1306.2164 ] [ INSPIRE ].",
+    "journal-title": "Annals Phys."
+   },
+   {
+    "key": "7505_CR30",
+    "doi-asserted-by": "crossref",
+    "unstructured": "R. Orus, Advances on Tensor Network Theory: Symmetries, Fermions, Entanglement and Holography, Eur. Phys. J. B 87 (2014) 280 [ arXiv:1407.6552 ] [ INSPIRE ].",
+    "DOI": "10.1140/epjb/e2014-50502-9"
+   },
+   {
+    "key": "7505_CR31",
+    "doi-asserted-by": "publisher",
+    "first-page": "181602",
+    "DOI": "10.1103/PhysRevLett.96.181602",
+    "volume": "96",
+    "author": "S Ryu",
+    "year": "2006",
+    "unstructured": "S. Ryu and T. Takayanagi, Holographic derivation of entanglement entropy from AdS/CFT, Phys. Rev. Lett. 96 (2006) 181602 [ hep-th/0603001 ] [ INSPIRE ].",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "7505_CR32",
+    "doi-asserted-by": "publisher",
+    "first-page": "045",
+    "DOI": "10.1088/1126-6708/2006/08/045",
+    "volume": "08",
+    "author": "S Ryu",
+    "year": "2006",
+    "unstructured": "S. Ryu and T. Takayanagi, Aspects of Holographic Entanglement Entropy, JHEP 08 (2006) 045 [ hep-th/0605073 ] [ INSPIRE ].",
+    "journal-title": "JHEP"
+   },
+   {
+    "key": "7505_CR33",
+    "doi-asserted-by": "crossref",
+    "unstructured": "S. Singh and G. Vidal, Symmetry protected entanglement renormalization, Phys. Rev. B 88 (2013)121108 [ arXiv:1303.6716 ] [ INSPIRE ].",
+    "DOI": "10.1103/PhysRevB.88.121108"
+   },
+   {
+    "key": "7505_CR34",
+    "doi-asserted-by": "crossref",
+    "unstructured": "A. Hamilton, D.N. Kabat, G. Lifschytz and D.A. Lowe, Local bulk operators in AdS/CFT: A Holographic description of the black hole interior, Phys. Rev. D 75 (2007) 106001 [Erratum ibid. D 75 (2007) 129902] [ hep-th/0612053 ] [ INSPIRE ].",
+    "DOI": "10.1103/PhysRevD.75.106001"
+   },
+   {
+    "key": "7505_CR35",
+    "doi-asserted-by": "crossref",
+    "unstructured": "A. Hamilton, D.N. Kabat, G. Lifschytz and D.A. Lowe, Local bulk operators in AdS/CFT: A boundary view of horizons and locality, Phys. Rev. D 73 (2006) 086003 [ hep-th/0506118 ] [ INSPIRE ].",
+    "DOI": "10.1103/PhysRevD.73.086003"
+   },
+   {
+    "key": "7505_CR36",
+    "doi-asserted-by": "crossref",
+    "unstructured": "D. Kabat, G. Lifschytz and D.A. Lowe, Constructing local bulk observables in interacting AdS/CFT, Phys. Rev. D 83 (2011) 106009 [ arXiv:1102.2910 ] [ INSPIRE ].",
+    "DOI": "10.1103/PhysRevD.83.106009"
+   },
+   {
+    "key": "7505_CR37",
+    "unstructured": "J.E. Humphreys, Reflection Groups and Coxeter Groups, Cambridge University Press (1992)."
+   },
+   {
+    "key": "7505_CR38",
+    "doi-asserted-by": "crossref",
+    "unstructured": "N. Koblitz, p-adic Numbers, p-adic Analysis and Zeta-Functions, 2nd edition, Springer (1984).",
+    "DOI": "10.1007/978-1-4612-1112-9"
+   },
+   {
+    "key": "7505_CR39",
+    "unstructured": "F.Q. Gouv\u00eaa, p-adic Numbers: An Introduction, 2nd edition, Springer (1997)."
+   },
+   {
+    "key": "7505_CR40",
+    "doi-asserted-by": "crossref",
+    "unstructured": "P.G.O. Freund and M. Olson, Nonarchimedean strings, Phys. Lett. B 199 (1987) 186 [ INSPIRE ].",
+    "DOI": "10.1016/0370-2693(87)91356-6"
+   },
+   {
+    "key": "7505_CR41",
+    "doi-asserted-by": "crossref",
+    "unstructured": "L. Brekke and P.G.O. Freund, p-adic numbers in physics, Phys. Rept. 233 (1993) 1 [ INSPIRE ].",
+    "DOI": "10.1016/0370-1573(93)90043-D"
+   },
+   {
+    "key": "7505_CR42",
+    "doi-asserted-by": "crossref",
+    "unstructured": "L. Brekke, P.G.O. Freund, M. Olson and E. Witten, Nonarchimedean String Dynamics, Nucl. Phys. B 302 (1988) 365 [ INSPIRE ].",
+    "DOI": "10.1016/0550-3213(88)90207-6"
+   },
+   {
+    "key": "7505_CR43",
+    "doi-asserted-by": "crossref",
+    "unstructured": "P.G.O. Freund and E. Witten, Adelic string amplitudes, Phys. Lett. B 199 (1987) 191 [ INSPIRE ].",
+    "DOI": "10.1016/0370-2693(87)91357-8"
+   },
+   {
+    "key": "7505_CR44",
+    "unstructured": "B. Dragovich, Zeta strings, hep-th/0703008 [ INSPIRE ]."
+   },
+   {
+    "key": "7505_CR45",
+    "unstructured": "B. Dragovich, A.Yu. Khrennikov, S.V. Kozyrev and I.V. Volovich, On p-Adic Mathematical Physics, Anal. Appl. 1 (2009) 1 [ arXiv:0904.4205 ] [ INSPIRE ]."
+   },
+   {
+    "key": "7505_CR46",
+    "doi-asserted-by": "publisher",
+    "first-page": "617",
+    "DOI": "10.4310/ATMP.2001.v5.n3.a6",
+    "volume": "5",
+    "author": "YI Manin",
+    "year": "2002",
+    "unstructured": "Y.I. Manin and M. Marcolli, Holography principle and arithmetic of algebraic curves, Adv. Theor. Math. Phys. 5 (2002) 617 [ hep-th/0201036 ] [ INSPIRE ].",
+    "journal-title": "Adv. Theor. Math. Phys."
+   },
+   {
+    "key": "7505_CR47",
+    "doi-asserted-by": "crossref",
+    "unstructured": "A. Ostrowski, \u00dcber einige L\u00f6sungen der Funktionalgleichung \u03a8(x) \u00b7 \u03a8(y) = \u03a8(xy), Acta Math. 41 (1916) 271.",
+    "DOI": "10.1007/BF02422947"
+   },
+   {
+    "key": "7505_CR48",
+    "doi-asserted-by": "crossref",
+    "unstructured": "F. Bruhat and J. Tits, Groupes r\u00e9ductifs sur un corps local: I. Donn\u00e9es radicielles valu\u00e9es, Inst. Hautes \u00c9tudes Sci. Publ. Math. 41 (1972) 5.",
+    "DOI": "10.1007/BF02715544"
+   },
+   {
+    "key": "7505_CR49",
+    "doi-asserted-by": "crossref",
+    "unstructured": "A.V. Zabrodin, Nonarchimedean Strings and Bruhat-tits Trees, Commun. Math. Phys. 123 (1989) 463 [ INSPIRE ].",
+    "DOI": "10.1007/BF01238811"
+   },
+   {
+    "key": "7505_CR50",
+    "doi-asserted-by": "crossref",
+    "unstructured": "E. Melzer, Nonarchimedean conformal field theories, Int. J. Mod. Phys. A 4 (1989) 4877 [ INSPIRE ].",
+    "DOI": "10.1142/S0217751X89002065"
+   },
+   {
+    "key": "7505_CR51",
+    "doi-asserted-by": "crossref",
+    "unstructured": "F.R.K. Chung, Spectral graph theory, American Mathematical Society (1997).",
+    "DOI": "10.1090/cbms/092"
+   },
+   {
+    "key": "7505_CR52",
+    "doi-asserted-by": "crossref",
+    "unstructured": "A. Hamilton, D.N. Kabat, G. Lifschytz and D.A. Lowe, Holographic representation of local bulk operators, Phys. Rev. D 74 (2006) 066009 [ hep-th/0606141 ] [ INSPIRE ].",
+    "DOI": "10.1103/PhysRevD.74.066009"
+   },
+   {
+    "key": "7505_CR53",
+    "doi-asserted-by": "crossref",
+    "unstructured": "G. Brattle, Wavelets and Renormalization, World Scientific (1998).",
+    "DOI": "10.1142/3066"
+   },
+   {
+    "key": "7505_CR54",
+    "doi-asserted-by": "crossref",
+    "unstructured": "G. Evenbly and S.R. White, Entanglement renormalization and wavelets, Phys. Rev. Lett. 116 (2016) 140403 [ arXiv:1602.01166 ] [ INSPIRE ].",
+    "DOI": "10.1103/PhysRevLett.116.140403"
+   },
+   {
+    "key": "7505_CR55",
+    "doi-asserted-by": "crossref",
+    "unstructured": "D.K. Hammond, P. Vandergheynst and R. Gribonval, Wavelets on graphs via spectral graph theory, Appl. Comput. Harm. Anal. 30 129 [ arXiv:0912.3848 ].",
+    "DOI": "10.1016/j.acha.2010.04.005"
+   },
+   {
+    "key": "7505_CR56",
+    "doi-asserted-by": "crossref",
+    "unstructured": "D. Harlow, S.H. Shenker, D. Stanford and L. Susskind, Tree-like structure of eternal inflation: A solvable model, Phys. Rev. D 85 (2012) 063516 [ arXiv:1110.0496 ] [ INSPIRE ].",
+    "DOI": "10.1103/PhysRevD.85.063516"
+   },
+   {
+    "key": "7505_CR57",
+    "unstructured": "S. Albeverio and S.V. Kozyrev, Coincidence of the continuous and discrete p-adic wavelet transforms, math-ph/0702010 ."
+   },
+   {
+    "key": "7505_CR58",
+    "doi-asserted-by": "crossref",
+    "unstructured": "R.N.C. Pfeifer, G. Evenbly and G. Vidal, Entanglement renormalization, scale invariance and quantum criticality, Phys. Rev. A 79 (2009) 040301 [ arXiv:0810.0580 ] [ INSPIRE ].",
+    "DOI": "10.1103/PhysRevA.79.040301"
+   },
+   {
+    "key": "7505_CR59",
+    "doi-asserted-by": "publisher",
+    "first-page": "110504",
+    "DOI": "10.1103/PhysRevLett.118.110504",
+    "volume": "118",
+    "author": "S Yang",
+    "year": "2017",
+    "unstructured": "S. Yang, Z.C. Gu and X.G. Wen, Loop optimization for tensor network renormalization, Phys. Rev. Lett. 118 (2017) 110504 [ arXiv:1512.04938 ].",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "7505_CR60",
+    "doi-asserted-by": "publisher",
+    "first-page": "200401",
+    "DOI": "10.1103/PhysRevLett.115.200401",
+    "volume": "115",
+    "author": "G Evenbly",
+    "year": "2015",
+    "unstructured": "G. Evenbly and G. Vidal, Tensor Network Renormalization Yields the Multiscale Entanglement Renormalization Ansatz, Phys. Rev. Lett. 115 (2015) 200401 [ arXiv:1502.05385 ].",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "7505_CR61",
+    "doi-asserted-by": "crossref",
+    "unstructured": "S.S. Gubser, C. Jepsen, S. Parikh and B. Trundy, O(N) and O(N) and O(N), JHEP 11 (2017) 107 [ arXiv:1703.04202 ] [ INSPIRE ].",
+    "DOI": "10.1007/JHEP11(2017)107"
+   },
+   {
+    "key": "7505_CR62",
+    "unstructured": "S.S. Gubser et al., Signs of the time: Melonic theories over diverse number systems, arXiv:1707.01087 [ INSPIRE ]."
+   },
+   {
+    "key": "7505_CR63",
+    "doi-asserted-by": "crossref",
+    "unstructured": "R.-b. Zhang, Lagrangian Formulation of Open and Closed p-adic Strings, Phys. Lett. B 209 (1988) 229 [ INSPIRE ].",
+    "DOI": "10.1016/0370-2693(88)90937-9"
+   },
+   {
+    "key": "7505_CR64",
+    "doi-asserted-by": "crossref",
+    "unstructured": "B.L. Spokoiny, Quantum Geometry of Nonarchimedean Particles and Strings, Phys. Lett. B 208 (1988) 401 [ INSPIRE ].",
+    "DOI": "10.1016/0370-2693(88)90637-5"
+   },
+   {
+    "key": "7505_CR65",
+    "doi-asserted-by": "crossref",
+    "unstructured": "G. Parisi, On p-adic functional integrals, Mod. Phys. Lett. A 3 (1988) 639 [ INSPIRE ].",
+    "DOI": "10.1142/S0217732388000763"
+   },
+   {
+    "key": "7505_CR66",
+    "doi-asserted-by": "crossref",
+    "unstructured": "M.R. Gaberdiel and R. Gopakumar, An AdS 3 Dual for Minimal Model CFTs, Phys. Rev. D 83 (2011) 066007 [ arXiv:1011.2986 ] [ INSPIRE ].",
+    "DOI": "10.1103/PhysRevD.83.066007"
+   },
+   {
+    "key": "7505_CR67",
+    "doi-asserted-by": "publisher",
+    "first-page": "079",
+    "DOI": "10.1088/1126-6708/2009/10/079",
+    "volume": "10",
+    "author": "I Heemskerk",
+    "year": "2009",
+    "unstructured": "I. Heemskerk, J. Penedones, J. Polchinski and J. Sully, Holography from Conformal Field Theory, JHEP 10 (2009) 079 [ arXiv:0907.0151 ] [ INSPIRE ].",
+    "journal-title": "JHEP"
+   },
+   {
+    "key": "7505_CR68",
+    "unstructured": "P. Fleig, H.P.A. Gustafsson, A. Kleinschmidt and D. Persson, Eisenstein series and automorphic representations, arXiv:1511.04265 [ INSPIRE ]."
+   },
+   {
+    "key": "7505_CR69",
+    "doi-asserted-by": "publisher",
+    "first-page": "250602",
+    "DOI": "10.1103/PhysRevLett.118.250602",
+    "volume": "118",
+    "author": "M Bal",
+    "year": "2017",
+    "unstructured": "M. Bal, M. Mari\u00ebn, J. Haegeman and F. Verstraete, Renormalization group flows of Hamiltonians using tensor networks, Phys. Rev. Lett. 118 (2017) 250602 [ arXiv:1703.00365 ] [ INSPIRE ].",
+    "journal-title": "Phys. Rev. Lett."
+   }
+  ],
+  "container-title": [
+   "Journal of High Energy Physics"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+   {
+    "URL": "http://link.springer.com/content/pdf/10.1007/JHEP01(2018)139.pdf",
+    "content-type": "application/pdf",
+    "content-version": "vor",
+    "intended-application": "text-mining"
+   },
+   {
+    "URL": "http://link.springer.com/article/10.1007/JHEP01(2018)139/fulltext.html",
+    "content-type": "text/html",
+    "content-version": "vor",
+    "intended-application": "text-mining"
+   },
+   {
+    "URL": "http://link.springer.com/content/pdf/10.1007/JHEP01(2018)139.pdf",
+    "content-type": "application/pdf",
+    "content-version": "vor",
+    "intended-application": "similarity-checking"
+   }
+  ],
+  "deposited": {
+   "date-parts": [
+    [
+     2022,
+     8,
+     13
+    ]
+   ],
+   "date-time": "2022-08-13T13:05:34Z",
+   "timestamp": 1660395934000
+  },
+  "score": 1,
+  "resource": {
+   "primary": {
+    "URL": "http://link.springer.com/10.1007/JHEP01(2018)139"
+   }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+   "date-parts": [
+    [
+     2018,
+     1
+    ]
+   ]
+  },
+  "references-count": 69,
+  "journal-issue": {
+   "issue": "1",
+   "published-print": {
+    "date-parts": [
+     [
+      2018,
+      1
+     ]
+    ]
+   }
+  },
+  "alternative-id": [
+   "7505"
+  ],
+  "URL": "https://doi.org/10.1007/jhep01(2018)139",
+  "relation": {},
+  "ISSN": [
+   "1029-8479"
+  ],
+  "issn-type": [
+   {
+    "value": "1029-8479",
+    "type": "electronic"
+   }
+  ],
+  "subject": [],
+  "published": {
+   "date-parts": [
+    [
+     2018,
+     1
+    ]
+   ]
+  },
+  "assertion": [
+   {
+    "value": "14 June 2017",
+    "order": 1,
+    "name": "received",
+    "label": "Received",
+    "group": {
+     "name": "ArticleHistory",
+     "label": "Article History"
+    }
+   },
+   {
+    "value": "18 September 2017",
+    "order": 2,
+    "name": "revised",
+    "label": "Revised",
+    "group": {
+     "name": "ArticleHistory",
+     "label": "Article History"
+    }
+   },
+   {
+    "value": "12 January 2018",
+    "order": 3,
+    "name": "accepted",
+    "label": "Accepted",
+    "group": {
+     "name": "ArticleHistory",
+     "label": "Article History"
+    }
+   },
+   {
+    "value": "29 January 2018",
+    "order": 4,
+    "name": "first_online",
+    "label": "First Online",
+    "group": {
+     "name": "ArticleHistory",
+     "label": "Article History"
+    }
+   }
+  ],
+  "article-number": "139"
+ }
+}

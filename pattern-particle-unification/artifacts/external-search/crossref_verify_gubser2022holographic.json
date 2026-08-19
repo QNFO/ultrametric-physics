@@ -1,0 +1,514 @@
+{
+ "doi": "10.1007/jhep10(2022)169",
+ "message": {
+  "indexed": {
+   "date-parts": [
+    [
+     2025,
+     11,
+     21
+    ]
+   ],
+   "date-time": "2025-11-21T23:24:35Z",
+   "timestamp": 1763767475946,
+   "version": "3.37.3"
+  },
+  "reference-count": 34,
+  "publisher": "Springer Science and Business Media LLC",
+  "issue": "10",
+  "license": [
+   {
+    "start": {
+     "date-parts": [
+      [
+       2022,
+       10,
+       26
+      ]
+     ],
+     "date-time": "2022-10-26T00:00:00Z",
+     "timestamp": 1666742400000
+    },
+    "content-version": "tdm",
+    "delay-in-days": 0,
+    "URL": "https://creativecommons.org/licenses/by/4.0"
+   },
+   {
+    "start": {
+     "date-parts": [
+      [
+       2022,
+       10,
+       26
+      ]
+     ],
+     "date-time": "2022-10-26T00:00:00Z",
+     "timestamp": 1666742400000
+    },
+    "content-version": "vor",
+    "delay-in-days": 0,
+    "URL": "https://creativecommons.org/licenses/by/4.0"
+   }
+  ],
+  "content-domain": {
+   "domain": [
+    "link.springer.com"
+   ],
+   "crossmark-restriction": false
+  },
+  "short-container-title": [
+   "J. High Energ. Phys."
+  ],
+  "abstract": "<jats:title>A<jats:sc>bstract</jats:sc>\n                     </jats:title><jats:p>We introduce a unifying framework for the construction of holographic tensor networks, based on the theory of hyperbolic buildings. The underlying dualities relate a bulk space to a boundary which can be homeomorphic to a sphere, but also to more general spaces like a Menger sponge type fractal. In this general setting, we give a precise construction of a large family of bulk regions that satisfy complementary recovery. For these regions, our networks obey a Ryu-Takayanagi formula. The areas of Ryu-Takayanagi surfaces are controlled by the Hausdorff dimension of the boundary, and consistently generalize the behavior of holographic entanglement entropy in integer dimensions to the non-integer case. Our construction recovers HaPPY-like codes in all dimensions, and generalizes the geometry of Bruhat-Tits trees. It also provides examples of infinite-dimensional nets of holographic conditional expectations, and opens a path towards the study of conformal field theory and holography on fractal spaces.</jats:p>",
+  "DOI": "10.1007/jhep10(2022)169",
+  "type": "journal-article",
+  "created": {
+   "date-parts": [
+    [
+     2022,
+     10,
+     27
+    ]
+   ],
+   "date-time": "2022-10-27T07:02:38Z",
+   "timestamp": 1666854158000
+  },
+  "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 9,
+  "title": [
+   "Holographic tensor networks from hyperbolic buildings"
+  ],
+  "prefix": "10.1007",
+  "volume": "2022",
+  "author": [
+   {
+    "given": "Elliott",
+    "family": "Gesteau",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   },
+   {
+    "given": "Matilde",
+    "family": "Marcolli",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   },
+   {
+    "ORCID": "https://orcid.org/0000-0002-5831-3873",
+    "authenticated-orcid": false,
+    "given": "Sarthak",
+    "family": "Parikh",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   }
+  ],
+  "member": "297",
+  "published-online": {
+   "date-parts": [
+    [
+     2022,
+     10,
+     26
+    ]
+   ]
+  },
+  "reference": [
+   {
+    "doi-asserted-by": "crossref",
+    "unstructured": "P. Abramenko and K.S. Brown, Buildings: Theory and Applications, Springer (2008) [DOI].",
+    "key": "19532_CR1",
+    "DOI": "10.1007/978-0-387-78835-7"
+   },
+   {
+    "key": "19532_CR2",
+    "doi-asserted-by": "publisher",
+    "first-page": "086",
+    "DOI": "10.1007/JHEP08(2016)086",
+    "volume": "08",
+    "author": "A Bhattacharyya",
+    "year": "2016",
+    "unstructured": "A. Bhattacharyya, Z.-S. Gao, L.-Y. Hung and S.-N. Liu, Exploring the Tensor Networks/AdS Correspondence, JHEP 08 (2016) 086 [arXiv:1606.00621] [INSPIRE].",
+    "journal-title": "JHEP"
+   },
+   {
+    "doi-asserted-by": "crossref",
+    "unstructured": "M. Bourdon, Immeubles hyperboliques, dimension conforme et rigidit\u00e9 de Mostow, Geom. Funct. Anal. GAFA 7 (1997).",
+    "key": "19532_CR3",
+    "DOI": "10.1007/PL00001619"
+   },
+   {
+    "key": "19532_CR4",
+    "doi-asserted-by": "publisher",
+    "first-page": "2315",
+    "DOI": "10.1090/S0002-9939-99-04901-1",
+    "volume": "127",
+    "author": "M Bourdon",
+    "year": "1999",
+    "unstructured": "M. Bourdon, H. Pajot, Poincar\u00e9 inequalities and quasiconformal structure on the boundary of some hyperbolic buildings, Proc. Am. Math. Soc. 127 (1999) 2315.",
+    "journal-title": "Proc. Am. Math. Soc."
+   },
+   {
+    "doi-asserted-by": "crossref",
+    "unstructured": "L. Boyle, M. Dickens and F. Flicker, Conformal Quasicrystals and Holography, Phys. Rev. X 10 (2020) 011009 [arXiv:1805.02665] [INSPIRE].",
+    "key": "19532_CR5",
+    "DOI": "10.1103/PhysRevX.10.011009"
+   },
+   {
+    "doi-asserted-by": "crossref",
+    "unstructured": "M.R. Bridson and A. Haefliger, Metric Spaces of Non-Positive Curvature, (1999) Springer [DOI].",
+    "key": "19532_CR6",
+    "DOI": "10.1007/978-3-662-12494-9"
+   },
+   {
+    "doi-asserted-by": "crossref",
+    "unstructured": "L. Chen, X. Liu and L.-Y. Hung, Emergent Einstein Equation in p-adic Conformal Field Theory Tensor Networks, Phys. Rev. Lett. 127 (2021) 221602 [arXiv:2102.12022] [INSPIRE].",
+    "key": "19532_CR7",
+    "DOI": "10.1103/PhysRevLett.127.221602"
+   },
+   {
+    "unstructured": "A. Clais, Conformal dimension on boundary of right-angled hyperbolic buildings, arXiv:1602.08611.",
+    "key": "19532_CR8"
+   },
+   {
+    "unstructured": "N. Combe, Yu. Manin, M. Marcolli, Moufang Patterns and Geometry of Information, arXiv:2107.07486.",
+    "key": "19532_CR9"
+   },
+   {
+    "key": "19532_CR10",
+    "doi-asserted-by": "publisher",
+    "first-page": "241",
+    "DOI": "10.2140/pjm.1993.159.241",
+    "volume": "159",
+    "author": "M Coornaert",
+    "year": "1993",
+    "unstructured": "M. Coornaert, Mesures de Patterson-Sullivan sur le bord d\u2019un espace hyperbolique au sens de Gromov, Pacific J. Math. 159 (1993) 241.",
+    "journal-title": "Pacific J. Math."
+   },
+   {
+    "doi-asserted-by": "crossref",
+    "unstructured": "M. Coornaert, T. Delzant, A. Papadopoulos, G\u00e9om\u00e9trie et th\u00e9orie des groupes. Les groupes hyperboliques de Gromov, Lecture Notes in Mathematics 1441, Springer-Verlag (1990) [DOI].",
+    "key": "19532_CR11",
+    "DOI": "10.1007/BFb0084913"
+   },
+   {
+    "key": "19532_CR12",
+    "doi-asserted-by": "publisher",
+    "first-page": "199",
+    "DOI": "10.1112/plms/s3-65.1.199",
+    "volume": "s3-65",
+    "author": "JM Corson",
+    "year": "1992",
+    "unstructured": "J.M. Corson, Complexes of groups, Proc. Lond. Math. Soc. s3-65 (1992) 199.",
+    "journal-title": "Proc. Lond. Math. Soc."
+   },
+   {
+    "key": "19532_CR13",
+    "doi-asserted-by": "publisher",
+    "first-page": "293",
+    "DOI": "10.2307/2007079",
+    "volume": "117",
+    "author": "MW Davis",
+    "year": "1983",
+    "unstructured": "M.W. Davis, Groups generated by reflections and aspherical manifolds, Annals Math. 117 (1983) 293.",
+    "journal-title": "Annals Math."
+   },
+   {
+    "doi-asserted-by": "crossref",
+    "unstructured": "X. Dong and A. Lewkowycz, Entropy, Extremality, Euclidean Variations, and the Equations of Motion, JHEP 01 (2018) 081 [arXiv:1705.08453] [INSPIRE].",
+    "key": "19532_CR14",
+    "DOI": "10.1007/JHEP01(2018)081"
+   },
+   {
+    "key": "19532_CR15",
+    "doi-asserted-by": "publisher",
+    "first-page": "074",
+    "DOI": "10.1007/JHEP11(2013)074",
+    "volume": "11",
+    "author": "T Faulkner",
+    "year": "2013",
+    "unstructured": "T. Faulkner, A. Lewkowycz and J. Maldacena, Quantum corrections to holographic entanglement entropy, JHEP 11 (2013) 074 [arXiv:1307.2892] [INSPIRE].",
+    "journal-title": "JHEP"
+   },
+   {
+    "unstructured": "T. Faulkner, The holographic map as a conditional expectation, arXiv:2008.04810 [INSPIRE].",
+    "key": "19532_CR16"
+   },
+   {
+    "unstructured": "E. Gesteau and M.J. Kang, The infinite-dimensional HaPPY code: entanglement wedge reconstruction and dynamics, arXiv:2005.05971 [INSPIRE].",
+    "key": "19532_CR17"
+   },
+   {
+    "unstructured": "E. Gesteau and M.J. Kang, Thermal states are vital: Entanglement Wedge Reconstruction from Operator-Pushing, arXiv:2005.07189 [INSPIRE].",
+    "key": "19532_CR18"
+   },
+   {
+    "unstructured": "E. Gesteau and M.J. Kang, Nonperturbative gravity corrections to bulk reconstruction, arXiv:2112.12789 [INSPIRE].",
+    "key": "19532_CR19"
+   },
+   {
+    "key": "19532_CR20",
+    "doi-asserted-by": "publisher",
+    "first-page": "865",
+    "DOI": "10.1007/s00220-017-2904-z",
+    "volume": "354",
+    "author": "D Harlow",
+    "year": "2017",
+    "unstructured": "D. Harlow, The Ryu-Takayanagi Formula from Quantum Error Correction, Commun. Math. Phys. 354 (2017) 865 [arXiv:1607.03901] [INSPIRE].",
+    "journal-title": "Commun. Math. Phys."
+   },
+   {
+    "key": "19532_CR21",
+    "doi-asserted-by": "publisher",
+    "first-page": "591",
+    "DOI": "10.4310/ATMP.2021.v25.n3.a2",
+    "volume": "25",
+    "author": "M Heydeman",
+    "year": "2021",
+    "unstructured": "M. Heydeman, M. Marcolli, S. Parikh and I. Saberi, Nonarchimedean holographic entropy from networks of perfect tensors, Adv. Theor. Math. Phys. 25 (2021) 591 [arXiv:1812.04057] [INSPIRE].",
+    "journal-title": "Adv. Theor. Math. Phys."
+   },
+   {
+    "unstructured": "F. Huber and N. Wyderka, Table of AME states, http://www.tp.nt.uni-siegen.de/+fhuber/ame.html.",
+    "key": "19532_CR22"
+   },
+   {
+    "doi-asserted-by": "crossref",
+    "unstructured": "F. Huber, C. Eltschka, J. Siewert and O. G\u00fchne, Bounds on absolutely maximally entangled states from shadow inequalities, and the quantum MacWilliams identity, J. Phys. A 51 (2018) 175301.",
+    "key": "19532_CR23",
+    "DOI": "10.1088/1751-8121/aaade5"
+   },
+   {
+    "key": "19532_CR24",
+    "doi-asserted-by": "publisher",
+    "first-page": "555",
+    "DOI": "10.1007/s00014-003-0763-z",
+    "volume": "78",
+    "author": "T Januszkiewicz",
+    "year": "2003",
+    "unstructured": "T. Januszkiewicz and J. Swiatkowski, Hyperbolic Coxeter groups of large dimension, Comment. Math. Helv. 78 (2003) 555.",
+    "journal-title": "Comment. Math. Helv."
+   },
+   {
+    "unstructured": "M.J. Kang and D.K. Kolchmeyer, Holographic Relative Entropy in Infinite-dimensional Hilbert Spaces, arXiv:1811.05482 [INSPIRE].",
+    "key": "19532_CR25"
+   },
+   {
+    "key": "19532_CR26",
+    "doi-asserted-by": "publisher",
+    "first-page": "017",
+    "DOI": "10.1007/JHEP08(2019)017",
+    "volume": "08",
+    "author": "T Kohler",
+    "year": "2019",
+    "unstructured": "T. Kohler and T. Cubitt, Toy Models of Holographic Duality between local Hamiltonians, JHEP 08 (2019) 017 [arXiv:1810.08992] [INSPIRE].",
+    "journal-title": "JHEP"
+   },
+   {
+    "unstructured": "G. Moussong, Hyperbolic Coxeter groups, Ph.D. Thesis, Ohio State University, Columbus, U.S.A. (1988).",
+    "key": "19532_CR27"
+   },
+   {
+    "key": "19532_CR28",
+    "doi-asserted-by": "publisher",
+    "first-page": "149",
+    "DOI": "10.1007/JHEP06(2015)149",
+    "volume": "06",
+    "author": "F Pastawski",
+    "year": "2015",
+    "unstructured": "F. Pastawski, B. Yoshida, D. Harlow and J. Preskill, Holographic quantum error-correcting codes: Toy models for the bulk/boundary correspondence, JHEP 06 (2015) 149 [arXiv:1503.06237] [INSPIRE].",
+    "journal-title": "JHEP"
+   },
+   {
+    "unstructured": "H.O. Peitgen, H. J\u00fcrgens, D. Saupe, Chaos and Fractals, Springer (2014) [DOI].",
+    "key": "19532_CR29"
+   },
+   {
+    "key": "19532_CR30",
+    "doi-asserted-by": "publisher",
+    "first-page": "63",
+    "DOI": "10.4171/CMH/4",
+    "volume": "80",
+    "author": "L Potyagailo",
+    "year": "2005",
+    "unstructured": "L. Potyagailo and E. Vinberg, On right-angled reflection groups in hyperbolic spaces, Comment. Math. Helv. 80 (2005) 63.",
+    "journal-title": "Comment. Math. Helv."
+   },
+   {
+    "doi-asserted-by": "crossref",
+    "unstructured": "S. Ryu and T. Takayanagi, Holographic derivation of entanglement entropy from AdS/CFT, Phys. Rev. Lett. 96 (2006) 181602 [hep-th/0603001] [INSPIRE].",
+    "key": "19532_CR31",
+    "DOI": "10.1103/PhysRevLett.96.181602"
+   },
+   {
+    "doi-asserted-by": "crossref",
+    "unstructured": "A. Thomas, Lattices in hyperbolic buildings, Geometry, Topology and Dynamics in Negative Curvature 425, Cambridge Univeristy Press (2016), pp. 345\u2013363 [DOI].",
+    "key": "19532_CR32",
+    "DOI": "10.1017/CBO9781316275849.011"
+   },
+   {
+    "key": "19532_CR33",
+    "first-page": "68",
+    "volume": "47",
+    "author": "EB Vinberg",
+    "year": "1984",
+    "unstructured": "E.B. Vinberg, The non-existence of crystallographic reflection groups in Lobachevskii spaces of large dimension, Trudy Moskov. Mat. Obshch. 47 (1984) 68.",
+    "journal-title": "Trudy Moskov. Mat. Obshch."
+   },
+   {
+    "unstructured": "F. Zhu, Ergodicity and equidistribution in strictly convex Hilbert geometry, arXiv:2008.00328.",
+    "key": "19532_CR34"
+   }
+  ],
+  "container-title": [
+   "Journal of High Energy Physics"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+   {
+    "URL": "https://link.springer.com/content/pdf/10.1007/JHEP10(2022)169.pdf",
+    "content-type": "application/pdf",
+    "content-version": "vor",
+    "intended-application": "text-mining"
+   },
+   {
+    "URL": "https://link.springer.com/article/10.1007/JHEP10(2022)169/fulltext.html",
+    "content-type": "text/html",
+    "content-version": "vor",
+    "intended-application": "text-mining"
+   },
+   {
+    "URL": "https://link.springer.com/content/pdf/10.1007/JHEP10(2022)169.pdf",
+    "content-type": "application/pdf",
+    "content-version": "vor",
+    "intended-application": "similarity-checking"
+   }
+  ],
+  "deposited": {
+   "date-parts": [
+    [
+     2023,
+     1,
+     23
+    ]
+   ],
+   "date-time": "2023-01-23T22:35:16Z",
+   "timestamp": 1674513316000
+  },
+  "score": 1,
+  "resource": {
+   "primary": {
+    "URL": "https://link.springer.com/10.1007/JHEP10(2022)169"
+   }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+   "date-parts": [
+    [
+     2022,
+     10,
+     26
+    ]
+   ]
+  },
+  "references-count": 34,
+  "journal-issue": {
+   "issue": "10",
+   "published-online": {
+    "date-parts": [
+     [
+      2022,
+      10
+     ]
+    ]
+   }
+  },
+  "alternative-id": [
+   "19532"
+  ],
+  "URL": "https://doi.org/10.1007/jhep10(2022)169",
+  "relation": {},
+  "ISSN": [
+   "1029-8479"
+  ],
+  "issn-type": [
+   {
+    "type": "electronic",
+    "value": "1029-8479"
+   }
+  ],
+  "subject": [],
+  "published": {
+   "date-parts": [
+    [
+     2022,
+     10,
+     26
+    ]
+   ]
+  },
+  "assertion": [
+   {
+    "value": "4 May 2022",
+    "order": 1,
+    "name": "received",
+    "label": "Received",
+    "group": {
+     "name": "ArticleHistory",
+     "label": "Article History"
+    }
+   },
+   {
+    "value": "14 September 2022",
+    "order": 2,
+    "name": "revised",
+    "label": "Revised",
+    "group": {
+     "name": "ArticleHistory",
+     "label": "Article History"
+    }
+   },
+   {
+    "value": "8 October 2022",
+    "order": 3,
+    "name": "accepted",
+    "label": "Accepted",
+    "group": {
+     "name": "ArticleHistory",
+     "label": "Article History"
+    }
+   },
+   {
+    "value": "26 October 2022",
+    "order": 4,
+    "name": "first_online",
+    "label": "First Online",
+    "group": {
+     "name": "ArticleHistory",
+     "label": "Article History"
+    }
+   }
+  ],
+  "article-number": "169"
+ }
+}

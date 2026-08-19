@@ -1,0 +1,265 @@
+{
+ "doi": "10.1103/physrev.133.b1318",
+ "message": {
+  "indexed": {
+   "date-parts": [
+    [
+     2026,
+     7,
+     8
+    ]
+   ],
+   "date-time": "2026-07-08T14:57:18Z",
+   "timestamp": 1783522638494,
+   "version": "3.55.0"
+  },
+  "reference-count": 11,
+  "publisher": "American Physical Society (APS)",
+  "issue": "5B",
+  "license": [
+   {
+    "start": {
+     "date-parts": [
+      [
+       1964,
+       3,
+       9
+      ]
+     ],
+     "date-time": "1964-03-09T00:00:00Z",
+     "timestamp": -183513600000
+    },
+    "content-version": "vor",
+    "delay-in-days": 0,
+    "URL": "http://link.aps.org/licenses/aps-default-license"
+   }
+  ],
+  "content-domain": {
+   "domain": [],
+   "crossmark-restriction": false
+  },
+  "short-container-title": [
+   "Phys. Rev."
+  ],
+  "DOI": "10.1103/physrev.133.b1318",
+  "type": "journal-article",
+  "created": {
+   "date-parts": [
+    [
+     2002,
+     7,
+     27
+    ]
+   ],
+   "date-time": "2002-07-27T00:08:47Z",
+   "timestamp": 1027728527000
+  },
+  "page": "B1318-B1332",
+  "source": "Crossref",
+  "is-referenced-by-count": 600,
+  "title": [
+   "Feynman Rules for Any Spin"
+  ],
+  "prefix": "10.1103",
+  "volume": "133",
+  "author": [
+   {
+    "given": "Steven",
+    "family": "Weinberg",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "member": "16",
+  "published-online": {
+   "date-parts": [
+    [
+     1964,
+     3,
+     9
+    ]
+   ]
+  },
+  "reference": [
+   {
+    "key": "PhysRev.133.B1318Cc1R1",
+    "volume-title": "quantum field theory",
+    "author": "E. H. Wichmann"
+   },
+   {
+    "key": "PhysRev.133.B1318Cc3R1",
+    "doi-asserted-by": "crossref",
+    "first-page": "800",
+    "DOI": "10.1103/PhysRev.130.800",
+    "volume": "130",
+    "author": "J. Schwinger",
+    "year": "1963",
+    "journal-title": "Phys. Rev."
+   },
+   {
+    "key": "PhysRev.133.B1318Cc4R1",
+    "doi-asserted-by": "crossref",
+    "first-page": "716",
+    "DOI": "10.1103/PhysRev.58.716",
+    "volume": "58",
+    "author": "W. Pauli",
+    "year": "1940",
+    "journal-title": "Phys. Rev."
+   },
+   {
+    "key": "PhysRev.133.B1318Cc5R1",
+    "doi-asserted-by": "crossref",
+    "first-page": "149",
+    "DOI": "10.2307/1968551",
+    "volume": "40",
+    "author": "E. P. Wigner",
+    "year": "1939",
+    "journal-title": "Ann. Math."
+   },
+   {
+    "key": "PhysRev.133.B1318Cc6R1",
+    "volume-title": "Elementary Theory of Angular Momentum",
+    "author": "M. E. Rose",
+    "year": "1957"
+   },
+   {
+    "key": "PhysRev.133.B1318Cc9R1",
+    "doi-asserted-by": "crossref",
+    "first-page": "2139",
+    "DOI": "10.1103/PhysRev.125.2139",
+    "volume": "125",
+    "author": "H. Stapp",
+    "year": "1962",
+    "journal-title": "Phys. Rev."
+   },
+   {
+    "key": "PhysRev.133.B1318Cc9R2",
+    "doi-asserted-by": "crossref",
+    "first-page": "442",
+    "DOI": "10.1103/PhysRev.130.442",
+    "volume": "130",
+    "author": "A. O. Barut",
+    "year": "1963",
+    "journal-title": "Phys. Rev."
+   },
+   {
+    "key": "PhysRev.133.B1318Cc10R1",
+    "doi-asserted-by": "crossref",
+    "first-page": "607",
+    "DOI": "10.1007/BF02828775",
+    "volume": "8",
+    "author": "P. N. Burgoyne",
+    "year": "1958",
+    "journal-title": "Nuovo Cimento"
+   },
+   {
+    "key": "PhysRev.133.B1318Cc11R1",
+    "volume-title": "Quantum Field Theory",
+    "author": "H. Umezawa",
+    "year": "1956"
+   },
+   {
+    "key": "PhysRev.133.B1318Cc12R1",
+    "doi-asserted-by": "crossref",
+    "first-page": "571",
+    "DOI": "10.1007/BF02726388",
+    "volume": "14",
+    "author": "G. Feinberg",
+    "year": "1959",
+    "journal-title": "Nuovo Cimento"
+   },
+   {
+    "key": "PhysRev.133.B1318Cc15R1",
+    "volume-title": "Table of Integrals and Other Mathematical Data",
+    "author": "H. B. Dwight",
+    "year": "1961"
+   }
+  ],
+  "container-title": [
+   "Physical Review"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+   {
+    "URL": "http://link.aps.org/article/10.1103/PhysRev.133.B1318",
+    "content-type": "unspecified",
+    "content-version": "vor",
+    "intended-application": "syndication"
+   },
+   {
+    "URL": "http://harvest.aps.org/v2/journals/articles/10.1103/PhysRev.133.B1318/fulltext",
+    "content-type": "unspecified",
+    "content-version": "vor",
+    "intended-application": "similarity-checking"
+   }
+  ],
+  "deposited": {
+   "date-parts": [
+    [
+     2017,
+     6,
+     15
+    ]
+   ],
+   "date-time": "2017-06-15T05:33:35Z",
+   "timestamp": 1497504815000
+  },
+  "score": 1,
+  "resource": {
+   "primary": {
+    "URL": "https://link.aps.org/doi/10.1103/PhysRev.133.B1318"
+   }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+   "date-parts": [
+    [
+     1964,
+     3,
+     9
+    ]
+   ]
+  },
+  "references-count": 11,
+  "journal-issue": {
+   "issue": "5B",
+   "published-print": {
+    "date-parts": [
+     [
+      1964,
+      3
+     ]
+    ]
+   }
+  },
+  "URL": "https://doi.org/10.1103/physrev.133.b1318",
+  "relation": {},
+  "ISSN": [
+   "0031-899X"
+  ],
+  "issn-type": [
+   {
+    "value": "0031-899X",
+    "type": "print"
+   }
+  ],
+  "subject": [],
+  "published": {
+   "date-parts": [
+    [
+     1964,
+     3,
+     9
+    ]
+   ]
+  }
+ }
+}

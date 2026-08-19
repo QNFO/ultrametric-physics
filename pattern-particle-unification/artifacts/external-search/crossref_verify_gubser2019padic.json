@@ -1,0 +1,567 @@
+{
+ "doi": "10.1007/jhep04(2019)170",
+ "message": {
+  "indexed": {
+   "date-parts": [
+    [
+     2026,
+     6,
+     16
+    ]
+   ],
+   "date-time": "2026-06-16T02:43:47Z",
+   "timestamp": 1781577827956,
+   "version": "3.54.5"
+  },
+  "reference-count": 35,
+  "publisher": "Springer Science and Business Media LLC",
+  "issue": "4",
+  "license": [
+   {
+    "start": {
+     "date-parts": [
+      [
+       2019,
+       4,
+       1
+      ]
+     ],
+     "date-time": "2019-04-01T00:00:00Z",
+     "timestamp": 1554076800000
+    },
+    "content-version": "tdm",
+    "delay-in-days": 0,
+    "URL": "https://creativecommons.org/licenses/by/4.0/"
+   },
+   {
+    "start": {
+     "date-parts": [
+      [
+       2019,
+       4,
+       30
+      ]
+     ],
+     "date-time": "2019-04-30T00:00:00Z",
+     "timestamp": 1556582400000
+    },
+    "content-version": "vor",
+    "delay-in-days": 29,
+    "URL": "https://creativecommons.org/licenses/by/4.0/"
+   }
+  ],
+  "content-domain": {
+   "domain": [
+    "link.springer.com"
+   ],
+   "crossmark-restriction": false
+  },
+  "short-container-title": [
+   "J. High Energ. Phys."
+  ],
+  "published-print": {
+   "date-parts": [
+    [
+     2019,
+     4
+    ]
+   ]
+  },
+  "abstract": "<jats:title>A<jats:sc>bstract</jats:sc>\n          </jats:title>\n          <jats:p>The <jats:italic>p</jats:italic>-adic AdS/CFT correspondence relates a CFT living on the p-adic numbers to a system living on the Bruhat-Tits tree. Modifying our earlier proposal [1] for a tensor network realization of <jats:italic>p</jats:italic>-adic AdS/CFT, we prove that the path integral of a <jats:italic>p</jats:italic>-adic CFT is equivalent to a tensor network on the Bruhat-Tits tree, in the sense that the tensor network reproduces all correlation functions of the <jats:italic>p</jats:italic>-adic CFT. Our rules give an explicit tensor network for any <jats:italic>p</jats:italic>-adic CFT (as axiomatized by Melzer), and can be applied not only to the <jats:italic>p</jats:italic>-adic plane, but also to compute any correlation functions on higher genus <jats:italic>p</jats:italic>-adic curves. Finally, we apply them to define and study RG flows in <jats:italic>p</jats:italic>-adic CFTs, establishing in particular that any IR fixed point is itself a <jats:italic>p</jats:italic>-adic CFT.</jats:p>",
+  "DOI": "10.1007/jhep04(2019)170",
+  "type": "journal-article",
+  "created": {
+   "date-parts": [
+    [
+     2019,
+     4,
+     30
+    ]
+   ],
+   "date-time": "2019-04-30T18:33:50Z",
+   "timestamp": 1556649230000
+  },
+  "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 34,
+  "title": [
+   "p-adic CFT is a holographic tensor network"
+  ],
+  "prefix": "10.1007",
+  "volume": "2019",
+  "author": [
+   {
+    "given": "Ling-Yan",
+    "family": "Hung",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Wei",
+    "family": "Li",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Charles M.",
+    "family": "Melby-Thompson",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "member": "297",
+  "published-online": {
+   "date-parts": [
+    [
+     2019,
+     4,
+     30
+    ]
+   ]
+  },
+  "reference": [
+   {
+    "key": "10456_CR1",
+    "doi-asserted-by": "publisher",
+    "first-page": "139",
+    "DOI": "10.1007/JHEP01(2018)139",
+    "volume": "01",
+    "author": "A Bhattacharyya",
+    "year": "2018",
+    "unstructured": "A. Bhattacharyya, L.-Y. Hung, Y. Lei and W. Li, Tensor network and (p-adic) AdS/CFT, JHEP\n                           01 (2018) 139 [arXiv:1703.05445] [INSPIRE].",
+    "journal-title": "JHEP"
+   },
+   {
+    "key": "10456_CR2",
+    "first-page": "271",
+    "volume": "41",
+    "author": "A Ostrowski",
+    "year": "1916",
+    "unstructured": "A. Ostrowski, \u00dcber einige L\u00f6sungen der Funktionalgleichung, Acta Arith.\n                           41 (1916) 271.",
+    "journal-title": "Acta Arith."
+   },
+   {
+    "key": "10456_CR3",
+    "doi-asserted-by": "publisher",
+    "first-page": "186",
+    "DOI": "10.1016/0370-2693(87)91356-6",
+    "volume": "B 199",
+    "author": "PGO Freund",
+    "year": "1987",
+    "unstructured": "P.G.O. Freund and M. Olson, Nonarchimedean strings, Phys. Lett.\n                           B 199 (1987) 186 [INSPIRE].",
+    "journal-title": "Phys. Lett."
+   },
+   {
+    "key": "10456_CR4",
+    "doi-asserted-by": "publisher",
+    "first-page": "191",
+    "DOI": "10.1016/0370-2693(87)91357-8",
+    "volume": "B 199",
+    "author": "PGO Freund",
+    "year": "1987",
+    "unstructured": "P.G.O. Freund and E. Witten, Adelic string amplitudes, Phys. Lett.\n                           B 199 (1987) 191 [INSPIRE].",
+    "journal-title": "Phys. Lett."
+   },
+   {
+    "key": "10456_CR5",
+    "doi-asserted-by": "publisher",
+    "first-page": "365",
+    "DOI": "10.1016/0550-3213(88)90207-6",
+    "volume": "B 302",
+    "author": "L Brekke",
+    "year": "1988",
+    "unstructured": "L. Brekke, P.G.O. Freund, M. Olson and E. Witten, Nonarchimedean String Dynamics, Nucl. Phys.\n                           B 302 (1988) 365 [INSPIRE].",
+    "journal-title": "Nucl. Phys."
+   },
+   {
+    "key": "10456_CR6",
+    "doi-asserted-by": "publisher",
+    "first-page": "765",
+    "DOI": "10.1103/RevModPhys.58.765",
+    "volume": "58",
+    "author": "R Rammal",
+    "year": "1986",
+    "unstructured": "R. Rammal, G. Toulouse and M.A. Virasoro, Ultrametricity for physicists, Rev. Mod. Phys.\n                           58 (1986) 765 [INSPIRE].",
+    "journal-title": "Rev. Mod. Phys."
+   },
+   {
+    "key": "10456_CR7",
+    "doi-asserted-by": "crossref",
+    "unstructured": "L. Brekke and P.G.O. Freund, p-adic numbers in physics, Phys. Rept.\n                           233 (1993) 1 [INSPIRE].",
+    "DOI": "10.1016/0370-1573(93)90043-D"
+   },
+   {
+    "key": "10456_CR8",
+    "doi-asserted-by": "crossref",
+    "unstructured": "B. Dragovich, A.Y. Khrennikov, S.V. Kozyrev, I.V. Volovich and E.I. Zelenov, p-Adic Mathematical Physics: The First 30 Years, Anal. Appl.\n                           9 (2017) 87 [arXiv:1705.04758] [INSPIRE].",
+    "DOI": "10.1134/S2070046617020017"
+   },
+   {
+    "key": "10456_CR9",
+    "doi-asserted-by": "crossref",
+    "unstructured": "S.S. Gubser, J. Knaute, S. Parikh, A. Samberg and P. Witaszczyk, p-adic AdS/CFT, Commun. Math. Phys.\n                           352 (2017) 1019 [arXiv:1605.01061] [INSPIRE].",
+    "DOI": "10.1007/s00220-016-2813-6"
+   },
+   {
+    "key": "10456_CR10",
+    "doi-asserted-by": "publisher",
+    "first-page": "93",
+    "DOI": "10.4310/ATMP.2018.v22.n1.a4",
+    "volume": "22",
+    "author": "M Heydeman",
+    "year": "2018",
+    "unstructured": "M. Heydeman, M. Marcolli, I. Saberi and B. Stoica, Tensor networks, p-adic fields and algebraic curves: arithmetic and the AdS\n                           3/CFT\n                           2\n                           correspondence, Adv. Theor. Math. Phys.\n                           22 (2018) 93 [arXiv:1605.07639] [INSPIRE].",
+    "journal-title": "Adv. Theor. Math. Phys."
+   },
+   {
+    "key": "10456_CR11",
+    "doi-asserted-by": "crossref",
+    "unstructured": "F. Bruhat and J. Tits, Groupes r\u00e9ductifs sur un corps local, I. Donn\u00e9es radicielles valu\u00e9es, Publ. Math. IHES\n                           41 (1972) 5.",
+    "DOI": "10.1007/BF02715544"
+   },
+   {
+    "key": "10456_CR12",
+    "doi-asserted-by": "crossref",
+    "unstructured": "G. Vidal, Entanglement Renormalization, Phys. Rev. Lett.\n                           99 (2007) 220405 [cond-mat/0512165] [INSPIRE].",
+    "DOI": "10.1103/PhysRevLett.99.220405"
+   },
+   {
+    "key": "10456_CR13",
+    "doi-asserted-by": "crossref",
+    "unstructured": "M. Levin and C.P. Nave, Tensor renormalization group approach to 2D classical lattice models, Phys. Rev. Lett.\n                           99 (2007) 120601 [cond-mat/0611687] [INSPIRE].",
+    "DOI": "10.1103/PhysRevLett.99.120601"
+   },
+   {
+    "key": "10456_CR14",
+    "doi-asserted-by": "publisher",
+    "first-page": "180405",
+    "DOI": "10.1103/PhysRevLett.115.180405",
+    "volume": "115",
+    "author": "G Evenbly",
+    "year": "2015",
+    "unstructured": "G. Evenbly and G. Vidal, Tensor Network Renormalization, Phys. Rev. Lett.\n                           115 (2015) 180405 [arXiv:1412.0732].",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "10456_CR15",
+    "unstructured": "S. Yang, Z.-C. Gu and X.-G. Wen, Loop optimization for tensor network renormalization, arXiv:1512.04938."
+   },
+   {
+    "key": "10456_CR16",
+    "doi-asserted-by": "publisher",
+    "first-page": "250602",
+    "DOI": "10.1103/PhysRevLett.118.250602",
+    "volume": "118",
+    "author": "M Bal",
+    "year": "2017",
+    "unstructured": "M. Bal, M. Mari\u00ebn, J. Haegeman and F. Verstraete, Renormalization group flows of Hamiltonians using tensor networks, Phys. Rev. Lett.\n                           118 (2017) 250602 [arXiv:1703.00365] [INSPIRE].",
+    "journal-title": "Phys. Rev. Lett."
+   },
+   {
+    "key": "10456_CR17",
+    "volume": "D 86",
+    "author": "B Swingle",
+    "year": "2012",
+    "unstructured": "B. Swingle, Entanglement Renormalization and Holography, Phys. Rev.\n                           D 86 (2012) 065007 [arXiv:0905.1317] [INSPIRE].",
+    "journal-title": "Phys. Rev."
+   },
+   {
+    "key": "10456_CR18",
+    "doi-asserted-by": "publisher",
+    "first-page": "149",
+    "DOI": "10.1007/JHEP06(2015)149",
+    "volume": "06",
+    "author": "F Pastawski",
+    "year": "2015",
+    "unstructured": "F. Pastawski, B. Yoshida, D. Harlow and J. Preskill, Holographic quantum error-correcting codes: Toy models for the bulk/boundary correspondence, JHEP\n                           06 (2015) 149 [arXiv:1503.06237] [INSPIRE].",
+    "journal-title": "JHEP"
+   },
+   {
+    "key": "10456_CR19",
+    "doi-asserted-by": "publisher",
+    "first-page": "100",
+    "DOI": "10.1007/JHEP07(2016)100",
+    "volume": "07",
+    "author": "B Czech",
+    "year": "2016",
+    "unstructured": "B. Czech, L. Lamprou, S. McCandlish and J. Sully, Tensor Networks from Kinematic Space, JHEP\n                           07 (2016) 100 [arXiv:1512.01548] [INSPIRE].",
+    "journal-title": "JHEP"
+   },
+   {
+    "key": "10456_CR20",
+    "unstructured": "M. Heydeman, M. Marcolli, S. Parikh and I. Saberi, Nonarchimedean Holographic Entropy from Networks of Perfect Tensors, arXiv:1812.04057 [INSPIRE]."
+   },
+   {
+    "key": "10456_CR21",
+    "unstructured": "L.-Y. Hung, W. Li and C.M. Melby-Thompson, Wilson line networks in p-adic AdS/CFT, arXiv:1812.06059 [INSPIRE]."
+   },
+   {
+    "key": "10456_CR22",
+    "doi-asserted-by": "publisher",
+    "first-page": "4877",
+    "DOI": "10.1142/S0217751X89002065",
+    "volume": "A 4",
+    "author": "E Melzer",
+    "year": "1989",
+    "unstructured": "E. Melzer, Nonarchimedean conformal field theories, Int. J. Mod. Phys.\n                           A 4 (1989) 4877 [INSPIRE].",
+    "journal-title": "Int. J. Mod. Phys."
+   },
+   {
+    "key": "10456_CR23",
+    "first-page": "144004",
+    "volume": "A 52",
+    "author": "SS Gubser",
+    "year": "2019",
+    "unstructured": "S.S. Gubser, C. Jepsen and B. Trundy, Spin in p-adic AdS/CFT, J. Phys.\n                           A 52 (2019) 144004 [arXiv:1811.02538] [INSPIRE].",
+    "journal-title": "J. Phys."
+   },
+   {
+    "key": "10456_CR24",
+    "unstructured": "N. Koblitz, p-adic Numbers, p-adic Analysis and Zeta-Functions, 2 edition, Springer (1994)."
+   },
+   {
+    "key": "10456_CR25",
+    "volume": "D 96",
+    "author": "SS Gubser",
+    "year": "2017",
+    "unstructured": "S.S. Gubser and S. Parikh, Geodesic bulk diagrams on the Bruhat-Tits tree, Phys. Rev.\n                           D 96 (2017) 066024 [arXiv:1704.01149] [INSPIRE].",
+    "journal-title": "Phys. Rev."
+   },
+   {
+    "key": "10456_CR26",
+    "first-page": "129",
+    "volume": "24",
+    "author": "D Mumford",
+    "year": "1972",
+    "unstructured": "D. Mumford, An analytic construction of degenerating curves over complete local rings, Compos. Math.\n                           24 (1972) 129.",
+    "journal-title": "Compos. Math."
+   },
+   {
+    "key": "10456_CR27",
+    "doi-asserted-by": "publisher",
+    "first-page": "009",
+    "DOI": "10.1007/JHEP11(2016)009",
+    "volume": "11",
+    "author": "P Hayden",
+    "year": "2016",
+    "unstructured": "P. Hayden, S. Nezami, X.-L. Qi, N. Thomas, M. Walter and Z. Yang, Holographic duality from random tensor networks, JHEP\n                           11 (2016) 009 [arXiv:1601.01694] [INSPIRE].",
+    "journal-title": "JHEP"
+   },
+   {
+    "key": "10456_CR28",
+    "volume": "D 73",
+    "author": "A Hamilton",
+    "year": "2006",
+    "unstructured": "A. Hamilton, D.N. Kabat, G. Lifschytz and D.A. Lowe, Local bulk operators in AdS/CFT: A Boundary view of horizons and locality, Phys. Rev.\n                           D 73 (2006) 086003 [hep-th/0506118] [INSPIRE].",
+    "journal-title": "Phys. Rev."
+   },
+   {
+    "key": "10456_CR29",
+    "volume": "D 74",
+    "author": "A Hamilton",
+    "year": "2006",
+    "unstructured": "A. Hamilton, D.N. Kabat, G. Lifschytz and D.A. Lowe, Holographic representation of local bulk operators, Phys. Rev.\n                           D 74 (2006) 066009 [hep-th/0606141] [INSPIRE].",
+    "journal-title": "Phys. Rev."
+   },
+   {
+    "key": "10456_CR30",
+    "doi-asserted-by": "publisher",
+    "first-page": "89",
+    "DOI": "10.1016/0370-2693(86)90140-1",
+    "volume": "B 180",
+    "author": "A Achucarro",
+    "year": "1986",
+    "unstructured": "A. Achucarro and P.K. Townsend, A Chern-Simons Action for Three-Dimensional anti-de Sitter Supergravity Theories, Phys. Lett.\n                           B 180 (1986) 89 [INSPIRE].",
+    "journal-title": "Phys. Lett."
+   },
+   {
+    "key": "10456_CR31",
+    "doi-asserted-by": "crossref",
+    "unstructured": "E. Witten, (2 + 1)-Dimensional Gravity as an Exactly Soluble System, Nucl. Phys.\n                           B 311 (1988) 46 [INSPIRE].",
+    "DOI": "10.1016/0550-3213(88)90143-5"
+   },
+   {
+    "key": "10456_CR32",
+    "doi-asserted-by": "publisher",
+    "first-page": "066",
+    "DOI": "10.1007/JHEP09(2018)066",
+    "volume": "09",
+    "author": "A Castro",
+    "year": "2018",
+    "unstructured": "A. Castro, N. Iqbal and E. Llabr\u00e9s, Wilson lines and Ishibashi states in AdS\n                           3/CFT\n                           2, JHEP\n                           09 (2018) 066 [arXiv:1805.05398] [INSPIRE].",
+    "journal-title": "JHEP"
+   },
+   {
+    "key": "10456_CR33",
+    "doi-asserted-by": "publisher",
+    "first-page": "110",
+    "DOI": "10.1007/JHEP10(2013)110",
+    "volume": "10",
+    "author": "M Ammon",
+    "year": "2013",
+    "unstructured": "M. Ammon, A. Castro and N. Iqbal, Wilson Lines and Entanglement Entropy in Higher Spin Gravity, JHEP\n                           10 (2013) 110 [arXiv:1306.4338] [INSPIRE].",
+    "journal-title": "JHEP"
+   },
+   {
+    "key": "10456_CR34",
+    "doi-asserted-by": "publisher",
+    "first-page": "092",
+    "DOI": "10.1007/JHEP07(2017)092",
+    "volume": "07",
+    "author": "AL Fitzpatrick",
+    "year": "2017",
+    "unstructured": "A.L. Fitzpatrick, J. Kaplan, D. Li and J. Wang, Exact Virasoro Blocks from Wilson Lines and Background-Independent Operators, JHEP\n                           07 (2017) 092 [arXiv:1612.06385] [INSPIRE].",
+    "journal-title": "JHEP"
+   },
+   {
+    "key": "10456_CR35",
+    "doi-asserted-by": "publisher",
+    "first-page": "099",
+    "DOI": "10.1007/JHEP08(2016)099",
+    "volume": "08",
+    "author": "M Besken",
+    "year": "2016",
+    "unstructured": "M. Besken, A. Hegde, E. Hijano and P. Kraus, Holographic conformal blocks from interacting Wilson lines, JHEP\n                           08 (2016) 099 [arXiv:1603.07317] [INSPIRE].",
+    "journal-title": "JHEP"
+   }
+  ],
+  "container-title": [
+   "Journal of High Energy Physics"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+   {
+    "URL": "https://link.springer.com/content/pdf/10.1007/JHEP04(2019)170.pdf",
+    "content-type": "application/pdf",
+    "content-version": "vor",
+    "intended-application": "text-mining"
+   },
+   {
+    "URL": "https://link.springer.com/article/10.1007/JHEP04(2019)170/fulltext.html",
+    "content-type": "text/html",
+    "content-version": "vor",
+    "intended-application": "text-mining"
+   },
+   {
+    "URL": "https://link.springer.com/content/pdf/10.1007/JHEP04(2019)170.pdf",
+    "content-type": "application/pdf",
+    "content-version": "vor",
+    "intended-application": "similarity-checking"
+   }
+  ],
+  "deposited": {
+   "date-parts": [
+    [
+     2021,
+     9,
+     3
+    ]
+   ],
+   "date-time": "2021-09-03T11:42:30Z",
+   "timestamp": 1630669350000
+  },
+  "score": 1,
+  "resource": {
+   "primary": {
+    "URL": "https://link.springer.com/10.1007/JHEP04(2019)170"
+   }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+   "date-parts": [
+    [
+     2019,
+     4
+    ]
+   ]
+  },
+  "references-count": 35,
+  "journal-issue": {
+   "issue": "4",
+   "published-print": {
+    "date-parts": [
+     [
+      2019,
+      4
+     ]
+    ]
+   }
+  },
+  "alternative-id": [
+   "10456"
+  ],
+  "URL": "https://doi.org/10.1007/jhep04(2019)170",
+  "relation": {},
+  "ISSN": [
+   "1029-8479"
+  ],
+  "issn-type": [
+   {
+    "value": "1029-8479",
+    "type": "electronic"
+   }
+  ],
+  "subject": [],
+  "published": {
+   "date-parts": [
+    [
+     2019,
+     4
+    ]
+   ]
+  },
+  "assertion": [
+   {
+    "value": "1 March 2019",
+    "order": 1,
+    "name": "received",
+    "label": "Received",
+    "group": {
+     "name": "ArticleHistory",
+     "label": "Article History"
+    }
+   },
+   {
+    "value": "16 April 2019",
+    "order": 2,
+    "name": "accepted",
+    "label": "Accepted",
+    "group": {
+     "name": "ArticleHistory",
+     "label": "Article History"
+    }
+   },
+   {
+    "value": "30 April 2019",
+    "order": 3,
+    "name": "first_online",
+    "label": "First Online",
+    "group": {
+     "name": "ArticleHistory",
+     "label": "Article History"
+    }
+   }
+  ],
+  "article-number": "170"
+ }
+}
