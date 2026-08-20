@@ -5,9 +5,9 @@ affiliation: "QNFO"
 ORCID: "0009-0002-4317-5604"
 date: "2026-08-19"
 license: "cc-by-4.0"
-doi: "10.5281/zenodo.22022313"
+doi: "10.5281/zenodo.22024856"
 status: "published"
-version: "v0.4"
+version: "v0.5"
 ---
 
 ## Abstract
@@ -32,7 +32,7 @@ The Standard Model lists twelve fermions — six quarks (up, down, charm, strang
 
 ### 2.2 The condensed-matter catalog
 
-Condensed matter supplies excitations with environment-dependent properties. A phonon is a quantized lattice vibration; a magnon a quantized spin wave; an exciton a bound electron-hole pair; a Cooper pair the bound state underlying superconductivity [2,17,33]; a composite fermion the attached-flux object of the fractional quantum Hall effect [3,20]. Their effective masses are functions of the host material, temperature, doping, and fields. In two dimensions, braid statistics becomes possible: exchanging quasiparticles twice need not be trivial, and the exchange phase can be any root of unity. The Laughlin state at filling fraction $\nu = 1/3$ hosts quasiparticles with exchange phase $e^{i\pi/3}$ (encirclement phase $e^{2\pi i/3}$) [3]; the Moore-Read state at $\nu = 5/2$ hosts excitations whose statistics is described by matrices rather than phases [5,22]. Anyons of the abelian kind have topological spin $\theta = e^{2\pi i s}$ with fractional $s$ [4,20].
+Condensed matter supplies excitations with environment-dependent properties. A phonon is a quantized lattice vibration; a magnon a quantized spin wave; an exciton a bound electron-hole pair; a Cooper pair the bound state underlying superconductivity [2,17,33]; a composite fermion the attached-flux object of the fractional quantum Hall effect [3,20,35]. Their effective masses are functions of the host material, temperature, doping, and fields. In two dimensions, braid statistics becomes possible: exchanging quasiparticles twice need not be trivial, and the exchange phase can be any root of unity. The Laughlin state at filling fraction $\nu = 1/3$ hosts quasiparticles with exchange phase $e^{i\pi/3}$ (encirclement phase $e^{2\pi i/3}$) [3,34,38]; the Moore-Read state at $\nu = 5/2$ hosts excitations whose statistics is described by matrices rather than phases [5,22,40]. Anyons of the abelian kind have topological spin $\theta = e^{2\pi i s}$ with fractional $s$ [4,20,36,37].
 
 ### 2.3 The asymmetry
 
@@ -42,7 +42,7 @@ The Standard Model catalog is finite, elementary, and exact. The condensed-matte
 
 For a p-adic field $\mathbb{Q}_p$, the Bruhat-Tits tree is the building of $\mathrm{PGL}(2,\mathbb{Q}_p)$ [6]. Its vertices are the homothety classes of lattices in $\mathbb{Q}_p^2$; two vertices are adjacent when their lattices can be chosen to nest with index $p$. The tree is $(p+1)$-regular and infinite, and its ends correspond to the points of the projective line over $\mathbb{Q}_p$. An ultrametric hierarchy is a tree: distances arrange objects by their first point of difference, and the prime factorization of a rational number assigns it a path through the product of trees over all primes — the adelic object [6,23].
 
-Three facts make the tree a legitimate substrate rather than a metaphor. First, it carries the counting ontology: a particle with Compton count $N_C = m/m_P \in \mathbb{Q}^+$ has a definite position in the tree via its prime factorization [23]. Second, the tree is already physics in the independent literature: holographic tensor networks have been built on Bruhat-Tits trees and buildings [7,8,9,10,11,12,13,14,21], and the representation theory of the relevant groups is an active field [15,16]. Third, the tree's place structure is the natural home of the word "regime": choosing a completion of the rationals — an archimedean or a p-adic place — chooses which tree one is on, and passing to a ramified extension changes the tree's structure in a controlled way [6]. The regime dictionary of Section 6 will use exactly this structure.
+Three facts make the tree a legitimate substrate rather than a metaphor. First, it carries the counting ontology: a particle with Compton count $N_C = m/m_P \in \mathbb{Q}^+$ has a definite position in the tree via its prime factorization [23]. Second, the tree is already physics in the independent literature: holographic tensor networks have been built on Bruhat-Tits trees and buildings [7,8,9,10,11,12,13,14,21], and the representation theory of the relevant groups is an active field [15,16]. Within this research program, the tree's spectral dynamics and transport properties have been developed as physical subjects in their own right [47,48], on foundations that include adelic quantum field theory [54] and the convergence of Ostrowski's theorem with adelic quantum mechanics [55]. Third, the tree's place structure is the natural home of the word "regime": choosing a completion of the rationals — an archimedean or a p-adic place — chooses which tree one is on, and passing to a ramified extension changes the tree's structure in a controlled way [6]. The regime dictionary of Section 6 will use exactly this structure.
 
 ## 4. Statistics as a Tree-Automorphism Phase
 
@@ -52,7 +52,7 @@ The primitive content of spin-statistics is not the boson-fermion dichotomy but 
 
 $$R = e^{2\pi i s}$$
 
-In three spatial dimensions the exchange is involutive, so $s \in \{0, 1/2\}$ and $R = \pm 1$; the sign is fixed by Lorentz invariance and microcausality [1]. In 2+1 dimensions the spin-statistics theorem continues to hold for particles obeying braid statistics: the phase is still $e^{2\pi i s}$, with fractional $s$ permitted [4]. The same invariant therefore covers bosons, fermions, and abelian anyons; dimension enters only by quantizing the allowed values of $s$ [24]. A distinction-based calculus exhibits the same structure: the exchange phase is the $(2s)$-fold half-turn of the re-entrant mark, $R = (e^{i\pi})^{2s}$ [25].
+In three spatial dimensions the exchange is involutive, so $s \in \{0, 1/2\}$ and $R = \pm 1$; the sign is fixed by Lorentz invariance and microcausality [1]. In 2+1 dimensions the spin-statistics theorem continues to hold for particles obeying braid statistics: the phase is still $e^{2\pi i s}$, with fractional $s$ permitted [4]. The braid-group statistics of quantum field theory, including its exchange algebras, was established in the superselection-sector program [41]. The same invariant therefore covers bosons, fermions, and abelian anyons; dimension enters only by quantizing the allowed values of $s$ [24]. A distinction-based calculus exhibits the same structure: the exchange phase is the $(2s)$-fold half-turn of the re-entrant mark, $R = (e^{i\pi})^{2s}$ [25].
 
 ### 4.2 The category is the parameter
 
@@ -80,7 +80,7 @@ The node class is one of three: edge (fermionic — the traversal picks up a hal
 | W and Z bosons | 1 | $+1$ | vertex | unramified |
 | Higgs scalar | 0 | $+1$ | vertex or composite | unramified |
 
-The neutrino rows carry an open question: if neutrinos are Majorana, their node class differs from the Dirac reading; the table does not adjudicate this. The Higgs row carries a similar openness: the elementary reading assigns a vertex class, the composite reading assigns a rational-function node, and both are consistent with the statistics phase $+1$. The framework records the ambiguity and does not resolve it.
+The neutrino rows carry an open question: if neutrinos are Majorana, their node class differs from the Dirac reading; the table does not adjudicate this, though the topological fermion distinction is the subject of an in-program investigation [52,53]. The Higgs row carries a similar openness: the elementary reading assigns a vertex class, the composite reading assigns a rational-function node, and both are consistent with the statistics phase $+1$. The framework records the ambiguity and does not resolve it.
 
 ### 5.2 Condensed-matter sector
 
@@ -98,7 +98,11 @@ The anyon rows are restricted to abelian anyons: their phases are roots of unity
 
 ### 5.3 Status of the table
 
-For every known entry, the assignments above recapitulate established results: the phases are the phases of the spin-statistics theorem [1,4], the composite nodes are the standard quasiparticles [17,27], the anyon phases are the standard Laughlin phases [3,20]. The table's value is not that it fits what is known; any framework with enough labels can fit a finite list. Its value is that the address scheme was fixed in advance, with two allowed transformations and no others, so that future entries — excitations not yet characterized — can be tested against it. The evidential weight of the scheme accrues only from those future entries.
+For every known entry, the assignments above recapitulate established results: the phases are the phases of the spin-statistics theorem [1,4], the composite nodes are the standard quasiparticles [17,27], the anyon phases are the standard Laughlin phases [3,20,34,38]. The table's value is not that it fits what is known; any framework with enough labels can fit a finite list. Its value is that the address scheme was fixed in advance, with two allowed transformations and no others, so that future entries — excitations not yet characterized — can be tested against it. The evidential weight of the scheme accrues only from those future entries.
+
+### 5.4 First tests: the moiré fractional Chern insulators
+
+The address scheme was pre-registered before its first test set became available: the fractional quantum anomalous Hall states observed in twisted bilayer MoTe2 at fillings $\nu = -2/3$ and $-3/5$ [42], in the same platform at $\nu = 1$ and $2/3$ [43] and at $\nu = 1/3$ [44], and in pentalayer graphene [45]. Under the scheme, an abelian anyon system at filling $\nu = 1/m$ carries a ramified-branch node with exchange phase $e^{i\pi/m}$; for $\nu = 1/3$ this is the Laughlin phase $e^{i\pi/3}$ [34], and the $\nu = 2/3$ state is its particle-hole conjugate in the same denominator-3 family. The observed fillings and quantized Hall conductances are consistent with these assignments. The scheme claims no new prediction here — the phases of these states are established results — but it records them as the first live entries tested against the pre-registered dictionary rather than assembled after the fact, and the moiré characterization literature already speaks the dictionary's language (anyon halos, stretched-exponential splitting [51]). The pre-registered test condition stands: a measured statistics phase outside the root-of-unity set would be the first disconfirmation.
 
 ## 6. The Regime Dictionary
 
@@ -117,13 +121,13 @@ A quasiparticle's effective mass depends on its environment; in the counting ont
 
 $$N_C^*(\alpha) = f(N_C^{\text{bare}}, N_C^{\text{lattice}}, \ldots)$$
 
-This is the precise sense in which a quasiparticle is a composite node: its address is computed from the addresses of its constituents and its host. The reading is scoped. It holds for weakly interacting composites — band electrons, phonons, excitons, Cooper pairs in the weak-coupling regime. It does not hold for strongly correlated scales: the BCS gap is exponentially suppressed in the inverse coupling, $\Delta \propto \omega_D e^{-1/N(0)V}$ [2], and heavy-fermion masses inherit an exponential scale. Those regimes are outside the rational-function reading, and the framework says so rather than absorbing them.
+This is the precise sense in which a quasiparticle is a composite node: its address is computed from the addresses of its constituents and its host. The reading is scoped. It holds for weakly interacting composites — band electrons, phonons, excitons, Cooper pairs in the weak-coupling regime. It does not hold for strongly correlated scales: the BCS gap is exponentially suppressed in the inverse coupling, $\Delta \propto \omega_D e^{-1/N(0)V}$ [2], and heavy-fermion masses inherit an exponential scale. Those regimes are outside the rational-function reading, and the framework says so rather than absorbing them. The exemption is drawn at the boundary where the rational-function reading is known to fail; the strongly correlated regime is the subject of a dedicated literature of its own, including structural analyses of Planckian dissipation and of superconducting phenomenology [49,50].
 
 ## 8. Epistemic Status
 
 The paper's premises end at five named inputs, none derived here: the Compton count as the only primitive [23]; the Bruhat-Tits tree as the state-space geometry [6,23,31,32]; the exchange-phase invariant $R = e^{2\pi i s}$ for spin-statistics [24,25,26]; the rational-function reading of quasiparticle masses [27]; and the p-adic braid phases of abelian anyons [28,29,30]. The derived content is the assembly: the unified table of Section 5, the regime dictionary of Section 6, and the falsifiability conditions of Section 9.
 
-Three honest limits follow. First, for every known entry the table is a retrodiction in the strict sense: it reorganizes established results, and it claims no more. Second, the framework does not re-derive the spin-statistics theorem; in three dimensions the phases are forced by Lorentz invariance and microcausality without any tree [1], and in 2+1 dimensions by the anyon spin-statistics theorem [4]. What the tree contributes is a single parameter that selects which statistical setting applies — the same parameter that separates free particles from dressed excitations. Third, the non-abelian regime is open, and the Higgs question is recorded but not adjudicated. A reader who holds that the two catalogs are unrelated is holding the null hypothesis; the paper's task is to make the alternative precise enough to be tested.
+Three honest limits follow. First, for every known entry the table is a retrodiction in the strict sense: it reorganizes established results, and it claims no more. Second, the framework does not re-derive the spin-statistics theorem; in three dimensions the phases are forced by Lorentz invariance and microcausality without any tree [1], and in 2+1 dimensions by the anyon spin-statistics theorem [4]. What the tree contributes is a single parameter that selects which statistical setting applies — the same parameter that separates free particles from dressed excitations. Third, the non-abelian regime is open, and the Higgs question is recorded but not adjudicated. The open non-abelian question connects to the program of ultrametric quantum computation and the Langlands correspondence [46], where braid-data representations on p-adic structures are already under study. A reader who holds that the two catalogs are unrelated is holding the null hypothesis; the paper's task is to make the alternative precise enough to be tested.
 
 ## 9. Falsifiability Conditions
 
@@ -138,13 +142,13 @@ These conditions are the same ones that bound the framework's claims in Sections
 
 ## 10. What a Practitioner Can Do With This
 
-Four concrete uses follow from the table, each stated in engineering terms.
+Four concrete uses follow from the table, each stated in engineering terms. Post-particle computation paradigms developed in this research program provide the broader engineering context for these tools [56].
 
-**1. Excitation classifier.** Given a measured excitation — its statistics phase (from interferometry or transport), its mass or effective mass, and its composition — the address scheme returns a tree address and a catalog match. A practitioner characterizing a new fractional quantum Hall plateau or a new moire material can run the excitation through the scheme and read off whether its address is consistent with the table or falls outside it (condition 3). The implementation is a lookup table plus a braid-phase calculator: phases are computed as roots of unity from the filling fraction, and the node class from the effective-mass ratio.
+**1. Excitation classifier.** Given a measured excitation — its statistics phase (from interferometry or transport), its mass or effective mass, and its composition — the address scheme returns a tree address and a catalog match. A practitioner characterizing a new fractional quantum Hall plateau or a new moiré material can run the excitation through the scheme and read off whether its address is consistent with the table or falls outside it (condition 3); the moiré anyon-halo characterization literature already provides the measurement dictionary [51]. The implementation is a lookup table plus a braid-phase calculator: phases are computed as roots of unity from the filling fraction, and the node class from the effective-mass ratio.
 
 **2. Cross-catalog spec sheet.** The table doubles as a translation dictionary between the two catalogs: the photon and the phonon are both vertex nodes at their respective places; the Cooper pair and the composite Higgs are both composite nodes; the electron and the quasielectron are the same edge class, dressed at the ramified place. A materials modeler can use the dictionary to transfer intuition between quantum optics and lattice dynamics, and an educator can teach one table instead of two ontologies.
 
-**3. Topological-quantum-computing benchmark.** The anyon rows of the table form a braid-phase specification: abelian anyon phases are roots of unity fixed by the filling fraction, complementing the tenfold-way classification of topological phases [19]. A topological quantum computing platform that claims an abelian anyon phase outside this set contradicts the table; a platform whose braid phases match it passes a necessary condition. The table is a checkable spec, not a theory of the platform.
+**3. Topological-quantum-computing benchmark.** The anyon rows of the table form a braid-phase specification: abelian anyon phases are roots of unity fixed by the filling fraction, complementing the tenfold-way classification of topological phases [19]. A topological quantum computing platform that claims an abelian anyon phase outside this set contradicts the table; a platform whose braid phases match it passes a necessary condition. The canonical architecture for fault-tolerant quantum computation with anyons is Kitaev's [39], and the non-abelian case is reviewed in [40]. The table is a checkable spec, not a theory of the platform.
 
 **4. Diagrammatic extension.** The regime dictionary parameterizes the diagrammatic gap: the braided setting is exactly the extension a crossing calculus needs beyond the symmetric case [4,26]. A practitioner working on diagrammatic quantum computing can use the place parameter as the switch between the symmetric and braided semantics.
 
@@ -241,3 +245,49 @@ The Standard Model's particles and the condensed-matter catalog of quasiparticle
 [32] R. B. Quni-Gudzinas, "The Adelic Cross-Domain Program v5.0: From the Fine-Structure Constant to the Standard Model Mass Spectrum via Bruhat-Tits Trees," Zenodo (2026). doi:10.5281/zenodo.21691414
 
 [33] R. B. Quni-Gudzinas, "Signal-Worker Boundary Confinement: A Corrected Ontology of Surface vs Bulk Transport," Zenodo (2026). doi:10.5281/zenodo.21974194
+
+[34] D. Arovas, J. R. Schrieffer, F. Wilczek, "Fractional Statistics and the Quantum Hall Effect," Physical Review Letters 53 (1984) 722. doi:10.1103/physrevlett.53.722
+
+[35] J. K. Jain, "Composite-fermion approach for the fractional quantum Hall effect," Physical Review Letters 63 (1989) 199. doi:10.1103/physrevlett.63.199
+
+[36] J. M. Leinaas, J. Myrheim, "On the theory of identical particles," Il Nuovo Cimento B 37 (1977) 1. doi:10.1007/bf02727953
+
+[37] F. Wilczek, "Quantum Mechanics of Fractional-Spin Particles," Physical Review Letters 49 (1982) 957. doi:10.1103/physrevlett.49.957
+
+[38] B. I. Halperin, "Statistics of Quasiparticles and the Hierarchy of Fractional Quantized Hall States," Physical Review Letters 52 (1984) 1583. doi:10.1103/physrevlett.52.1583
+
+[39] A. Yu. Kitaev, "Fault-tolerant quantum computation by anyons," Annals of Physics 303 (2003) 2. doi:10.1016/s0003-4916(02)00018-0
+
+[40] C. Nayak, S. H. Simon, A. Stern, M. Freedman, S. Das Sarma, "Non-Abelian anyons and topological quantum computation," Reviews of Modern Physics 80 (2008) 1083. doi:10.1103/revmodphys.80.1083
+
+[41] K. Fredenhagen, K. H. Rehren, B. Schroer, "Superselection sectors with braid group statistics and exchange algebras," Communications in Mathematical Physics 125 (1989) 201. doi:10.1007/bf01217906
+
+[42] J. Cai et al., "Signatures of Fractional Quantum Anomalous Hall States in Twisted MoTe2 Bilayer," arXiv:2304.08470 (2023).
+
+[43] Y. Zeng et al., "Integer and fractional Chern insulators in twisted bilayer MoTe2," arXiv:2305.00973 (2023).
+
+[44] H. Park et al., "Observation of fractionally quantized anomalous Hall effect," arXiv:2309.05713 (2023).
+
+[45] Z. Lu et al., "Fractional quantum anomalous Hall effect in multilayer graphene," arXiv:2309.17436 (2024).
+
+[46] R. B. Quni-Gudzinas, "Ultrametric Quantum Computation and the Langlands Program," Zenodo (2026). doi:10.5281/zenodo.20036379
+
+[47] QNFO, "Spectral Dynamics on Bruhat-Tits Trees," QNFO living-paper record (2026).
+
+[48] QNFO, "Bruhat-Tits Tree as a Unifying Geometric Object," QNFO living-paper record (2026).
+
+[49] QNFO, "Structural Mediation of Planckian Dissipation in Strongly Correlated Electron Systems," QNFO living-paper record (2026).
+
+[50] QNFO, "Superconductivity Quadrangle," QNFO living-paper record (2026).
+
+[51] R. B. Quni-Gudzinas, "Operationalizing Generalized Symmetries: A Falsifiable Dictionary for Anyon Halos and Stretched Exponential Splitting in Moire Superlattices," Zenodo (2026). doi:10.5281/zenodo.18199397
+
+[52] R. B. Quni-Gudzinas, "Vanishing ZBW Signal: The ZBW-Majorana Hypothesis as a Unified Framework for Topological Fermion Distinction," Zenodo (2026). doi:10.5281/zenodo.21574555
+
+[53] R. B. Quni-Gudzinas, "Bruhat-Tits Readout Protocol: Measuring the ZBW Z2 Invariant in Majorana Systems," Zenodo (2026). doi:10.5281/zenodo.21336081
+
+[54] R. B. Quni-Gudzinas, "Adelic Core Synthesis: Cross-Domain Foundations of Adelic QFT," Zenodo (2026). doi:10.5281/zenodo.21786473
+
+[55] R. B. Quni-Gudzinas, "Consilience Between Physics and Number Theory: Convergent Theses from Ostrowski's Theorem to Adelic Quantum Mechanics," Zenodo (2026). doi:10.5281/zenodo.21590155
+
+[56] QNFO, "Beyond the Qubit: Constructive Paradigms for Post-Particle Computation," QNFO living-paper record (2026).
