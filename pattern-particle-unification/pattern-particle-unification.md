@@ -5,9 +5,9 @@ affiliation: "QNFO"
 ORCID: "0009-0002-4317-5604"
 date: "2026-08-19"
 license: "cc-by-4.0"
-doi: "10.5281/zenodo.22018244"
+doi: "10.5281/zenodo.22022313"
 status: "published"
-version: "v0.3"
+version: "v0.4"
 ---
 
 ## Abstract
@@ -32,7 +32,7 @@ The Standard Model lists twelve fermions — six quarks (up, down, charm, strang
 
 ### 2.2 The condensed-matter catalog
 
-Condensed matter supplies excitations with environment-dependent properties. A phonon is a quantized lattice vibration; a magnon a quantized spin wave; an exciton a bound electron-hole pair; a Cooper pair the bound state underlying superconductivity [2,17]; a composite fermion the attached-flux object of the fractional quantum Hall effect [3,20]. Their effective masses are functions of the host material, temperature, doping, and fields. In two dimensions, braid statistics becomes possible: exchanging quasiparticles twice need not be trivial, and the exchange phase can be any root of unity. The Laughlin state at filling fraction $\nu = 1/3$ hosts quasiparticles with exchange phase $e^{i\pi/3}$ (encirclement phase $e^{2\pi i/3}$) [3]; the Moore-Read state at $\nu = 5/2$ hosts excitations whose statistics is described by matrices rather than phases [5,22]. Anyons of the abelian kind have topological spin $\theta = e^{2\pi i s}$ with fractional $s$ [4,20].
+Condensed matter supplies excitations with environment-dependent properties. A phonon is a quantized lattice vibration; a magnon a quantized spin wave; an exciton a bound electron-hole pair; a Cooper pair the bound state underlying superconductivity [2,17,33]; a composite fermion the attached-flux object of the fractional quantum Hall effect [3,20]. Their effective masses are functions of the host material, temperature, doping, and fields. In two dimensions, braid statistics becomes possible: exchanging quasiparticles twice need not be trivial, and the exchange phase can be any root of unity. The Laughlin state at filling fraction $\nu = 1/3$ hosts quasiparticles with exchange phase $e^{i\pi/3}$ (encirclement phase $e^{2\pi i/3}$) [3]; the Moore-Read state at $\nu = 5/2$ hosts excitations whose statistics is described by matrices rather than phases [5,22]. Anyons of the abelian kind have topological spin $\theta = e^{2\pi i s}$ with fractional $s$ [4,20].
 
 ### 2.3 The asymmetry
 
@@ -42,7 +42,7 @@ The Standard Model catalog is finite, elementary, and exact. The condensed-matte
 
 For a p-adic field $\mathbb{Q}_p$, the Bruhat-Tits tree is the building of $\mathrm{PGL}(2,\mathbb{Q}_p)$ [6]. Its vertices are the homothety classes of lattices in $\mathbb{Q}_p^2$; two vertices are adjacent when their lattices can be chosen to nest with index $p$. The tree is $(p+1)$-regular and infinite, and its ends correspond to the points of the projective line over $\mathbb{Q}_p$. An ultrametric hierarchy is a tree: distances arrange objects by their first point of difference, and the prime factorization of a rational number assigns it a path through the product of trees over all primes — the adelic object [6,23].
 
-Three facts make the tree a legitimate substrate rather than a metaphor. First, it carries the counting ontology: a particle with Compton count $N_C = m/m_P \in \mathbb{Q}^+$ has a definite position in the tree via its prime factorization [23]. Second, the tree is already physics in the independent literature: holographic tensor networks have been built on Bruhat-Tits trees and buildings [7,8,9,10,11,12,21], and the representation theory of the relevant groups is an active field [15,16]. Third, the tree's place structure is the natural home of the word "regime": choosing a completion of the rationals — an archimedean or a p-adic place — chooses which tree one is on, and passing to a ramified extension changes the tree's structure in a controlled way [6]. The regime dictionary of Section 6 will use exactly this structure.
+Three facts make the tree a legitimate substrate rather than a metaphor. First, it carries the counting ontology: a particle with Compton count $N_C = m/m_P \in \mathbb{Q}^+$ has a definite position in the tree via its prime factorization [23]. Second, the tree is already physics in the independent literature: holographic tensor networks have been built on Bruhat-Tits trees and buildings [7,8,9,10,11,12,13,14,21], and the representation theory of the relevant groups is an active field [15,16]. Third, the tree's place structure is the natural home of the word "regime": choosing a completion of the rationals — an archimedean or a p-adic place — chooses which tree one is on, and passing to a ramified extension changes the tree's structure in a controlled way [6]. The regime dictionary of Section 6 will use exactly this structure.
 
 ## 4. Statistics as a Tree-Automorphism Phase
 
@@ -144,7 +144,7 @@ Four concrete uses follow from the table, each stated in engineering terms.
 
 **2. Cross-catalog spec sheet.** The table doubles as a translation dictionary between the two catalogs: the photon and the phonon are both vertex nodes at their respective places; the Cooper pair and the composite Higgs are both composite nodes; the electron and the quasielectron are the same edge class, dressed at the ramified place. A materials modeler can use the dictionary to transfer intuition between quantum optics and lattice dynamics, and an educator can teach one table instead of two ontologies.
 
-**3. Topological-quantum-computing benchmark.** The anyon rows of the table form a braid-phase specification: abelian anyon phases are roots of unity fixed by the filling fraction. A topological quantum computing platform that claims an abelian anyon phase outside this set contradicts the table; a platform whose braid phases match it passes a necessary condition. The table is a checkable spec, not a theory of the platform.
+**3. Topological-quantum-computing benchmark.** The anyon rows of the table form a braid-phase specification: abelian anyon phases are roots of unity fixed by the filling fraction, complementing the tenfold-way classification of topological phases [19]. A topological quantum computing platform that claims an abelian anyon phase outside this set contradicts the table; a platform whose braid phases match it passes a necessary condition. The table is a checkable spec, not a theory of the platform.
 
 **4. Diagrammatic extension.** The regime dictionary parameterizes the diagrammatic gap: the braided setting is exactly the extension a crossing calculus needs beyond the symmetric case [4,26]. A practitioner working on diagrammatic quantum computing can use the place parameter as the switch between the symmetric and braided semantics.
 
@@ -168,7 +168,7 @@ The Standard Model's particles and the condensed-matter catalog of quasiparticle
 
 **Use of artificial intelligence.** This paper was authored by the named human author with AI assistance for drafting and verification.
 
-**Provenance of named inputs.** Inputs [23]-[32] are prior work in the same research program; inputs [1]-[22] are external literature. All bibliographic entries were verified against live registry metadata at the time of writing.
+**Provenance of named inputs.** Inputs [23]-[33] are prior work in the same research program; inputs [1]-[22] are external literature. All bibliographic entries were verified against live registry metadata at the time of writing.
 
 **Prior publication.** An earlier version of this assembly (v0.1, DOI 10.5281/zenodo.22017149) was published on 2026-08-19 and is superseded by the present version.
 
@@ -214,7 +214,7 @@ The Standard Model's particles and the condensed-matter catalog of quasiparticle
 
 [19] S. Ryu, A. P. Schnyder, A. Furusaki, A. W. W. Ludwig, "Topological insulators and superconductors: tenfold way and dimensional hierarchy," New Journal of Physics 12 (2010) 065010. doi:10.1088/1367-2630/12/6/065010
 
-[20] F. Wilczek, "Anyons and the Fractional Quantum Hall Effect," Lecture Notes in Physics Monographs 68 (1992). doi:10.1007/978-3-540-47466-1_8
+[20] A. Lerda, "Anyons and the Fractional Quantum Hall Effect," in *Anyons*, Lecture Notes in Physics Monographs 68 (1992). doi:10.1007/978-3-540-47466-1_8
 
 [21] M. Marcolli, "Holographic codes on Bruhat-Tits buildings and Drinfeld symmetric spaces," Pure and Applied Mathematics Quarterly 16 (2020) 1. doi:10.4310/pamq.2020.v16.n1.a1
 
