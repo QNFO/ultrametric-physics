@@ -25,7 +25,7 @@
 - 10.4310/atmp.2017.v21.n7.a3 → Gubser (NOT Denef)
 - 10.1088/1751-8121/ab0757 → Gubser, Jepsen, Trundy (key fixed)
 - 10.1088/1367-2630/12/6/065010 → Ryu, Schnyder, Furusaki et al. (NOT Chiu)
-- wilczek1992anyons: Crossref has no chapter author → editor field used (volume 68, Lecture Notes in Physics Monographs) — no fabricated author.
+- lerda1992anyons (was wilczek1992anyons): Crossref chapter record (10.1007/978-3-540-47466-1_8) has no author/editor; parent volume 10.1007/978-3-540-47466-1 = "Anyons" by Alberto Lerda (LNP Monographs 68, 1992) — author corrected to the Crossref-attested volume author in v0.4 (round-3 red-team finding S-5); no fabricated author.
 
 ## 3. Duplicate check (P3.AUTHOR-GATE rule 5)
 
