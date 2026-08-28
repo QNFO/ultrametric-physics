@@ -16,7 +16,7 @@ author: "Rowan Brad Quni-Gudzinas"
 
 - **v1 (2026-08-28):** locked "the p-adic observable program" (α as a p-adic length ratio; RS-1 137-coincidence evaluation; anisotropic α test).
 - **v2 (2026-08-28):** superseded by user directive — *"NO, WE'VE ALREADY TESTED P-ADIC STRUCTURES AND ALL FAILED TO BE SIGNIFICANT. WHAT ABOUT DISTINCTION-BASED ULTRAMETRIC FORMULA?"* — and by the three-slot red-team audit (READ-ONLY): Completeness HARD-1 (the null ledger was never confronted) and HARD-2 (the distinction formula is already the program's primitive) are fixed on the record below; Dependency SOFT S2 (the RS-1 rosetta artifact has no durable home) is resolved by removing the RS-1 dependency from the claim.
-- Disposition of the v1 claim: retired by directive. The Accuracy reviewer confirmed the α length-ratio claim was never executed and sits outside every falsified class; the empirical base rate of the p-adic-signature class is nonetheless 100% nulls (§3), which is the directive's ground. The v1 claim remains an untested, deprioritized idea, not a falsified one — recorded as such.
+- Disposition of the v1 claim: retired by directive. The Accuracy reviewer confirmed the α length-ratio claim was never executed and sits outside every falsified class; the empirical base rate of the p-adic-signature class is nonetheless 100% nulls (§2), which is the directive's ground. The v1 claim remains an untested, deprioritized idea, not a falsified one — recorded as such.
 
 ## 1. Core claim (LOCKED)
 
@@ -32,11 +32,11 @@ What was tested against p-adic/ultrametric structure in physical systems, and fa
 
 1. CMB log-periodic — certified radix-agnostic null, Planck 2018, p = 0.89 — 10.5281/zenodo.21902891
 2. CMB bispectrum — upper bounds only, no signal — 10.5281/zenodo.21901664
-3. FMO coupling matrix — **anti**-ultrametric (cophenetic 0.426, p = 0.984); exact-clustering null (p = 0.598)
-4. PW-WDW — strict ultrametricity falsified for generic clock-rest coupling (29–35% violation, 8,000 sims)
-5. Ultrametric-QEC — independent-error threshold 2.0×10⁻⁴, ~55× below the surface-code threshold
+3. FMO coupling matrix — **anti**-ultrametric (cophenetic 0.426, p = 0.984); exact-clustering null (p = 0.598) — named program-level in the register 10.5281/zenodo.22025544; no standalone corpus record (memory Disconfirming Registry, 2026-07-17)
+4. PW-WDW — strict ultrametricity falsified for generic clock-rest coupling (29–35% violation, 8,000 sims) — 10.5281/zenodo.21120286
+5. Ultrametric-QEC — independent-error threshold 2.0e-4 (~55× below the surface-code threshold) — register §2; ultrametric-quantum corpus record
 6. Compton cross-ratios — pre-registered adelic search over the SM mass spectrum: 1 weak hint in 15 tests, null not rejected — 10.5281/zenodo.21485556
-7. A1 anharmonic mass ladder — pre-registered null; harmonic-paradigm retraction
+7. A1 anharmonic mass ladder — pre-registered null; harmonic-paradigm retraction — 10.5281/zenodo.21529948 (adelic-particle-spectrum record; C1 falsified by pre-registered null)
 
 **Inside/outside mapping:** all seven target the p-adic *realization's* empirical signatures in physical systems (the H3 family). Components (i)–(ii) of the claim are definitional/structural — not in the falsified class. Component (iii) (H1) has never been tested on external data; it is the surviving empirical claim and the 2028-decision-relevant test. Any P4 draft must carry this ledger verbatim or by reference.
 
@@ -47,13 +47,13 @@ The distinction formula is already the program's primitive. This project builds 
 - **UMP.004 — "Valuation Without ℝ"** (10.5281/zenodo.21803677): axiomatizes measurement as a graded distinguishability map v: S² → ℕ ∪ {∞} satisfying the ultrametric inequality. → This project adds the formula's explicit LCA-depth reading and a deposited verification suite.
 - **RES.021 — Finite-Distinction Quantum Mechanics** (10.5281/zenodo.22046458): distinct-or-not at fixed resolution; the induced distance is ultrametric; "the distinction, the counting of distinctions, and finite resolution are unanalyzable primitives." → This project inherits that premise boundary verbatim and adds the standalone formula record + the external H1 benchmark.
 - **RES.023 — The Ultrametric Program** (10.5281/zenodo.22076816): "the prime-specific arithmetic is accidental; the hierarchy is essential"; H1/H2/H3; the 2028 decision point. → This project executes the H1-external leg.
-- Practitioner lineage: auditable-attention PoC (10.5281/zenodo.19648274) — the toolbox continuation (§6).
+- Practitioner lineage: auditable-attention PoC (10.5281/zenodo.19648274 — concept DOI, verified against the Zenodo records API 2026-08-28; version record 10.5281/zenodo.19648275; corpus row carries the version DOI).
 
 ## 4. Hypothesis cards
 
-- **H-DIST-1 (formula exactness).** Prediction: d(a,b) = min{#distinctions} = LCA depth on any finite hierarchy; the induced distance satisfies the ultrametric inequality. Falsifier: a finite hierarchy whose induced distance violates the inequality.
-- **H-DIST-2 (realization independence).** Prediction: the metric's values are invariant under base change across realizations (p-adic valuation, formal Laurent series, plain nested partitions). Falsifier: a base change that alters the distance values.
-- **H-DIST-3 (H1 external).** Prediction: on external high-dimensional sparse datasets, ultrametric hierarchical structure yields a statistically significant compression/clustering advantage over flat and random baselines under a pre-registered null model. Falsifier: no significant advantage — a certified null that feeds the 2028 decision point.
+- **H-DIST-1 (formula exactness).** Prediction: on any finite tree hierarchy, d(a,b) = min{#distinctions over paths} = k − depth(LCA) (k = leaf depth) and the induced distance satisfies the ultrametric inequality; the "min is fixed" identity is checked computationally, including a DAG counterexample where min-over-paths differs from the tree value. Falsifier: a finite hierarchy whose induced distance violates the ultrametric inequality, or a tree where min-over-paths ≠ k − depth(LCA).
+- **H-DIST-2 (realization independence).** Prediction: under a stated digit-tree embedding rule, the metric's values are identical across realizations — plain nested partitions (LCA depth), p-adic valuation on embedded integer labels, and formal Laurent series valuation on embedded digit polynomials. Falsifier: any stated embedding rule under which the distance matrices differ on a shared leaf set (the computational suite exercises at least three realizations and asserts identical matrices).
+- **H-DIST-3 (H1 external).** Prediction: on external high-dimensional sparse datasets, ultrametric hierarchical structure yields a statistically significant compression/clustering advantage over flat and random baselines under a pre-registered null model. Falsifier: no significant advantage — a certified null that feeds the 2028 decision point. Disconfirmation criterion (placeholder, fixed at P5 OSF pre-registration): effect size below a pre-registered threshold with p ≥ 0.01 after multiple-comparison control.
 - **H-DIST-4 (practitioner toolbox).** Prediction: empirical ultrametricity testing distinguishes hierarchical from non-hierarchical data generators. Falsifier: the test has no power at benchmark sizes.
 
 ## 5. Premise-depth disclosure
