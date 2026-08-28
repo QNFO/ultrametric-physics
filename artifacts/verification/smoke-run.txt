@@ -1,0 +1,10 @@
+=== QNFO.UMP.014 P3 smoke suite ===
+[PASS] Bost-Connes golden values (eta(2), zeta(2), zeta(2)/zeta(4))  (5.00182117946224e-11, 1.000364235892448e-10, 9.242806520148861e-11)
+[PASS] Bost-Connes pole amplitude C_V(1.06) ~ beta^2/(beta-1)^2 (within 5%)  (316.323487387994, 312.1111111111106)
+[PASS] Bost-Connes channel contrast C_V_fermi(2) < C_V_bose(2), ratio > 1.2  (2.6411965606976118, 3.5381262750511233, 1.3395921862463005)
+[PASS] C_V_bose monotone divergence approaching beta=1  [316.323487387994, 121.39375417464369, 58.67979343361498, 24.76335854374387, 8.675459738541614, 3.5381262750511233]
+[PASS] number variance: lattice rigid (<=0.3), Poisson ~ L  [(1.0, 9.999999899979997e-05, 1.0143014301430142), (2.0, 0.00019999999199679904, 2.0208041608321663), (5.0, 0.0004999998748749061, 5.002000750250062), (10.0, 0.000999998997996996, 10.339330321312303), (20.0, 0.0019999919679037433, 21.01396379934217)]
+[PASS] log-periodic detector recovers ln lambda = ln 2  (1.9987437185929648, 2417.4196631100394)
+[PASS] pair correlation of Poisson spectrum recovers R2 = 1  1.0
+all_pass = True
+EXIT=0

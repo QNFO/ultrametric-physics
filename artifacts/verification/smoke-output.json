@@ -1,0 +1,94 @@
+{
+  "seed": 20260828,
+  "python": "3.12.10",
+  "bost_connes": {
+    "cv_bose": [
+      316.323487387994,
+      121.39375417464369,
+      58.67979343361498,
+      24.76335854374387,
+      8.675459738541614,
+      3.5381262750511233
+    ],
+    "cv_fermi": [
+      313.2332812921366,
+      118.54587856280031,
+      56.08804542953058,
+      22.572787856531967,
+      7.1248251297784115,
+      2.6411965606976118
+    ],
+    "eta2_err": 5.00182117946224e-11,
+    "zeta2_err": 1.000364235892448e-10,
+    "ratio_err": 9.242806520148861e-11
+  },
+  "number_variance": {
+    "detail": [
+      [
+        1.0,
+        9.999999899979997e-05,
+        1.0143014301430142
+      ],
+      [
+        2.0,
+        0.00019999999199679904,
+        2.0208041608321663
+      ],
+      [
+        5.0,
+        0.0004999998748749061,
+        5.002000750250062
+      ],
+      [
+        10.0,
+        0.000999998997996996,
+        10.339330321312303
+      ],
+      [
+        20.0,
+        0.0019999919679037433,
+        21.01396379934217
+      ]
+    ]
+  },
+  "log_periodic": {
+    "lam_true": 2.0,
+    "lam_star": 1.9987437185929648,
+    "peak_power": 2417.4196631100394
+  },
+  "pair_correlation_poisson": {
+    "r2_mean": 1.0
+  },
+  "checks": [
+    {
+      "name": "Bost-Connes golden values (eta(2), zeta(2), zeta(2)/zeta(4))",
+      "pass": true
+    },
+    {
+      "name": "Bost-Connes pole amplitude C_V(1.06) ~ beta^2/(beta-1)^2 (within 5%)",
+      "pass": true
+    },
+    {
+      "name": "Bost-Connes channel contrast C_V_fermi(2) < C_V_bose(2), ratio > 1.2",
+      "pass": true
+    },
+    {
+      "name": "C_V_bose monotone divergence approaching beta=1",
+      "pass": true
+    },
+    {
+      "name": "number variance: lattice rigid (<=0.3), Poisson ~ L",
+      "pass": true
+    },
+    {
+      "name": "log-periodic detector recovers ln lambda = ln 2",
+      "pass": true
+    },
+    {
+      "name": "pair correlation of Poisson spectrum recovers R2 = 1",
+      "pass": true
+    }
+  ],
+  "all_pass": true,
+  "script_sha256": "0b1e9cb3b4e8d1eb1064b73e0135eb75826e6c51c24f10bc61b6f0597d4e7583"
+}
