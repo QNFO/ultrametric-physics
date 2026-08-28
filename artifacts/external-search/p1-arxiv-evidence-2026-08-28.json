@@ -1,0 +1,61 @@
+{
+  "project": "QNFO.UMP.014",
+  "slug": "distinction-based-ultrametric",
+  "phase": "P1",
+  "date": "2026-08-28",
+  "seed": 20260828,
+  "scope": "External prior art (arXiv, live-verified), Zenodo DOI resolution, external H1 dataset candidates, adjacent WBS domains, corpus data-quality findings.",
+  "arxiv_prior_art": [
+    {"id": "1106.2229", "title": "Fast, Linear Time Hierarchical Clustering using the Baire Metric", "authors": "Pedro Contreras, Fionn Murtagh", "categories": ["stat.ML", "cs.IR"], "note": "The Baire metric induces an ultrametric on a dataset in linear time — an independent realization of the hierarchy-as-invariant thesis; relevant to H-DIST-2 (realization independence) and H-DIST-4 (toolbox)."},
+    {"id": "1905.10566", "title": "Ultrametric Fitting by Gradient Descent", "authors": "Giovanni Chierchia, Benjamin Perret", "categories": ["cs.LG", "stat.ML"], "note": "Fits ultrametrics to dissimilarity graphs; establishes the fitting/quantification baseline for the H1 compression-prior benchmark (H-DIST-3 null model)."},
+    {"id": "2012.02655", "title": "A New Non-archimedean Metric on Persistent Homology", "authors": "Ismail Guzel, Atabey Kaygun", "categories": ["math.AT", "stat.ML"], "note": "A cophenetic (non-Archimedean) metric on persistence classes; independent prior art for the cophenetic-distance lineage."},
+    {"id": "2309.01301", "title": "T-Stochastic Graphs", "authors": "Sijia Fang, Karl Rohe", "categories": ["stat.AP", "stat.ML"], "note": "Statistical handling of the ultrametricity assumption in hierarchical network analysis; relevant to H-DIST-4 empirical ultrametricity testing."},
+    {"id": "2504.06700", "title": "Handling LP-Rounding for Hierarchical Clustering and Fitting Distances by Ultrametrics", "authors": "Hyung-Chan An, Mong-Jen Kao, Changyeol Lee, Mu-Ting Lee", "categories": ["cs.DS"], "note": "Fitting ultrametrics under LP rounding; algorithmic prior art for the fitting problem."},
+    {"id": "1311.5068", "title": "Gromov-Hausdorff stability of linkage-based hierarchical clustering methods", "authors": "A. Martinez-Perez", "categories": ["cs.LG"], "note": "Stability of hierarchical clustering under perturbations; grounding for the toolbox stability claims."},
+    {"id": "1707.09904", "title": "Temporal Hierarchical Clustering", "authors": "Tamal K. Dey, Alfred Rossi, Anastasios Sidiropoulos", "categories": ["cs.DS", "cs.CG"], "note": "Hierarchical clusterings of metric spaces over time."},
+    {"id": "2004.12488", "title": "Order preserving hierarchical agglomerative clustering", "authors": "Daniel Bakkelund", "categories": ["cs.LG", "stat.ML"], "note": "HAC over partial orders/DAGs — adjacent to the H-DIST-1 min-over-paths DAG question."},
+    {"id": "2005.08761", "title": "Toward ultrametric modeling of the epidemic spread", "authors": "V. T. Volov, A. P. Zubarev", "categories": ["physics.soc-ph", "math.OC"], "note": "Applied ultrametric modeling; domain-transfer example."},
+    {"id": "2608.25586", "title": "Individual Fairness in Hierarchical Clustering", "authors": "Binita Maity, Shrutimoy Das", "categories": ["cs.LG"], "note": "Published 2026-08-26 — same week; confirms the hierarchical-clustering/ultrametric-representation area is active; to be cited at P3/P4."},
+    {"id": "1610.09269", "title": "Hierarchical Clustering via Spreading Metrics", "authors": "Aurko Roy, Sebastian Pokutta", "categories": ["cs.LG"], "note": "Hierarchies as first-class objects with explicit cost functions."}
+  ],
+  "classical_prior_art_verified_by_citation": [
+    "Sokal, R. R. & Rohlf, F. J. (1962). The comparison of dendrograms by objective methods. Taxon 11(2):33-40. — cophenetic correlation coefficient (the classical cophenetic-distance lineage).",
+    "Jardine, N. & Sibson, R. (1971). Mathematical Taxonomy. Wiley. — taxonomy-as-hierarchy canonical monograph.",
+    "Johnson, S. C. (1967). Hierarchical clustering schemes. Psychometrika 32(3):241-254.",
+    "Carlsson, G. & Memoli, F. (2010). Characterization, stability and convergence of hierarchical clustering methods. JMLR 11:1425-1470.",
+    "Bennett, C. H. (1979). Dissipation, information, computational complexity and the definition of organization. In Emergence (Pines, ed.) — early ultrametricity/emergence framing."
+  ],
+  "zenodo_doi_resolution": {
+    "candidate": "10.5281/zenodo.19648274",
+    "records_api_result": "GET /api/records/19648274 -> HTTP redirect to /api/records/19648275",
+    "version_record": {"id": 19648275, "doi": "10.5281/zenodo.19648275", "conceptrecid": 19648274, "conceptdoi": "10.5281/zenodo.19648274", "title": "A Proof-of-Concept for Auditable Attention Using Ultrametric Tree Distances", "publication_date": "2026-04-19"},
+    "resolution": "19648274 is the CONCEPT DOI (correct per ZENODO-CONCEPT-DOI-CITE-1); 19648275 is the version record. The plan cites the concept DOI; the corpus living-paper row carries the version DOI. Both resolve; no citation change required. Red-team 'HARD' finding resolved as corpus-tool limitation.",
+    "gate": "DOI-DISCREPANCY-RESOLVE-1 satisfied via records API, not search-engine hits."
+  },
+  "h1_external_dataset_candidates": [
+    {"name": "20 Newsgroups", "source": "scikit-learn / UCI (Quinlan 1993)", "shape": "~18k docs x ~130k terms, sparse document-term", "rationale": "High-dim sparse; natural hierarchical topic structure; the canonical compression/clustering testbed."},
+    {"name": "RCV1 (Reuters Corpus Volume 1)", "source": "NIST/Lewis", "shape": "~800k docs x 47k features, sparse", "rationale": "Larger sparse corpus with known category hierarchy."},
+    {"name": "MNIST", "source": "scikit-learn / LeCun et al.", "shape": "70k x 784 dense", "rationale": "High-dim, clusterable; tests whether the prior holds beyond sparsity."},
+    {"name": "Arcene", "source": "UCI / NIPS 2003", "shape": "100 x 10,000 features, sparse-ish", "rationale": "Massively high-dim low-n; the regime where hierarchical compression claims matter most."},
+    {"name": "Covertype", "source": "UCI", "shape": "581k x 54", "rationale": "Natural hierarchical land-cover structure at scale."},
+    {"name": "Golub leukemia / TCGA expression panels", "source": "Broad GEO / TCGA", "shape": "~70 samples x ~7,000 genes", "rationale": "Biology domain; hierarchical disease structure; connects to the FMO/biophoton null-ledger discussion (the H3 family failed; H1 on data is a different claim)."}
+  ],
+  "adjacent_wbs_domains": [
+    {"domain": "QNFO.UMP", "role": "primary — valuation theory, LCA-depth construction, Bruhat-Tits regular-tree specialization"},
+    {"domain": "QNFO.SLB", "role": "the formula's home language — the calculus of distinction (reentrant-distinctions 21964453, idempotent-core 21916939, syntactic-token-calculus 19571955)"},
+    {"domain": "QNFO.INM", "role": "information reading — 'number of distinctions' as information content; H1 is a compression claim (infomatics-v1, information-realism)"},
+    {"domain": "QNFO.JPC / QWAV.PLT", "role": "practitioner — QEC code-space geometry, hierarchy detection, auditable attention (PoC 19648274/19648275)"}
+  ],
+  "corpus_data_quality_findings": [
+    {"severity": "SOFT", "item": "living-paper has duplicate slug rows for DOI 21485556 (non-anthropocentric-natural-units-v2 + compton-cross-ratios-v2) and a duplicate 20108536 row with mangled 'alpha' title encoding (finder: Dependency re-check reviewer, 2026-08-28)"},
+    {"severity": "SOFT", "item": "living-paper row finite-distinction-quantum-mechanics identifier field still carries pre-remediation record 22044379 (finder: Dependency re-check reviewer)"},
+    {"severity": "SOFT", "item": "living-paper ultrametric-program r2_key points at 2026/08/keyword-taxonomy-consilience/ — violates the qnfo-releases mirror convention (finder: Dependency re-check reviewer)"},
+    {"severity": "SOFT", "item": "the FMO anti-ultrametric null (cophenetic 0.426, p=0.984) has no standalone corpus record — lives in durable memory (Disconfirming Registry 2026-07-17) and the register 22025544; a certified null that gates future p-adic work should gain a resolvable anchor (finder: Completeness reviewer round 1)"}
+  ],
+  "gap_analysis": {
+    "h1_external_benchmark": "genuinely uncovered — corpus searches for an external-dataset H1 benchmark return 0 records; only the QNFO keyword taxonomy (22071421) has been audited for the compression prior (semantic, not external)",
+    "standalone_lca_depth_verification": "new — UMP.004 axiomatizes the graded distinguishability map; RES.021 constructs the LCA-depth version; neither deposits a computational verification suite of the formula itself",
+    "dag_min_fixity_refinement": "new — the min-over-paths vs LCA-depth distinction on DAGs is not in the corpus (note-level insight from the 2026-08-28 transcript)",
+    "practitioner_toolbox": "partial — auditable-attention PoC (19648274) exists with no task metrics; the hierarchy-detection toolbox (H-DIST-4) is unbuilt"
+  }
+}

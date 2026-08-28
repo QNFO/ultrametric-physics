@@ -1,0 +1,86 @@
+{
+  "seed": 20260828,
+  "python": "3.12.10",
+  "script_sha256": "b0bdcaf261ecc8210c972ce5617223adbc14d4cefa2affd0bfbb842385fbe978",
+  "golden_taxonomy": {
+    "distances": {
+      "Dog|Wolf": 1,
+      "Dog|Cat": 2,
+      "Dog|Human": 3,
+      "Dog|Snake": 4,
+      "Dog|Lizard": 4,
+      "Cat|Lion": 1,
+      "Snake|Lizard": 3,
+      "Human|Chimp": 2
+    },
+    "ultrametric": true
+  },
+  "random_trees": {
+    "n_trees": 30,
+    "pass": true
+  },
+  "min_fixity_balanced": {
+    "pass": true
+  },
+  "dag_counterexample": {
+    "min_path_edges": 4,
+    "tree_formula_value": 3,
+    "k": 4,
+    "falsifier_is_checkable": true
+  },
+  "realization_independence": {
+    "pass": true,
+    "rule": "d_realization(a,b) = (k-1) - v(x_a - x_b)",
+    "base": 5,
+    "detail": [
+      {
+        "b": 2,
+        "k": 4,
+        "leaves": 8,
+        "valuations_agree": true,
+        "matrices_identical": true
+      },
+      {
+        "b": 3,
+        "k": 3,
+        "leaves": 9,
+        "valuations_agree": true,
+        "matrices_identical": true
+      },
+      {
+        "b": 2,
+        "k": 5,
+        "leaves": 16,
+        "valuations_agree": true,
+        "matrices_identical": true
+      }
+    ]
+  },
+  "checks": [
+    {
+      "name": "golden taxonomy distances",
+      "pass": true
+    },
+    {
+      "name": "golden taxonomy ultrametric",
+      "pass": true
+    },
+    {
+      "name": "random trees ultrametric+metric axioms (n=30)",
+      "pass": true
+    },
+    {
+      "name": "min-over-common-ancestors == LCA value on balanced trees",
+      "pass": true
+    },
+    {
+      "name": "DAG counterexample (min-over-paths != tree value)",
+      "pass": true
+    },
+    {
+      "name": "realization independence (partition == p-adic == Laurent)",
+      "pass": true
+    }
+  ],
+  "all_pass": true
+}

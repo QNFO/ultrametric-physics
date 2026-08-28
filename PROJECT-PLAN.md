@@ -102,3 +102,10 @@ Crosswalk: number of distinctions ↔ cophenetic distance ↔ LCA depth ↔ grad
 - **[QNFO.UMP.014.P6]** Red-team review (Accuracy/Completeness/Dependency); fix all HARD findings.
 - **[QNFO.UMP.014.P7]** Zenodo publish (deposit integrity gates; PUBLISH-LOCK-1); D1/KG/R2 distribution.
 - **[QNFO.UMP.014.P8]** Post-publication adversarial audit; dissemination (CAMPAIGNS-OUTREACH-1).
+
+## 9. Phase 1–2 evidence (executed 2026-08-28)
+
+- **P1 due diligence:** `DUE-DILIGENCE-UMP014.md` + `artifacts/external-search/p1-arxiv-evidence-2026-08-28.json` — arXiv prior art live-verified (cophenetic lineage, ultrametric fitting, Baire-metric realization); Zenodo concept-DOI resolution for 19648274/19648275 (DOI-DISCREPANCY-RESOLVE-1 via records API); H1 external dataset candidates; adjacent-domain scan (UMP/SLB/INM/JPC); corpus data-quality findings logged.
+- **P2 computational verification (COMPUTATIONAL-VERIFICATION-1):** `scripts/sim-distinction-ultrametric-verification.py` — 6/6 checks PASS, exit 0, seed 20260828, Python 3.12.10, script sha256 `b0bdcaf261ecc8210c972ce5617223adbc14d4cefa2affd0bfbb842385fbe978`; outputs `artifacts/verification/verification-output.json` + `verification-run.txt`.
+- **Reproducibility:** `python scripts/sim-distinction-ultrametric-verification.py` from the branch root reproduces all six checks deterministically (fixed seed; stdlib only).
+- **Verified claims:** H-DIST-1 — golden taxonomy distances (d(Dog,Wolf)=1 < d(Dog,Cat)=2 < d(Dog,Human)=3 < d(Dog,Snake)=4), ultrametric inequality on 30 seeded random trees (10–40 leaves), min-over-common-ancestors = LCA value on balanced trees, and a DAG counterexample (min-over-paths 4 ≠ tree value 3) proving the falsifier checkable. H-DIST-2 — the three realizations (plain partitions, p-adic valuation, formal Laurent valuation) yield identical distance matrices on 8/9/16-leaf trees under the stated digit-embedding rule d = (k−1) − v.

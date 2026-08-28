@@ -1,0 +1,9 @@
+=== QNFO.UMP.014 P2 verification ===
+[PASS] golden taxonomy distances  {('Dog', 'Wolf'): 1, ('Dog', 'Cat'): 2, ('Dog', 'Human'): 3, ('Dog', 'Snake'): 4, ('Dog', 'Lizard'): 4, ('Cat', 'Lion'): 1, ('Snake', 'Lizard'): 3, ('Human', 'Chimp'): 2}
+[PASS] golden taxonomy ultrametric
+[PASS] random trees ultrametric+metric axioms (n=30)
+[PASS] min-over-common-ancestors == LCA value on balanced trees
+[PASS] DAG counterexample (min-over-paths != tree value)  (4, 3, 4)
+[PASS] realization independence (partition == p-adic == Laurent)
+all_pass = True
+EXIT=0
