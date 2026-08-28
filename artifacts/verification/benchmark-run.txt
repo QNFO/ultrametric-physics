@@ -1,0 +1,9 @@
+=== QNFO.UMP.014 P3-exec real-data benchmark ===
+[PASS] NaH parse sanity (>=1000 unique, non-decreasing)  (3339, 3339)
+[PASS] H2O parse sanity (>=1000 unique, non-decreasing)  (200000, 199866)
+[PASS] calibration: Poisson controls median p >= 0.05  [0.9833333333333333, 0.36666666666666664, 0.95]
+[PASS] calibration: GUE controls median p >= 0.05  [0.03333333333333333, 0.43333333333333335, 0.9333333333333333]
+REAL nah: dev_vs_poisson=0.1353 p=0.000 (holm 0.000) | dev_vs_gue=0.3561 p=0.000 (holm 0.000)
+REAL h2o: dev_vs_poisson=0.0277 p=1.000 (holm 1.000) | dev_vs_gue=0.2483 p=0.000 (holm 0.000)
+all_pass = True
+EXIT=0

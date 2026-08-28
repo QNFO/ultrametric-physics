@@ -1,0 +1,7 @@
+=== QNFO.UMP.014 P3-exec Riemann-zeros arm (fast RS) ===
+[PASS] Montgomery-Odlyzko: zeros R2 matches GUE curve (mean|d| < 0.08, s in [0.15,1.8])  0.06095730768480975
+[PASS] zeros level repulsion at small s (R2[0] < 0.4)  np.float64(0.030012227780618884)
+[PASS] zeros clearly deviate from Poisson flat (mean|R2-1| > 0.20 and > 2.5x dev_vs_gue)  0.24987215680434302
+[PASS] zeros number variance matches Dyson formula within factor 2 (L=20)  (1.0438352855935273, 0.5245523776168044)
+all_pass = True
+EXIT=0

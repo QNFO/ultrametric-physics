@@ -1,0 +1,101 @@
+{
+  "seed": 20260828,
+  "python": "3.12.10",
+  "numpy": "2.4.4",
+  "m_null": 60,
+  "n_null": 2000,
+  "n_levels": {
+    "nah": 3339,
+    "h2o": 200000
+  },
+  "unique_levels": {
+    "nah": 3339,
+    "h2o": 199866
+  },
+  "null_dev_poisson": {
+    "mean": 0.05731588027468063,
+    "sd": 0.008885430061868437,
+    "p95": 0.07230463772675359
+  },
+  "null_dev_gue": {
+    "mean": 0.08953989688984815,
+    "sd": 0.011389911749173523,
+    "p95": 0.10532825204976701
+  },
+  "calibration_controls": {
+    "poisson_p": [
+      0.9833333333333333,
+      0.36666666666666664,
+      0.95
+    ],
+    "gue_p": [
+      0.03333333333333333,
+      0.43333333333333335,
+      0.9333333333333333
+    ]
+  },
+  "real": {
+    "nah": {
+      "dev_vs_poisson": 0.13525141888164172,
+      "p_vs_poisson": 0.0,
+      "dev_vs_gue": 0.35605155822361717,
+      "p_vs_gue": 0.0,
+      "number_variance": {
+        "1.0": 0.991999009981028,
+        "2.0": 1.9919720639001357,
+        "5.0": 4.75234375,
+        "10.0": 10.464375,
+        "20.0": 25.387500000000003
+      },
+      "rigidity_delta3": {
+        "5.0": 0.2793646142407095,
+        "10.0": 0.5416966945984054,
+        "20.0": 1.153246088982886
+      },
+      "form_factor_K_over_N_tau3": 1.250481884357627,
+      "p_vs_poisson_holm": 0.0,
+      "p_vs_gue_holm": 0.0
+    },
+    "h2o": {
+      "dev_vs_poisson": 0.027723855432389612,
+      "p_vs_poisson": 1.0,
+      "dev_vs_gue": 0.2483195667089903,
+      "p_vs_gue": 0.0,
+      "number_variance": {
+        "1.0": 1.079145924162684,
+        "2.0": 2.186502953935547,
+        "5.0": 5.5396893429666205,
+        "10.0": 11.055517690062805,
+        "20.0": 21.775773764149886
+      },
+      "rigidity_delta3": {
+        "5.0": 0.34362109542160085,
+        "10.0": 0.6150492400291019,
+        "20.0": 1.3593176042733222
+      },
+      "form_factor_K_over_N_tau3": 0.14595705752193458,
+      "p_vs_poisson_holm": 1.0,
+      "p_vs_gue_holm": 0.0
+    }
+  },
+  "checks": [
+    {
+      "name": "NaH parse sanity (>=1000 unique, non-decreasing)",
+      "pass": true
+    },
+    {
+      "name": "H2O parse sanity (>=1000 unique, non-decreasing)",
+      "pass": true
+    },
+    {
+      "name": "calibration: Poisson controls median p >= 0.05",
+      "pass": true
+    },
+    {
+      "name": "calibration: GUE controls median p >= 0.05",
+      "pass": true
+    }
+  ],
+  "all_pass": true,
+  "script_sha256": "21cf5c8671151e5ce752d5b7e2c843603193fee80a6087324870514c449cfde2"
+}
