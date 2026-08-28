@@ -1,0 +1,11 @@
+=== QNFO.UMP.014 P3-exec full suite ===
+[PASS] Poisson pair correlation flat (mean|R2-1| < 0.05)  0.016945502361069
+[PASS] GUE pair correlation matches 1-(sin pi s/pi s)^2 (mean|d| < 0.08)  0.03750893151460898
+[PASS] Primes twin-gap hard core (R2 first bin = 0 vs Poisson ~ 1)  np.float64(0.0)
+[PASS] level repulsion: GUE repels (R2[0]<0.4), Poisson flat (>0.7)  (np.float64(0.015007503751875938), np.float64(1.030106711431301))
+[PASS] Poisson number variance ~ L (within 15% at L=20)  20.17453943468194
+[PASS] GUE number variance matches Dyson formula within factor 2 (L=20)  (0.7285262855501293, 0.5245523776168044)
+[PASS] Primes number variance sub-linear (< 14 at L=20)  10.64064011370745
+[PASS] Poisson form factor plateau at tau=3 (|K/N-1| < 0.4)  0.6634056449273049
+all_pass = True
+EXIT=0
